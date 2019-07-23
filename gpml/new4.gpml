@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="test case" Version="20130807">
   <Graphics BoardHeight="626.1553615404016" BoardWidth="472.4153917921197" />
-  <Label GraphId="c8e4a" TextLabel="HELLO">
+  <Label GraphId="c8e4a" TextLabel="REPLACEME">
     <Graphics CenterX="159.24126688022554" CenterY="430.31979663925216" FillColor="ffffff" FontSize="12" Height="119.30921454152683" LineThickness="0.0" ShapeType="Rectangle" Valign="Middle" Width="138.829874074335" ZOrder="32971" />
   </Label>
   <Label GraphId="d9e67" TextLabel="Label&#10;Stroke: black&#10;Fill: white&#10;z-index: in front">
