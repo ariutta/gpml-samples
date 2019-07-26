@@ -1099,7 +1099,7 @@
   </DataNode>
   <DataNode TextLabel="glutamate semialdehyde" GraphId="e46a0" Type="Metabolite">
     <Graphics CenterX="1109.0125391849547" CenterY="1000.5297805642632" Width="122.0" Height="20.0" ZOrder="32799" FontSize="10" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="24312"/>
+    <Xref Database="ChEBI" ID="CHEBI:15757"/>
   </DataNode>
   <DataNode TextLabel="glutamyl-P" GraphId="fa2e6" Type="Metabolite">
     <Graphics CenterX="1110.8354231974915" CenterY="934.739811912226" Width="71.0" Height="20.0" ZOrder="32800" FontSize="10" Valign="Middle" Color="0000ff"/>
