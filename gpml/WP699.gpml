@@ -35,7 +35,7 @@ Source: [[wikipedia:Aflatoxin|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="GSTT1" GraphId="b6f29" Type="GeneProduct" GroupRef="d98bb">
     <Graphics CenterX="577.0" CenterY="185.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
-    <Xref Database="Ensembl" ID="ENSG00000184674"/>
+    <Xref Database="Ensembl" ID="ENSG00000277656"/>
   </DataNode>
   <DataNode TextLabel="GSTM1" GraphId="b8659" Type="GeneProduct" GroupRef="d98bb">
     <Graphics CenterX="577.0" CenterY="205.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
