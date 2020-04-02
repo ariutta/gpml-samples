@@ -10,11 +10,11 @@ The sorbitol pathway plays a role in diabetic renal complications because aldose
   <Graphics BoardWidth="705.9239516702204" BoardHeight="549.272210376688" />
   <DataNode TextLabel="D-Sorbitol" GraphId="a02f1" Type="Metabolite">
     <Graphics CenterX="389.34541577825166" CenterY="125.23809523809526" Width="80.0" Height="32.37313432835822" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00247" />
+    <Xref Database="HMDB" ID="HMDB0000247" />
   </DataNode>
   <DataNode TextLabel="D-Glucose" GraphId="a4027" Type="Metabolite">
     <Graphics CenterX="590.5024875621892" CenterY="125.42928216062546" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00122" />
+    <Xref Database="HMDB" ID="HMDB0000122" />
   </DataNode>
   <DataNode TextLabel="Fructokinase" GraphId="a9883" Type="GeneProduct">
     <Graphics CenterX="476.9239516702204" CenterY="258.272210376688" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -22,7 +22,7 @@ The sorbitol pathway plays a role in diabetic renal complications because aldose
   </DataNode>
   <DataNode TextLabel="D-Fructose" GraphId="b29e5" Type="Metabolite">
     <Graphics CenterX="388.90728500355374" CenterY="220.25554371002133" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00660" />
+    <Xref Database="HMDB" ID="HMDB0000660" />
   </DataNode>
   <DataNode TextLabel="ALDOB" GraphId="b6834" Type="GeneProduct">
     <Graphics CenterX="564.9239516702204" CenterY="371.272210376688" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -30,11 +30,11 @@ The sorbitol pathway plays a role in diabetic renal complications because aldose
   </DataNode>
   <DataNode TextLabel="Dihydroxyacetone phosphate" GraphId="bd923" Type="Metabolite">
     <Graphics CenterX="302.9239516702204" CenterY="417.272210376688" Width="158.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01473" />
+    <Xref Database="HMDB" ID="HMDB0001473" />
   </DataNode>
   <DataNode TextLabel="Glyceraldehyde" GraphId="c05e7" Type="Metabolite">
     <Graphics CenterX="470.9239516702204" CenterY="417.272210376688" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01051" />
+    <Xref Database="HMDB" ID="HMDB0001051" />
   </DataNode>
   <DataNode TextLabel="ALR2" GraphId="c43b6" Type="GeneProduct">
     <Graphics CenterX="495.9239516702204" CenterY="74.27221037668801" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -46,7 +46,7 @@ The sorbitol pathway plays a role in diabetic renal complications because aldose
   </DataNode>
   <DataNode TextLabel="Fructose 1-phosphate" GraphId="e285c" Type="Metabolite">
     <Graphics CenterX="387.9239516702204" CenterY="312.272210376688" Width="112.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01076" />
+    <Xref Database="HMDB" ID="HMDB0001076" />
   </DataNode>
   <DataNode TextLabel="Glycolysis" GraphId="e91ea" Type="Pathway">
     <Graphics CenterX="590.5024875621892" CenterY="213.272210376688" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -58,7 +58,7 @@ The sorbitol pathway plays a role in diabetic renal complications because aldose
   </DataNode>
   <DataNode TextLabel="D-Glyceraldehyde 3-phosphate" GraphId="f6cd9" Type="Metabolite">
     <Graphics CenterX="387.9239516702204" CenterY="509.272210376688" Width="160.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01112" />
+    <Xref Database="HMDB" ID="HMDB0001112" />
   </DataNode>
   <DataNode TextLabel="Glycolysis" GraphId="fa8dc" Type="Pathway">
     <Graphics CenterX="635.9239516702204" CenterY="509.272210376688" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -211,29 +211,6 @@ The sorbitol pathway plays a role in diabetic renal complications because aldose
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glucose oxidation pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000556</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glucose utilization pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000555</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">polyol pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001520</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ccc">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10997684</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aldose reductase and the role of the polyol pathway in diabetic nephropathy.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kidney Int Suppl</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dunlop M</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:9351</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
@@ -259,5 +236,28 @@ The sorbitol pathway plays a role in diabetic renal complications because aldose
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1995</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolan DR</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glucose utilization pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000555</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">polyol pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001520</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ccc">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10997684</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aldose reductase and the role of the polyol pathway in diabetic nephropathy.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kidney Int Suppl</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dunlop M</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glucose oxidation pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000556</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

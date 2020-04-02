@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Tryptophan metabolism" Last-Modified="10/16/2013" Organism="Homo sapiens" License="CC BY 2.0">
   <Comment Source="WikiPathways-description">This pathway describes the metabolism of tryptophan, an essential amino acid.
-Converted from rat to human using ortholog information. Originally adapted from:  [http://www.genome.jp/kegg-bin/show_pathway?rno00380 KEGG].
+Converted from rat to human using ortholog information. Originally adapted from:  [https://www.genome.jp/dbget-bin/www_bget?pathway+rno00380 KEGG].
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP465 CPTAC Assay Portal].
 </Comment>
   <Comment Source="WikiPathways-category">Metabolic Process</Comment>
+  <BiopaxRef>c2c</BiopaxRef>
   <Graphics BoardWidth="1637.0" BoardHeight="1312.3333333333333" />
   <DataNode TextLabel="4-(2-Aminophenyl)-2,4-dioxobutanoate" GraphId="a05" Type="Metabolite">
     <Comment Source="GenMAPP remarks">4-(2-Aminophenyl)-2,4-dioxobutanoate</Comment>
@@ -143,7 +146,7 @@ Converted from rat to human using ortholog information. Originally adapted from:
   <DataNode TextLabel="3-Hydroxykynurenamine" GraphId="d7ac0" Type="Metabolite">
     <Comment Source="GenMAPP remarks">3-Hydroxykynurenamine</Comment>
     <Graphics CenterX="838.2865497076027" CenterY="945.3333333333334" Width="113.33333333333333" Height="15.0" ZOrder="28672" FontWeight="Bold" FontSize="9" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB60281" />
+    <Xref Database="HMDB" ID="HMDB0060281" />
   </DataNode>
   <DataNode TextLabel="Anthranilate" GraphId="da3" Type="Metabolite">
     <Comment Source="GenMAPP remarks">Anthranilate</Comment>
@@ -185,7 +188,7 @@ Converted from rat to human using ortholog information. Originally adapted from:
   </DataNode>
   <DataNode TextLabel="Formyl-5-hydroxykynurenamine" GraphId="e425b" Type="Metabolite">
     <Graphics CenterX="1106.6666666666667" CenterY="223.33333333333334" Width="184.33333333333334" Height="15.0" ZOrder="28672" FontWeight="Bold" FontSize="9" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB12948" />
+    <Xref Database="HMDB" ID="HMDB0012948" />
   </DataNode>
   <DataNode TextLabel="3-Methoxyanthranilate" GraphId="e79" Type="Metabolite">
     <Comment Source="GenMAPP remarks">3-Methoxyanthranilate</Comment>
@@ -320,7 +323,7 @@ Converted from rat to human using ortholog information. Originally adapted from:
   </DataNode>
   <DataNode TextLabel="4-(2-Amino-3-hydroxyphenyl)-2,4-dioxobutanoate" GraphId="a7535" Type="Metabolite">
     <Graphics CenterX="979.0" CenterY="1084.0" Width="238.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04083" />
+    <Xref Database="HMDB" ID="HMDB0004083" />
   </DataNode>
   <DataNode TextLabel="4.1.1.-" GraphId="ac3" Type="GeneProduct">
     <Graphics CenterX="925.1812865497078" CenterY="974.1637426900585" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -412,7 +415,7 @@ Converted from rat to human using ortholog information. Originally adapted from:
   </DataNode>
   <DataNode TextLabel="5-Hydroxy-L-tryptophan" GraphId="bbdf7" Type="Metabolite">
     <Graphics CenterX="690.5" CenterY="318.0" Width="111.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00472" />
+    <Xref Database="HMDB" ID="HMDB0000472" />
   </DataNode>
   <DataNode TextLabel="1.13.11.-" GraphId="bbf" Type="GeneProduct">
     <Graphics CenterX="280.0" CenterY="813.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -536,7 +539,7 @@ Converted from rat to human using ortholog information. Originally adapted from:
   </DataNode>
   <DataNode TextLabel="Melatonin" GraphId="cba7c" Type="Metabolite">
     <Graphics CenterX="1189.0" CenterY="320.0" Width="58.0" Height="18.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01389" />
+    <Xref Database="HMDB" ID="HMDB0001389" />
   </DataNode>
   <DataNode TextLabel="2.6.1.27" GraphId="cca" Type="GeneProduct">
     <Graphics CenterX="588.0" CenterY="283.6666666666667" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -594,11 +597,11 @@ Converted from rat to human using ortholog information. Originally adapted from:
   </DataNode>
   <DataNode TextLabel="Xanthurenic acid" GraphId="d3967" Type="Metabolite">
     <Graphics CenterX="979.0" CenterY="1150.0" Width="84.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00881" />
+    <Xref Database="HMDB" ID="HMDB0000881" />
   </DataNode>
   <DataNode TextLabel="N-Methylserotonin" GraphId="d53ba" Type="Metabolite">
     <Graphics CenterX="1062.0" CenterY="265.0" Width="96.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04369" />
+    <Xref Database="HMDB" ID="HMDB0004369" />
   </DataNode>
   <DataNode TextLabel="INDO" GraphId="d6b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="INDO | indoleamine-pyrrole 23 dioxygenase" />
@@ -634,11 +637,11 @@ Converted from rat to human using ortholog information. Originally adapted from:
   </DataNode>
   <DataNode TextLabel="5-Hydroxy-N-formylkynurenine" GraphId="d9870" Type="Metabolite">
     <Graphics CenterX="727.5" CenterY="193.0" Width="149.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04086" />
+    <Xref Database="HMDB" ID="HMDB0004086" />
   </DataNode>
   <DataNode TextLabel="4,6-Dihydroxyquinoline" GraphId="da3ed" Type="Metabolite">
     <Graphics CenterX="93.0" CenterY="242.0" Width="116.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04077" />
+    <Xref Database="HMDB" ID="HMDB0004077" />
   </DataNode>
   <DataNode TextLabel="Cyp2b15" GraphId="dbd" Type="GeneProduct" GroupRef="fcc2a">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Cyp2b15" />
@@ -743,7 +746,7 @@ Converted from rat to human using ortholog information. Originally adapted from:
   </DataNode>
   <DataNode TextLabel="5-(2'-Carboxyethyl)-4,6-Dihydroxypicolinate" GraphId="e8d7e" Type="Metabolite">
     <Graphics CenterX="160.0" CenterY="891.0" Width="206.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06794" />
+    <Xref Database="HMDB" ID="HMDB0006794" />
   </DataNode>
   <DataNode TextLabel="3-Indoleacetonitrile" GraphId="e90" Type="Metabolite">
     <Comment Source="GenMAPP remarks">3-Indoleacetonitrile</Comment>
@@ -770,7 +773,7 @@ Converted from rat to human using ortholog information. Originally adapted from:
   </DataNode>
   <DataNode TextLabel="5-Hydroxyindoleacetaldehyde" GraphId="ed491" Type="Metabolite">
     <Graphics CenterX="809.5" CenterY="129.0" Width="149.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04073" />
+    <Xref Database="HMDB" ID="HMDB0004073" />
   </DataNode>
   <DataNode TextLabel="MAOB" GraphId="edd" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MAOB | monoamine oxidase B" />
@@ -890,13 +893,6 @@ Converted from rat to human using ortholog information. Originally adapted from:
     <Graphics CenterX="1198.2263374485565" CenterY="177.38683127572028" Width="55.0" Height="20.0" ZOrder="32769" FontSize="10" Valign="Middle" />
     <Xref Database="Enzyme Nomenclature" ID="6.3.2.-" />
   </DataNode>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="718.6783625731005" Y="591.1403508771926" GraphRef="f51" RelX="-1.0" RelY="0.0" />
-      <Point X="696.9473684210525" Y="590.8333333333334" GraphRef="c6553" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="a11e8">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="716.7500000000001" Y="505.83333333333337" GraphRef="de0" RelX="0.5" RelY="-1.0" />
@@ -1759,6 +1755,13 @@ Converted from rat to human using ortholog information. Originally adapted from:
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id7450fce2">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="718.6783625731005" Y="591.1403508771926" GraphRef="f51" RelX="-1.0" RelY="0.0" />
+      <Point X="696.9473684210525" Y="590.8333333333334" GraphRef="c6553" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id76a3261a">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="280.0" Y="823.0" GraphRef="bbf" RelX="0.0" RelY="1.0" />
@@ -2115,5 +2118,12 @@ Converted from rat to human using ortholog information. Originally adapted from:
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000054</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c2c">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.genome.jp/dbget-bin/www_bget?pathway+rno00380</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+    </bp:PublicationXref>
   </Biopax>
 </Pathway>

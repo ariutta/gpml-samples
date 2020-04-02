@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Genes targeted by miRNAs in adipocytes" Version="20110524" Last-Modified="2/22/2013" Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Molecular Function</Comment>
-  <Comment Source="WikiPathways-description">This catalog pathway was created using the database from "http://diana.cslab.ece.ntua.gr/tarbase/" with exclusions based on evidence type. This pathway only includes miR targeted genes expressed in adipocyte cells. This pathway is meant for data mapping.</Comment>
+  <Comment Source="WikiPathways-description">This catalog pathway was created using the database from "http://diana.cslab.ece.ntua.gr/tarbase/" with exclusions based on evidence type. This pathway only includes miR targeted genes expressed in adipocyte cells. This pathway is meant for data mapping.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP1992 CPTAC Assay Portal].</Comment>
   <Graphics BoardWidth="676.1934805467929" BoardHeight="632.8929619438352"/>
   <DataNode TextLabel="GJA1" Type="GeneProduct" GroupRef="aa7c8" GraphId="aaaa0">
     <Graphics CenterX="504.3482952239019" CenterY="554.3777148355283" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>

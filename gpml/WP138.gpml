@@ -6,29 +6,42 @@
 Please access this pathway at [http://www.netpath.org/netslim/ar_pathway.html NetSlim] database.
 
 If you use this pathway, you must cite following paper:
-Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugopal, A. K., Telikicherla, D., Navarro, J. D., Mathivanan, S., Pecquet, C., Gollapudi, S. K., Tattikota, S. G., Mohan, S., Padhukasahasram, H., Subbannayya, Y., Goel, R., Jacob, H. K. C., Zhong, J., Sekhar, R., Nanjappa, V., Balakrishnan, L., Subbaiah, R., Ramachandra, Y. L., Rahiman, B. A., Prasad, T. S. K., Lin, J., Houtman, J. C. D., Desiderio, S., Renauld, J., Constantinescu, S. N., Ohara, O., Hirano, T., Kubo, M., Singh, S., Khatri, P., Draghici, S., Bader, G. D., Sander, C., Leonard, W. J. and Pandey, A. (2010). NetPath: A public resource of curated signal transduction pathways. &lt;i&gt;Genome Biology&lt;/i&gt;. 11:R3.</Comment>
+Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugopal, A. K., Telikicherla, D., Navarro, J. D., Mathivanan, S., Pecquet, C., Gollapudi, S. K., Tattikota, S. G., Mohan, S., Padhukasahasram, H., Subbannayya, Y., Goel, R., Jacob, H. K. C., Zhong, J., Sekhar, R., Nanjappa, V., Balakrishnan, L., Subbaiah, R., Ramachandra, Y. L., Rahiman, B. A., Prasad, T. S. K., Lin, J., Houtman, J. C. D., Desiderio, S., Renauld, J., Constantinescu, S. N., Ohara, O., Hirano, T., Kubo, M., Singh, S., Khatri, P., Draghici, S., Bader, G. D., Sander, C., Leonard, W. J. and Pandey, A. (2010). NetPath: A public resource of curated signal transduction pathways. &lt;i&gt;Genome Biology&lt;/i&gt;. 11:R3.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP138 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="1538.0" BoardHeight="1586.25" />
-  <DataNode TextLabel="PTK2" GraphId="f7590" Type="Protein">
-    <Comment>DHT and testosterone induces phosphorylation of FAK in LNCaP cells.</Comment>
-    <Graphics CenterX="503.125" CenterY="455.75" Width="42.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5747" />
+  <DataNode TextLabel="KDM1A" GraphId="a6312" Type="Protein">
+    <Graphics CenterX="124.37499999999972" CenterY="1299.4074074074074" Width="54.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="23028" />
   </DataNode>
-  <DataNode TextLabel="AR" GraphId="f4004" Type="Protein" GroupRef="c8a56">
-    <Graphics CenterX="488.0" CenterY="386.5" Width="268.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="367" />
+  <DataNode TextLabel="BMF" GraphId="ab1cd" Type="Rna">
+    <Graphics CenterX="410.875" CenterY="1472.25" Width="38.25" Height="20.0" ZOrder="32768" FontName="SansSerif" FontStyle="Italic" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="90427" />
   </DataNode>
-  <DataNode TextLabel="PIK3R2" GraphId="cc3a2" Type="Protein" GroupRef="e2974">
-    <Graphics CenterX="503.0" CenterY="553.0" Width="52.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5296" />
+  <DataNode TextLabel="PIAS3" GraphId="ac25d" Type="Protein">
+    <Graphics CenterX="705.875" CenterY="1389.75" Width="46.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="10401" />
   </DataNode>
-  <DataNode TextLabel="RAC1" GraphId="bfb15" Type="Protein">
-    <Graphics CenterX="412.0" CenterY="533.75" Width="48.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5879" />
+  <DataNode TextLabel="SIRT1" GraphId="ac5ac" Type="Protein">
+    <Graphics CenterX="947.625" CenterY="1150.25" Width="52.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="23411" />
   </DataNode>
-  <DataNode TextLabel="CDC42" GraphId="c69c2" Type="Protein">
-    <Graphics CenterX="412.0" CenterY="552.25" Width="48.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="998" />
+  <DataNode TextLabel="SMARCE1" GraphId="ac818" Type="Protein">
+    <Graphics CenterX="137.0" CenterY="1176.25" Width="62.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="6605" />
+  </DataNode>
+  <DataNode TextLabel="RNF6" GraphId="acb7d" Type="Protein">
+    <Graphics CenterX="494.125" CenterY="1365.75" Width="41.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="6049" />
+  </DataNode>
+  <DataNode TextLabel="NR2C2" GraphId="b064b" Type="Protein">
+    <Graphics CenterX="1061.375" CenterY="1179.75" Width="58.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="7182" />
+  </DataNode>
+  <DataNode TextLabel="RAD9A" GraphId="b34d5" Type="Protein">
+    <Graphics CenterX="1023.875" CenterY="1151.75" Width="50.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5883" />
   </DataNode>
   <DataNode TextLabel="RHOA" GraphId="b36f9" Type="Protein" GroupRef="c5dfb">
     <Graphics CenterX="363.625" CenterY="611.25" Width="49.25" Height="20.0" ZOrder="32768" FillColor="00ffff" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -38,217 +51,206 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics CenterX="363.0" CenterY="634.25" Width="48.0" Height="20.0" ZOrder="32768" FillColor="00ffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="388" />
   </DataNode>
-  <DataNode TextLabel="ROCK1" GraphId="c9351" Type="Protein" GroupRef="b586f">
-    <Graphics CenterX="363.5" CenterY="679.0" Width="49.0" Height="20.0" ZOrder="32768" FillColor="00ffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="6093" />
-  </DataNode>
-  <DataNode TextLabel="ROCK2" GraphId="f6d33" Type="Protein" GroupRef="b586f">
-    <Graphics CenterX="363.5" CenterY="701.375" Width="49.0" Height="20.0" ZOrder="32768" FillColor="00ffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="9475" />
-  </DataNode>
-  <DataNode TextLabel="LIMK2" GraphId="eeb3b" Type="Protein">
-    <Graphics CenterX="363.125" CenterY="759.25" Width="46.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="3985" />
-  </DataNode>
-  <DataNode TextLabel="DSTN" GraphId="d725a" Type="Protein">
-    <Graphics CenterX="363.0" CenterY="814.75" Width="42.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="11034" />
-  </DataNode>
-  <DataNode TextLabel="NCOR1" GraphId="c8edf" Type="Protein" GroupRef="f62b3">
-    <Graphics CenterX="1032.2384357699966" CenterY="1299.9862810124657" Width="45.808842745720995" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="9611" />
-  </DataNode>
-  <DataNode TextLabel="NCOR2" GraphId="b85b5" Type="Protein" GroupRef="f62b3">
-    <Graphics CenterX="1032.142857142857" CenterY="1319.3288736050583" Width="46.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="9612" />
-  </DataNode>
   <DataNode TextLabel="PSMC3IP" GraphId="b4854" Type="Protein">
     <Graphics CenterX="453.5" CenterY="1126.625" Width="63.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="29893" />
-  </DataNode>
-  <DataNode TextLabel="MYST2" GraphId="d6501" Type="Protein">
-    <Graphics CenterX="929.2521372569606" CenterY="1348.9279268242885" Width="51.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="11143" />
-  </DataNode>
-  <DataNode TextLabel="RAD9A" GraphId="b34d5" Type="Protein">
-    <Graphics CenterX="1023.875" CenterY="1151.75" Width="50.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5883" />
-  </DataNode>
-  <DataNode TextLabel="PAK6" GraphId="fc689" Type="Protein">
-    <Graphics CenterX="255.90277777777771" CenterY="1370.8796296296289" Width="38.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="56924" />
-  </DataNode>
-  <DataNode TextLabel="PATZ1" GraphId="d96a3" Type="Protein">
-    <Graphics CenterX="627.0345759916738" CenterY="1314.0511326129488" Width="46.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="23598" />
-  </DataNode>
-  <DataNode TextLabel="RELA" GraphId="eb3cf" Type="Protein">
-    <Graphics CenterX="993.3922154553369" CenterY="1346.1086355098203" Width="39.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5970" />
   </DataNode>
   <DataNode TextLabel="SMAD4" GraphId="b76b4" Type="Protein">
     <Graphics CenterX="1091.0410249791462" CenterY="1305.0431593193439" Width="50.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4089" />
   </DataNode>
-  <DataNode TextLabel="NCOA3" GraphId="e2160" Type="Protein">
-    <Graphics CenterX="382.61574074074065" CenterY="1305.75" Width="48.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="8202" />
+  <DataNode TextLabel="FKBP4" GraphId="b7713" Type="Protein">
+    <Graphics CenterX="681.172619047619" CenterY="844.3690476190475" Width="60.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="2288" />
   </DataNode>
-  <DataNode TextLabel="TGIF1" GraphId="d9b56" Type="Protein" GroupRef="ea234">
-    <Graphics CenterX="765.0" CenterY="1394.3187803631822" Width="46.0" Height="15.345635260526024" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="7050" />
-  </DataNode>
-  <DataNode TextLabel="NR2C2" GraphId="b064b" Type="Protein">
-    <Graphics CenterX="1061.375" CenterY="1179.75" Width="58.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="7182" />
-  </DataNode>
-  <DataNode TextLabel="AR" GraphId="bb42d" Type="Protein" GroupRef="e50ce">
-    <Graphics CenterX="368.625" CenterY="1243.75" Width="503.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="367" />
+  <DataNode TextLabel="NCOR2" GraphId="b85b5" Type="Protein" GroupRef="f62b3">
+    <Graphics CenterX="1032.142857142857" CenterY="1319.3288736050583" Width="46.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="9612" />
   </DataNode>
   <DataNode TextLabel="PIAS1" GraphId="b8d76" Type="Protein">
     <Graphics CenterX="665.625" CenterY="1363.75" Width="42.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8554" />
   </DataNode>
-  <DataNode TextLabel="SMAD3" GraphId="e6fdc" Type="Protein">
-    <Graphics CenterX="560.625" CenterY="1364.75" Width="46.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="4088" />
+  <DataNode TextLabel="SUMO1" GraphId="ba0c9" Type="Protein" GroupRef="b4a9b">
+    <Graphics CenterX="177.0" CenterY="1123.75" Width="46.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="7341" />
   </DataNode>
-  <DataNode TextLabel="AES" GraphId="d849b" Type="Protein">
-    <Graphics CenterX="684.5" CenterY="1178.25" Width="45.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="166" />
-  </DataNode>
-  <DataNode TextLabel="PIAS3" GraphId="ac25d" Type="Protein">
-    <Graphics CenterX="705.875" CenterY="1389.75" Width="46.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="10401" />
-  </DataNode>
-  <DataNode TextLabel="STAT3" GraphId="c9174" Type="Protein">
-    <Graphics CenterX="593.5" CenterY="1407.75" Width="45.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="6774" />
-  </DataNode>
-  <DataNode TextLabel="SP1" GraphId="f5671" Type="Protein">
-    <Graphics CenterX="524.5" CenterY="1407.25" Width="35.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="6667" />
-  </DataNode>
-  <DataNode TextLabel="CDKN1A" GraphId="e837e" Type="Rna">
-    <Graphics CenterX="524.875" CenterY="1546.25" Width="58.25" Height="20.0" ZOrder="32768" FontStyle="Italic" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1026" />
-  </DataNode>
-  <DataNode TextLabel="HDAC1" GraphId="cb963" Type="Protein">
-    <Graphics CenterX="871.5953827460511" CenterY="1381.0437944849095" Width="59.538274605103304" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="3065" />
-  </DataNode>
-  <DataNode TextLabel="MDM2" GraphId="f4466" Type="Protein">
-    <Graphics CenterX="886.8556184614487" CenterY="1314.3789966923923" Width="49.3205091088482" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="4193" />
-  </DataNode>
-  <DataNode TextLabel="BAG1" GraphId="ee46e" Type="Protein">
-    <Graphics CenterX="230.98148148148158" CenterY="1307.25" Width="37.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="573" />
-  </DataNode>
-  <DataNode TextLabel="STUB1" GraphId="f50dc" Type="Protein">
-    <Graphics CenterX="543.9702380952378" CenterY="845.5833333333333" Width="56.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="10273" />
+  <DataNode TextLabel="AR" GraphId="bb42d" Type="Protein" GroupRef="e50ce">
+    <Graphics CenterX="368.625" CenterY="1243.75" Width="503.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="367" />
   </DataNode>
   <DataNode TextLabel="RUNX2" GraphId="bb724" Type="Protein">
     <Graphics CenterX="417.5145502645504" CenterY="1347.6402116402116" Width="47.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="860" />
   </DataNode>
-  <DataNode TextLabel="RB1" GraphId="d7ce8" Type="Protein">
-    <Graphics CenterX="215.5" CenterY="1178.25" Width="35.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5925" />
-  </DataNode>
-  <DataNode TextLabel="DAXX" GraphId="e91ac" Type="Protein">
-    <Graphics CenterX="654.5" CenterY="1152.25" Width="55.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1616" />
-  </DataNode>
-  <DataNode TextLabel="EGFR" GraphId="cb4ac" Type="Protein">
-    <Graphics CenterX="951.875" CenterY="386.75" Width="60.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1956" />
+  <DataNode TextLabel="RAC1" GraphId="bfb15" Type="Protein">
+    <Graphics CenterX="412.0" CenterY="533.75" Width="48.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5879" />
   </DataNode>
   <DataNode TextLabel="PRDX1" GraphId="c0cd8" Type="Protein">
     <Graphics CenterX="782.3433098591555" CenterY="1150.8415492957752" Width="49.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5052" />
   </DataNode>
-  <DataNode TextLabel="ZMIZ1" GraphId="e830a" Type="Protein" GroupRef="b4a9b">
-    <Graphics CenterX="177.0" CenterY="1143.25" Width="46.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="57178" />
+  <DataNode TextLabel="KAT2B" GraphId="c4e8b" Type="Protein">
+    <Graphics CenterX="531.125" CenterY="1153.75" Width="45.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="8850" />
   </DataNode>
-  <DataNode TextLabel="SUMO1" GraphId="ba0c9" Type="Protein" GroupRef="b4a9b">
-    <Graphics CenterX="177.0" CenterY="1123.75" Width="46.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="7341" />
+  <DataNode TextLabel="CDC42" GraphId="c69c2" Type="Protein">
+    <Graphics CenterX="412.0" CenterY="552.25" Width="48.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="998" />
   </DataNode>
-  <DataNode TextLabel="SMARCE1" GraphId="ac818" Type="Protein">
-    <Graphics CenterX="137.0" CenterY="1176.25" Width="62.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="6605" />
+  <DataNode TextLabel="NCOR1" GraphId="c8edf" Type="Protein" GroupRef="f62b3">
+    <Graphics CenterX="1032.2384357699966" CenterY="1299.9862810124657" Width="45.808842745720995" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="9611" />
   </DataNode>
-  <DataNode TextLabel="KDM1A" GraphId="a6312" Type="Protein">
-    <Graphics CenterX="124.37499999999972" CenterY="1299.4074074074074" Width="54.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="23028" />
+  <DataNode TextLabel="STAT3" GraphId="c9174" Type="Protein">
+    <Graphics CenterX="593.5" CenterY="1407.75" Width="45.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="6774" />
   </DataNode>
-  <DataNode TextLabel="TZF" GraphId="e5318" Type="Protein">
-    <Graphics CenterX="909.375" CenterY="1176.75" Width="44.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="24149" />
+  <DataNode TextLabel="ROCK1" GraphId="c9351" Type="Protein" GroupRef="b586f">
+    <Graphics CenterX="363.5" CenterY="679.0" Width="49.0" Height="20.0" ZOrder="32768" FillColor="00ffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="6093" />
   </DataNode>
-  <DataNode TextLabel="FKBP4" GraphId="b7713" Type="Protein">
-    <Graphics CenterX="681.172619047619" CenterY="844.3690476190475" Width="60.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="2288" />
+  <DataNode TextLabel="EGFR" GraphId="cb4ac" Type="Protein">
+    <Graphics CenterX="951.875" CenterY="386.75" Width="60.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="1956" />
+  </DataNode>
+  <DataNode TextLabel="HDAC1" GraphId="cb963" Type="Protein">
+    <Graphics CenterX="871.5953827460511" CenterY="1381.0437944849095" Width="59.538274605103304" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="3065" />
+  </DataNode>
+  <DataNode TextLabel="PIK3R2" GraphId="cc3a2" Type="Protein" GroupRef="e2974">
+    <Graphics CenterX="503.0" CenterY="553.0" Width="52.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5296" />
   </DataNode>
   <DataNode TextLabel="CREB1" GraphId="ccd89" Type="Protein">
     <Graphics CenterX="283.125" CenterY="1148.0" Width="44.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1385" />
   </DataNode>
-  <DataNode TextLabel="SIRT1" GraphId="ac5ac" Type="Protein">
-    <Graphics CenterX="947.625" CenterY="1150.25" Width="52.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="23411" />
-  </DataNode>
-  <DataNode TextLabel="UBE3A" GraphId="ff008" Type="Protein">
-    <Graphics CenterX="156.37301587301596" CenterY="1355.4642857142856" Width="56.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="7337" />
-  </DataNode>
-  <DataNode TextLabel="PARK7" GraphId="e7ec8" Type="Protein" GroupRef="a2900">
-    <Graphics CenterX="798.870084527745" CenterY="1299.6163175303188" Width="51.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="11315" />
-  </DataNode>
-  <DataNode TextLabel="EFCAB6" GraphId="e8c9d" Type="Protein" GroupRef="a2900">
-    <Graphics CenterX="798.870084527745" CenterY="1319.8663175303188" Width="51.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="64800" />
-  </DataNode>
-  <DataNode TextLabel="CARM1" GraphId="d880c" Type="Protein">
-    <Graphics CenterX="55.875" CenterY="1243.25" Width="59.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="10498" />
+  <DataNode TextLabel="RLN1" GraphId="ce15e" Type="GeneProduct">
+    <Graphics CenterX="494.84006682867556" CenterY="1471.25" Width="36.75" Height="20.0" ZOrder="32768" FontStyle="Italic" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="6013" />
   </DataNode>
   <DataNode TextLabel="FOXO1" GraphId="d219b" Type="Protein">
     <Graphics CenterX="983.625" CenterY="1178.75" Width="48.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2308" />
   </DataNode>
-  <DataNode TextLabel="KAT2B" GraphId="c4e8b" Type="Protein">
-    <Graphics CenterX="531.125" CenterY="1153.75" Width="45.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="8850" />
+  <DataNode TextLabel="MYST2" GraphId="d6501" Type="Protein">
+    <Graphics CenterX="929.2521372569606" CenterY="1348.9279268242885" Width="51.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="11143" />
+  </DataNode>
+  <DataNode TextLabel="SIN3A" GraphId="d661b" Type="Protein" GroupRef="ea234">
+    <Graphics CenterX="765.9190161180238" CenterY="1371.3088150364888" Width="44.314222712238006" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="25942" />
+  </DataNode>
+  <DataNode TextLabel="DSTN" GraphId="d725a" Type="Protein">
+    <Graphics CenterX="363.0" CenterY="814.75" Width="42.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="11034" />
+  </DataNode>
+  <DataNode TextLabel="RB1" GraphId="d7ce8" Type="Protein">
+    <Graphics CenterX="215.5" CenterY="1178.25" Width="35.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5925" />
+  </DataNode>
+  <DataNode TextLabel="AES" GraphId="d849b" Type="Protein">
+    <Graphics CenterX="684.5" CenterY="1178.25" Width="45.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="166" />
+  </DataNode>
+  <DataNode TextLabel="CARM1" GraphId="d880c" Type="Protein">
+    <Graphics CenterX="55.875" CenterY="1243.25" Width="59.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="10498" />
+  </DataNode>
+  <DataNode TextLabel="PATZ1" GraphId="d96a3" Type="Protein">
+    <Graphics CenterX="627.0345759916738" CenterY="1314.0511326129488" Width="46.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="23598" />
+  </DataNode>
+  <DataNode TextLabel="TGIF1" GraphId="d9b56" Type="Protein" GroupRef="ea234">
+    <Graphics CenterX="765.0" CenterY="1394.3187803631822" Width="46.0" Height="15.345635260526024" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="7050" />
   </DataNode>
   <DataNode TextLabel="KLK3" GraphId="dba54" Type="Rna">
     <Graphics CenterX="560.5" CenterY="1505.25" Width="53.0" Height="20.0" ZOrder="32768" FontStyle="Italic" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="354" />
   </DataNode>
-  <DataNode TextLabel="RNF6" GraphId="acb7d" Type="Protein">
-    <Graphics CenterX="494.125" CenterY="1365.75" Width="41.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="6049" />
-  </DataNode>
   <DataNode TextLabel="PPAP2A" GraphId="de498" Type="Rna">
     <Graphics CenterX="450.125" CenterY="1506.75" Width="55.75" Height="20.0" ZOrder="32768" FontStyle="Italic" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8611" />
   </DataNode>
-  <DataNode TextLabel="RLN1" GraphId="ce15e" Type="GeneProduct">
-    <Graphics CenterX="494.84006682867556" CenterY="1471.25" Width="36.75" Height="20.0" ZOrder="32768" FontStyle="Italic" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="6013" />
+  <DataNode TextLabel="NCOA3" GraphId="e2160" Type="Protein">
+    <Graphics CenterX="382.61574074074065" CenterY="1305.75" Width="48.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="8202" />
   </DataNode>
-  <DataNode TextLabel="BMF" GraphId="ab1cd" Type="Rna">
-    <Graphics CenterX="410.875" CenterY="1472.25" Width="38.25" Height="20.0" ZOrder="32768" FontName="SansSerif" FontStyle="Italic" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="90427" />
+  <DataNode TextLabel="TZF" GraphId="e5318" Type="Protein">
+    <Graphics CenterX="909.375" CenterY="1176.75" Width="44.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="24149" />
   </DataNode>
-  <DataNode TextLabel="SIN3A" GraphId="d661b" Type="Protein" GroupRef="ea234">
-    <Graphics CenterX="765.9190161180238" CenterY="1371.3088150364888" Width="44.314222712238006" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="25942" />
+  <DataNode TextLabel="SMAD3" GraphId="e6fdc" Type="Protein">
+    <Graphics CenterX="560.625" CenterY="1364.75" Width="46.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="4088" />
+  </DataNode>
+  <DataNode TextLabel="PARK7" GraphId="e7ec8" Type="Protein" GroupRef="a2900">
+    <Graphics CenterX="798.870084527745" CenterY="1299.6163175303188" Width="51.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="11315" />
+  </DataNode>
+  <DataNode TextLabel="ZMIZ1" GraphId="e830a" Type="Protein" GroupRef="b4a9b">
+    <Graphics CenterX="177.0" CenterY="1143.25" Width="46.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="57178" />
+  </DataNode>
+  <DataNode TextLabel="CDKN1A" GraphId="e837e" Type="Rna">
+    <Graphics CenterX="524.875" CenterY="1546.25" Width="58.25" Height="20.0" ZOrder="32768" FontStyle="Italic" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="1026" />
+  </DataNode>
+  <DataNode TextLabel="EFCAB6" GraphId="e8c9d" Type="Protein" GroupRef="a2900">
+    <Graphics CenterX="798.870084527745" CenterY="1319.8663175303188" Width="51.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="64800" />
+  </DataNode>
+  <DataNode TextLabel="DAXX" GraphId="e91ac" Type="Protein">
+    <Graphics CenterX="654.5" CenterY="1152.25" Width="55.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="1616" />
+  </DataNode>
+  <DataNode TextLabel="RELA" GraphId="eb3cf" Type="Protein">
+    <Graphics CenterX="993.3922154553369" CenterY="1346.1086355098203" Width="39.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5970" />
+  </DataNode>
+  <DataNode TextLabel="BAG1" GraphId="ee46e" Type="Protein">
+    <Graphics CenterX="230.98148148148158" CenterY="1307.25" Width="37.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="573" />
+  </DataNode>
+  <DataNode TextLabel="LIMK2" GraphId="eeb3b" Type="Protein">
+    <Graphics CenterX="363.125" CenterY="759.25" Width="46.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="3985" />
+  </DataNode>
+  <DataNode TextLabel="AR" GraphId="f4004" Type="Protein" GroupRef="c8a56">
+    <Graphics CenterX="488.0" CenterY="386.5" Width="268.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="367" />
+  </DataNode>
+  <DataNode TextLabel="MDM2" GraphId="f4466" Type="Protein">
+    <Graphics CenterX="886.8556184614487" CenterY="1314.3789966923923" Width="49.3205091088482" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="4193" />
+  </DataNode>
+  <DataNode TextLabel="STUB1" GraphId="f50dc" Type="Protein">
+    <Graphics CenterX="543.9702380952378" CenterY="845.5833333333333" Width="56.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="10273" />
+  </DataNode>
+  <DataNode TextLabel="SP1" GraphId="f5671" Type="Protein">
+    <Graphics CenterX="524.5" CenterY="1407.25" Width="35.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="6667" />
+  </DataNode>
+  <DataNode TextLabel="ROCK2" GraphId="f6d33" Type="Protein" GroupRef="b586f">
+    <Graphics CenterX="363.5" CenterY="701.375" Width="49.0" Height="20.0" ZOrder="32768" FillColor="00ffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="9475" />
+  </DataNode>
+  <DataNode TextLabel="PTK2" GraphId="f7590" Type="Protein">
+    <Comment>DHT and testosterone induces phosphorylation of FAK in LNCaP cells.</Comment>
+    <Graphics CenterX="503.125" CenterY="455.75" Width="42.25" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5747" />
+  </DataNode>
+  <DataNode TextLabel="PAK6" GraphId="fc689" Type="Protein">
+    <Graphics CenterX="255.90277777777771" CenterY="1370.8796296296289" Width="38.75" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="56924" />
+  </DataNode>
+  <DataNode TextLabel="UBE3A" GraphId="ff008" Type="Protein">
+    <Graphics CenterX="156.37301587301596" CenterY="1355.4642857142856" Width="56.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="7337" />
   </DataNode>
   <DataNode TextLabel="ETV5" GraphId="f49cf" Type="Protein">
     <Graphics CenterX="1173.5983615741443" CenterY="1243.9135480825494" Width="39.75" Height="20.0" ZOrder="32770" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -390,25 +392,25 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="fefe57" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
-  <State GraphRef="cc3a2" TextLabel="P" GraphId="d5317">
-    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="fafa44" ShapeType="Oval" />
-    <Xref Database="" ID="" />
-  </State>
   <State GraphRef="ccd89" TextLabel="P" GraphId="a6b56">
     <Comment>Stimulation with DHT induces phosphorylation of CREB at Ser-183 (NP_604391.1) in LnCAP cells.</Comment>
     <Graphics RelX="0.7925311203319502" RelY="0.9" Width="15.0" Height="15.0" FillColor="fbf311" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
-  <State GraphRef="bfb15" TextLabel="GTP" GraphId="e0c94">
-    <Graphics RelX="1.0" RelY="1.0" Width="24.75" Height="17.375" FillColor="ffff00" ShapeType="Oval" />
+  <State GraphRef="d725a" TextLabel="P" GraphId="c0958">
+    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
+    <Xref Database="" ID="" />
+  </State>
+  <State GraphRef="cc3a2" TextLabel="P" GraphId="d5317">
+    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="fafa44" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="eeb3b" TextLabel="P" GraphId="dbf7a">
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
-  <State GraphRef="d725a" TextLabel="P" GraphId="c0958">
-    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
+  <State GraphRef="bfb15" TextLabel="GTP" GraphId="e0c94">
+    <Graphics RelX="1.0" RelY="1.0" Width="24.75" Height="17.375" FillColor="ffff00" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="f554e" TextLabel="P" GraphId="fb242">
@@ -446,394 +448,11 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id39a4279b">
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="503.0" Y="397.0" />
-      <Point X="503.125" Y="445.75" GraphRef="f7590" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idc42b1416" GroupRef="e2974">
-    <Comment>DHT and testosterone induces activation of Rac1and CDC42  in LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="490.0" Y="543.0" GraphRef="cc3a2" RelX="-0.5" RelY="-1.0" />
-      <Point X="448.375" Y="543.75" GraphRef="e0c94" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id7f2ed49c">
-    <Comment>Testpsterone stimulation induces destrin phosphorylation in vitro</Comment>
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="363.125" Y="769.25" GraphRef="eeb3b" RelX="0.0" RelY="1.0" />
-      <Point X="363.0" Y="804.75" GraphRef="d725a" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idd9f40839">
-    <Comment>Testosterone stimulation leads to the activation of ROCK1 in DU145 and LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="363.0" Y="644.25" GraphRef="b470f" RelX="0.0" RelY="1.0" />
-      <Point X="363.5" Y="669.0" GraphRef="c9351" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idb807edaf">
-    <Comment>Activation of RhoA/B and ROCK is implicated in membrane androgen receptor-dependent actin polymerization. </Comment>
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="363.0" Y="824.75" GraphRef="d725a" RelX="0.0" RelY="1.0" />
-      <Point X="363.4523809523818" Y="861.8928571428578" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id59a3f425">
-    <Comment>Stimulation with androgen induces the interaction of LBD domain of NCOR with AR in LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="1032.2384357699966" Y="1289.9862810124657" GraphRef="c8edf" RelX="0.0" RelY="-1.0" />
-      <Point X="1032.3809523809523" Y="1254.2857142857142" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id7cc11a1b">
-    <Comment>BAG1L interacts with NH2-terminal region of AR in COS-7 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="230.98148148148158" Y="1297.25" GraphRef="ee46e" RelX="0.0" RelY="-1.0" />
-      <Point X="230.0" Y="1253.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id34e101a9">
-    <Comment>DHT induces the interaction between AR and HBO1 in CV-1 and PC-3 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="929.2521372569606" Y="1338.9279268242885" GraphRef="d6501" RelX="0.0" RelY="-1.0" />
-      <Point X="929.7195767195765" Y="1253.4722222222222" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id91a54820">
-    <Comment>Stimulation with androgen induces the interaction PAK6 with DB and LB domain of AR in CV1 cells. PAK6 is an activator of AR. </Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="255.90277777777771" Y="1360.8796296296289" GraphRef="fc689" RelX="0.0" RelY="-1.0" />
-      <Point X="255.0" Y="1253.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id4ce85a98">
-    <Comment>Stimulation with androgen induces the interaction of AR with PATZ in CV-1 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="627.0345759916738" Y="1304.0511326129488" GraphRef="d96a3" RelX="0.0" RelY="-1.0" />
-      <Point X="627.0" Y="1252.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id4a2b7543">
-    <Comment>Testosterone induces the between Androgen Receptor and RELA in COS-1 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="993.3922154553369" Y="1336.1086355098203" GraphRef="eb3cf" RelX="0.0" RelY="-1.0" />
-      <Point X="993.3769841269839" Y="1253.4722222222222" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id8c724b81">
-    <Comment>Stimulation with androgen induces the interaction of SMAD4 with DB and LB domains of AR in LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="1091.0410249791462" Y="1295.0431593193439" GraphRef="b76b4" RelX="0.0" RelY="-1.0" />
-      <Point X="1091.0" Y="1251.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id5cc568ab">
-    <Comment>AR interacts with TBPIP both in the presence and absence of DHT in LNCaP cells and in vitro. It acts as a positive regulator of AR transactivation.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="453.5" Y="1136.625" GraphRef="b4854" RelX="0.0" RelY="1.0" />
-      <Point X="453.0" Y="1233.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idd49453fd">
-    <Comment>Stimulation with androgen receptor with DHT induces the interaction of androgen receptor with FHL2 in CV1 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="180.2176087801087" Y="1294.5" GraphRef="c78d2" RelX="0.0" RelY="-1.0" />
-      <Point X="180.0" Y="1253.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="iddc5a7b9d">
-    <Comment>Stimulation with Androgen indices the interaction of iDNA binding domain of Androgen receptor interacts with LXXLL motifs of PIAS1 in COS-1 cells. PIAS1 acts as both coactivator and repressor of androgen receptor.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="665.625" Y="1353.75" GraphRef="b8d76" RelX="0.0" RelY="-1.0" />
-      <Point X="665.0" Y="1252.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id117e6c53">
     <Comment>R1881 induces the interaction of AES with N-terminal region of AR in PC3 cells. AES is acts as repressor of AR.</Comment>
     <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
       <Point X="684.5" Y="1188.25" GraphRef="d849b" RelX="0.0" RelY="1.0" />
       <Point X="684.5" Y="1232.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id80de3693">
-    <Comment>SRC-1 and TIF2 forms a complex and interacts with AR in LNCaP and androgen independent CDC2 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="353.1199911199932" Y="1339.1965811965802" GraphRef="f1ad1" RelX="0.0" RelY="-1.0" />
-      <Point X="353.0" Y="1253.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id279965c0">
-    <Comment>DHT induces the interaction of NCOA3 with N-terminal and ligand binding domiains of Androgen receptor in Yeast cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="382.61574074074065" Y="1295.75" GraphRef="e2160" RelX="0.0" RelY="-1.0" />
-      <Point X="382.61574074074065" Y="1254.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idb8441377">
-    <Comment>DHT stimulation induces the interaction of PIAS3 with AR in LNCaP cells. PIAS3 acts as both activator and repressor of AR.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="705.875" Y="1379.75" GraphRef="ac25d" RelX="0.0" RelY="-1.0" />
-      <Point X="705.875" Y="1252.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id353e70ac">
-    <Comment>DHT induces the interaction between Androgen receptor and STAT3 in LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="593.5" Y="1397.75" GraphRef="c9174" RelX="0.0" RelY="-1.0" />
-      <Point X="593.5" Y="1256.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id91e4c794">
-    <Comment>Stimulation with Androgen induces the interaction of SP1 with AR in LNCaP-FGC and SK-N-BE(2)-C cells. </Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="524.5" Y="1397.25" GraphRef="f5671" RelX="0.0" RelY="-1.0" />
-      <Point X="524.0" Y="1253.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id2c4eb645">
-    <Comment>Stimulation with Androgen induces the interaction of SP1 with AR which results in the induction of p21 transcription in SK-N-BE(2)-C tumor cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0">
-      <Point X="524.5" Y="1417.25" GraphRef="f5671" RelX="0.0" RelY="1.0" />
-      <Point X="524.875" Y="1536.25" GraphRef="e837e" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id248f460c">
-    <Comment>AR and HDAC1 are ubiquitinated by MDM2 in response to Androgen in LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="cc00cc">
-      <Point X="886.8556184614487" Y="1304.3789966923923" GraphRef="f4466" RelX="0.0" RelY="-1.0" />
-      <Point X="886.8955026455025" Y="1253.4722222222222" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id3c00f5d7">
-    <Comment>AR and HDAC1 are ubiquitinated by MDM2 in response to Androgen in LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="cc00cc">
-      <Point X="886.8556184614487" Y="1324.3789966923923" GraphRef="f4466" RelX="0.0" RelY="1.0" />
-      <Point X="886.479951397327" Y="1371.0437944849095" GraphRef="cb963" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id53d79c2f">
-    <Comment>Stimulation with DHT induces the interaction of CHIP with NH2-terminal conserved motif of AR in COS-7 cells. CHIP functions as a negative regulator of AR transcriptional activity by promoting AR degradation. </Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="543.9702380952378" Y="855.5833333333333" GraphRef="f50dc" RelX="0.0" RelY="1.0" />
-      <Point X="543.8095238095237" Y="908.5714285714286" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idf1dfb16a">
-    <Comment>Stimulation with DHT induces the interaction of DNA binding domain of AR with PST and RUNT domians of RUNX2 in MC3T3-E1 and PC3 cells. AR abrogates RUNX2 its recruitment to DNA.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="417.5145502645504" Y="1337.6402116402116" GraphRef="bb724" RelX="0.0" RelY="-1.0" />
-      <Point X="417.1428571428571" Y="1254.2857142857142" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id46189bb1">
-    <Comment>Stimualtion with DHT induces the interaction of NT and DB domain of AR with RB in DU145 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="215.5" Y="1188.25" GraphRef="d7ce8" RelX="0.0" RelY="1.0" />
-      <Point X="215.0" Y="1235.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id8bee5839">
-    <Comment>Stimulation with Androgen induces the interaction of DAXX with N-terminal and the DNA-binding domain of AR in LNCaP and COS-1 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="654.5" Y="1162.25" GraphRef="e91ac" RelX="0.0" RelY="1.0" />
-      <Point X="654.5" Y="1233.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idfb137e1d">
-    <Comment>Stimulation with synthetic androgen R1881 induces the interaction of AR with EGFR in PC3 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="866.0" Y="385.9999999999998" GraphRef="ecb1d" RelX="1.0" RelY="0.0" />
-      <Point X="921.75" Y="386.75" GraphRef="cb4ac" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id9aee4d8e">
-    <Comment>Stimulation with DHT induces the interaction between  Androgen Receptor and PRDX1 in COS-7 cells.  </Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="782.3433098591555" Y="1160.8415492957752" GraphRef="c0cd8" RelX="0.0" RelY="1.0" />
-      <Point X="782.3433098591555" Y="1231.5915492957752" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id424859a8">
-    <Comment>Stimulation with DHT induces the interaction of androgen receptor with Zimp10 in CV1 cells. hZimp10 is capable of enhancing the sumoylation of AR.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="177.0" Y="1153.25" GraphRef="e830a" RelX="0.0" RelY="1.0" />
-      <Point X="177.0" Y="1234.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id6904c533">
-    <Comment>Stimulation with DHT induces the interaction between Androgen receptor and BAF57 in LNCaP and LB1-Luc cells. </Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="137.0" Y="1186.25" GraphRef="ac818" RelX="0.0" RelY="1.0" />
-      <Point X="137.0" Y="1232.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id7bb5a892">
-    <Comment>Stimulation with Androgen induces the interaction of LSD1 with AR in mouse testis. LSD1 demethylates histone and stimulate androgen receptor-dependent gene transcription.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="124.37499999999972" Y="1289.4074074074074" GraphRef="a6312" RelX="0.0" RelY="-1.0" />
-      <Point X="124.76190476190476" Y="1254.2857142857142" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id807b361d">
-    <Comment>Stimulatio nwith DHT induces the interaction of TZF with activation function-1 (AF-1) domain of AR in LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="909.375" Y="1186.75" GraphRef="e5318" RelX="0.0" RelY="1.0" />
-      <Point X="909.375" Y="1235.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idafb0848c">
-    <Comment>Stimulation with DHT induces the interaction of FKBP52 with AR in rabbit reticulocyte.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="681.172619047619" Y="854.3690476190475" GraphRef="b7713" RelX="0.0" RelY="1.0" />
-      <Point X="681.75" Y="907.9999999999998" GraphRef="c0d24" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id713c3d58">
-    <Comment>AR interacts with CBP in COS-1 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="320.491841491842" Y="1187.9557109557109" GraphRef="f3188" RelX="0.0" RelY="1.0" />
-      <Point X="320.491841491842" Y="1233.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ida26596e3">
-    <Comment>Stimulation with DHT induces interaction of AR with CREB and this interaction is mediated by CBP in COS 7 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="283.125" Y="1158.0" GraphRef="ccd89" RelX="0.0" RelY="1.0" />
-      <Point X="283.25" Y="1236.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idb9239cbc">
-    <Comment>Stimulation with R1881 induces interaction between E6-AP and androgen receptor in prostrate cancer cell lines.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="156.37301587301596" Y="1345.4642857142856" GraphRef="ff008" RelX="0.0" RelY="-1.0" />
-      <Point X="156.19047619047618" Y="1254.2857142857142" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id20821e6b">
-    <Comment>SIRT1, a corepressor interacts with the conserved lysine motif of Androgen receptor in LNCaP cells. </Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="947.625" Y="1160.25" GraphRef="ac5ac" RelX="0.0" RelY="1.0" />
-      <Point X="947.625" Y="1235.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idb8dfe085">
-    <Comment>Androgen stimulates the interaction between Androgen receptor and PARK7 in LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="798.870084527745" Y="1289.6163175303188" GraphRef="e7ec8" RelX="0.0" RelY="-1.0" />
-      <Point X="798.6666666666665" Y="1253.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idca378db2">
-    <Comment>CARM1 an activator of AR interacts with AR.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="85.75" Y="1243.25" GraphRef="d880c" RelX="1.0" RelY="0.0" />
-      <Point X="117.0" Y="1243.75" GraphRef="bb42d" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id71fd00d7">
-    <Comment>Foxo1 is recruited by liganded AR to the chromatin of AR target gene promoters, where it interferes with AR-DNA interactions. </Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="983.625" Y="1188.75" GraphRef="d219b" RelX="0.0" RelY="1.0" />
-      <Point X="983.625" Y="1234.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ida68e519">
-    <Comment>Ligand binding domain of AR interacts with RAD9 in 293T cells and CWR22R cell lines.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="1023.875" Y="1161.75" GraphRef="b34d5" RelX="0.0" RelY="1.0" />
-      <Point X="1023.75" Y="1232.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id614c32b9">
-    <Comment>DHT induces TR4 interaction with Androgen receptor in H1299 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="1061.375" Y="1189.75" GraphRef="b064b" RelX="0.0" RelY="1.0" />
-      <Point X="1061.375" Y="1233.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idf7658b1b">
-    <Comment>PCAF acetylates AR at Lys-631, Lys-633, Lys-634by and thus enhances AR activity. </Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="ffcc33">
-      <Point X="531.125" Y="1163.75" GraphRef="c4e8b" RelX="0.0" RelY="1.0" />
-      <Point X="531.125" Y="1233.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id75b0ec9">
-    <Comment>SMAD3 which acts both coactivator and repressor of AR induces the expression of PSA in LNCaP cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0">
-      <Point X="560.625" Y="1374.75" GraphRef="e6fdc" RelX="0.0" RelY="1.0" />
-      <Point X="560.5" Y="1495.25" GraphRef="dba54" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idb86f9997">
-    <Comment> AR interacts with RNF4 in CV-1 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="452.125" Y="1304.75" GraphRef="b686d" RelX="0.0" RelY="-1.0" />
-      <Point X="452.0" Y="1253.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idda102e90">
-    <Comment>RNF6, an coactivator of AR induces the expression of RLN1.</Comment>
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="494.125" Y="1375.75" GraphRef="acb7d" RelX="0.0" RelY="1.0" />
-      <Point X="494.8400668286756" Y="1461.25" GraphRef="ce15e" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id365c8057">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="473.25" Y="1365.75" GraphRef="acb7d" RelX="-1.0" RelY="0.0" />
-      <Point X="410.875" Y="1462.25" GraphRef="ab1cd" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-      <Anchor Position="0.14607359893962651" Shape="None" GraphId="da542" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -845,10 +464,393 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id20821e6b">
+    <Comment>SIRT1, a corepressor interacts with the conserved lysine motif of Androgen receptor in LNCaP cells. </Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="947.625" Y="1160.25" GraphRef="ac5ac" RelX="0.0" RelY="1.0" />
+      <Point X="947.625" Y="1235.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id248f460c">
+    <Comment>AR and HDAC1 are ubiquitinated by MDM2 in response to Androgen in LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="cc00cc">
+      <Point X="886.8556184614487" Y="1304.3789966923923" GraphRef="f4466" RelX="0.0" RelY="-1.0" />
+      <Point X="886.8955026455025" Y="1253.4722222222222" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id279965c0">
+    <Comment>DHT induces the interaction of NCOA3 with N-terminal and ligand binding domiains of Androgen receptor in Yeast cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="382.61574074074065" Y="1295.75" GraphRef="e2160" RelX="0.0" RelY="-1.0" />
+      <Point X="382.61574074074065" Y="1254.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id2c4eb645">
+    <Comment>Stimulation with Androgen induces the interaction of SP1 with AR which results in the induction of p21 transcription in SK-N-BE(2)-C tumor cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0">
+      <Point X="524.5" Y="1417.25" GraphRef="f5671" RelX="0.0" RelY="1.0" />
+      <Point X="524.875" Y="1536.25" GraphRef="e837e" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id34e101a9">
+    <Comment>DHT induces the interaction between AR and HBO1 in CV-1 and PC-3 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="929.2521372569606" Y="1338.9279268242885" GraphRef="d6501" RelX="0.0" RelY="-1.0" />
+      <Point X="929.7195767195765" Y="1253.4722222222222" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id353e70ac">
+    <Comment>DHT induces the interaction between Androgen receptor and STAT3 in LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="593.5" Y="1397.75" GraphRef="c9174" RelX="0.0" RelY="-1.0" />
+      <Point X="593.5" Y="1256.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id365c8057">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="473.25" Y="1365.75" GraphRef="acb7d" RelX="-1.0" RelY="0.0" />
+      <Point X="410.875" Y="1462.25" GraphRef="ab1cd" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+      <Anchor Position="0.14607359893962651" Shape="None" GraphId="da542" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id39a4279b">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="503.0" Y="397.0" />
+      <Point X="503.125" Y="445.75" GraphRef="f7590" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id3c00f5d7">
+    <Comment>AR and HDAC1 are ubiquitinated by MDM2 in response to Androgen in LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="cc00cc">
+      <Point X="886.8556184614487" Y="1324.3789966923923" GraphRef="f4466" RelX="0.0" RelY="1.0" />
+      <Point X="886.479951397327" Y="1371.0437944849095" GraphRef="cb963" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id424859a8">
+    <Comment>Stimulation with DHT induces the interaction of androgen receptor with Zimp10 in CV1 cells. hZimp10 is capable of enhancing the sumoylation of AR.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="177.0" Y="1153.25" GraphRef="e830a" RelX="0.0" RelY="1.0" />
+      <Point X="177.0" Y="1234.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id46189bb1">
+    <Comment>Stimualtion with DHT induces the interaction of NT and DB domain of AR with RB in DU145 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="215.5" Y="1188.25" GraphRef="d7ce8" RelX="0.0" RelY="1.0" />
+      <Point X="215.0" Y="1235.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id4a2b7543">
+    <Comment>Testosterone induces the between Androgen Receptor and RELA in COS-1 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="993.3922154553369" Y="1336.1086355098203" GraphRef="eb3cf" RelX="0.0" RelY="-1.0" />
+      <Point X="993.3769841269839" Y="1253.4722222222222" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id4ce85a98">
+    <Comment>Stimulation with androgen induces the interaction of AR with PATZ in CV-1 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="627.0345759916738" Y="1304.0511326129488" GraphRef="d96a3" RelX="0.0" RelY="-1.0" />
+      <Point X="627.0" Y="1252.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id53d79c2f">
+    <Comment>Stimulation with DHT induces the interaction of CHIP with NH2-terminal conserved motif of AR in COS-7 cells. CHIP functions as a negative regulator of AR transcriptional activity by promoting AR degradation. </Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="543.9702380952378" Y="855.5833333333333" GraphRef="f50dc" RelX="0.0" RelY="1.0" />
+      <Point X="543.8095238095237" Y="908.5714285714286" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id59a3f425">
+    <Comment>Stimulation with androgen induces the interaction of LBD domain of NCOR with AR in LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="1032.2384357699966" Y="1289.9862810124657" GraphRef="c8edf" RelX="0.0" RelY="-1.0" />
+      <Point X="1032.3809523809523" Y="1254.2857142857142" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id5cc568ab">
+    <Comment>AR interacts with TBPIP both in the presence and absence of DHT in LNCaP cells and in vitro. It acts as a positive regulator of AR transactivation.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="453.5" Y="1136.625" GraphRef="b4854" RelX="0.0" RelY="1.0" />
+      <Point X="453.0" Y="1233.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id614c32b9">
+    <Comment>DHT induces TR4 interaction with Androgen receptor in H1299 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="1061.375" Y="1189.75" GraphRef="b064b" RelX="0.0" RelY="1.0" />
+      <Point X="1061.375" Y="1233.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id6904c533">
+    <Comment>Stimulation with DHT induces the interaction between Androgen receptor and BAF57 in LNCaP and LB1-Luc cells. </Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="137.0" Y="1186.25" GraphRef="ac818" RelX="0.0" RelY="1.0" />
+      <Point X="137.0" Y="1232.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id713c3d58">
+    <Comment>AR interacts with CBP in COS-1 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="320.491841491842" Y="1187.9557109557109" GraphRef="f3188" RelX="0.0" RelY="1.0" />
+      <Point X="320.491841491842" Y="1233.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id71fd00d7">
+    <Comment>Foxo1 is recruited by liganded AR to the chromatin of AR target gene promoters, where it interferes with AR-DNA interactions. </Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="983.625" Y="1188.75" GraphRef="d219b" RelX="0.0" RelY="1.0" />
+      <Point X="983.625" Y="1234.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id75b0ec9">
+    <Comment>SMAD3 which acts both coactivator and repressor of AR induces the expression of PSA in LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0">
+      <Point X="560.625" Y="1374.75" GraphRef="e6fdc" RelX="0.0" RelY="1.0" />
+      <Point X="560.5" Y="1495.25" GraphRef="dba54" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id7bb5a892">
+    <Comment>Stimulation with Androgen induces the interaction of LSD1 with AR in mouse testis. LSD1 demethylates histone and stimulate androgen receptor-dependent gene transcription.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="124.37499999999972" Y="1289.4074074074074" GraphRef="a6312" RelX="0.0" RelY="-1.0" />
+      <Point X="124.76190476190476" Y="1254.2857142857142" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id7cc11a1b">
+    <Comment>BAG1L interacts with NH2-terminal region of AR in COS-7 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="230.98148148148158" Y="1297.25" GraphRef="ee46e" RelX="0.0" RelY="-1.0" />
+      <Point X="230.0" Y="1253.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id7f2ed49c">
+    <Comment>Testpsterone stimulation induces destrin phosphorylation in vitro</Comment>
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="363.125" Y="769.25" GraphRef="eeb3b" RelX="0.0" RelY="1.0" />
+      <Point X="363.0" Y="804.75" GraphRef="d725a" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id807b361d">
+    <Comment>Stimulatio nwith DHT induces the interaction of TZF with activation function-1 (AF-1) domain of AR in LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="909.375" Y="1186.75" GraphRef="e5318" RelX="0.0" RelY="1.0" />
+      <Point X="909.375" Y="1235.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id80de3693">
+    <Comment>SRC-1 and TIF2 forms a complex and interacts with AR in LNCaP and androgen independent CDC2 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="353.1199911199932" Y="1339.1965811965802" GraphRef="f1ad1" RelX="0.0" RelY="-1.0" />
+      <Point X="353.0" Y="1253.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id8bee5839">
+    <Comment>Stimulation with Androgen induces the interaction of DAXX with N-terminal and the DNA-binding domain of AR in LNCaP and COS-1 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="654.5" Y="1162.25" GraphRef="e91ac" RelX="0.0" RelY="1.0" />
+      <Point X="654.5" Y="1233.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id8c724b81">
+    <Comment>Stimulation with androgen induces the interaction of SMAD4 with DB and LB domains of AR in LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="1091.0410249791462" Y="1295.0431593193439" GraphRef="b76b4" RelX="0.0" RelY="-1.0" />
+      <Point X="1091.0" Y="1251.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id91a54820">
+    <Comment>Stimulation with androgen induces the interaction PAK6 with DB and LB domain of AR in CV1 cells. PAK6 is an activator of AR. </Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="255.90277777777771" Y="1360.8796296296289" GraphRef="fc689" RelX="0.0" RelY="-1.0" />
+      <Point X="255.0" Y="1253.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id91e4c794">
+    <Comment>Stimulation with Androgen induces the interaction of SP1 with AR in LNCaP-FGC and SK-N-BE(2)-C cells. </Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="524.5" Y="1397.25" GraphRef="f5671" RelX="0.0" RelY="-1.0" />
+      <Point X="524.0" Y="1253.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id9aee4d8e">
+    <Comment>Stimulation with DHT induces the interaction between  Androgen Receptor and PRDX1 in COS-7 cells.  </Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="782.3433098591555" Y="1160.8415492957752" GraphRef="c0cd8" RelX="0.0" RelY="1.0" />
+      <Point X="782.3433098591555" Y="1231.5915492957752" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ida26596e3">
+    <Comment>Stimulation with DHT induces interaction of AR with CREB and this interaction is mediated by CBP in COS 7 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="283.125" Y="1158.0" GraphRef="ccd89" RelX="0.0" RelY="1.0" />
+      <Point X="283.25" Y="1236.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ida68e519">
+    <Comment>Ligand binding domain of AR interacts with RAD9 in 293T cells and CWR22R cell lines.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="1023.875" Y="1161.75" GraphRef="b34d5" RelX="0.0" RelY="1.0" />
+      <Point X="1023.75" Y="1232.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idafb0848c">
+    <Comment>Stimulation with DHT induces the interaction of FKBP52 with AR in rabbit reticulocyte.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="681.172619047619" Y="854.3690476190475" GraphRef="b7713" RelX="0.0" RelY="1.0" />
+      <Point X="681.75" Y="907.9999999999998" GraphRef="c0d24" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idb807edaf">
+    <Comment>Activation of RhoA/B and ROCK is implicated in membrane androgen receptor-dependent actin polymerization. </Comment>
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="363.0" Y="824.75" GraphRef="d725a" RelX="0.0" RelY="1.0" />
+      <Point X="363.4523809523818" Y="861.8928571428578" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idb8441377">
+    <Comment>DHT stimulation induces the interaction of PIAS3 with AR in LNCaP cells. PIAS3 acts as both activator and repressor of AR.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="705.875" Y="1379.75" GraphRef="ac25d" RelX="0.0" RelY="-1.0" />
+      <Point X="705.875" Y="1252.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idb86f9997">
+    <Comment> AR interacts with RNF4 in CV-1 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="452.125" Y="1304.75" GraphRef="b686d" RelX="0.0" RelY="-1.0" />
+      <Point X="452.0" Y="1253.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idb8dfe085">
+    <Comment>Androgen stimulates the interaction between Androgen receptor and PARK7 in LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="798.870084527745" Y="1289.6163175303188" GraphRef="e7ec8" RelX="0.0" RelY="-1.0" />
+      <Point X="798.6666666666665" Y="1253.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idb9239cbc">
+    <Comment>Stimulation with R1881 induces interaction between E6-AP and androgen receptor in prostrate cancer cell lines.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="156.37301587301596" Y="1345.4642857142856" GraphRef="ff008" RelX="0.0" RelY="-1.0" />
+      <Point X="156.19047619047618" Y="1254.2857142857142" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idc42b1416" GroupRef="e2974">
+    <Comment>DHT and testosterone induces activation of Rac1and CDC42  in LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="490.0" Y="543.0" GraphRef="cc3a2" RelX="-0.5" RelY="-1.0" />
+      <Point X="448.375" Y="543.75" GraphRef="e0c94" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idca378db2">
+    <Comment>CARM1 an activator of AR interacts with AR.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="85.75" Y="1243.25" GraphRef="d880c" RelX="1.0" RelY="0.0" />
+      <Point X="117.0" Y="1243.75" GraphRef="bb42d" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd49453fd">
+    <Comment>Stimulation with androgen receptor with DHT induces the interaction of androgen receptor with FHL2 in CV1 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="180.2176087801087" Y="1294.5" GraphRef="c78d2" RelX="0.0" RelY="-1.0" />
+      <Point X="180.0" Y="1253.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd9f40839">
+    <Comment>Testosterone stimulation leads to the activation of ROCK1 in DU145 and LNCaP cells.</Comment>
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="363.0" Y="644.25" GraphRef="b470f" RelX="0.0" RelY="1.0" />
+      <Point X="363.5" Y="669.0" GraphRef="c9351" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idda102e90">
+    <Comment>RNF6, an coactivator of AR induces the expression of RLN1.</Comment>
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="494.125" Y="1375.75" GraphRef="acb7d" RelX="0.0" RelY="1.0" />
+      <Point X="494.8400668286756" Y="1461.25" GraphRef="ce15e" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="iddc5a7b9d">
+    <Comment>Stimulation with Androgen indices the interaction of iDNA binding domain of Androgen receptor interacts with LXXLL motifs of PIAS1 in COS-1 cells. PIAS1 acts as both coactivator and repressor of androgen receptor.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="665.625" Y="1353.75" GraphRef="b8d76" RelX="0.0" RelY="-1.0" />
+      <Point X="665.0" Y="1252.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idf1dfb16a">
+    <Comment>Stimulation with DHT induces the interaction of DNA binding domain of AR with PST and RUNT domians of RUNX2 in MC3T3-E1 and PC3 cells. AR abrogates RUNX2 its recruitment to DNA.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="417.5145502645504" Y="1337.6402116402116" GraphRef="bb724" RelX="0.0" RelY="-1.0" />
+      <Point X="417.1428571428571" Y="1254.2857142857142" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idf7029af2">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
       <Point X="450.04255696846684" Y="1365.75" GraphRef="da542" RelX="0.0" RelY="0.0" />
       <Point X="450.125" Y="1496.75" GraphRef="de498" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idf7658b1b">
+    <Comment>PCAF acetylates AR at Lys-631, Lys-633, Lys-634by and thus enhances AR activity. </Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="ffcc33">
+      <Point X="531.125" Y="1163.75" GraphRef="c4e8b" RelX="0.0" RelY="1.0" />
+      <Point X="531.125" Y="1233.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idfb137e1d">
+    <Comment>Stimulation with synthetic androgen R1881 induces the interaction of AR with EGFR in PC3 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="866.0" Y="385.9999999999998" GraphRef="ecb1d" RelX="1.0" RelY="0.0" />
+      <Point X="921.75" Y="386.75" GraphRef="cb4ac" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1185,181 +1187,6 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="bcfbf">
-    <Graphics ZOrder="33671" LineThickness="2.0">
-      <Point X="1182.999999999997" Y="603.4652880354461" />
-      <Point X="1203.9999999999964" Y="603.4652880354461" ArrowHead="TBar" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="f7990">
-    <Graphics ZOrder="33672" LineThickness="2.0">
-      <Point X="1211.6666666666642" Y="547.79862136878" />
-      <Point X="1211.6666666666642" Y="537.79862136878" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="a194b">
-    <Graphics ZOrder="33673" LineThickness="2.0" Color="00cc00">
-      <Point X="1181.6666666666642" Y="542.79862136878" />
-      <Point X="1240.6666666666642" Y="542.79862136878" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e00e1">
-    <Graphics ZOrder="33684" LineThickness="2.0" Color="ff0033">
-      <Point X="1183.999999999997" Y="887.9999999999945" />
-      <Point X="1248.9999999999964" Y="887.9999999999945" ArrowHead="mim-inhibition" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="fb8b2">
-    <Graphics ZOrder="33685" LineThickness="2.0" Color="9900cc">
-      <Point X="1183.999999999997" Y="788.9999999999945" />
-      <Point X="1241.9999999999964" Y="789.5024647292369" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="c9fbc">
-    <Graphics ZOrder="33686" LineThickness="2.0" Color="cc00cc">
-      <Point X="1183.999999999997" Y="769.6582084822985" />
-      <Point X="1241.9999999999964" Y="769.6582084822985" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="bc9d4">
-    <Graphics ZOrder="33687" LineThickness="2.0" Color="999900">
-      <Point X="1183.999999999997" Y="729.6593972779065" />
-      <Point X="1241.9999999999964" Y="729.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="dabe4">
-    <Graphics ZOrder="33688" LineStyle="Broken" LineThickness="2.0" Color="00cccc">
-      <Point X="1184.9999999999968" Y="907.9999999999945" />
-      <Point X="1242.9999999999964" Y="908.5012759336287" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="d1eee">
-    <Graphics ZOrder="33689" LineThickness="2.0" Color="00ffff">
-      <Point X="1183.999999999997" Y="709.6593972779065" />
-      <Point X="1241.9999999999964" Y="709.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="b38a8">
-    <Graphics ZOrder="33690" LineThickness="2.0" Color="ffcc33">
-      <Point X="1183.999999999997" Y="648.9999999999945" />
-      <Point X="1242.0000017000161" Y="649.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="dbecb">
-    <Graphics ZOrder="33691" LineThickness="3.0">
-      <Point X="1284.0952380952347" Y="437.04761904761654" GraphRef="f450c" RelX="0.0" RelY="1.0" />
-      <Point X="1284.428571428568" Y="463.6666666666631" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="eede0">
-    <Graphics ZOrder="33709" LineThickness="2.0" Color="0000ff">
-      <Point X="1183.999999999997" Y="689.6593972779065" />
-      <Point X="1241.9999999999964" Y="689.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="d8276">
-    <Graphics ZOrder="33710" LineThickness="2.0" Color="ff9933">
-      <Point X="1183.999999999997" Y="669.6593972779065" />
-      <Point X="1241.9999999999964" Y="669.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ab379">
-    <Graphics ZOrder="33717" LineThickness="2.0" Color="cccc00">
-      <Point X="1182.999999999997" Y="748.9999999999945" />
-      <Point X="1241.9999999999964" Y="749.5036535248448" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="f9de5">
-    <Graphics ZOrder="33719" LineThickness="2.0" Color="770000">
-      <Point X="1183.999999999997" Y="809.6570196866903" />
-      <Point X="1241.9999999999964" Y="809.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e93c5">
-    <Graphics ZOrder="33721" LineThickness="2.0" Color="775200">
-      <Point X="1183.999999999997" Y="829.6570196866903" />
-      <Point X="1241.9999999999964" Y="829.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="f20bb">
-    <Graphics ZOrder="33723" LineThickness="2.0" Color="ff6666">
-      <Point X="1183.999999999997" Y="849.6570196866903" />
-      <Point X="1241.9999999999964" Y="849.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ded37">
-    <Graphics ZOrder="33737" LineThickness="2.0" Color="999999">
-      <Point X="1183.999999999997" Y="869.6570196866903" />
-      <Point X="1241.9999999999964" Y="869.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="eb8be">
-    <Graphics ZOrder="33739" LineThickness="2.0">
-      <Point X="1201.9999999999964" Y="603.4652880354461" />
-      <Point X="1239.6666666666642" Y="603.79862136878" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="cd278">
-    <Graphics ZOrder="33740" LineThickness="2.0">
-      <Point X="1182.999999999997" Y="580.9999999999958" />
-      <Point X="1240.9999999999964" Y="580.9999999999958" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e8a48">
-    <Graphics ZOrder="33741" LineThickness="2.0" Color="00cc00">
-      <Point X="1182.999999999997" Y="520.9999999999964" />
-      <Point X="1240.9999999999964" Y="520.9999999999964" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="d7906">
-    <Graphics ZOrder="33742" LineStyle="Broken" LineThickness="2.0">
-      <Point X="1182.999999999997" Y="562.9999999999961" />
-      <Point X="1240.9999999999964" Y="562.9999999999961" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e1e0b">
-    <Graphics ZOrder="33743" LineThickness="2.0">
-      <Point X="1230.3333333333298" Y="629.3333333333275" />
-      <Point X="1236.9999999999964" Y="635.9999999999939" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="f512c">
-    <Graphics ZOrder="33746" LineThickness="2.0" Color="ff00ff">
-      <Point X="1238.4837201898356" Y="1025.0887265873953" />
-      <Point X="1238.4837201898356" Y="1050.0887265873953" ArrowHead="mim-conversion" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="d995c">
-    <Graphics ZOrder="33747" LineThickness="2.0" Color="ff00ff">
-      <Point X="1238.4546258735204" Y="1036.8977880629868" />
-      <Point X="1238.4546258735204" Y="1016.0266446873065" ArrowHead="mim-conversion" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="db4eb">
     <Graphics ZOrder="33748" LineThickness="3.0" Color="ff3399">
       <Point X="1209.9999999999977" Y="438.465288035447" GraphRef="ffadf" RelX="0.0" RelY="1.0" />
@@ -1367,14 +1194,164 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Label TextLabel="Androgen" GraphId="fb680" GroupRef="c8a56">
-    <Graphics CenterX="622.0" CenterY="264.83333333333314" Width="80.0" Height="19.0" ZOrder="28672" FillColor="00ffff" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="Rectangle" />
-  </Label>
+  <GraphicalLine GraphId="a6263">
+    <Graphics ZOrder="33671" LineThickness="2.0">
+      <Point X="1182.999999999997" Y="603.4652880354461" />
+      <Point X="1203.9999999999964" Y="603.4652880354461" ArrowHead="TBar" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a8cf7">
+    <Graphics ZOrder="33672" LineThickness="2.0">
+      <Point X="1211.6666666666642" Y="547.79862136878" />
+      <Point X="1211.6666666666642" Y="537.79862136878" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f06b7">
+    <Graphics ZOrder="33673" LineThickness="2.0" Color="00cc00">
+      <Point X="1181.6666666666642" Y="542.79862136878" />
+      <Point X="1240.6666666666642" Y="542.79862136878" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ba0c8">
+    <Graphics ZOrder="33684" LineThickness="2.0" Color="ff0033">
+      <Point X="1183.999999999997" Y="887.9999999999945" />
+      <Point X="1248.9999999999964" Y="887.9999999999945" ArrowHead="mim-inhibition" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c8373">
+    <Graphics ZOrder="33685" LineThickness="2.0" Color="9900cc">
+      <Point X="1183.999999999997" Y="788.9999999999945" />
+      <Point X="1241.9999999999964" Y="789.5024647292369" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e916c">
+    <Graphics ZOrder="33686" LineThickness="2.0" Color="cc00cc">
+      <Point X="1183.999999999997" Y="769.6582084822985" />
+      <Point X="1241.9999999999964" Y="769.6582084822985" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f8b2e">
+    <Graphics ZOrder="33687" LineThickness="2.0" Color="999900">
+      <Point X="1183.999999999997" Y="729.6593972779065" />
+      <Point X="1241.9999999999964" Y="729.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ec7fb">
+    <Graphics ZOrder="33688" LineStyle="Broken" LineThickness="2.0" Color="00cccc">
+      <Point X="1184.9999999999968" Y="907.9999999999945" />
+      <Point X="1242.9999999999964" Y="908.5012759336287" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e23c4">
+    <Graphics ZOrder="33689" LineThickness="2.0" Color="00ffff">
+      <Point X="1183.999999999997" Y="709.6593972779065" />
+      <Point X="1241.9999999999964" Y="709.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="fcb95">
+    <Graphics ZOrder="33690" LineThickness="2.0" Color="ffcc33">
+      <Point X="1183.999999999997" Y="648.9999999999945" />
+      <Point X="1242.0000017000161" Y="649.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f4af1">
+    <Graphics ZOrder="33691" LineThickness="3.0">
+      <Point X="1284.0952380952347" Y="421.54761904761654" GraphRef="f450c" RelX="0.0" RelY="0.0" />
+      <Point X="1284.428571428568" Y="463.6666666666631" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f20af">
+    <Graphics ZOrder="33709" LineThickness="2.0" Color="0000ff">
+      <Point X="1183.999999999997" Y="689.6593972779065" />
+      <Point X="1241.9999999999964" Y="689.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ce0f8">
+    <Graphics ZOrder="33710" LineThickness="2.0" Color="ff9933">
+      <Point X="1183.999999999997" Y="669.6593972779065" />
+      <Point X="1241.9999999999964" Y="669.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e5262">
+    <Graphics ZOrder="33717" LineThickness="2.0" Color="cccc00">
+      <Point X="1182.999999999997" Y="748.9999999999945" />
+      <Point X="1241.9999999999964" Y="749.5036535248448" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="de412">
+    <Graphics ZOrder="33719" LineThickness="2.0" Color="770000">
+      <Point X="1183.999999999997" Y="809.6570196866903" />
+      <Point X="1241.9999999999964" Y="809.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ebe6a">
+    <Graphics ZOrder="33721" LineThickness="2.0" Color="775200">
+      <Point X="1183.999999999997" Y="829.6570196866903" />
+      <Point X="1241.9999999999964" Y="829.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ce548">
+    <Graphics ZOrder="33723" LineThickness="2.0" Color="ff6666">
+      <Point X="1183.999999999997" Y="849.6570196866903" />
+      <Point X="1241.9999999999964" Y="849.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="dc4bd">
+    <Graphics ZOrder="33737" LineThickness="2.0" Color="999999">
+      <Point X="1183.999999999997" Y="869.6570196866903" />
+      <Point X="1241.9999999999964" Y="869.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="b5299">
+    <Graphics ZOrder="33739" LineThickness="2.0">
+      <Point X="1201.9999999999964" Y="603.4652880354461" />
+      <Point X="1239.6666666666642" Y="603.79862136878" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c1184">
+    <Graphics ZOrder="33740" LineThickness="2.0">
+      <Point X="1182.999999999997" Y="580.9999999999958" />
+      <Point X="1240.9999999999964" Y="580.9999999999958" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d54ce">
+    <Graphics ZOrder="33741" LineThickness="2.0" Color="00cc00">
+      <Point X="1182.999999999997" Y="520.9999999999964" />
+      <Point X="1240.9999999999964" Y="520.9999999999964" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f9319">
+    <Graphics ZOrder="33742" LineStyle="Broken" LineThickness="2.0">
+      <Point X="1182.999999999997" Y="562.9999999999961" />
+      <Point X="1240.9999999999964" Y="562.9999999999961" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d83a5">
+    <Graphics ZOrder="33743" LineThickness="2.0">
+      <Point X="1230.3333333333298" Y="629.3333333333275" />
+      <Point X="1236.9999999999964" Y="635.9999999999939" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="cded2">
+    <Graphics ZOrder="33746" LineThickness="2.0" Color="ff00ff">
+      <Point X="1238.4837201898356" Y="1025.0887265873953" />
+      <Point X="1238.4837201898356" Y="1050.0887265873953" ArrowHead="mim-conversion" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="fb820">
+    <Graphics ZOrder="33747" LineThickness="2.0" Color="ff00ff">
+      <Point X="1238.4546258735204" Y="1036.8977880629868" />
+      <Point X="1238.4546258735204" Y="1016.0266446873065" ArrowHead="mim-conversion" />
+    </Graphics>
+  </GraphicalLine>
   <Label TextLabel="Androgen Receptor Signaling Pathway" GraphId="cf2a6">
     <Graphics CenterX="623.1904761904763" CenterY="159.61904761904762" Width="382.857142857143" Height="36.19047619047619" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="18" Valign="Middle" />
   </Label>
   <Label TextLabel="Actin polymerization" GraphId="e9671">
     <Graphics CenterX="364.4282238442805" CenterY="873.4793187347941" Width="168.95377128953777" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="ff3300" />
+  </Label>
+  <Label TextLabel="Androgen" GraphId="fb680" GroupRef="c8a56">
+    <Graphics CenterX="622.0" CenterY="264.83333333333314" Width="80.0" Height="19.0" ZOrder="28672" FillColor="00ffff" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="Rectangle" />
   </Label>
   <Label TextLabel="NU" GraphId="f44d8">
     <Graphics CenterX="639.0952380952381" CenterY="1056.0" Width="26.0" Height="20.0" ZOrder="28674" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff00ff" />
@@ -1602,17 +1579,17 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   <Shape GraphId="be869">
     <Graphics CenterX="1240.6666666666642" CenterY="939.79862136878" Width="14.0" Height="14.0" ZOrder="33750" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
-  <Group GroupId="c5dfb" GraphId="b7ab5" Style="Group" />
-  <Group GroupId="b586f" GraphId="de840" Style="Group" />
-  <Group GroupId="e2974" GraphId="d8b69" Style="Group" />
   <Group GroupId="f62b3" GraphId="aa5a4" Style="Group" />
+  <Group GroupId="b4a9b" GraphId="b71f7" Style="Group" />
+  <Group GroupId="c5dfb" GraphId="b7ab5" Style="Group" />
+  <Group GroupId="cc66c" GraphId="be29e" Style="Group" />
+  <Group GroupId="f2781" GraphId="c0dea" Style="Group" />
+  <Group GroupId="e50ce" GraphId="c1f51" Style="Group" />
   <Group GroupId="ea234" GraphId="c3c9e" Style="Group" />
   <Group GroupId="a2900" GraphId="c43e9" Style="Group" />
-  <Group GroupId="f2781" GraphId="c0dea" Style="Group" />
-  <Group GroupId="b4a9b" GraphId="b71f7" Style="Group" />
-  <Group GroupId="e50ce" GraphId="c1f51" Style="Group" />
-  <Group GroupId="cc66c" GraphId="be29e" Style="Group" />
   <Group GroupId="c8a56" GraphId="c8bd1" Style="Group" />
+  <Group GroupId="e2974" GraphId="d8b69" Style="Group" />
+  <Group GroupId="b586f" GraphId="de840" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">

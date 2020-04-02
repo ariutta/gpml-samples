@@ -12631,5 +12631,5 @@ Meanwhile ATM is activated by damage-induced rapid intermolecular autophosphoryl
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hottiger MO</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HÃƒÂ¼bscher U</bp:AUTHORS>
     </bp:PublicationXref>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer</bp:TERM><bp:ID>DOID:162</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

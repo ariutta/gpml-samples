@@ -48,45 +48,25 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics CenterX="437.5918113398309" CenterY="689.2747014115092" Width="53.999999999997655" Height="20.0" ZOrder="28714" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3845" />
   </DataNode>
-  <DataNode TextLabel="JAK1&#xA;" GraphId="cfddd" Type="Protein">
-    <Graphics CenterX="197.85342019543964" CenterY="556.75" Width="46.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="3716" />
-  </DataNode>
-  <DataNode TextLabel="JAK2" GraphId="de508" Type="Protein">
-    <Graphics CenterX="133.85342019543964" CenterY="556.75" Width="56.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="3717" />
-  </DataNode>
-  <DataNode TextLabel="LYN" GraphId="e614f" Type="Protein">
-    <Graphics CenterX="238.92671009771982" CenterY="502.91666666666674" Width="42.14657980456036" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="4067" />
-  </DataNode>
-  <DataNode TextLabel="PTPN11" GraphId="f224d" Type="Protein">
-    <Graphics CenterX="437.71301656004346" CenterY="508.75" Width="50.5" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5781" />
-  </DataNode>
-  <DataNode TextLabel="PIK3R1" GraphId="b377d" Type="Protein" GroupRef="f1df1">
-    <Graphics CenterX="361.6034201954397" CenterY="564.5" Width="56.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5295" />
-  </DataNode>
   <DataNode TextLabel="PIK3R2" GraphId="aa3da" Type="Protein" GroupRef="f1df1">
     <Graphics CenterX="361.6034201954397" CenterY="588.8333333333334" Width="56.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5296" />
-  </DataNode>
-  <DataNode TextLabel="PIK3CG" GraphId="d9a40" Type="GeneProduct" GroupRef="f1df1">
-    <Graphics CenterX="361.10342019543964" CenterY="612.1666666666667" Width="56.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5294" />
-  </DataNode>
-  <DataNode TextLabel="ELK1" GraphId="f8e9d" Type="Protein">
-    <Graphics CenterX="400.3418113398292" CenterY="999.9413680781754" Width="48.5" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="2002" />
   </DataNode>
   <DataNode TextLabel="BTK" GraphId="af7e1" Type="Protein">
     <Graphics CenterX="265.9267100977198" CenterY="614.25" Width="34.14657980456036" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="695" />
   </DataNode>
+  <DataNode TextLabel="PIK3R1" GraphId="b377d" Type="Protein" GroupRef="f1df1">
+    <Graphics CenterX="361.6034201954397" CenterY="564.5" Width="56.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5295" />
+  </DataNode>
   <DataNode TextLabel="RPS6KA1" GraphId="c8220" Type="Protein" GroupRef="f6907">
     <Graphics CenterX="278.35342019543964" CenterY="887.7115950018378" Width="71.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="6195" />
+  </DataNode>
+  <DataNode TextLabel="JAK1&#xA;" GraphId="cfddd" Type="Protein">
+    <Graphics CenterX="197.85342019543964" CenterY="556.75" Width="46.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="3716" />
   </DataNode>
   <DataNode TextLabel="GSK3A" GraphId="d23ea" Type="Protein">
     <Graphics CenterX="203.10342019544078" CenterY="813.9166666666665" Width="61.5" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -96,9 +76,29 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics CenterX="354.85342019544055" CenterY="814.4166666666661" Width="60.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2932" />
   </DataNode>
+  <DataNode TextLabel="PIK3CG" GraphId="d9a40" Type="GeneProduct" GroupRef="f1df1">
+    <Graphics CenterX="361.10342019543964" CenterY="612.1666666666667" Width="56.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5294" />
+  </DataNode>
+  <DataNode TextLabel="JAK2" GraphId="de508" Type="Protein">
+    <Graphics CenterX="133.85342019543964" CenterY="556.75" Width="56.0" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="3717" />
+  </DataNode>
+  <DataNode TextLabel="LYN" GraphId="e614f" Type="Protein">
+    <Graphics CenterX="238.92671009771982" CenterY="502.91666666666674" Width="42.14657980456036" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="4067" />
+  </DataNode>
   <DataNode TextLabel="SPRED1" GraphId="e7209" Type="Protein">
     <Graphics CenterX="511.41781568294607" CenterY="752.5247014115095" Width="57.833333333335986" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="161742" />
+  </DataNode>
+  <DataNode TextLabel="PTPN11" GraphId="f224d" Type="Protein">
+    <Graphics CenterX="437.71301656004346" CenterY="508.75" Width="50.5" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5781" />
+  </DataNode>
+  <DataNode TextLabel="ELK1" GraphId="f8e9d" Type="Protein">
+    <Graphics CenterX="400.3418113398292" CenterY="999.9413680781754" Width="48.5" Height="20.0" ZOrder="32768" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="2002" />
   </DataNode>
   <DataNode TextLabel="MAP2K2" GraphId="c8df0" Type="Protein" GroupRef="d4355">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MAP2K2" />
@@ -130,12 +130,6 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics CenterX="79.35342019543964" CenterY="1104.5657166482913" Width="65.0" Height="20.0" ZOrder="32798" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="6777" />
   </DataNode>
-  <DataNode TextLabel="RPS6" GraphId="a8736" Type="Protein">
-    <Attribute Key="org.pathvisio.model.BackpageHead" Value="STAT3" />
-    <Attribute Key="org.pathvisio.model.GenMAPP-Xref" Value="" />
-    <Graphics CenterX="278.1867535287731" CenterY="1001.0" Width="50.0" Height="20.0" ZOrder="32822" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="6194" />
-  </DataNode>
   <DataNode TextLabel="JUN" GraphId="a41e8" Type="Rna">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="STAT3" />
     <Attribute Key="org.pathvisio.model.GenMAPP-Xref" Value="" />
@@ -147,6 +141,12 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Attribute Key="org.pathvisio.model.GenMAPP-Xref" Value="" />
     <Graphics CenterX="279.6193554096509" CenterY="1212.0" Width="50.0" Height="20.0" ZOrder="32822" FontName="SansSerif" FontStyle="Italic" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="596" />
+  </DataNode>
+  <DataNode TextLabel="RPS6" GraphId="a8736" Type="Protein">
+    <Attribute Key="org.pathvisio.model.BackpageHead" Value="STAT3" />
+    <Attribute Key="org.pathvisio.model.GenMAPP-Xref" Value="" />
+    <Graphics CenterX="278.1867535287731" CenterY="1001.0" Width="50.0" Height="20.0" ZOrder="32822" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="6194" />
   </DataNode>
   <DataNode TextLabel="FOS" GraphId="ad6ed" Type="Rna">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="STAT3" />
@@ -190,11 +190,11 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics CenterX="133.35342019543964" CenterY="405.0" Width="77.0" Height="20.0" ZOrder="32876" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3568" />
   </DataNode>
-  <DataNode TextLabel="CSF2RB" GraphId="fec1b" Type="Protein" GroupRef="a0055">
+  <DataNode TextLabel="IL5RA" GraphId="d1cf1" Type="Protein" GroupRef="a0055">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IL6R" />
     <Attribute Key="org.pathvisio.model.GenMAPP-Xref" Value="" />
-    <Graphics CenterX="209.35342019543964" CenterY="405.0" Width="77.0" Height="20.0" ZOrder="32876" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1439" />
+    <Graphics CenterX="361.35342019544" CenterY="405.0" Width="77.0" Height="20.0" ZOrder="32876" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="3568" />
   </DataNode>
   <DataNode TextLabel="CSF2RB" GraphId="d3ce8" Type="Protein" GroupRef="a0055">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IL6R" />
@@ -202,11 +202,11 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics CenterX="284.35342019543964" CenterY="405.0" Width="77.0" Height="20.0" ZOrder="32876" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1439" />
   </DataNode>
-  <DataNode TextLabel="IL5RA" GraphId="d1cf1" Type="Protein" GroupRef="a0055">
+  <DataNode TextLabel="CSF2RB" GraphId="fec1b" Type="Protein" GroupRef="a0055">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IL6R" />
     <Attribute Key="org.pathvisio.model.GenMAPP-Xref" Value="" />
-    <Graphics CenterX="361.35342019544" CenterY="405.0" Width="77.0" Height="20.0" ZOrder="32876" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="3568" />
+    <Graphics CenterX="209.35342019543964" CenterY="405.0" Width="77.0" Height="20.0" ZOrder="32876" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="1439" />
   </DataNode>
   <DataNode TextLabel="STAT3" GraphId="b5eb5" Type="Protein">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="STAT3" />
@@ -291,14 +291,29 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics RelX="1.0" RelY="1.0" Width="22.499999999999545" Height="20.166666666666515" FillColor="ffff00" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
-  <State GraphRef="de508" TextLabel="P" GraphId="cedbb">
-    <Comment>IL-5 stimulation leads to phosphorylation of JAK2.</Comment>
-    <Graphics RelX="0.8214285714285714" RelY="1.0" Width="17.5" Height="17.5" FillColor="ffff00" ShapeType="Oval" />
+  <State GraphRef="f8e9d" TextLabel="P" GraphId="ad9e2">
+    <Comment>IL-5 stimulation leads to phosphorylation of transcription factor Elk1 in TF-1 cell line.</Comment>
+    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="cfddd" TextLabel="P" GraphId="c38d9">
     <Comment>IL-5 stimulation leads to phosphorylation of JAK1 in COS7 &amp; YY-Bu cells.</Comment>
     <Graphics RelX="0.7391304347826086" RelY="1.0" Width="17.5" Height="17.5" FillColor="ffff00" ShapeType="Oval" />
+    <Xref Database="" ID="" />
+  </State>
+  <State GraphRef="af7e1" TextLabel="P" GraphId="c75e5">
+    <Comment>IL-5 stimulation induces autophosphorylation of Btk on tyrosine residue 223 in Y16 cells.</Comment>
+    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
+    <Xref Database="" ID="" />
+  </State>
+  <State GraphRef="d5d91" TextLabel="P" GraphId="cc2ae">
+    <Comment>IL-5 stimulation leads to tyrosine phosphorylation of GSK3-beta on Ser 9 residue in TF-1 cell line.</Comment>
+    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
+    <Xref Database="" ID="" />
+  </State>
+  <State GraphRef="de508" TextLabel="P" GraphId="cedbb">
+    <Comment>IL-5 stimulation leads to phosphorylation of JAK2.</Comment>
+    <Graphics RelX="0.8214285714285714" RelY="1.0" Width="17.5" Height="17.5" FillColor="ffff00" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="f224d" TextLabel="P" GraphId="d0f93">
@@ -316,16 +331,6 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics RelX="1.0" RelY="1.0" Width="17.25" Height="16.25" FillColor="ffff00" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
-  <State GraphRef="f8e9d" TextLabel="P" GraphId="ad9e2">
-    <Comment>IL-5 stimulation leads to phosphorylation of transcription factor Elk1 in TF-1 cell line.</Comment>
-    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
-    <Xref Database="" ID="" />
-  </State>
-  <State GraphRef="af7e1" TextLabel="P" GraphId="c75e5">
-    <Comment>IL-5 stimulation induces autophosphorylation of Btk on tyrosine residue 223 in Y16 cells.</Comment>
-    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
-    <Xref Database="" ID="" />
-  </State>
   <State GraphRef="c8220" TextLabel="P" GraphId="e205d">
     <Comment>IL-5 stimulation leads to phosphorylation of ERK substrate RPS6KA1 in eosinophils.</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
@@ -333,11 +338,6 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   </State>
   <State GraphRef="d23ea" TextLabel="P" GraphId="f0551">
     <Comment>IL-5 stimulation leads to phosphorylation of GSK3-alpha on Serine 21 residue in TF-1 cell line.</Comment>
-    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
-    <Xref Database="" ID="" />
-  </State>
-  <State GraphRef="d5d91" TextLabel="P" GraphId="cc2ae">
-    <Comment>IL-5 stimulation leads to tyrosine phosphorylation of GSK3-beta on Ser 9 residue in TF-1 cell line.</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
@@ -361,14 +361,14 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics RelX="1.0" RelY="1.0" Width="14.666666666666515" Height="13.833333333333485" FillColor="ffff33" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
-  <State GraphRef="d3ce8" TextLabel="P" GraphId="d3d49">
-    <Comment>IL-5 stimulation induces tyrosine phosphorylation of the GM-CSF/IL-3/IL-5 receptor beta chain in TF-1 cells.</Comment>
-    <Graphics RelX="-1.0" RelY="1.0" Width="17.25" Height="17.75" FillColor="ffff00" ShapeType="Oval" />
-    <Xref Database="" ID="" />
-  </State>
   <State GraphRef="d1cf1" TextLabel="P" GraphId="b571c">
     <Comment>IL-5 stimulation leads to tyrosine phosphorylation of the IL5 receptor alpha subunit in eosinophils.</Comment>
     <Graphics RelX="-1.0" RelY="1.0" Width="16.5" Height="17.5" FillColor="ffff00" ShapeType="Oval" />
+    <Xref Database="" ID="" />
+  </State>
+  <State GraphRef="d3ce8" TextLabel="P" GraphId="d3d49">
+    <Comment>IL-5 stimulation induces tyrosine phosphorylation of the GM-CSF/IL-3/IL-5 receptor beta chain in TF-1 cells.</Comment>
+    <Graphics RelX="-1.0" RelY="1.0" Width="17.25" Height="17.75" FillColor="ffff00" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="fec1b" TextLabel="Ub" GraphId="facf1">
@@ -401,11 +401,79 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics RelX="1.0" RelY="1.0" Width="17.25" Height="17.25" FillColor="ffff00" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
-  <Interaction GraphId="idc216af12">
-    <Comment>IL-5 stimulation leads to binding of JAK2 with the IL5 receptor alpha subunit in eosinophils.</Comment>
+  <Interaction GraphId="b738e">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="278.1867535287731" Y="1011.0" GraphRef="a8736" RelX="0.0" RelY="1.0" />
+      <Point X="278.85342019543964" Y="1102.845644983462" GraphRef="ae48a" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="c1828">
+    <Graphics ZOrder="12288" LineThickness="3.0" Color="ff00ff">
+      <Point X="94.85342019543964" Y="1021.0" />
+      <Point X="95.35342019543964" Y="999.0" GraphRef="c4ec6" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="d52f7">
+    <Comment>Raf-1 on activation regulates ERKs through activation of MEKs. ERK is a positive regulator of c-fos induction.</Comment>
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="437.925144673168" Y="934.1154974314094" GraphRef="f143e" RelX="0.0" RelY="1.0" />
+      <Point X="437.462572336584" Y="1104.25618289299" GraphRef="cfcd9" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ed396">
+    <Graphics ZOrder="12288" LineThickness="3.0" Color="ff00ff">
+      <Point X="95.85342019543964" Y="1014.0" />
+      <Point X="94.85342019543964" Y="1032.0" GraphRef="a1aeb" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id14b1ced3">
+    <Comment>IL5 activation induces JUN expression through the ras/MAPK pathway in human airway smooth muscle cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0">
+      <Point X="473.8418113398293" Y="1141.9413680781752" GraphRef="d2c0d" RelX="0.5" RelY="1.0" />
+      <Point X="473.51515396144794" Y="1202.0" GraphRef="a41e8" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id21d534c6">
     <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="133.35342019543964" Y="415.0" GraphRef="bad8b" RelX="0.0" RelY="1.0" />
-      <Point X="133.85342019543964" Y="546.75" GraphRef="de508" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="437.6040587650392" Y="577.0" GraphRef="f426f" RelX="0.0" RelY="1.0" />
+      <Point X="437.5947995057801" Y="618.1018518518517" GraphRef="d6d4d" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id23800434">
+    <Comment>IL-5 stimulation induces activation of BTK in Y16 cells.</Comment>
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="265.10342019543964" Y="415.0" GraphRef="d3ce8" RelX="-0.5" RelY="1.0" />
+      <Point X="265.9267100977198" Y="604.25" GraphRef="af7e1" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id2c8f53cf">
+    <Comment>IL5 activation induces BCL2 expression in eosinophils.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0">
+      <Point X="279.35342019543964" Y="1139.845644983462" GraphRef="be8c6" RelX="0.0" RelY="1.0" />
+      <Point X="279.6193554096509" Y="1202.0" GraphRef="a77de" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id3c3d1a8">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="152.60342019543964" Y="415.0" GraphRef="bad8b" RelX="0.5" RelY="1.0" />
+      <Point X="169.47842019543964" Y="473.0" />
+      <Point X="186.35342019543964" Y="546.75" GraphRef="cfddd" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id41e0f25d">
+    <Comment>SPRED-1 interacts with RAF-1 and inhibits it in Y-16 cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="ff0033">
+      <Point X="482.5011490162781" Y="752.5247014115095" GraphRef="e7209" RelX="-1.0" RelY="0.0" />
+      <Point X="458.425144673163" Y="752.6080347448423" GraphRef="c4e09" RelX="1.0" RelY="0.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -418,24 +486,80 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="b738e">
+  <Interaction GraphId="id4664e8e6">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="361.10342019543964" Y="622.1666666666667" GraphRef="d9a40" RelX="0.0" RelY="1.0" />
+      <Point X="319.9784201954396" Y="671.0" />
+      <Point X="278.8534201954395" Y="724.6666666666665" GraphRef="f76d4" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id5852fd8b">
+    <Comment>IL-5 stimulation causes the activation of PI3K in eosinophils.</Comment>
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="278.1867535287731" Y="1011.0" GraphRef="a8736" RelX="0.0" RelY="1.0" />
-      <Point X="278.85342019543964" Y="1102.845644983462" GraphRef="ae48a" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="361.35342019544" Y="415.0" GraphRef="d1cf1" RelX="0.0" RelY="1.0" />
+      <Point X="361.6034201954397" Y="554.5" GraphRef="b377d" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="ed396">
-    <Graphics ZOrder="12288" LineThickness="3.0" Color="ff00ff">
-      <Point X="95.85342019543964" Y="1014.0" />
-      <Point X="94.85342019543964" Y="1032.0" GraphRef="a1aeb" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+  <Interaction GraphId="id5e4b019a">
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="79.38703364081783" Y="761.515406162465" GraphRef="d6daa" RelX="0.0" RelY="1.0" />
+      <Point X="79.20215969123805" Y="803.5574229691878" GraphRef="d1592" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="c1828">
-    <Graphics ZOrder="12288" LineThickness="3.0" Color="ff00ff">
-      <Point X="94.85342019543964" Y="1021.0" />
-      <Point X="95.35342019543964" Y="999.0" GraphRef="c4ec6" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+  <Interaction GraphId="id5f928d74">
+    <Comment>IL5 activation induces JAK2 mediated induction of MYC in he</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0">
+      <Point X="95.60342019543964" Y="1114.5657166482913" GraphRef="aa754" RelX="0.5" RelY="1.0" />
+      <Point X="95.7866606459159" Y="1170.0" GraphRef="e3f23" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id64330c6e">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="133.85342019543964" Y="566.75" GraphRef="de508" RelX="0.0" RelY="1.0" />
+      <Point X="133.52008686210615" Y="692.6666666666667" GraphRef="c6848" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id6a48a8b">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="204.19738688222475" Y="734.6666666666665" GraphRef="f01d0" RelX="0.0" RelY="0.0" />
+      <Point X="176.6920702054989" Y="734.0" />
+      <Point X="149.18675352877307" Y="874.666666666667" GraphRef="a53b0" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id6c1b12b8">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="105.85342019543964" Y="556.75" GraphRef="de508" RelX="-1.0" RelY="0.0" />
+      <Point X="79.38703364081783" Y="741.515406162465" GraphRef="d6daa" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id6f1af4ea">
+    <Comment>IL5 activation induces upregulation of FOS expression through the ras/MAPK pathway in human airway smooth muscle cells.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0">
+      <Point X="420.3418113398293" Y="1141.9413680781752" GraphRef="d2c0d" RelX="-0.5" RelY="1.0" />
+      <Point X="420.6837653628231" Y="1202.0" GraphRef="ad6ed" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id895fa1e7">
+    <Comment>IL-5 stimulation leads to upregulation of PIM-1 through JAK/STAT pathway in eosinophils.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0">
+      <Point X="63.10342019543964" Y="1114.5657166482913" GraphRef="aa754" RelX="-0.5" RelY="1.0" />
+      <Point X="63.85342019543964" Y="1201.0" GraphRef="f7f5c" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id8df00d4f">
+    <Comment>Binding of IL-5 to receptor stimulates STAT3 activation.Cytoplasmic proline-rich region of IL-5RÎ± and the box1 region of the Î²c subunit are essential for STAT3 activation. </Comment>
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="170.85342019543964" Y="405.0" GraphRef="fec1b" RelX="-1.0" RelY="0.0" />
+      <Point X="170.52008686210684" Y="640.0" GraphRef="b5eb5" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -456,128 +580,18 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id21d534c6">
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="437.6040587650392" Y="577.0" GraphRef="f426f" RelX="0.0" RelY="1.0" />
-      <Point X="437.5947995057801" Y="618.1018518518517" GraphRef="d6d4d" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="d52f7">
-    <Comment>Raf-1 on activation regulates ERKs through activation of MEKs. ERK is a positive regulator of c-fos induction.</Comment>
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="437.925144673168" Y="934.1154974314094" GraphRef="f143e" RelX="0.0" RelY="1.0" />
-      <Point X="437.462572336584" Y="1104.25618289299" GraphRef="cfcd9" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id5852fd8b">
-    <Comment>IL-5 stimulation causes the activation of PI3K in eosinophils.</Comment>
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="361.35342019544" Y="415.0" GraphRef="d1cf1" RelX="0.0" RelY="1.0" />
-      <Point X="361.6034201954397" Y="554.5" GraphRef="b377d" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id41e0f25d">
-    <Comment>SPRED-1 interacts with RAF-1 and inhibits it in Y-16 cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="ff0033">
-      <Point X="482.5011490162781" Y="752.5247014115095" GraphRef="e7209" RelX="-1.0" RelY="0.0" />
-      <Point X="458.425144673163" Y="752.6080347448423" GraphRef="c4e09" RelX="1.0" RelY="0.0" ArrowHead="TBar" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id64330c6e">
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="133.85342019543964" Y="566.75" GraphRef="de508" RelX="0.0" RelY="1.0" />
-      <Point X="133.52008686210615" Y="692.6666666666667" GraphRef="c6848" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id8df00d4f">
-    <Comment>Binding of IL-5 to receptor stimulates STAT3 activation.Cytoplasmic proline-rich region of IL-5Rα and the box1 region of the βc subunit are essential for STAT3 activation. </Comment>
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="170.85342019543964" Y="405.0" GraphRef="fec1b" RelX="-1.0" RelY="0.0" />
-      <Point X="170.52008686210684" Y="640.0" GraphRef="b5eb5" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id23800434">
-    <Comment>IL-5 stimulation induces activation of BTK in Y16 cells.</Comment>
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="265.10342019543964" Y="415.0" GraphRef="d3ce8" RelX="-0.5" RelY="1.0" />
-      <Point X="265.9267100977198" Y="604.25" GraphRef="af7e1" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id895fa1e7">
-    <Comment>IL-5 stimulation leads to upregulation of PIM-1 through JAK/STAT pathway in eosinophils.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0">
-      <Point X="63.10342019543964" Y="1114.5657166482913" GraphRef="aa754" RelX="-0.5" RelY="1.0" />
-      <Point X="63.85342019543964" Y="1201.0" GraphRef="f7f5c" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id5f928d74">
-    <Comment>IL5 activation induces JAK2 mediated induction of MYC in he</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0">
-      <Point X="95.60342019543964" Y="1114.5657166482913" GraphRef="aa754" RelX="0.5" RelY="1.0" />
-      <Point X="95.7866606459159" Y="1170.0" GraphRef="e3f23" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id6f1af4ea">
-    <Comment>IL5 activation induces upregulation of FOS expression through the ras/MAPK pathway in human airway smooth muscle cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0">
-      <Point X="420.3418113398293" Y="1141.9413680781752" GraphRef="d2c0d" RelX="-0.5" RelY="1.0" />
-      <Point X="420.6837653628231" Y="1202.0" GraphRef="ad6ed" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id14b1ced3">
-    <Comment>IL5 activation induces JUN expression through the ras/MAPK pathway in human airway smooth muscle cells.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0">
-      <Point X="473.8418113398293" Y="1141.9413680781752" GraphRef="d2c0d" RelX="0.5" RelY="1.0" />
-      <Point X="473.51515396144794" Y="1202.0" GraphRef="a41e8" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id2c8f53cf">
-    <Comment>IL5 activation induces BCL2 expression in eosinophils.</Comment>
-    <Graphics ZOrder="12288" LineThickness="2.0">
-      <Point X="279.35342019543964" Y="1139.845644983462" GraphRef="be8c6" RelX="0.0" RelY="1.0" />
-      <Point X="279.6193554096509" Y="1202.0" GraphRef="a77de" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id3c3d1a8">
+  <Interaction GraphId="idb0b9a7e0">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="152.60342019543964" Y="415.0" GraphRef="bad8b" RelX="0.5" RelY="1.0" />
-      <Point X="169.47842019543964" Y="473.0" />
-      <Point X="186.35342019543964" Y="546.75" GraphRef="cfddd" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="260.0" Y="502.91666666666674" GraphRef="e614f" RelX="1.0" RelY="0.0" />
+      <Point X="285.39006514657973" Y="545.25" GraphRef="ed17c" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id6c1b12b8">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="105.85342019543964" Y="556.75" GraphRef="de508" RelX="-1.0" RelY="0.0" />
-      <Point X="79.38703364081783" Y="741.515406162465" GraphRef="d6daa" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id6a48a8b">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="204.19738688222475" Y="734.6666666666665" GraphRef="f01d0" RelX="0.0" RelY="0.0" />
-      <Point X="176.6920702054989" Y="734.0" />
-      <Point X="149.18675352877307" Y="874.666666666667" GraphRef="a53b0" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id4664e8e6">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="361.10342019543964" Y="622.1666666666667" GraphRef="d9a40" RelX="0.0" RelY="1.0" />
-      <Point X="319.9784201954396" Y="671.0" />
-      <Point X="278.8534201954395" Y="724.6666666666665" GraphRef="f76d4" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+  <Interaction GraphId="idc216af12">
+    <Comment>IL-5 stimulation leads to binding of JAK2 with the IL5 receptor alpha subunit in eosinophils.</Comment>
+    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="133.35342019543964" Y="415.0" GraphRef="bad8b" RelX="0.0" RelY="1.0" />
+      <Point X="133.85342019543964" Y="546.75" GraphRef="de508" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -585,22 +599,6 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="2.0" Color="00cc00">
       <Point X="461.6040587650392" Y="567.0" GraphRef="f426f" RelX="1.0" RelY="0.0" />
       <Point X="500.5392439502241" Y="618.1018518518517" GraphRef="f9bd1" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idf97218f">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="284.35342019543964" Y="415.0" GraphRef="d3ce8" RelX="0.0" RelY="1.0" />
-      <Point X="361.03321837774155" Y="473.0" />
-      <Point X="437.71301656004346" Y="498.75" GraphRef="f224d" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-      <Anchor Position="0.3294753836997247" Shape="None" GraphId="a3261" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idb0b9a7e0">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="260.0" Y="502.91666666666674" GraphRef="e614f" RelX="1.0" RelY="0.0" />
-      <Point X="285.39006514657973" Y="545.25" GraphRef="ed17c" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -612,10 +610,12 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id5e4b019a">
-    <Graphics ZOrder="12288" LineThickness="2.0" Color="00cc00">
-      <Point X="79.38703364081783" Y="761.515406162465" GraphRef="d6daa" RelX="0.0" RelY="1.0" />
-      <Point X="79.20215969123805" Y="803.5574229691878" GraphRef="d1592" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+  <Interaction GraphId="idf97218f">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="2.0" Color="00cc00">
+      <Point X="284.35342019543964" Y="415.0" GraphRef="d3ce8" RelX="0.0" RelY="1.0" />
+      <Point X="361.03321837774155" Y="473.0" />
+      <Point X="437.71301656004346" Y="498.75" GraphRef="f224d" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Anchor Position="0.3294753836997247" Shape="None" GraphId="a3261" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -663,11 +663,10 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="d6750" GroupRef="a0055">
-    <Comment>IL-5 binds to human IL5 receptor alpha subunit with much higher affinity.</Comment>
+  <Interaction GraphId="c6502" GroupRef="a0055">
     <Graphics ZOrder="12374" LineThickness="3.0">
-      <Point X="137.8995297383927" Y="349.29193442007573" GraphRef="de430" RelX="0.0" RelY="1.0" />
-      <Point X="133.35342019543964" Y="395.0" GraphRef="bad8b" RelX="0.0" RelY="-1.0" />
+      <Point X="288.11074918566766" Y="350.0" GraphRef="dcea2" RelX="0.0" RelY="1.0" />
+      <Point X="284.35342019543964" Y="395.0" GraphRef="d3ce8" RelX="0.0" RelY="-1.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -678,10 +677,11 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="c6502" GroupRef="a0055">
+  <Interaction GraphId="d6750" GroupRef="a0055">
+    <Comment>IL-5 binds to human IL5 receptor alpha subunit with much higher affinity.</Comment>
     <Graphics ZOrder="12374" LineThickness="3.0">
-      <Point X="288.11074918566766" Y="350.0" GraphRef="dcea2" RelX="0.0" RelY="1.0" />
-      <Point X="284.35342019543964" Y="395.0" GraphRef="d3ce8" RelX="0.0" RelY="-1.0" />
+      <Point X="137.8995297383927" Y="349.29193442007573" GraphRef="de430" RelX="0.0" RelY="1.0" />
+      <Point X="133.35342019543964" Y="395.0" GraphRef="bad8b" RelX="0.0" RelY="-1.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -767,181 +767,6 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="a21d2">
-    <Graphics ZOrder="33991" LineThickness="2.0">
-      <Point X="583.999999999997" Y="619.4652880354461" />
-      <Point X="604.9999999999964" Y="619.4652880354461" ArrowHead="TBar" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="a71d3">
-    <Graphics ZOrder="33992" LineThickness="2.0" Color="00cc00">
-      <Point X="582.6666666666642" Y="558.79862136878" />
-      <Point X="641.6666666666642" Y="558.79862136878" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e9cc2">
-    <Graphics ZOrder="33993" LineThickness="2.0">
-      <Point X="612.6666666666642" Y="563.79862136878" />
-      <Point X="612.6666666666642" Y="553.79862136878" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ce0a0">
-    <Graphics ZOrder="34004" LineThickness="2.0" Color="ff0033">
-      <Point X="584.999999999997" Y="903.9999999999945" />
-      <Point X="649.9999999999964" Y="903.9999999999945" ArrowHead="mim-inhibition" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="b989c">
-    <Graphics ZOrder="34005" LineThickness="2.0" Color="9900cc">
-      <Point X="584.999999999997" Y="804.9999999999945" />
-      <Point X="642.9999999999964" Y="805.5024647292369" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="bdc1a">
-    <Graphics ZOrder="34006" LineThickness="2.0" Color="cc00cc">
-      <Point X="584.999999999997" Y="785.6582084822985" />
-      <Point X="642.9999999999964" Y="785.6582084822985" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ff43b">
-    <Graphics ZOrder="34007" LineThickness="2.0" Color="999900">
-      <Point X="584.999999999997" Y="745.6593972779065" />
-      <Point X="642.9999999999964" Y="745.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="a331b">
-    <Graphics ZOrder="34008" LineStyle="Broken" LineThickness="2.0" Color="00cccc">
-      <Point X="585.9999999999968" Y="923.9999999999945" />
-      <Point X="643.9999999999964" Y="924.5012759336287" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e4884">
-    <Graphics ZOrder="34009" LineThickness="2.0" Color="00ffff">
-      <Point X="584.999999999997" Y="725.6593972779065" />
-      <Point X="642.9999999999964" Y="725.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="a3eeb">
-    <Graphics ZOrder="34010" LineThickness="2.0" Color="ffcc33">
-      <Point X="584.999999999997" Y="664.9999999999945" />
-      <Point X="643.0000017000161" Y="665.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ef30f">
-    <Graphics ZOrder="34011" LineThickness="3.0">
-      <Point X="685.0952380952347" Y="453.04761904761654" GraphRef="e6a27" RelX="0.0" RelY="1.0" />
-      <Point X="685.4285714285679" Y="479.6666666666631" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="b158d">
-    <Graphics ZOrder="34029" LineThickness="2.0" Color="0000ff">
-      <Point X="584.999999999997" Y="705.6593972779065" />
-      <Point X="642.9999999999964" Y="705.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e647c">
-    <Graphics ZOrder="34030" LineThickness="2.0" Color="ff9933">
-      <Point X="584.999999999997" Y="685.6593972779065" />
-      <Point X="642.9999999999964" Y="685.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="faa21">
-    <Graphics ZOrder="34037" LineThickness="2.0" Color="cccc00">
-      <Point X="583.999999999997" Y="764.9999999999945" />
-      <Point X="642.9999999999964" Y="765.5036535248448" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="a0cf2">
-    <Graphics ZOrder="34039" LineThickness="2.0" Color="770000">
-      <Point X="584.999999999997" Y="825.6570196866903" />
-      <Point X="642.9999999999964" Y="825.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e9a0b">
-    <Graphics ZOrder="34041" LineThickness="2.0" Color="775200">
-      <Point X="584.999999999997" Y="845.6570196866903" />
-      <Point X="642.9999999999964" Y="845.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="dc7c4">
-    <Graphics ZOrder="34043" LineThickness="2.0" Color="ff6666">
-      <Point X="584.999999999997" Y="865.6570196866903" />
-      <Point X="642.9999999999964" Y="865.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="a8d4c">
-    <Graphics ZOrder="34057" LineThickness="2.0" Color="999999">
-      <Point X="584.999999999997" Y="885.6570196866903" />
-      <Point X="642.9999999999964" Y="885.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="b3184">
-    <Graphics ZOrder="34059" LineThickness="2.0">
-      <Point X="602.9999999999964" Y="619.4652880354461" />
-      <Point X="640.6666666666642" Y="619.79862136878" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ff184">
-    <Graphics ZOrder="34060" LineThickness="2.0">
-      <Point X="583.999999999997" Y="596.9999999999958" />
-      <Point X="641.9999999999964" Y="596.9999999999958" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="db116">
-    <Graphics ZOrder="34061" LineThickness="2.0" Color="00cc00">
-      <Point X="583.999999999997" Y="536.9999999999964" />
-      <Point X="641.9999999999964" Y="536.9999999999964" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="f53d4">
-    <Graphics ZOrder="34062" LineStyle="Broken" LineThickness="2.0">
-      <Point X="583.999999999997" Y="578.9999999999961" />
-      <Point X="641.9999999999964" Y="578.9999999999961" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="fb6a5">
-    <Graphics ZOrder="34063" LineThickness="2.0">
-      <Point X="631.3333333333298" Y="645.3333333333275" />
-      <Point X="637.9999999999964" Y="651.9999999999939" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="c22c2">
-    <Graphics ZOrder="34066" LineThickness="2.0" Color="ff00ff">
-      <Point X="639.4837201898356" Y="1041.0887265873953" />
-      <Point X="639.4837201898356" Y="1066.0887265873953" ArrowHead="mim-conversion" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="b7a6d">
-    <Graphics ZOrder="34067" LineThickness="2.0" Color="ff00ff">
-      <Point X="639.4546258735204" Y="1052.8977880629868" />
-      <Point X="639.4546258735204" Y="1032.0266446873065" ArrowHead="mim-conversion" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="a7a7e">
     <Graphics ZOrder="34068" LineThickness="3.0" Color="ff3399">
       <Point X="610.9999999999977" Y="454.465288035447" GraphRef="c6cda" RelX="0.0" RelY="1.0" />
@@ -949,23 +774,173 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <GraphicalLine GraphId="ad296">
+    <Graphics ZOrder="33991" LineThickness="2.0">
+      <Point X="583.999999999997" Y="619.4652880354461" />
+      <Point X="604.9999999999964" Y="619.4652880354461" ArrowHead="TBar" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ec92f">
+    <Graphics ZOrder="33992" LineThickness="2.0" Color="00cc00">
+      <Point X="582.6666666666642" Y="558.79862136878" />
+      <Point X="641.6666666666642" Y="558.79862136878" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c4902">
+    <Graphics ZOrder="33993" LineThickness="2.0">
+      <Point X="612.6666666666642" Y="563.79862136878" />
+      <Point X="612.6666666666642" Y="553.79862136878" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a0bc2">
+    <Graphics ZOrder="34004" LineThickness="2.0" Color="ff0033">
+      <Point X="584.999999999997" Y="903.9999999999945" />
+      <Point X="649.9999999999964" Y="903.9999999999945" ArrowHead="mim-inhibition" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d16c3">
+    <Graphics ZOrder="34005" LineThickness="2.0" Color="9900cc">
+      <Point X="584.999999999997" Y="804.9999999999945" />
+      <Point X="642.9999999999964" Y="805.5024647292369" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="fc09a">
+    <Graphics ZOrder="34006" LineThickness="2.0" Color="cc00cc">
+      <Point X="584.999999999997" Y="785.6582084822985" />
+      <Point X="642.9999999999964" Y="785.6582084822985" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="dff1a">
+    <Graphics ZOrder="34007" LineThickness="2.0" Color="999900">
+      <Point X="584.999999999997" Y="745.6593972779065" />
+      <Point X="642.9999999999964" Y="745.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ffabf">
+    <Graphics ZOrder="34008" LineStyle="Broken" LineThickness="2.0" Color="00cccc">
+      <Point X="585.9999999999968" Y="923.9999999999945" />
+      <Point X="643.9999999999964" Y="924.5012759336287" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a7810">
+    <Graphics ZOrder="34009" LineThickness="2.0" Color="00ffff">
+      <Point X="584.999999999997" Y="725.6593972779065" />
+      <Point X="642.9999999999964" Y="725.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ac724">
+    <Graphics ZOrder="34010" LineThickness="2.0" Color="ffcc33">
+      <Point X="584.999999999997" Y="664.9999999999945" />
+      <Point X="643.0000017000161" Y="665.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c102c">
+    <Graphics ZOrder="34011" LineThickness="3.0">
+      <Point X="685.0952380952347" Y="437.54761904761654" GraphRef="e6a27" RelX="0.0" RelY="0.0" />
+      <Point X="685.4285714285679" Y="479.6666666666631" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="df210">
+    <Graphics ZOrder="34029" LineThickness="2.0" Color="0000ff">
+      <Point X="584.999999999997" Y="705.6593972779065" />
+      <Point X="642.9999999999964" Y="705.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f9b7e">
+    <Graphics ZOrder="34030" LineThickness="2.0" Color="ff9933">
+      <Point X="584.999999999997" Y="685.6593972779065" />
+      <Point X="642.9999999999964" Y="685.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f4149">
+    <Graphics ZOrder="34037" LineThickness="2.0" Color="cccc00">
+      <Point X="583.999999999997" Y="764.9999999999945" />
+      <Point X="642.9999999999964" Y="765.5036535248448" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="fb95b">
+    <Graphics ZOrder="34039" LineThickness="2.0" Color="770000">
+      <Point X="584.999999999997" Y="825.6570196866903" />
+      <Point X="642.9999999999964" Y="825.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="fcae2">
+    <Graphics ZOrder="34041" LineThickness="2.0" Color="775200">
+      <Point X="584.999999999997" Y="845.6570196866903" />
+      <Point X="642.9999999999964" Y="845.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f35b8">
+    <Graphics ZOrder="34043" LineThickness="2.0" Color="ff6666">
+      <Point X="584.999999999997" Y="865.6570196866903" />
+      <Point X="642.9999999999964" Y="865.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a350e">
+    <Graphics ZOrder="34057" LineThickness="2.0" Color="999999">
+      <Point X="584.999999999997" Y="885.6570196866903" />
+      <Point X="642.9999999999964" Y="885.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="cff6c">
+    <Graphics ZOrder="34059" LineThickness="2.0">
+      <Point X="602.9999999999964" Y="619.4652880354461" />
+      <Point X="640.6666666666642" Y="619.79862136878" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="df2ad">
+    <Graphics ZOrder="34060" LineThickness="2.0">
+      <Point X="583.999999999997" Y="596.9999999999958" />
+      <Point X="641.9999999999964" Y="596.9999999999958" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ab76b">
+    <Graphics ZOrder="34061" LineThickness="2.0" Color="00cc00">
+      <Point X="583.999999999997" Y="536.9999999999964" />
+      <Point X="641.9999999999964" Y="536.9999999999964" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f0dc7">
+    <Graphics ZOrder="34062" LineStyle="Broken" LineThickness="2.0">
+      <Point X="583.999999999997" Y="578.9999999999961" />
+      <Point X="641.9999999999964" Y="578.9999999999961" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f8b5b">
+    <Graphics ZOrder="34063" LineThickness="2.0">
+      <Point X="631.3333333333298" Y="645.3333333333275" />
+      <Point X="637.9999999999964" Y="651.9999999999939" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="af02f">
+    <Graphics ZOrder="34066" LineThickness="2.0" Color="ff00ff">
+      <Point X="639.4837201898356" Y="1041.0887265873953" />
+      <Point X="639.4837201898356" Y="1066.0887265873953" ArrowHead="mim-conversion" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a1bc3">
+    <Graphics ZOrder="34067" LineThickness="2.0" Color="ff00ff">
+      <Point X="639.4546258735204" Y="1052.8977880629868" />
+      <Point X="639.4546258735204" Y="1032.0266446873065" ArrowHead="mim-conversion" />
+    </Graphics>
+  </GraphicalLine>
+  <Label TextLabel="NU" GraphId="a1aeb">
+    <Graphics CenterX="94.85342019543964" CenterY="1042.0" Width="24.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff00ff" />
+  </Label>
+  <Label TextLabel="AKT dependent" GraphId="ae48a" GroupRef="b1a9d">
+    <Graphics CenterX="278.85342019543964" CenterY="1112.845644983462" Width="120.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff0000" />
+  </Label>
   <Label TextLabel="gene expression" GraphId="be8c6" GroupRef="b1a9d">
     <Graphics CenterX="279.35342019543964" CenterY="1129.845644983462" Width="107.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff0000" />
   </Label>
   <Label TextLabel="CY" GraphId="c4ec6">
     <Graphics CenterX="95.35342019543964" CenterY="989.0" Width="27.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff00ff" />
   </Label>
-  <Label TextLabel="NU" GraphId="a1aeb">
-    <Graphics CenterX="94.85342019543964" CenterY="1042.0" Width="24.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff00ff" />
+  <Label TextLabel="Ras-MAPK cascade dependent" GraphId="cfcd9" GroupRef="f6fde">
+    <Graphics CenterX="437.462572336584" CenterY="1114.25618289299" Width="190.925144673168" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff0000" />
   </Label>
   <Label TextLabel="gene expression" GraphId="d2c0d" GroupRef="f6fde">
     <Graphics CenterX="447.0918113398293" CenterY="1131.9413680781752" Width="107.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff0000" />
-  </Label>
-  <Label TextLabel="AKT dependent" GraphId="ae48a" GroupRef="b1a9d">
-    <Graphics CenterX="278.85342019543964" CenterY="1112.845644983462" Width="120.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff0000" />
-  </Label>
-  <Label TextLabel="Ras-MAPK cascade dependent" GraphId="cfcd9" GroupRef="f6fde">
-    <Graphics CenterX="437.462572336584" CenterY="1114.25618289299" Width="190.925144673168" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff0000" />
   </Label>
   <Label TextLabel="IL-5 Signaling Pathway" GraphId="d3ba7">
     <Graphics CenterX="254.0" CenterY="175.16666666666663" Width="264.0" Height="29.666666666666742" ZOrder="32984" FillColor="ffffff" FontName="SansSerif" FontWeight="Bold" FontSize="18" Valign="Middle" />
@@ -1136,8 +1111,8 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   <Shape GraphId="ed1fc" GroupRef="a0055">
     <Graphics CenterX="323.4267100977198" CenterY="328.5" Width="31.14657980456036" Height="33.0" ZOrder="16390" FillColor="ff3399" FontSize="10" Valign="Middle" ShapeType="Oval" Color="ff0066" Rotation="0.0" />
   </Shape>
-  <Shape GraphId="de430" GroupRef="a0055">
-    <Graphics CenterX="137.8995297383927" CenterY="330.9899153194669" Width="34.0" Height="35.98068444616499" ZOrder="16416" FontSize="10" Valign="Middle" ShapeType="Arc" LineThickness="3.0" Rotation="6.264668905111577" />
+  <Shape GraphId="a1f32" GroupRef="a0055">
+    <Graphics CenterX="357.8534201954399" CenterY="330.5" Width="34.0" Height="35.0" ZOrder="16416" FontSize="10" Valign="Middle" ShapeType="Arc" LineThickness="3.0" Rotation="0.0" />
   </Shape>
   <Shape GraphId="a4cbc" GroupRef="a0055">
     <Graphics CenterX="205.0029752274114" CenterY="331.9896174126746" Width="34.0" Height="37.98564138628082" ZOrder="16416" FontSize="10" Valign="Middle" ShapeType="Arc" LineThickness="3.0" Rotation="6.240354374510859" />
@@ -1145,8 +1120,8 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   <Shape GraphId="dcea2" GroupRef="a0055">
     <Graphics CenterX="288.11074918566766" CenterY="332.0" Width="34.0" Height="36.0" ZOrder="16416" FontSize="10" Valign="Middle" ShapeType="Arc" LineThickness="3.0" Rotation="0.0" />
   </Shape>
-  <Shape GraphId="a1f32" GroupRef="a0055">
-    <Graphics CenterX="357.8534201954399" CenterY="330.5" Width="34.0" Height="35.0" ZOrder="16416" FontSize="10" Valign="Middle" ShapeType="Arc" LineThickness="3.0" Rotation="0.0" />
+  <Shape GraphId="de430" GroupRef="a0055">
+    <Graphics CenterX="137.8995297383927" CenterY="330.9899153194669" Width="34.0" Height="35.98068444616499" ZOrder="16416" FontSize="10" Valign="Middle" ShapeType="Arc" LineThickness="3.0" Rotation="6.264668905111577" />
   </Shape>
   <Shape GraphId="f431d">
     <Comment>IL-5 stimulation leads to autophosphorylation of JAK2 in eosinophils.</Comment>
@@ -1174,26 +1149,16 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   <Shape GraphId="d5e21">
     <Graphics CenterX="641.6666666666642" CenterY="955.79862136878" Width="14.0" Height="14.0" ZOrder="34070" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
-  <Group GroupId="f6fde" GraphId="fadb6" Style="Group" />
-  <Group GroupId="b1a9d" GraphId="eb6c5" Style="Group" />
   <Group GroupId="ebbdb" GraphId="a4d63" Style="Group" />
-  <Group GroupId="f6907" GraphId="f8fbb" Style="Group" />
-  <Group GroupId="d4355" GraphId="eb31a" Style="Group" />
   <Group GroupId="c9347" GraphId="e343f" Style="Group" />
   <Group GroupId="f1df1" GraphId="e5d81" Style="Group" />
   <Group GroupId="a0055" GraphId="e9ec4" Style="Group" />
+  <Group GroupId="d4355" GraphId="eb31a" Style="Group" />
+  <Group GroupId="b1a9d" GraphId="eb6c5" Style="Group" />
+  <Group GroupId="f6907" GraphId="f8fbb" Style="Group" />
+  <Group GroupId="f6fde" GraphId="fadb6" Style="Group" />
   <InfoBox CenterX="15.0" CenterY="8.333333333333334" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">interleukin-5 signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000969</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interleukin mediated signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000512</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fbd">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20067622</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1241,5 +1206,15 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leonard WJ</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pandey A</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">interleukin-5 signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000969</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interleukin mediated signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000512</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

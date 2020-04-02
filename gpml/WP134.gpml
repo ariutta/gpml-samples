@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Pentose Phosphate Metabolism" Organism="Homo sapiens" License="CC BY 2.0">
-  <Comment Source="WikiPathways-description">Pentose phosphate, phosphogluconate, or hexose monophsphate pathway oxidizes glucose-6-phosphate to fructose-6-phosphate and glyceraldehyde-3-P. NADP+ is the electron acceptor. The pathways yields NADPH as well as 5, 4, and 7 carbon intermediaries for synthesis of nucleotides.</Comment>
+  <Comment Source="WikiPathways-description">Pentose phosphate, phosphogluconate, or hexose monophsphate pathway oxidizes glucose-6-phosphate to fructose-6-phosphate and glyceraldehyde-3-P. NADP+ is the electron acceptor. The pathways yields NADPH as well as 5, 4, and 7 carbon intermediaries for synthesis of nucleotides.
+
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP134 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Metabolic Process</Comment>
   <BiopaxRef>cab</BiopaxRef>
   <Graphics BoardWidth="1136.3703703703704" BoardHeight="690.0370370370372" />
@@ -27,7 +30,7 @@
   </DataNode>
   <DataNode TextLabel="Glyceraldehyde-3-phosphate" GraphId="cfe61" Type="Metabolite" GroupRef="defd4">
     <Graphics CenterX="993.2037037037038" CenterY="568.3703703703706" Width="226.33333333333334" Height="19.0" ZOrder="32806" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01112" />
+    <Xref Database="HMDB" ID="HMDB0001112" />
   </DataNode>
   <DataNode TextLabel="Nucleotide &#xA;Biosynthesis" GraphId="c5b8d" Type="Pathway">
     <Graphics CenterX="161.20370370370367" CenterY="425.03703703703707" Width="88.0" Height="28.0" ZOrder="32807" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -43,7 +46,7 @@
   </DataNode>
   <DataNode TextLabel="6-Phosphogluconate" GraphId="ada39" Type="Metabolite">
     <Graphics CenterX="506.53703703703707" CenterY="266.03703703703707" Width="129.0" Height="20.0" ZOrder="32810" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01316" />
+    <Xref Database="HMDB" ID="HMDB0001316" />
   </DataNode>
   <DataNode TextLabel="PGLS" GraphId="db137" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PGLS | 6-phosphogluconolactonase" />
@@ -57,7 +60,7 @@
   </DataNode>
   <DataNode TextLabel="Erythrose-4-Phosphate" GraphId="fe09e" Type="Metabolite" GroupRef="cb7d7">
     <Graphics CenterX="417.70370370370364" CenterY="640.0370370370372" Width="133.0" Height="20.0" ZOrder="32813" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01321" />
+    <Xref Database="HMDB" ID="HMDB0001321" />
   </DataNode>
   <DataNode TextLabel="Ribulose-5-Phosphate" GraphId="b0ec0" Type="Metabolite">
     <Graphics CenterX="506.53703703703695" CenterY="347.03703703703707" Width="175.33333333333334" Height="19.0" ZOrder="32814" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -84,11 +87,11 @@
   </DataNode>
   <DataNode TextLabel="Glyceraldehyde-3-phosphate" GraphId="eab0c" Type="Metabolite" GroupRef="e7bd8">
     <Graphics CenterX="603.6203703703706" CenterY="549.3703703703706" Width="185.16666666666666" Height="19.0" ZOrder="32819" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01112" />
+    <Xref Database="HMDB" ID="HMDB0001112" />
   </DataNode>
   <DataNode TextLabel="6-Phosphonoglucono-delta-lactone" GraphId="b135d" Type="Metabolite">
     <Graphics CenterX="506.53703703703707" CenterY="185.53703703703704" Width="196.0" Height="23.0" ZOrder="32820" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01127" />
+    <Xref Database="HMDB" ID="HMDB0001127" />
   </DataNode>
   <DataNode TextLabel="PGD" GraphId="d7dcb" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PGD | phosphogluconate dehydrogenase" />
@@ -102,7 +105,7 @@
   </DataNode>
   <DataNode TextLabel="Fructose-6-Phosphate" GraphId="e6275" Type="Metabolite" GroupRef="cb7d7">
     <Graphics CenterX="585.2037037037038" CenterY="642.0370370370372" Width="146.0" Height="20.0" ZOrder="32823" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00124" />
+    <Xref Database="HMDB" ID="HMDB0000124" />
   </DataNode>
   <DataNode TextLabel="Glycolysis/Gluconeogenesis" GraphId="a7562" Type="Pathway">
     <Graphics CenterX="993.2037037037038" CenterY="650.0370370370372" Width="188.0" Height="20.0" ZOrder="32824" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />

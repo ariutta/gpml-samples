@@ -6,7 +6,7 @@
   <Comment Source="WikiPathways-category">Metabolic Process</Comment>
   <BiopaxRef>b86</BiopaxRef>
   <BiopaxRef>f22</BiopaxRef>
-  <Graphics BoardWidth="1230.9999999999998" BoardHeight="1135.6029688087185" />
+  <Graphics BoardWidth="1228.9999999999998" BoardHeight="1135.6029688087185" />
   <DataNode TextLabel="CYP21A2" GraphId="a1f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CYP21A2 | cytochrome P450 family 21 subfamily..." />
     <Graphics CenterX="579.0" CenterY="424.0" Width="166.66666666666666" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -28,7 +28,7 @@
   </DataNode>
   <DataNode TextLabel="18-Hydroxycorticosterone" GraphId="b120e" Type="Metabolite">
     <Graphics CenterX="373.5" CenterY="706.0" Width="139.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00319" />
+    <Xref Database="HMDB" ID="HMDB0000319" />
   </DataNode>
   <DataNode TextLabel="11-Deoxycorticosterone" GraphId="b51" Type="Metabolite">
     <Graphics CenterX="376.38481773769263" CenterY="482.3481773769261" Width="153.33333333333334" Height="17.666666666666668" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -52,7 +52,7 @@
   </DataNode>
   <DataNode TextLabel="17a-OH-pregnenolone" GraphId="bccf4" Type="Metabolite">
     <Graphics CenterX="798.5" CenterY="240.0" Width="121.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="009999" />
-    <Xref Database="HMDB" ID="HMDB00363" />
+    <Xref Database="HMDB" ID="HMDB0000363" />
   </DataNode>
   <DataNode TextLabel="Cortisol" GraphId="bd7" Type="Metabolite">
     <Graphics CenterX="1080.0" CenterY="950.0" Width="53.333333333333336" Height="16.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -79,7 +79,7 @@
   </DataNode>
   <DataNode TextLabel="17-OH-progesterone" GraphId="cbc59" Type="Metabolite">
     <Graphics CenterX="795.5" CenterY="377.0" Width="107.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="009999" />
-    <Xref Database="HMDB" ID="HMDB00374" />
+    <Xref Database="HMDB" ID="HMDB0000374" />
   </DataNode>
   <DataNode TextLabel="Corticosterone 18-Monooxy" GraphId="d42" Type="GeneProduct">
     <Comment Source="GenMAPP remarks">EC number: 1.14.15.5</Comment>
@@ -149,7 +149,7 @@
   </DataNode>
   <DataNode TextLabel="Cortisone" GraphId="f7b22" Type="Metabolite">
     <Graphics CenterX="780.0" CenterY="725.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02802" />
+    <Xref Database="HMDB" ID="HMDB0002802" />
   </DataNode>
   <DataNode TextLabel="Pregnanediol" GraphId="fac" Type="Metabolite">
     <Graphics CenterX="243.33333333333334" CenterY="1026.6666666666667" Width="91.33333333333333" Height="16.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="009999" />
@@ -2332,6 +2332,11 @@
   <Group GroupId="bf14f" GraphId="c2a76" Style="Group" />
   <InfoBox CenterX="36.0" CenterY="3.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C21-steroid hormone biosynthetic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000070</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b86">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8839934</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -2341,6 +2346,11 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fardella CE</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miller WL</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glucocorticoid biosynthetic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000772</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f22">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9046958</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -2349,15 +2359,5 @@
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1997</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Funder JW</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glucocorticoid biosynthetic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000772</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C21-steroid hormone biosynthetic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000070</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

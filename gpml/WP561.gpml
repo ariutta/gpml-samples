@@ -31,7 +31,7 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="O2" GraphId="a9b4a" Type="Metabolite">
     <Graphics CenterX="215.05462184873954" CenterY="599.8151260504202" Width="37.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01377" />
+    <Xref Database="HMDB" ID="HMDB0001377" />
   </DataNode>
   <DataNode TextLabel="porphobilinogen" GraphId="ad4" Type="Metabolite">
     <Graphics CenterX="329.2212885154062" CenterY="261.1484593837535" Width="122.33333333333333" Height="16.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -39,7 +39,7 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="NH3" GraphId="ae090" Type="Metabolite">
     <Graphics CenterX="469.5546218487395" CenterY="342.8151260504202" Width="48.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00051" />
+    <Xref Database="HMDB" ID="HMDB0000051" />
   </DataNode>
   <DataNode TextLabel="H+" GraphId="b7f31" Type="Metabolite">
     <Graphics CenterX="458.0" CenterY="751.0" Width="28.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -47,11 +47,11 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="H2O2" GraphId="b813b" Type="Metabolite">
     <Graphics CenterX="466.5546218487395" CenterY="659.8151260504202" Width="44.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03125" />
+    <Xref Database="HMDB" ID="HMDB0003125" />
   </DataNode>
   <DataNode TextLabel="O2" GraphId="c0252" Type="Metabolite">
     <Graphics CenterX="200.05462184873954" CenterY="514.8151260504203" Width="37.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01377" />
+    <Xref Database="HMDB" ID="HMDB0001377" />
   </DataNode>
   <DataNode TextLabel="FECH" GraphId="c3a" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FECH | ferrochelatase (protoporphyria)" />
@@ -60,7 +60,7 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="CoA" GraphId="c8776" Type="Metabolite" GroupRef="ce75f">
     <Graphics CenterX="465.609243697479" CenterY="170.63025210084035" Width="39.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01423" />
+    <Xref Database="HMDB" ID="HMDB0001423" />
   </DataNode>
   <DataNode TextLabel="PPOX" GraphId="ca1" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PPOX | protoporphyrinogen oxidase" />
@@ -73,11 +73,11 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="CO2" GraphId="cd108" Type="Metabolite">
     <Graphics CenterX="470.5546218487395" CenterY="485.8151260504202" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01967" />
+    <Xref Database="HMDB" ID="HMDB0001967" />
   </DataNode>
   <DataNode TextLabel="succinyl-CoA" GraphId="d6e60" Type="Metabolite" GroupRef="a8777">
     <Graphics CenterX="299.3697478991601" CenterY="36.764705882352935" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01022" />
+    <Xref Database="HMDB" ID="HMDB0001022" />
   </DataNode>
   <DataNode TextLabel="CPOX" GraphId="d76" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CPOX | coproporphyrinogen oxidase" />
@@ -86,12 +86,12 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="Glycine" GraphId="d77b3" Type="Metabolite" GroupRef="a8777">
     <Graphics CenterX="369.3487394957988" CenterY="36.764705882352935" Width="59.9579831932774" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00123" />
+    <Xref Database="HMDB" ID="HMDB0000123" />
   </DataNode>
   <DataNode TextLabel="H2O" GraphId="d789f" Type="Metabolite">
     <Comment>Type your comment here</Comment>
     <Graphics CenterX="476.0546218487395" CenterY="250.8151260504202" Width="53.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02111" />
+    <Xref Database="HMDB" ID="HMDB0002111" />
   </DataNode>
   <DataNode TextLabel="HMBS" GraphId="d81" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HMBS | hydroxymethylbilane synthase" />
@@ -104,15 +104,15 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="Porphobilinogen" GraphId="da9f5" Type="Metabolite" GroupRef="f0d04">
     <Graphics CenterX="158.60924369747914" CenterY="294.6302521008404" Width="101.0" Height="22.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00245" />
+    <Xref Database="HMDB" ID="HMDB0000245" />
   </DataNode>
   <DataNode TextLabel="hydroxymethylbilane" GraphId="db0" Type="Metabolite">
     <Graphics CenterX="329.2212885154062" CenterY="360.14845938375345" Width="149.33333333333334" Height="16.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="16645" />
+    <Xref Database="ChEBI" ID="CHEBI:16645" />
   </DataNode>
   <DataNode TextLabel="CO2" GraphId="dc8bb" Type="Metabolite">
     <Graphics CenterX="465.5546218487395" CenterY="581.8151260504202" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01967" />
+    <Xref Database="HMDB" ID="HMDB0001967" />
   </DataNode>
   <DataNode TextLabel="ALAS1" GraphId="dd6" Type="GeneProduct" GroupRef="a5999">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ALAS1 | aminolevulinate delta- synthase 1" />
@@ -126,7 +126,7 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="H2O" GraphId="dfd99" Type="Metabolite">
     <Graphics CenterX="475.0546218487395" CenterY="412.8151260504202" Width="53.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02111" />
+    <Xref Database="HMDB" ID="HMDB0002111" />
   </DataNode>
   <DataNode TextLabel="UROS" GraphId="e16" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="UROS | uroporphyrinogen III synthase (congenita..." />
@@ -139,7 +139,7 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="H2O" GraphId="efc67" Type="Metabolite" GroupRef="f0d04">
     <Graphics CenterX="157.60924369747914" CenterY="320.6302521008403" Width="45.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02111" />
+    <Xref Database="HMDB" ID="HMDB0002111" />
   </DataNode>
   <DataNode TextLabel="protoheme" GraphId="f4c" Type="Metabolite">
     <Graphics CenterX="329.2212885154062" CenterY="777.8151260504202" Width="82.33333333333333" Height="16.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -147,7 +147,7 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   </DataNode>
   <DataNode TextLabel="CO2" GraphId="f73dc" Type="Metabolite" GroupRef="ce75f">
     <Graphics CenterX="465.609243697479" CenterY="197.63025210084038" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01967" />
+    <Xref Database="HMDB" ID="HMDB0001967" />
   </DataNode>
   <DataNode TextLabel="protoporphyrin IX" GraphId="fb1" Type="Metabolite">
     <Graphics CenterX="328.2212885154062" CenterY="677.8151260504202" Width="128.33333333333334" Height="16.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -410,8 +410,13 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
   <InfoBox CenterX="638.9" CenterY="98.16666666666667" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hematopoietic cell</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000988</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">heme biosynthetic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000218</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bone marrow cell</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0002092</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c4d">
@@ -427,14 +432,9 @@ Source: Wikipedia http://en.wikipedia.org/wiki/Heme</Comment>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battle AM</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bone marrow cell</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0002092</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hematopoietic cell</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000988</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">heme biosynthetic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000218</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

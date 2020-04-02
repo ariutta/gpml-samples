@@ -9,7 +9,9 @@
 
 '''Glycogen degradation''' consists of three steps: (1) the release of glucose 1-phosphate from glycogen, (2) the remodeling of the glycogen substrate to permit further degradation, and (3) the conversion of glucose 1-phosphate into glucose 6-phosphate for further metabolism.
 
-Information partly derived from "Biochemistry" by Stryer and [http://en.wikipedia.org/wiki/Glycogen Wikipedia].</Comment>
+Information partly derived from "Biochemistry" by Stryer and [http://en.wikipedia.org/wiki/Glycogen Wikipedia].
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP500 CPTAC Assay Portal]</Comment>
   <BiopaxRef>d7e</BiopaxRef>
   <Graphics BoardWidth="1333.0" BoardHeight="826.5" />
   <DataNode TextLabel="PYGM" GraphId="a03" Type="GeneProduct" GroupRef="f11a0">
@@ -62,7 +64,7 @@ Information partly derived from "Biochemistry" by Stryer and [http://en.wikipedi
   </DataNode>
   <DataNode TextLabel="cAMP" GraphId="afdba" Type="Metabolite">
     <Graphics CenterX="521.0000000000002" CenterY="39.99999999999993" Width="56.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00058" />
+    <Xref Database="HMDB" ID="HMDB0000058" />
   </DataNode>
   <DataNode TextLabel="PHKA1" GraphId="b13" Type="GeneProduct" GroupRef="ddfca">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PHKA1 | phosphorylase kinase alpha 1 (muscle)" />
@@ -148,7 +150,7 @@ Information partly derived from "Biochemistry" by Stryer and [http://en.wikipedi
   </DataNode>
   <DataNode TextLabel="UDP-glucose" GraphId="d1c90" Type="Metabolite">
     <Graphics CenterX="727.9999999999999" CenterY="210.99999999999974" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00286" />
+    <Xref Database="HMDB" ID="HMDB0000286" />
   </DataNode>
   <DataNode TextLabel="GYG2" GraphId="d29" Type="GeneProduct" GroupRef="e77a5">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GYG2 | glycogenin 2" />
@@ -167,7 +169,7 @@ Information partly derived from "Biochemistry" by Stryer and [http://en.wikipedi
   </DataNode>
   <DataNode TextLabel="Glucose 1-phosphate" GraphId="d5dd2" Type="Metabolite">
     <Graphics CenterX="268.66666666666663" CenterY="340.00000000000017" Width="123.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01586" />
+    <Xref Database="HMDB" ID="HMDB0001586" />
   </DataNode>
   <DataNode TextLabel="Glycogen" GraphId="da6" Type="Metabolite">
     <Graphics CenterX="801.9999999999999" CenterY="407.9999999999995" Width="78.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -179,7 +181,7 @@ Information partly derived from "Biochemistry" by Stryer and [http://en.wikipedi
   </DataNode>
   <DataNode TextLabel="D-Glucose" GraphId="dcc" Type="Metabolite">
     <Graphics CenterX="77.33333333333331" CenterY="419.66666666666686" Width="68.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00122" />
+    <Xref Database="HMDB" ID="HMDB0000122" />
   </DataNode>
   <DataNode TextLabel="AGL" GraphId="df1" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AGL | amylo-1 6-glucosidase 4-alpha-glucanotr..." />
@@ -524,11 +526,16 @@ Information partly derived from "Biochemistry" by Stryer and [http://en.wikipedi
   <Group GroupId="ddfca" GraphId="f88ec" />
   <InfoBox CenterX="18.333333333333332" CenterY="15.0" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glycogen degradation pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000534</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d7e">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5083874</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glycogen metabolism in the normal red blood cell.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blood</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1972</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moses SW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bashan N</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gutman A</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="af5">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -557,6 +564,11 @@ Information partly derived from "Biochemistry" by Stryer and [http://en.wikipedi
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salway, Jack G</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glycogen metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000533</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bef">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -585,19 +597,9 @@ Information partly derived from "Biochemistry" by Stryer and [http://en.wikipedi
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salway, Jack G</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d7e">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5083874</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glycogen metabolism in the normal red blood cell.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blood</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1972</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moses SW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bashan N</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gutman A</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glycogen metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000533</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glycogen degradation pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000534</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
   </Biopax>

@@ -9,7 +9,7 @@
   </DataNode>
   <DataNode TextLabel="7-Dehydrocholesterol" GraphId="f777c" Type="Metabolite">
     <Graphics CenterX="171.50038146972656" CenterY="139.0" Width="131.0" Height="25.0" ZOrder="32770" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00032" />
+    <Xref Database="HMDB" ID="HMDB0000032" />
   </DataNode>
   <DataNode TextLabel="retinol (vit A)" GraphId="a4994" Type="Metabolite">
     <Graphics CenterX="850.1145016304348" CenterY="176.4597986413043" Width="90.0" Height="25.0" ZOrder="32772" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -25,7 +25,7 @@
   </DataNode>
   <DataNode TextLabel="9-cis-Retinoic acid" GraphId="aad4b" Type="Metabolite">
     <Graphics CenterX="789.3258994565211" CenterY="361.4809891304347" Width="109.47467934782637" Height="25.0" ZOrder="32778" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02369" />
+    <Xref Database="HMDB" ID="HMDB0002369" />
   </DataNode>
   <DataNode TextLabel="25(OH)D3" GraphId="f8431" Type="Metabolite">
     <Graphics CenterX="300.0" CenterY="139.0" Width="73.0" Height="25.0" ZOrder="32780" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -41,11 +41,11 @@
   </DataNode>
   <DataNode TextLabel="Previtamin D3" GraphId="e83af" Type="Metabolite">
     <Graphics CenterX="171.50038146972656" CenterY="190.0" Width="90.0" Height="25.0" ZOrder="32786" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06500" />
+    <Xref Database="HMDB" ID="HMDB0006500" />
   </DataNode>
   <DataNode TextLabel="1,25(OH)2D3" GraphId="fd5f5" Type="Metabolite">
     <Graphics CenterX="413.0" CenterY="139.0" Width="96.0" Height="25.0" ZOrder="32788" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00969" />
+    <Xref Database="HMDB" ID="HMDB0000969" />
   </DataNode>
   <DataNode TextLabel="25(OH)D3" GraphId="b3893" Type="Metabolite">
     <Graphics CenterX="171.50038146972656" CenterY="340.0" Width="73.0" Height="25.0" ZOrder="32790" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -53,7 +53,7 @@
   </DataNode>
   <DataNode TextLabel="1,25(OH)2D3" GraphId="a6966" Type="Metabolite">
     <Graphics CenterX="171.50038146972656" CenterY="388.0" Width="96.0" Height="25.0" ZOrder="32792" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00969" />
+    <Xref Database="HMDB" ID="HMDB0000969" />
   </DataNode>
   <DataNode TextLabel="RXR" GraphId="a6a7c" Type="GeneProduct" GroupRef="d4b3b">
     <Graphics CenterX="298.2999999999998" CenterY="518.1499999999999" Width="90.0" Height="24.999999999999986" ZOrder="32794" FillColor="Transparent" FontSize="12" Valign="Middle" />
@@ -324,18 +324,13 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vitamin D signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001013</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vitamin D metabolic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001011</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vitamin A and metabolites signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001116</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vitamin D signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001013</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a74">
@@ -348,5 +343,10 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iwata M</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">von Andrian UH</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vitamin A and metabolites signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001116</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

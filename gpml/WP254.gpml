@@ -3,7 +3,9 @@
   <Comment Source="GenMAPP notes"/>
   <Comment Source="GenMAPP remarks"/>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
-  <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today.  </Comment>
+  <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today.  
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP254 CPTAC Assay Portal]</Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666"/>
   <DataNode TextLabel="MIR29B1" GraphId="a3e60" Type="GeneProduct" GroupRef="d254c">
     <Graphics CenterX="395.33333333333337" CenterY="453.66666666666663" Width="61.33333333333343" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="990099"/>

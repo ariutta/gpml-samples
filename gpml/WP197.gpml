@@ -3,7 +3,9 @@
   <Comment Source="WikiPathways-category">Metabolic Process</Comment>
   <Comment Source="WikiPathways-description">Cholesterol is a waxy steroid metabolite found in the cell membranes and transported in the blood plasma of all animals. It is an essential structural component of mammalian cell membranes, where it is required to establish proper membrane permeability and fluidity. In addition, cholesterol is an important component for the manufacture of bile acids, steroid hormones, and several fat-soluble vitamins. Cholesterol is the principal sterol synthesized by animals, but small quantities are synthesized in other eukaryotes, such as plants and fungi. It is almost completely absent among prokaryotes, which include bacteria.
 
-Source: [[wikipedia:Cholesterol|Wikipedia]]</Comment>
+Source: [[wikipedia:Cholesterol|Wikipedia]]
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP197 CPTAC Assay Portal]</Comment>
   <BiopaxRef>ec9</BiopaxRef>
   <BiopaxRef>d9b</BiopaxRef>
   <BiopaxRef>e32</BiopaxRef>
@@ -103,7 +105,7 @@ Source: [[wikipedia:Cholesterol|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="HMG-CoA" GraphId="e89f4" Type="Metabolite">
     <Graphics CenterX="370.0" CenterY="174.75644257703044" Width="84.03333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01375" />
+    <Xref Database="HMDB" ID="HMDB0001375" />
   </DataNode>
   <DataNode TextLabel="Geranyl-PP" GraphId="e993b" Type="Metabolite">
     <Graphics CenterX="392.50001676212503" CenterY="587.6687409348253" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -396,6 +398,11 @@ Source: [[wikipedia:Cholesterol|Wikipedia]]</Comment>
   <Group GroupId="b39b6" GraphId="c3e7c" Style="Group" />
   <InfoBox CenterX="8.333333333333334" CenterY="5.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">classic metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000002</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="de6">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12235098</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>

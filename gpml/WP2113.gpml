@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Type III interferon signaling" Author="Shamith Samarajiwa" Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
-  <Comment Source="WikiPathways-description">The recently identified type III interferon group consists of three IFN-λ (lambda) genes encoding molecules called IFN-λ1, IFN-λ2 and IFN-λ3 (also called IL29, IL28A and IL28B respectively). These IFNs signal through a receptor complex consisting of IL10R2 (also called CRF2-4) and IFNLR1 (also called CRF2-12).</Comment>
+  <Comment Source="WikiPathways-description">The recently identified type III interferon group consists of three IFN-λ (lambda) genes encoding molecules called IFN-λ1, IFN-λ2 and IFN-λ3 (also called IL29, IL28A and IL28B respectively). These IFNs signal through a receptor complex consisting of IL10R2 (also called CRF2-4) and IFNLR1 (also called CRF2-12).
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2113 CPTAC Assay Portal].</Comment>
   <Graphics BoardWidth="1413.0" BoardHeight="1224.0"/>
   <DataNode TextLabel="IRF9" GraphId="fdbcc" Type="GeneProduct" GroupRef="dfa12">
     <Graphics CenterX="671.0" CenterY="546.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>

@@ -8,11 +8,11 @@
   </DataNode>
   <DataNode TextLabel="NAD+" GraphId="ab6b5" Type="Metabolite">
     <Graphics CenterX="590.0" CenterY="160.0" Width="44.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="15846" />
+    <Xref Database="ChEBI" ID="CHEBI:15846" />
   </DataNode>
   <DataNode TextLabel="O2" GraphId="ae9c7" Type="Metabolite">
     <Graphics CenterX="145.5" CenterY="162.0" Width="33.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="15379" />
+    <Xref Database="ChEBI" ID="CHEBI:15379" />
   </DataNode>
   <DataNode TextLabel="Peroxisomal 3-oxoacyl-CoA thiolase" GraphId="b0960" Type="Protein">
     <Graphics CenterX="464.0" CenterY="407.0" Width="220.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -24,7 +24,7 @@
   </DataNode>
   <DataNode TextLabel="tetracosanoyl-CoA" GraphId="ba539" Type="Metabolite">
     <Graphics CenterX="102.5" CenterY="134.0" Width="125.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="52974" />
+    <Xref Database="ChEBI" ID="CHEBI:52974" />
   </DataNode>
   <DataNode TextLabel="docosanoyl-CoA" GraphId="ca5db" Type="Metabolite">
     <Graphics CenterX="297.0" CenterY="333.0" Width="112.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -36,7 +36,7 @@
   </DataNode>
   <DataNode TextLabel="acetyl-CoA" GraphId="dce4f" Type="Metabolite">
     <Graphics CenterX="285.0" CenterY="363.0" Width="84.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="15351" />
+    <Xref Database="ChEBI" ID="CHEBI:15351" />
   </DataNode>
   <DataNode TextLabel="Peroxisomal beta-oxidation&#xA;of docosanoyl-CoA" GraphId="e8cf2" Type="Pathway">
     <Graphics CenterX="117.5" CenterY="333.0" Width="171.0" Height="40.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -44,15 +44,15 @@
   </DataNode>
   <DataNode TextLabel="H2O" GraphId="e9292" Type="Metabolite">
     <Graphics CenterX="379.0" CenterY="161.0" Width="46.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="15377" />
+    <Xref Database="ChEBI" ID="CHEBI:15377" />
   </DataNode>
   <DataNode TextLabel="CoA-SH" GraphId="ed23c" Type="Metabolite">
     <Graphics CenterX="605.0" CenterY="366.0" Width="56.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="15346" />
+    <Xref Database="ChEBI" ID="CHEBI:15346" />
   </DataNode>
   <DataNode TextLabel="3-hydroxytetracosanoyl-CoA" GraphId="efc98" Type="Metabolite">
     <Graphics CenterX="651.5" CenterY="135.0" Width="167.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="52326" />
+    <Xref Database="ChEBI" ID="CHEBI:52326" />
   </DataNode>
   <DataNode TextLabel="(2E)-tetracosenoyl-CoA" GraphId="fc276" Type="Metabolite">
     <Graphics CenterX="330.5" CenterY="134.0" Width="145.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -60,7 +60,7 @@
   </DataNode>
   <DataNode TextLabel="H2O2" GraphId="fd764" Type="Metabolite">
     <Graphics CenterX="278.125" CenterY="162.25" Width="39.75" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="16240" />
+    <Xref Database="ChEBI" ID="CHEBI:16240" />
   </DataNode>
   <DataNode TextLabel="Acyl-CoA Oxidase 1" GraphId="fe505" Type="Protein">
     <Graphics CenterX="211.0" CenterY="85.0" Width="104.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -68,7 +68,7 @@
   </DataNode>
   <DataNode TextLabel="3-ketotetracosanoyl-CoA" GraphId="e59c0" Type="Metabolite">
     <Graphics CenterX="651.0" CenterY="337.0" Width="150.0" Height="20.0" ZOrder="32771" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="52329" />
+    <Xref Database="ChEBI" ID="CHEBI:52329" />
   </DataNode>
   <DataNode TextLabel="D-bifunctional protein" GraphId="cbed1" Type="Protein">
     <Graphics CenterX="752.0" CenterY="236.0" Width="130.0" Height="20.0" ZOrder="32772" FontSize="10" Valign="Middle" />
@@ -76,7 +76,7 @@
   </DataNode>
   <DataNode TextLabel="NADH" GraphId="d5712" Type="Metabolite">
     <Graphics CenterX="598.0" CenterY="309.0" Width="44.0" Height="20.0" ZOrder="32773" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="16908" />
+    <Xref Database="ChEBI" ID="CHEBI:16908" />
   </DataNode>
   <Interaction GraphId="id12643bd4">
     <Graphics ZOrder="12288" LineThickness="1.0">

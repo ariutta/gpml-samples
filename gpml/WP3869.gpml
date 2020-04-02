@@ -5,7 +5,7 @@ Source: https://en.wikipedia.org/wiki/Endocannabinoid_system
 
 Not all MAPK subtypes are relevant for this pathway. The relevant types have been separately added on the right side of the pathway. 
 Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cannabinoids. Handbook of Experimental Pharmacology, vol 168. Springer, Berlin, Heidelberg, 2005</Comment>
-  <Graphics BoardWidth="1235.4152461554684" BoardHeight="731.0" />
+  <Graphics BoardWidth="1056.3266706967806" BoardHeight="731.0" />
   <DataNode TextLabel="CYP3A4" GraphId="c5fd1" Type="GeneProduct" GroupRef="e5cb1">
     <Graphics CenterX="182.0" CenterY="426.0" Width="80.0" Height="20.0" ZOrder="12350" FontSize="10" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000160868" />
@@ -93,7 +93,7 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   </DataNode>
   <DataNode TextLabel="11-OH-THC" GraphId="bbf68" Type="Metabolite">
     <Graphics CenterX="297.0" CenterY="318.0" Width="80.0" Height="20.0" ZOrder="32774" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB60906" />
+    <Xref Database="HMDB" ID="HMDB0060906" />
   </DataNode>
   <DataNode TextLabel="MAPK " GraphId="dac65" Type="GeneProduct">
     <Graphics CenterX="418.2380952380952" CenterY="203.76190476190465" Width="80.0" Height="20.0" ZOrder="32776" FontSize="10" Valign="Middle" />
@@ -101,7 +101,7 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   </DataNode>
   <DataNode TextLabel="Phosphatidylethanolamine" GraphId="ec704" Type="Metabolite">
     <Graphics CenterX="670.0" CenterY="485.0" Width="128.0" Height="20.0" ZOrder="32780" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB60501" />
+    <Xref Database="HMDB" ID="HMDB0060501" />
   </DataNode>
   <DataNode TextLabel="DAGLB" GraphId="a9360" Type="GeneProduct" GroupRef="c674a">
     <Graphics CenterX="789.3809523809523" CenterY="447.3809523809523" Width="80.0" Height="20.0" ZOrder="32782" FontSize="10" Valign="Middle" />
@@ -109,7 +109,7 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   </DataNode>
   <DataNode TextLabel="cAMP " GraphId="e6283" Type="Metabolite">
     <Graphics CenterX="512.047619047619" CenterY="65.13095238095246" Width="80.0" Height="20.0" ZOrder="32784" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00058" />
+    <Xref Database="HMDB" ID="HMDB0000058" />
   </DataNode>
   <DataNode TextLabel="AHR" GraphId="e47d6" Type="GeneProduct">
     <Graphics CenterX="266.02469135802505" CenterY="536.8230452674898" Width="80.0" Height="20.0" ZOrder="32786" FontSize="10" Valign="Middle" />
@@ -136,11 +136,11 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   </DataNode>
   <DataNode TextLabel="Arachidonic acid" GraphId="a2018" Type="Metabolite">
     <Graphics CenterX="794.2014652014664" CenterY="359.04362678519965" Width="80.0" Height="20.0" ZOrder="32796" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01043" />
+    <Xref Database="HMDB" ID="HMDB0001043" />
   </DataNode>
   <DataNode TextLabel="THC" GraphId="ad5a8" Type="Metabolite">
     <Graphics CenterX="415.89662500000003" CenterY="328.57624999999996" Width="80.0" Height="20.0" ZOrder="32798" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB41865" />
+    <Xref Database="HMDB" ID="HMDB0041865" />
   </DataNode>
   <DataNode TextLabel="1''-hydroxycannabidiol" GraphId="b9709" Type="Metabolite" GroupRef="f80bc">
     <BiopaxRef>bff</BiopaxRef>
@@ -149,7 +149,7 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   </DataNode>
   <DataNode TextLabel="2-arachidonoylglycerol" GraphId="c300e" Type="Metabolite" GroupRef="ed314">
     <Graphics CenterX="557.6454049495837" CenterY="357.6761559871514" Width="122.0" Height="20.0" ZOrder="32802" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04666" />
+    <Xref Database="HMDB" ID="HMDB0004666" />
   </DataNode>
   <DataNode TextLabel="protein tyrosine kinases" GraphId="c4413" Type="Pathway">
     <Graphics CenterX="267.6594650205762" CenterY="587.1769547325102" Width="149.4547325102879" Height="20.0" ZOrder="32804" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -162,7 +162,7 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   </DataNode>
   <DataNode TextLabel="Glutamate" GraphId="a3564" Type="Metabolite">
     <Graphics CenterX="279.57142857142844" CenterY="57.666666666666785" Width="80.0" Height="20.0" ZOrder="32810" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00148" />
+    <Xref Database="HMDB" ID="HMDB0000148" />
   </DataNode>
   <DataNode TextLabel="ADORA2A" GraphId="d9634" Type="GeneProduct">
     <BiopaxRef>e7f</BiopaxRef>
@@ -175,11 +175,11 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   </DataNode>
   <DataNode TextLabel="Calcium" GraphId="a374b" Type="Metabolite">
     <Graphics CenterX="668.0" CenterY="607.3154710458101" Width="80.0" Height="20.0" ZOrder="32816" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="GABA " GraphId="be6ae" Type="Metabolite">
     <Graphics CenterX="278.5238095238094" CenterY="91.52380952380967" Width="80.0" Height="20.0" ZOrder="32818" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00112" />
+    <Xref Database="HMDB" ID="HMDB0000112" />
   </DataNode>
   <DataNode TextLabel="CBD" GraphId="b20c1" Type="Metabolite">
     <Graphics CenterX="201.25" CenterY="318.1039094650206" Width="80.0" Height="20.0" ZOrder="32820" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -187,11 +187,11 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="fbf6c" Type="Metabolite">
     <Graphics CenterX="393.9999999999994" CenterY="65.09523809523822" Width="80.0" Height="20.0" ZOrder="32822" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00538" />
+    <Xref Database="HMDB" ID="HMDB0000538" />
   </DataNode>
   <DataNode TextLabel="AEA" GraphId="f7ac2" Type="Metabolite" GroupRef="ed314">
     <Graphics CenterX="557.6454049495837" CenterY="399.6761559871514" Width="80.0" Height="20.0" ZOrder="32824" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04080" />
+    <Xref Database="HMDB" ID="HMDB0004080" />
   </DataNode>
   <DataNode TextLabel="Anti-inflammatory pathways" GraphId="b4e42" Type="Pathway">
     <Graphics CenterX="94.99999999999999" CenterY="256.65432098765444" Width="176.0" Height="20.0" ZOrder="32828" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -209,11 +209,11 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="aac8b" Type="Metabolite">
     <Graphics CenterX="640.6924914166284" CenterY="68.41797283176592" Width="80.0" Height="20.0" ZOrder="32838" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00538" />
+    <Xref Database="HMDB" ID="HMDB0000538" />
   </DataNode>
   <DataNode TextLabel="cAMP " GraphId="aa017" Type="Metabolite">
     <Graphics CenterX="822.1509180474695" CenterY="69.01780116435351" Width="80.0" Height="20.0" ZOrder="32840" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00058" />
+    <Xref Database="HMDB" ID="HMDB0000058" />
   </DataNode>
   <DataNode TextLabel="CBD" GraphId="f38f7" Type="Metabolite">
     <Graphics CenterX="826.25" CenterY="324.75" Width="80.0" Height="20.0" ZOrder="32842" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -588,7 +588,7 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <GraphicalLine>
+  <GraphicalLine GraphId="idfc4efdf7">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="211.42857142857142" Y="80.95238095238095" />
       <Point X="230.47619047619045" Y="73.33333333333333" ArrowHead="Arrow" />
@@ -664,45 +664,38 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
   <Group GroupId="ed314" GraphId="b30ac" Style="Group" />
   <Group GroupId="e7848" GraphId="b4b73" Style="Group" />
   <Group GroupId="dc585" GraphId="b928e" Style="Complex" />
-  <Group GroupId="a6ccb" GraphId="f92cd" Style="Complex" />
   <Group GroupId="a5015" GraphId="dce18" Style="Complex" />
+  <Group GroupId="a6ccb" GraphId="f92cd" Style="Complex" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">leukocyte</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000738</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ef5">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26218440</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f43">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23108542</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cannabidiol is a negative allosteric modulator of the cannabinoid CB1 receptor.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Br J Pharmacol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laprairie RB</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagher AM</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kelly ME</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Denovan-Wright EM</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Endocannabinoids via CBÃ¢â€šï¿½ receptors act as neurogenic niche cues during cortical development.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Philos Trans R Soc Lond B Biol Sci</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DÃƒÂ­az-Alonso J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GuzmÃƒÂ¡n M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galve-Roperh I</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e7f">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16672367</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inhibition of an equilibrative nucleoside transporter by cannabidiol: a mechanism of cannabinoid immunosuppression.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Proc Natl Acad Sci U S A</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carrier EJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auchampach JA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hillard CJ</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xenobiotic metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001229</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cannabinoid signaling pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001163</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d25">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27106177</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pharmacokinetic Drug Interactions with Tobacco, Cannabinoids and Smoking Cessation Products.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clin Pharmacokinet</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anderson GD</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chan LN</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">leukocyte</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000738</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="dd7">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26187180</bp:ID>
@@ -717,6 +710,32 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamamoto I</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Watanabe K</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xenobiotic metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001229</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e7f">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16672367</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inhibition of an equilibrative nucleoside transporter by cannabidiol: a mechanism of cannabinoid immunosuppression.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Proc Natl Acad Sci U S A</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carrier EJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auchampach JA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hillard CJ</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ef5">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26218440</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cannabidiol is a negative allosteric modulator of the cannabinoid CB1 receptor.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Br J Pharmacol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laprairie RB</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagher AM</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kelly ME</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Denovan-Wright EM</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bff">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21704641</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -729,16 +748,6 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamamoto I</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Watanabe K</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f43">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23108542</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Endocannabinoids via CBÃ¢â€šï¿½ receptors act as neurogenic niche cues during cortical development.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Philos Trans R Soc Lond B Biol Sci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DÃƒÂ­az-Alonso J</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GuzmÃƒÂ¡n M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galve-Roperh I</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b2b">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -746,15 +755,6 @@ Source: Howlett A.C. Cannabinoid Receptor Signaling. In: Pertwee R.G. (eds) Cann
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.genecards.org/cgi-bin/carddisp.pl?gene=CNR2&amp;keywords=cnr2</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d25">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27106177</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pharmacokinetic Drug Interactions with Tobacco, Cannabinoids and Smoking Cessation Products.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clin Pharmacokinet</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anderson GD</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chan LN</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neuron</bp:TERM>

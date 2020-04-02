@@ -4,7 +4,11 @@
   <Comment Source="WikiPathways-description">Oligodendrocyte differentiation and specification.  Also the composition of the myelin sheaths.</Comment>
   <BiopaxRef>c1c</BiopaxRef>
   <BiopaxRef>d58</BiopaxRef>
-  <Graphics BoardWidth="2145.094339622641" BoardHeight="1060.5755395683452" />
+  <Graphics BoardWidth="2145.094339622641" BoardHeight="1112.3665893271461" />
+  <DataNode TextLabel="Protein" GraphId="a1b01" Type="Protein">
+    <Graphics CenterX="1122.5310650887575" CenterY="933.9215976331362" Width="92.21597633136116" Height="31.565088757396538" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="Glycerophospholipid Biosynthetic Pathway" GraphId="a39f0" Type="Pathway">
     <Graphics CenterX="1956.0" CenterY="843.210757752942" Width="304.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP2533" />
@@ -14,21 +18,29 @@
     <Xref Database="Uniprot-TrEMBL" ID="A0A087WUF6" />
   </DataNode>
   <DataNode TextLabel="phosphatidylethanolamines" GraphId="b080b" Type="Metabolite" GroupRef="b8ee9">
-    <Graphics CenterX="1668.8133831773644" CenterY="882.1001217506389" Width="178.37323364527128" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1668.8133831773644" CenterY="882.1001217506389" Width="178.37323364527128" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:16038" />
+  </DataNode>
+  <DataNode TextLabel="Pathway" GraphId="baf83" Type="Pathway">
+    <Graphics CenterX="1122.5310650887573" CenterY="1013.3136094674558" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="IGF-1" GraphId="bb765" Type="Protein" GroupRef="d3981">
     <Graphics CenterX="1007.4049740620598" CenterY="166.0007208785592" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Uniprot-TrEMBL" ID="P05019" />
   </DataNode>
   <DataNode TextLabel="Cholesterol 27%" GraphId="ca106" Type="Metabolite">
-    <Graphics CenterX="1398.5278233981662" CenterY="743.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1398.5278233981662" CenterY="743.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:16113" />
   </DataNode>
   <DataNode TextLabel="MOG" GraphId="cf1b7" Type="Protein" GroupRef="d06af">
     <Comment>MOG: myelin oligodendrocyte glycoprotein</Comment>
     <Graphics CenterX="1722.6459434732344" CenterY="220.57927570792788" Width="200.49999999999997" Height="24.99999999999996" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Uniprot-TrEMBL" ID="Q16653" />
+  </DataNode>
+  <DataNode TextLabel="Metabolite" GraphId="cf7c4" Type="Metabolite">
+    <Graphics CenterX="1122.5310650887575" CenterY="977.5606508875743" Width="92.21597633136108" Height="31.56508875739657" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Olig2" GraphId="d09aa" Type="Protein">
     <Graphics CenterX="423.6365593771388" CenterY="414.92025326200417" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -47,7 +59,7 @@
     <Xref Database="Uniprot-TrEMBL" ID="P35711" />
   </DataNode>
   <DataNode TextLabel="Phosphatidylserine 4,8%" GraphId="eb0c7" Type="Metabolite">
-    <Graphics CenterX="1398.5278233981662" CenterY="997.7107577529478" Width="200.5" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1398.5278233981662" CenterY="997.7107577529478" Width="200.5" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:18303" />
   </DataNode>
   <DataNode TextLabel="MBP" GraphId="eda49" Type="Protein" GroupRef="d06af">
@@ -86,23 +98,23 @@
   </DataNode>
   <DataNode TextLabel="Cerebrosides 22,7%" GraphId="a9be1" Type="Metabolite">
     <Comment>Even though there are no absolute myelin-specific lipids, cerebroside, also known as galactosylceramide, is the most typical of myelin. The concentration of cerebroside in brain is directly proportional to the amount of myelin present. Cerebroside is not required for myelin formation but plays an important role in its insulating capacity and stability.</Comment>
-    <Graphics CenterX="1398.5278233981662" CenterY="768.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32773" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1398.5278233981662" CenterY="768.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32773" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:23079" />
   </DataNode>
   <DataNode TextLabel="Sulfatide 3,8%" GraphId="ec690" Type="Metabolite">
-    <Graphics CenterX="1398.5278233981662" CenterY="793.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32774" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1398.5278233981662" CenterY="793.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32774" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:18318" />
   </DataNode>
   <DataNode TextLabel="ethanolamine phosphatides 15,6%" GraphId="ccadc" Type="Metabolite">
-    <Graphics CenterX="1398.5278233981662" CenterY="843.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32776" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1398.5278233981662" CenterY="843.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32776" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Lecithins 11,2%" GraphId="a59d5" Type="Metabolite">
-    <Graphics CenterX="1398.5278233981662" CenterY="868.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32777" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1398.5278233981662" CenterY="868.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32777" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:61995" />
   </DataNode>
   <DataNode TextLabel="Sphingomyelin 7,9%" GraphId="d5ee7" Type="Metabolite">
-    <Graphics CenterX="1398.5278233981662" CenterY="818.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32778" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1398.5278233981662" CenterY="818.2107577529416" Width="230.77782339816622" Height="25.0" ZOrder="32778" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:17636" />
   </DataNode>
   <DataNode TextLabel="Sphingolipid metabolism" GraphId="b3ca0" Type="Pathway">
@@ -110,15 +122,15 @@
     <Xref Database="WikiPathways" ID="WP1422" />
   </DataNode>
   <DataNode TextLabel="phosphatidylinositol" GraphId="f02a5" Type="Metabolite" GroupRef="b8ee9">
-    <Graphics CenterX="1668.8133831773644" CenterY="907.1001217506389" Width="178.37323364527128" Height="25.0" ZOrder="32782" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1668.8133831773644" CenterY="907.1001217506389" Width="178.37323364527128" Height="25.0" ZOrder="32782" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:18179" />
   </DataNode>
   <DataNode TextLabel="Phosphatidylcholine" GraphId="f7047" Type="Metabolite" GroupRef="b8ee9">
-    <Graphics CenterX="1668.8133831773644" CenterY="932.1001217506389" Width="178.37323364527128" Height="25.0" ZOrder="32783" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1668.8133831773644" CenterY="932.1001217506389" Width="178.37323364527128" Height="25.0" ZOrder="32783" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:16110" />
   </DataNode>
   <DataNode TextLabel="phosphatidic acid" GraphId="bb7f3" Type="Metabolite" GroupRef="b8ee9">
-    <Graphics CenterX="1668.8133831773644" CenterY="957.1001217506389" Width="178.37323364527128" Height="25.0" ZOrder="32784" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1668.8133831773644" CenterY="957.1001217506389" Width="178.37323364527128" Height="25.0" ZOrder="32784" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:16337" />
   </DataNode>
   <DataNode TextLabel="SHH" GraphId="f4ede" Type="Protein" GroupRef="c10ec">
@@ -365,7 +377,7 @@
   <Interaction GraphId="id98eb642a">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="1980.4493872775683" Y="422.17117814063795" GraphRef="ee0fc" RelX="0.0" RelY="1.0" />
-      <Point X="1653.1312949640208" Y="682.1618705035976" GraphRef="d3723" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="1653.1312949640208" Y="699.0099009900989" GraphRef="d3723" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -448,6 +460,25 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="df6d1">
+    <Graphics ZOrder="32831" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1067.9554774458115" Y="848.7246566383251" />
+      <Point X="1138.2542472173404" Y="848.8363423337057" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <GraphicalLine GraphId="d4e3a">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="1070.1468189233278" Y="739.8724603292301" />
+      <Point X="1135.3996737357259" Y="739.8724603292301" ArrowHead="mim-necessary-stimulation" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ee932">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="1066.884176182708" Y="793.446361198178" />
+      <Point X="1135.3996737357259" Y="793.446361198178" ArrowHead="mim-inhibition" />
+    </Graphics>
+  </GraphicalLine>
   <Label TextLabel="Affected Myelin&#xA;(with lesion)" GraphId="a0cfc">
     <Graphics CenterX="878.3625954198468" CenterY="676.435114503817" Width="111.2748091603064" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
   </Label>
@@ -470,13 +501,19 @@
     <Comment>Type your comment hereIncreased expression of</Comment>
     <Graphics CenterX="315.5950869037904" CenterY="769.6373547062983" Width="114.90558658052186" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
   </Label>
+  <Label TextLabel="Activitation of&#xA;Transcription factors" GraphId="c9ff1">
+    <Graphics CenterX="1126.1686390532548" CenterY="879.7471759010216" Width="126.36094674556234" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" Color="404040" />
+  </Label>
+  <Label TextLabel="Necessary &#xA;stimulation" GraphId="d257c">
+    <Graphics CenterX="1126.1686390532548" CenterY="762.896764252696" Width="90.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" Color="404040" />
+  </Label>
   <Label TextLabel="Chemotactic migration" GraphId="d3d87">
     <Comment>Chemotactic migration</Comment>
     <Graphics CenterX="691.5136815705224" CenterY="872.3339828511994" Width="153.02736314104482" Height="25.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Specification and differentiation" GraphId="d93ff">
     <Comment>Specification and differentiation</Comment>
-    <Graphics CenterX="203.59658794190295" CenterY="87.00602857380251" Width="330.0502273822529" Height="25.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" Color="00cc33" />
+    <Graphics CenterX="241.78573712538827" CenterY="87.00602857380251" Width="406.42852574922347" Height="25.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" Color="00cc33" />
   </Label>
   <Label TextLabel="Transcription factor upregulation" GraphId="da5d6">
     <Comment>Transcription factor upregulation</Comment>
@@ -485,6 +522,9 @@
   <Label TextLabel="OPC differentiation" GraphId="da9ce">
     <Comment>OPC differentiation</Comment>
     <Graphics CenterX="1237.3807219735636" CenterY="337.2184748703861" Width="128.95041450517274" Height="25.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="Legend:" GraphId="dc818">
+    <Graphics CenterX="1087.6239104022284" CenterY="715.3060336180891" Width="90.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="404040" />
   </Label>
   <Label TextLabel="Astrocyte" GraphId="e0ea9">
     <Graphics CenterX="810.0" CenterY="88.0" Width="90.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
@@ -520,11 +560,17 @@
     <Comment>Chemotactic migration</Comment>
     <Graphics CenterX="691.7981559107825" CenterY="733.8543180279352" Width="88.95213210093138" Height="25.0" ZOrder="32819" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
+  <Label TextLabel="Inhibition" GraphId="c73eb">
+    <Graphics CenterX="1126.1686390532548" CenterY="821.2172573189507" Width="90.0" Height="25.0" ZOrder="32830" FillColor="ffffff" FontSize="12" Valign="Middle" Color="404040" />
+  </Label>
   <Shape GraphId="a2cc2">
     <Graphics CenterX="1070.5047169811319" CenterY="353.3641740163479" Width="2089.1792452830186" Height="606.9362482405961" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="5.0" Color="00cc33" Rotation="0.0" />
   </Shape>
   <Shape GraphId="a5658">
     <Graphics CenterX="1722.8291366906476" CenterY="165.66906474820144" Width="396.3417266187048" Height="201.4388489208633" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="3.0" Color="00ffff" Rotation="0.0" />
+  </Shape>
+  <Shape GraphId="d35ee">
+    <Graphics CenterX="1122.9157097004952" CenterY="864.5991879350346" Width="142.42306673277773" Height="335.76682134570797" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="f8779">
     <Graphics CenterX="527.5960363784443" CenterY="864.0473117689054" Width="1002.3618840776435" Height="333.05645559887967" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="5.0" Color="ff9999" Rotation="0.0" />
@@ -572,7 +618,7 @@
     <Graphics CenterX="150.75473078902007" CenterY="859.2680772779057" Width="213.5" Height="156.5" ZOrder="32822" FontSize="12" Valign="Middle" ShapeType="Oval" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
   </Shape>
   <Shape GraphId="d3723">
-    <Graphics CenterX="1653.1312949640208" CenterY="853.6708633093527" Width="880.7877697841718" Height="343.0179856115103" ZOrder="32826" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="3.0" Color="00ffff" Rotation="0.0" />
+    <Graphics CenterX="1653.1312949640208" CenterY="866.3366336633662" Width="880.7877697841718" Height="334.65346534653463" ZOrder="32826" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="3.0" Color="00ffff" Rotation="0.0" />
   </Shape>
   <Group GroupId="be945" Style="Group" />
   <Group GroupId="d57e2" GraphId="a727c" Style="Group" />
@@ -588,72 +634,6 @@
   <Group GroupId="d7dd5" GraphId="fe480" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d58">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20887785</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20887785</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cells of the oligodendroglial lineage, myelination, and remyelination.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochim Biophys Acta</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20887785</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cells of the oligodendroglial lineage, myelination, and remyelination.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochim Biophys Acta</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miron VE</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kuhlmann T</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antel JP</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">myelin accumulating cell</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000328</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glial cell</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000125</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bc0">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17872503</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bone morphogenetic protein signaling and olig1/2 interact to regulate the differentiation and maturation of adult oligodendrocyte precursor cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stem Cells</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cheng X</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang Y</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">He Q</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qiu M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Whittemore SR</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cao Q</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="db8">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charecterisctic Composition of Myelin</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charecterisctic Composition of Myelin</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic Neurochemistry: Molecular, Cellular and Medical Aspects; https://www.ncbi.nlm.nih.gov/books/NBK28221/</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charecterisctic Composition of Myelin</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic Neurochemistry: Molecular, Cellular and Medical Aspects; https://www.ncbi.nlm.nih.gov/books/NBK28221/</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morell P</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quarles RH</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Siegel GJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Agranoff BW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Albers RW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">et al.,</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c1c">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -687,9 +667,29 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Albers RW</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">et al.,</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d58">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20887785</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20887785</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cells of the oligodendroglial lineage, myelination, and remyelination.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochim Biophys Acta</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20887785</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cells of the oligodendroglial lineage, myelination, and remyelination.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochim Biophys Acta</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miron VE</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kuhlmann T</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antel JP</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oligodendrocyte</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000128</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">myelin accumulating cell</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000328</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
@@ -698,10 +698,56 @@
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glial cell</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000125</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bc0">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17872503</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bone morphogenetic protein signaling and olig1/2 interact to regulate the differentiation and maturation of adult oligodendrocyte precursor cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stem Cells</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cheng X</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang Y</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">He Q</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qiu M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Whittemore SR</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cao Q</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oligodendrocyte precursor cell</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0002453</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oligodendrocyte</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000128</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="db8">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charecterisctic Composition of Myelin</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charecterisctic Composition of Myelin</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic Neurochemistry: Molecular, Cellular and Medical Aspects; https://www.ncbi.nlm.nih.gov/books/NBK28221/</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charecterisctic Composition of Myelin</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic Neurochemistry: Molecular, Cellular and Medical Aspects; https://www.ncbi.nlm.nih.gov/books/NBK28221/</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morell P</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quarles RH</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Siegel GJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Agranoff BW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Albers RW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">et al.,</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glial cell</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000125</bp:ID>

@@ -3,7 +3,8 @@
   <Comment Source="WikiPathways-description">Apoptosis, or cell death program, can be activated by various mechanisms within the extrinsic and the intrinsic pathway. While activation of cell death receptors leads to the engagement of the extrinsic pathway, the intrinsic pathway is activated by mitochondria during cellular stress, both 
 resulting in an activation of caspases. 
 In the present pathway we emphasized the activation of caspases by those two pathways in pancreatic cancer (PDAC) cells. Please notice, that PDAC cells are so called type-II cells. In these cells the activation of cell death receptors is not sufficient to activated caspases. By cleavage of Bid, type-II cells activate the intrinsic pathway as "amplification loop". 
-</Comment>
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP1772 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Comment Source="WikiPathways-category">Physiological Process</Comment>
   <BiopaxRef>bc6</BiopaxRef>
@@ -18,7 +19,7 @@ In the present pathway we emphasized the activation of caspases by those two pat
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="a91e8" Type="Metabolite">
     <Graphics CenterX="653.9999999999997" CenterY="282.6666666666667" Width="52.00000000000005" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="MIR29B1" GraphId="acdd5" Type="GeneProduct" GroupRef="d4b87">
     <Graphics CenterX="677.333333333334" CenterY="386.6666666666662" Width="61.33333333333324" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="990099" />
@@ -214,7 +215,7 @@ In the present pathway we emphasized the activation of caspases by those two pat
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="" />
     <Attribute Key="org.pathvisio.model.GenMAPP-Xref" Value="" />
     <Graphics CenterX="807.3333333333334" CenterY="280.6666666666667" Width="54.000000000000014" Height="20.0" ZOrder="32832" FontSize="10" Valign="Middle" />
-    <Xref Database="HGNC" ID="1503" />
+    <Xref Database="HGNC Accession number" ID="1503" />
   </DataNode>
   <DataNode TextLabel="CRADD" GraphId="fe341" Type="GeneProduct" GroupRef="f877c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="" />
@@ -360,11 +361,11 @@ In the present pathway we emphasized the activation of caspases by those two pat
     <Graphics CenterX="143.0" CenterY="1025.3333333333335" Width="46.666666666666664" Height="20.0" ZOrder="32882" FontSize="10" Valign="Middle" />
     <Xref Database="HGNC" ID="CFLAR" />
   </DataNode>
-  <DataNode TextLabel="Humanin" GraphId="b9c71" Type="GeneProduct">
+  <DataNode TextLabel="MT-RNR2" GraphId="b9c71" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="" />
     <Attribute Key="org.pathvisio.model.GenMAPP-Xref" Value="" />
     <Graphics CenterX="920.6666666666667" CenterY="275.6666666666667" Width="66.66666666666667" Height="20.0" ZOrder="32884" FontSize="10" Valign="Middle" />
-    <Xref Database="HGNC" ID="HN1" />
+    <Xref Database="Ensembl" ID="ENSG00000210082" />
   </DataNode>
   <DataNode TextLabel="NAIP" GraphId="b32a0" Type="GeneProduct" GroupRef="ef4ed">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="" />
@@ -1454,6 +1455,22 @@ In the present pathway we emphasized the activation of caspases by those two pat
   <Group GroupId="e0c0f" GraphId="fd805" Style="Group" />
   <InfoBox CenterX="871.6666666666666" CenterY="725.0" />
   <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cda">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17404574</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mir-29 regulates Mcl-1 protein expression and apoptosis.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mott JL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kobayashi S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bronk SF</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gores GJ</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">regulatory pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bc6">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20808857</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1480,22 +1497,6 @@ In the present pathway we emphasized the activation of caspases by those two pat
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000009</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">regulatory pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cda">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17404574</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mir-29 regulates Mcl-1 protein expression and apoptosis.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mott JL</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kobayashi S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bronk SF</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gores GJ</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">signaling pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000003</bp:ID>

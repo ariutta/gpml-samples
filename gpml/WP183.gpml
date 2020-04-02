@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Proteasome Degradation" Organism="Homo sapiens"><Comment Source="WikiPathways-description">Degradation by proteasomes is part of  the mechanism by which cells regulate the concentration of proteins and degrade misfolded proteins. Proteasomes are protein complexes which degrade unneeded or damaged proteins by proteolysis, a chemical reaction that breaks peptide bonds. Proteins are tagged for degradation by proteasomes by the addition of ubiquitin, by ubiquitin ligases.
-Description adapted from [https://en.wikipedia.org/wiki/Proteasome Wikipedia].</Comment>
+Description adapted from [https://en.wikipedia.org/wiki/Proteasome Wikipedia].
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP183 CPTAC Assay Portal]</Comment>
   <Comment Source="GenMAPP notes"/>
   <Comment Source="GenMAPP remarks"/>
   <Comment Source="WikiPathways-category">Physiological Process</Comment>

@@ -3,7 +3,9 @@
   <Comment Source="WikiPathways-description">Microtubules (MTs) are essential for vesicle transport, cellular polarity and the segregation of chromosomes during mitosis. MTs are dynamic, undergoing assembly and depolymerization (primarily at the "plus end") by processes actively regulated by signaling pathways. The tubulin dimers that constitute MTs (depicted in green) are bound and sequestered by stathmin (STMN), enhancing MT dynamics by increasing rapid depolymerization (a.k.a., "MT catastrophe"). MT dynamics are also enhanced by collapsin response mediator protein (CRMP2), which increases MT growth by promoting the addition of tubulin dimers onto microtubule plus ends. Other proteins that associate with assembled MTs include those that stabilize MTs (e.g. tau or MAPT), those that promote assembly (e.g., XMAP215), and those that maintain MTs in a dynamic state (e.g., MAP1B). Complexes between the adenomateous polyposis coli (APC) protein and plus end binding proteins (e.g., EB1) stabilize MTs by increasing the duration of the MT elongation phase. MT instability is promoted by several nonmotile kinesins from the kinesin-13 family, e.g., the mitotic centromere associated kinesin, MCAK, by accelerating the transition to catastrophe by weakening the lateral interactions between the protofilaments. Upstream from these processes, major signaling pathways act to regulate MT dynamics, e.g., those converging on GSK3B, a kinase which targets tau and CRMP2.
 
 
-Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskeletal/regulation-of-microtubule-dynamics-signaling-pathway/pathways-micro</Comment>
+Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskeletal/regulation-of-microtubule-dynamics-signaling-pathway/pathways-micro
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2038 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <BiopaxRef>e01</BiopaxRef>
   <BiopaxRef>a28</BiopaxRef>
@@ -16,7 +18,7 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="360.24749275117426" CenterY="569.9426772777134" Width="80.0" Height="20.0" ZOrder="32770" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000186868"/>
   </DataNode>
-  <DataNode TextLabel="LL5خ²" GraphId="fa81a" Type="GeneProduct">
+  <DataNode TextLabel="LL5b" GraphId="fa81a" Type="GeneProduct">
     <Graphics CenterX="249.93844197854713" CenterY="647.2715956000092" Width="80.0" Height="20.0" ZOrder="32771" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000144824"/>
   </DataNode>
@@ -24,31 +26,31 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="137.79769352692585" CenterY="636.5135333767856" Width="80.0" Height="20.0" ZOrder="32772" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000171368"/>
   </DataNode>
-  <DataNode TextLabel="LIMK*" GraphId="f6e0d" Type="GeneProduct">
+  <DataNode TextLabel="LIMK" GraphId="f6e0d" Type="GeneProduct">
     <Graphics CenterX="137.79769352692583" CenterY="598.6172861361678" Width="80.0" Height="20.0" ZOrder="32773" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000106683"/>
   </DataNode>
-  <DataNode TextLabel="TESK*" GraphId="bf1ed" Type="GeneProduct">
+  <DataNode TextLabel="TESK" GraphId="bf1ed" Type="GeneProduct">
     <Graphics CenterX="118.75007447930687" CenterY="475.9912423991266" Width="80.0" Height="20.0" ZOrder="32774" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000070759"/>
   </DataNode>
-  <DataNode TextLabel="MAPKAPK*" GraphId="e9dd1" Type="GeneProduct">
+  <DataNode TextLabel="MAPKAPK" GraphId="e9dd1" Type="GeneProduct">
     <Graphics CenterX="622.0791685791571" CenterY="415.5643060037175" Width="80.0" Height="20.0" ZOrder="32775" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000162889"/>
   </DataNode>
-  <DataNode TextLabel="DVL*" GraphId="a934d" Type="GeneProduct">
+  <DataNode TextLabel="DVL" GraphId="a934d" Type="GeneProduct">
     <Graphics CenterX="526.5217280848271" CenterY="411.14356027992113" Width="54.94821807441639" Height="20.0" ZOrder="32776" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000107404"/>
   </DataNode>
-  <DataNode TextLabel="PKC*" GraphId="f9fb1" Type="GeneProduct" GroupRef="d0553">
+  <DataNode TextLabel="PKC" GraphId="f9fb1" Type="GeneProduct" GroupRef="d0553">
     <Graphics CenterX="359.2580585754294" CenterY="401.1336133124884" Width="80.0" Height="20.0" ZOrder="32777" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000154229"/>
   </DataNode>
-  <DataNode TextLabel="PAR6*" GraphId="c7742" Type="GeneProduct" GroupRef="d0553">
+  <DataNode TextLabel="PAR6" GraphId="c7742" Type="GeneProduct" GroupRef="d0553">
     <Graphics CenterX="359.2580585754294" CenterY="381.1336133124885" Width="80.0" Height="20.0" ZOrder="32778" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000102981"/>
   </DataNode>
-  <DataNode TextLabel="TAOK*" GraphId="fccde" Type="GeneProduct">
+  <DataNode TextLabel="TAOK" GraphId="fccde" Type="GeneProduct">
     <Graphics CenterX="228.72101757595382" CenterY="383.173495295837" Width="80.0" Height="20.0" ZOrder="32779" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000160551"/>
   </DataNode>
@@ -56,7 +58,7 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="118.75007447930686" CenterY="373.0257294813757" Width="80.0" Height="20.0" ZOrder="32780" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000166068"/>
   </DataNode>
-  <DataNode TextLabel="ROCK*" GraphId="dc58b" Type="GeneProduct">
+  <DataNode TextLabel="ROCK" GraphId="dc58b" Type="GeneProduct">
     <Graphics CenterX="1133.5636530636418" CenterY="304.05779474423866" Width="80.0" Height="20.0" ZOrder="32781" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000067900"/>
   </DataNode>
@@ -68,7 +70,7 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="249.26736030084297" CenterY="493.93605476115766" Width="80.0" Height="20.0" ZOrder="32783" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000116141"/>
   </DataNode>
-  <DataNode TextLabel="CFL*" GraphId="c99d0" Type="GeneProduct">
+  <DataNode TextLabel="CFL" GraphId="c99d0" Type="GeneProduct">
     <Graphics CenterX="137.79769352692583" CenterY="549.147087460671" Width="80.0" Height="20.0" ZOrder="32784" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000165410"/>
   </DataNode>
@@ -84,7 +86,7 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="359.2580585754294" CenterY="419.58562569638934" Width="80.0" Height="20.0" ZOrder="32787" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="2151"/>
   </DataNode>
-  <DataNode TextLabel="PAR1*" GraphId="b3093" Type="GeneProduct" GroupRef="ef0d1">
+  <DataNode TextLabel="PAR1" GraphId="b3093" Type="GeneProduct" GroupRef="ef0d1">
     <Graphics CenterX="213.20510872184988" CenterY="474.8884357135386" Width="53.589782556299895" Height="20.0" ZOrder="32788" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000072518"/>
   </DataNode>
@@ -92,7 +94,7 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="1001.4245139245024" CenterY="304.05779474423866" Width="80.0" Height="20.0" ZOrder="32789" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000171862"/>
   </DataNode>
-  <DataNode TextLabel="AKT*" GraphId="cea1f" Type="GeneProduct">
+  <DataNode TextLabel="AKT" GraphId="cea1f" Type="GeneProduct">
     <Graphics CenterX="789.2473367473252" CenterY="304.05779474423866" Width="80.0" Height="20.0" ZOrder="32790" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000142208"/>
   </DataNode>
@@ -104,7 +106,7 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="241.64691900389374" CenterY="256.4494069616949" Width="80.0" Height="20.0" ZOrder="32792" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000070831"/>
   </DataNode>
-  <DataNode TextLabel="PIK3*" GraphId="c3dd1" Type="GeneProduct" GroupRef="ef98f">
+  <DataNode TextLabel="PIK3" GraphId="c3dd1" Type="GeneProduct" GroupRef="ef98f">
     <Graphics CenterX="893.6296624692739" CenterY="186.35332207750182" Width="80.0" Height="20.0" ZOrder="32793" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000121879"/>
   </DataNode>
@@ -112,7 +114,7 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="356.7795936884638" CenterY="174.17216244190723" Width="80.0" Height="20.0" ZOrder="32794" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000156052"/>
   </DataNode>
-  <DataNode TextLabel="WNT*" GraphId="c309d" Type="GeneProduct" GroupRef="d0a6f">
+  <DataNode TextLabel="WNT" GraphId="c309d" Type="GeneProduct" GroupRef="d0a6f">
     <Graphics CenterX="356.7795936884638" CenterY="154.1721624419072" Width="80.0" Height="20.0" ZOrder="32795" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000154342"/>
   </DataNode>
@@ -124,11 +126,11 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="1380.2563725867751" CenterY="718.144879955153" Width="58.53487387406878" Height="20.0" ZOrder="32805" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000168610"/>
   </DataNode>
-  <DataNode TextLabel="STMN*" GraphId="e481d" Type="GeneProduct">
+  <DataNode TextLabel="STMN" GraphId="e481d" Type="GeneProduct">
     <Graphics CenterX="1275.5058965476585" CenterY="711.1954559213451" Width="80.0" Height="20.0" ZOrder="32806" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000117632"/>
   </DataNode>
-  <DataNode TextLabel="PAK*" GraphId="f584c" Type="GeneProduct">
+  <DataNode TextLabel="PAK" GraphId="f584c" Type="GeneProduct">
     <Graphics CenterX="1307.095902297611" CenterY="639.8064624146383" Width="58.18914778573011" Height="20.0" ZOrder="32807" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000149269"/>
   </DataNode>
@@ -140,7 +142,7 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="1107.3054275467853" CenterY="737.9761478293188" Width="80.0" Height="20.0" ZOrder="32809" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000178999"/>
   </DataNode>
-  <DataNode TextLabel="CAMK*" GraphId="d358a" Type="GeneProduct">
+  <DataNode TextLabel="CAMK" GraphId="d358a" Type="GeneProduct">
     <Graphics CenterX="1160.3622557407991" CenterY="667.7597512611592" Width="55.962606719693504" Height="20.0" ZOrder="32810" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000152495"/>
   </DataNode>
@@ -152,11 +154,11 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="962.8535686335338" CenterY="752.7235262849906" Width="80.0" Height="20.0" ZOrder="32812" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000142945"/>
   </DataNode>
-  <DataNode TextLabel="XMAP215*" GraphId="f1fc0" Type="GeneProduct">
+  <DataNode TextLabel="XMAP215" GraphId="f1fc0" Type="GeneProduct">
     <Graphics CenterX="878.1081409477522" CenterY="720.6371536858362" Width="80.0" Height="20.0" ZOrder="32813" FontSize="10" Valign="Middle"/>
     <Xref Database="" ID=""/>
   </DataNode>
-  <DataNode TextLabel="ICIS*" GraphId="cf90c" Type="GeneProduct">
+  <DataNode TextLabel="ICIS" GraphId="cf90c" Type="GeneProduct">
     <Graphics CenterX="939.709857291915" CenterY="674.968279513651" Width="54.65780982192564" Height="20.0" ZOrder="32814" FontSize="10" Valign="Middle"/>
     <Xref Database="" ID=""/>
   </DataNode>
@@ -180,11 +182,11 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="253.36421158792848" CenterY="995.2088976151971" Width="80.0" Height="20.0" ZOrder="32819" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000197122"/>
   </DataNode>
-  <DataNode TextLabel="CLASP*" GraphId="d82c3" Type="GeneProduct">
+  <DataNode TextLabel="CLASP" GraphId="d82c3" Type="GeneProduct">
     <Graphics CenterX="433.019538780404" CenterY="780.7607739948864" Width="61.57997005823962" Height="20.0" ZOrder="32820" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000074054"/>
   </DataNode>
-  <DataNode TextLabel="CLIP*" GraphId="e358e" Type="GeneProduct">
+  <DataNode TextLabel="CLIP" GraphId="e358e" Type="GeneProduct">
     <Graphics CenterX="802.5748706860055" CenterY="764.9462044584632" Width="80.0" Height="20.0" ZOrder="32821" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000130779"/>
   </DataNode>
@@ -204,11 +206,11 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="438.29826537810584" CenterY="697.2473130393022" Width="80.0" Height="20.0" ZOrder="32825" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000134982"/>
   </DataNode>
-  <DataNode TextLabel="mDIA*" GraphId="f444b" Type="GeneProduct">
+  <DataNode TextLabel="mDIA" GraphId="f444b" Type="GeneProduct">
     <Graphics CenterX="432.1854036409089" CenterY="640.4428932001845" Width="80.0" Height="20.0" ZOrder="32826" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="1729"/>
   </DataNode>
-  <DataNode TextLabel="mDIA*" GraphId="fccef" Type="GeneProduct" GroupRef="e0cee">
+  <DataNode TextLabel="mDIA" GraphId="fccef" Type="GeneProduct" GroupRef="e0cee">
     <Graphics CenterX="438.29826537810584" CenterY="717.2473130393022" Width="80.0" Height="20.0" ZOrder="32827" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="1729"/>
   </DataNode>
@@ -216,19 +218,19 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="500.9397532237975" CenterY="802.3659458649588" Width="55.26335069526192" Height="20.0" ZOrder="32828" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000101367"/>
   </DataNode>
-  <DataNode TextLabel="CLIP*" GraphId="d7067" Type="GeneProduct">
+  <DataNode TextLabel="CLIP" GraphId="d7067" Type="GeneProduct">
     <Graphics CenterX="433.1299140563422" CenterY="808.9853088419385" Width="57.54969569683931" Height="20.0" ZOrder="32829" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000130779"/>
   </DataNode>
-  <DataNode TextLabel="CLIP*" GraphId="a6408" Type="GeneProduct">
+  <DataNode TextLabel="CLIP" GraphId="a6408" Type="GeneProduct">
     <Graphics CenterX="789.8259090106156" CenterY="895.6204397154804" Width="48.22324659265951" Height="20.0" ZOrder="32830" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000130779"/>
   </DataNode>
-  <DataNode TextLabel="CLIP*" GraphId="c90b7" Type="GeneProduct" GroupRef="daccc">
+  <DataNode TextLabel="CLIP" GraphId="c90b7" Type="GeneProduct" GroupRef="daccc">
     <Graphics CenterX="513.2555841919452" CenterY="923.6362076120427" Width="59.20311733039324" Height="20.0" ZOrder="32831" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000130779"/>
   </DataNode>
-  <DataNode TextLabel="CLASP*" GraphId="c4594" Type="GeneProduct">
+  <DataNode TextLabel="CLASP" GraphId="c4594" Type="GeneProduct">
     <Graphics CenterX="789.1201379604742" CenterY="915.8878632411818" Width="50.62122830189992" Height="20.0" ZOrder="32832" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000074054"/>
   </DataNode>
@@ -248,7 +250,7 @@ Reference: https://www.cellsignal.com/contents/science-pathway-research-cytoskel
     <Graphics CenterX="573.3355140161847" CenterY="1104.8872325253194" Width="80.0" Height="20.0" ZOrder="32836" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000163914"/>
   </DataNode>
-  <DataNode TextLabel="mDIA1*" GraphId="e6846" Type="GeneProduct">
+  <DataNode TextLabel="mDIA1" GraphId="e6846" Type="GeneProduct">
     <Graphics CenterX="682.8766318240217" CenterY="1072.7881518913994" Width="80.0" Height="20.0" ZOrder="32837" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="1729"/>
   </DataNode>

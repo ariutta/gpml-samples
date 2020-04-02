@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Myometrial Relaxation and Contraction Pathways" Organism="Homo sapiens" License="CC BY 2.0">
   <Comment Source="WikiPathways-category">Physiological Process</Comment>
-  <Comment Source="WikiPathways-description">This pathway illustrates signaling networks implicated in uterine muscle contraction at labor and quiescence throughout gestation (pregnancy). The muscle of the uterus, responsible for contractile activity is the myometrium. Genes in this pathway are either transcribed in myometrial muscle cells or act upon the myometrium to regulate contraction. The left half of this pathway illustrates pathways of myometrial relaxation that are active throughout normal gestation. These signaling events act to suppress coordinated contractions to prevent the early onset of labor at term, largely via activation of the adenylyl-cyclase thrhough G-protein coupled receptors. On the right side of this pathway are signaling componets involved in the activation of uterine contractions at labor, in particular, activation of calcium mobilization via Oxytocin mediated binding to the Oxytocin G-protein coupled receptor. Additional genes implicated in this pathway, based on microarray expression profiling of gestation, term and postpartum of term mice are also included (e.g., Guca2b, Rdc1, Edg2) have also been included. For a detailed description of this pathway see: http://genomebiology.com/2005/6/2/R12. </Comment>
+  <Comment Source="WikiPathways-description">This pathway illustrates signaling networks implicated in uterine muscle contraction at labor and quiescence throughout gestation (pregnancy). The muscle of the uterus, responsible for contractile activity is the myometrium. Genes in this pathway are either transcribed in myometrial muscle cells or act upon the myometrium to regulate contraction. The left half of this pathway illustrates pathways of myometrial relaxation that are active throughout normal gestation. These signaling events act to suppress coordinated contractions to prevent the early onset of labor at term, largely via activation of the adenylyl-cyclase thrhough G-protein coupled receptors. On the right side of this pathway are signaling componets involved in the activation of uterine contractions at labor, in particular, activation of calcium mobilization via Oxytocin mediated binding to the Oxytocin G-protein coupled receptor. Additional genes implicated in this pathway, based on microarray expression profiling of gestation, term and postpartum of term mice are also included (e.g., Guca2b, Rdc1, Edg2) have also been included. For a detailed description of this pathway see: http://genomebiology.com/2005/6/2/R12. 
+
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP289 CPTAC Assay Portal]</Comment>
   <BiopaxRef>d18</BiopaxRef>
   <BiopaxRef>d04</BiopaxRef>
   <BiopaxRef>d43</BiopaxRef>
@@ -303,7 +306,7 @@ Rozen F, Russo C, Banville D, Zingg HH PMID: 7816817                            
   </DataNode>
   <DataNode TextLabel="MYL4" GraphId="bab36" Type="GeneProduct" GroupRef="e8d60">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MYL4 | myosin light polypeptide 4 alkali; atr..." />
-    <Graphics CenterX="933.6666666666666" CenterY="614.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="929.6666666666666" CenterY="615.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4635" />
   </DataNode>
   <DataNode TextLabel="RGS1" GraphId="bb0b7" Type="GeneProduct">
@@ -319,7 +322,7 @@ Rozen F, Russo C, Banville D, Zingg HH PMID: 7816817                            
   <DataNode TextLabel="MYLK2" GraphId="bb691" Type="GeneProduct">
     <Comment Source="GenMAPP remarks">KML2 MOUSE</Comment>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MYLK2 | myosin light chain kinase 2 skeletal m..." />
-    <Graphics CenterX="862.0" CenterY="536.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="861.0" CenterY="536.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="85366" />
   </DataNode>
   <DataNode TextLabel="EDG2" GraphId="bb7d5" Type="GeneProduct">
@@ -463,7 +466,7 @@ PMID: 10377025</Comment>
   </DataNode>
   <DataNode TextLabel="Cyclic AMP" GraphId="cded0" Type="Metabolite">
     <Graphics CenterX="625.5" CenterY="205.0" Width="63.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00058" />
+    <Xref Database="HMDB" ID="HMDB0000058" />
   </DataNode>
   <DataNode TextLabel="GNB5" GraphId="ce263" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GNB5 | guanine nucleotide binding protein (G pr..." />
@@ -655,7 +658,7 @@ PMID: 10218980</Comment>
   </DataNode>
   <DataNode TextLabel="CRHR1" GraphId="e52b6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CRHR1 | corticotropin releasing hormone recepto..." />
-    <Graphics CenterX="330.0" CenterY="160.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="330.0" CenterY="162.5" Width="60.0" Height="21.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1394" />
   </DataNode>
   <DataNode TextLabel="RLN1" GraphId="e56e3" Type="GeneProduct">
@@ -781,7 +784,7 @@ PMID: 10377025</Comment>
   </DataNode>
   <DataNode TextLabel="Cyclic GMP" GraphId="f43ae" Type="Metabolite">
     <Graphics CenterX="532.5" CenterY="333.0" Width="63.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01314" />
+    <Xref Database="HMDB" ID="HMDB0001314" />
   </DataNode>
   <DataNode TextLabel="CREB3" GraphId="f4dd8" Type="GeneProduct" GroupRef="d37aa">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CREB3 | cAMP responsive element binding protein..." />
@@ -867,7 +870,7 @@ PMID: 10377025</Comment>
   </DataNode>
   <DataNode TextLabel="MYL2" GraphId="faa5d" Type="GeneProduct" GroupRef="e8d60">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MYL2 | myosin light polypeptide 2 regulatory..." />
-    <Graphics CenterX="933.6666666666666" CenterY="594.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="929.6666666666666" CenterY="595.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4633" />
   </DataNode>
   <DataNode TextLabel="RGS3" GraphId="fae78" Type="GeneProduct">
@@ -904,7 +907,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   </DataNode>
   <DataNode TextLabel="Cyclic AMP" GraphId="fd566" Type="Metabolite">
     <Graphics CenterX="204.5" CenterY="370.0" Width="63.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00058" />
+    <Xref Database="HMDB" ID="HMDB0000058" />
   </DataNode>
   <DataNode TextLabel="CREB1" GraphId="fe4d9" Type="GeneProduct" GroupRef="d37aa">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CREB1 | cAMP responsive element binding protein..." />
@@ -929,7 +932,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   <Interaction GraphId="a4ede">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0" Color="8000ff">
       <Point X="1053.3333333333333" Y="573.3333333333334" GraphRef="beb0c" RelX="0.0" RelY="1.0" />
-      <Point X="986.945980658507" Y="673.4849057132226" GraphRef="af380" RelX="0.0" RelY="0.0" ArrowHead="TBar" />
+      <Point X="985.8532703287733" Y="673.758083295656" GraphRef="af380" RelX="0.0" RelY="0.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -965,7 +968,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   <Interaction GraphId="abf8f">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="8000ff">
       <Point X="278.9181" Y="532.0" GraphRef="a99ad" RelX="1.0" RelY="0.5" />
-      <Point X="832.0" Y="536.3333333333334" GraphRef="bb691" RelX="-1.0" RelY="0.0" ArrowHead="TBar" />
+      <Point X="831.0" Y="536.3333333333334" GraphRef="bb691" RelX="-1.0" RelY="0.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1000,7 +1003,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   <Interaction GraphId="ade7e">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0080">
       <Point X="832.3333333333333" Y="493.33333333333337" GraphRef="e3f7e" RelX="0.5" RelY="1.0" />
-      <Point X="847.0" Y="526.3333333333334" GraphRef="bb691" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="846.0" Y="526.3333333333334" GraphRef="bb691" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.6214285714285713" Shape="None" GraphId="b49da" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1036,7 +1039,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   </Interaction>
   <Interaction GraphId="b83b3">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="8f8f8f">
-      <Point X="972.6397576911843" Y="655.2399441441369" GraphRef="e8430" RelX="0.0" RelY="0.0" />
+      <Point X="970.460498781654" Y="655.7847588715194" GraphRef="e8430" RelX="0.0" RelY="0.0" />
       <Point X="947.0" Y="668.6666666666665" GraphRef="f545b" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1086,13 +1089,13 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   <Interaction GraphId="be348">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="8000ff">
       <Point X="767.8333333333335" Y="513.0" GraphRef="bc693" RelX="1.0" RelY="0.0" />
-      <Point X="841.447619047619" Y="513.8404761904762" GraphRef="b49da" RelX="0.0" RelY="0.0" ArrowHead="TBar" />
+      <Point X="840.8261904761904" Y="513.8404761904762" GraphRef="b49da" RelX="0.0" RelY="0.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="bee91">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0" Color="8000ff">
-      <Point X="315.0" Y="170.0" GraphRef="e52b6" RelX="-0.5" RelY="1.0" />
+      <Point X="315.0" Y="173.0" GraphRef="e52b6" RelX="-0.5" RelY="1.0" />
       <Point X="259.1666666666667" Y="241.0" />
       <Point X="203.33333333333334" Y="276.0" GraphRef="f6b05" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
@@ -1152,7 +1155,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   </Interaction>
   <Interaction GraphId="c8259">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0080">
-      <Point X="948.6666666666666" Y="624.6666666666666" GraphRef="bab36" RelX="0.5" RelY="1.0" />
+      <Point X="944.6666666666666" Y="625.6666666666666" GraphRef="bab36" RelX="0.5" RelY="1.0" />
       <Point X="1001.3333333333334" Y="691.8333333333334" GraphRef="d5517" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.45518527261742314" Shape="None" GraphId="e8430" />
       <Anchor Position="0.7268224175665883" Shape="None" GraphId="af380" />
@@ -1232,7 +1235,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   </Interaction>
   <Interaction GraphId="d0a94">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="8f8f8f">
-      <Point X="895.5746151429469" Y="559.5161797046811" GraphRef="f4a87" RelX="0.0" RelY="0.0" />
+      <Point X="894.5948266834223" Y="567.5273850664992" GraphRef="f4a87" RelX="0.0" RelY="0.0" />
       <Point X="921.3333333333333" Y="564.0" GraphRef="def10" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1246,7 +1249,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   </Interaction>
   <Interaction GraphId="d0f3a">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="1.0" Color="8000ff">
-      <Point X="345.0" Y="170.0" GraphRef="e52b6" RelX="0.5" RelY="1.0" />
+      <Point X="345.0" Y="173.0" GraphRef="e52b6" RelX="0.5" RelY="1.0" />
       <Point X="398.8657512297998" Y="218.96530025057206" GraphRef="d329c" RelX="0.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1261,7 +1264,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   <Interaction GraphId="d1b65">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="8000ff">
       <Point X="976.6666666666666" Y="508.0" GraphRef="ed17a" RelX="0.0" RelY="1.0" />
-      <Point X="972.6397576911843" Y="655.2399441441369" GraphRef="e8430" RelX="0.0" RelY="0.0" ArrowHead="TBar" />
+      <Point X="970.460498781654" Y="655.7847588715194" GraphRef="e8430" RelX="0.0" RelY="0.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1281,7 +1284,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   </Interaction>
   <Interaction GraphId="d4b9c">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="8f8f8f">
-      <Point X="972.6397576911843" Y="655.2399441441369" GraphRef="e8430" RelX="0.0" RelY="0.0" />
+      <Point X="970.460498781654" Y="655.7847588715194" GraphRef="e8430" RelX="0.0" RelY="0.0" />
       <Point X="943.3333333333335" Y="646.3333333333334" GraphRef="fc33b" RelX="1.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1295,7 +1298,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   </Interaction>
   <Interaction GraphId="d4ea9">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0" Color="8000ff">
-      <Point X="847.0" Y="546.3333333333334" GraphRef="bb691" RelX="-0.5" RelY="1.0" />
+      <Point X="846.0" Y="546.3333333333334" GraphRef="bb691" RelX="-0.5" RelY="1.0" />
       <Point X="827.0" Y="580.3333333333334" GraphRef="aaf0e" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1303,7 +1306,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   <Interaction GraphId="d4f16">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="8000ff">
       <Point X="330.0" Y="112.0" GraphRef="bf458" RelX="0.0" RelY="1.0" />
-      <Point X="330.0" Y="150.0" GraphRef="e52b6" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="330.0" Y="152.0" GraphRef="e52b6" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1376,7 +1379,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   <Interaction GraphId="eba47">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="8f8f8f">
       <Point X="907.8333333333334" Y="546.6666666666666" GraphRef="c03e8" RelX="-0.5" RelY="1.0" />
-      <Point X="895.5746151429469" Y="559.5161797046811" GraphRef="f4a87" RelX="0.0" RelY="0.0" />
+      <Point X="894.5948266834223" Y="567.5273850664992" GraphRef="f4a87" RelX="0.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1447,7 +1450,7 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   <Interaction GraphId="f9d6b">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0080">
       <Point X="681.3333333333334" Y="631.3333333333334" GraphRef="b28d7" RelX="1.0" RelY="0.0" />
-      <Point X="952.989088901248" Y="630.1791228708953" GraphRef="f730f" RelX="0.0" RelY="0.0" />
+      <Point X="949.3173741342541" Y="631.0970515626439" GraphRef="f730f" RelX="0.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1460,8 +1463,8 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   </Interaction>
   <Interaction GraphId="fc40d">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0080">
-      <Point X="855.6666666666666" Y="523.6666666666666" />
-      <Point X="914.6666666666666" Y="576.6666666666666" GraphRef="b4f20" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="861.0" Y="546.3333333333334" GraphRef="bb691" RelX="0.0" RelY="1.0" />
+      <Point X="910.6666666666666" Y="577.6666666666666" GraphRef="b4f20" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.6764059063776316" Shape="None" GraphId="f4a87" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1717,16 +1720,6 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
   <Group GroupId="e5925" GraphId="fe4bd" Style="Complex" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000003</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">smooth muscle cell</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000192</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d43">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15693941</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1742,6 +1735,21 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolganov G</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conklin BR</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d18">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11854458</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up-regulation of nitric oxide synthase and modulation of the guanylate cyclase activity by corticotropin-releasing hormone but not urocortin II or urocortin III in cultured human pregnant myometrial cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Proc Natl Acad Sci U S A</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aggelidou E</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hillhouse EW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grammatopoulos DK</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000003</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d04">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11701706</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1755,15 +1763,10 @@ Echetebu CO, Ali M, Izban MG, MacKay L, Garfield RE. PMID: 10421804</Comment>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FerrÃ© F</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leroy MJ</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d18">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11854458</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up-regulation of nitric oxide synthase and modulation of the guanylate cyclase activity by corticotropin-releasing hormone but not urocortin II or urocortin III in cultured human pregnant myometrial cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Proc Natl Acad Sci U S A</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aggelidou E</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hillhouse EW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grammatopoulos DK</bp:AUTHORS>
-    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">smooth muscle cell</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000192</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

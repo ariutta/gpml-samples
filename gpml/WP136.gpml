@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Phase I biotransformations, non P450" Last-Modified="2/22/2013" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">This pathway lists several phase 1 biotransformations and their related enzymes.</Comment>
+  <Comment Source="WikiPathways-description">This pathway lists several phase 1 biotransformations and their related enzymes.
+
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP136 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Metabolic Process</Comment>
   <BiopaxRef>b69</BiopaxRef>
-  <Graphics BoardWidth="641.0" BoardHeight="416.0" />
+  <Graphics BoardWidth="625.0" BoardHeight="408.0" />
   <DataNode TextLabel="thio esters" GraphId="a1626" Type="Metabolite" GroupRef="b9ae8">
     <Graphics CenterX="105.0" CenterY="233.0" Width="129.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:51277" />
@@ -38,7 +41,7 @@
   </DataNode>
   <DataNode TextLabel="amides" GraphId="bc7f3" Type="Metabolite" GroupRef="efe95">
     <Graphics CenterX="478.0" CenterY="208.0" Width="129.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="32988" />
+    <Xref Database="ChEBI" ID="CHEBI:32988" />
   </DataNode>
   <DataNode TextLabel="carboxylic acid esters" GraphId="c109a" Type="Metabolite" GroupRef="efe95">
     <Graphics CenterX="478.0" CenterY="184.0" Width="129.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -58,7 +61,7 @@
   </DataNode>
   <DataNode TextLabel="amides" GraphId="e744e" Type="Metabolite" GroupRef="b9ae8">
     <Graphics CenterX="105.0" CenterY="209.0" Width="129.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="32988" />
+    <Xref Database="ChEBI" ID="CHEBI:32988" />
   </DataNode>
   <DataNode TextLabel="CES1" GraphId="f26" Type="GeneProduct" GroupRef="d23ac">
     <Graphics CenterX="282.0" CenterY="94.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />

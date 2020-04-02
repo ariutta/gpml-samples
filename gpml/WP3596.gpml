@@ -2,7 +2,9 @@
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="miR-517 relationship with ARCN1 and USP1" Version="20151222" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Schematic summarizing predicted miR-517a relationships with ARCN1 and USP1.
 
-A genomewide miRNA mimic toxicity screen indicates common and selective vulnerabilities of epithelial ovarian cancer cells. miR-517a targets a common vulnerability, primarily via its target ARCN1.</Comment>
+A genomewide miRNA mimic toxicity screen indicates common and selective vulnerabilities of epithelial ovarian cancer cells. miR-517a targets a common vulnerability, primarily via its target ARCN1.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3596 CPTAC Assay Portal].</Comment>
   <BiopaxRef>fb3</BiopaxRef>
   <Graphics BoardWidth="546.4034021871198" BoardHeight="368.6269744835964"/>
   <DataNode TextLabel="USP1" GraphId="dc550" Type="GeneProduct">

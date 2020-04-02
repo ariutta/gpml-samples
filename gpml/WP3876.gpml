@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="BMP2-WNT4-FOXO1 Pathway in Human Primary Endometrial Stromal Cell Differentiation" Version="20160814" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">This pathway is based on figure 6 from Li et al. BMP2 is activated by cAMP which promotes WNT4 expression in Human Primary Endometrial Stromal Cells (HPESCs) through SMAD1/5/8. WNT4 then induces FOXO1 function through B-Catenin which indirectly stimulates HPESC differentiation. DKKs and SFRPs are activated by BMP2 inhibit WNT4 and stop downstream signaling.</Comment>
+  <Comment Source="WikiPathways-description">This pathway is based on figure 6 from Li et al. BMP2 is activated by cAMP which promotes WNT4 expression in Human Primary Endometrial Stromal Cells (HPESCs) through SMAD1/5/8. WNT4 then induces FOXO1 function through B-Catenin which indirectly stimulates HPESC differentiation. DKKs and SFRPs are activated by BMP2 inhibit WNT4 and stop downstream signaling.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3876 CPTAC Assay Portal]</Comment>
   <BiopaxRef>cca</BiopaxRef>
-  <Graphics BoardWidth="554.0" BoardHeight="661.0" />
+  <Graphics BoardWidth="546.0" BoardHeight="661.0" />
   <DataNode TextLabel="SFRPs" GraphId="a2b4c" Type="GeneProduct" GroupRef="f2314">
     <Comment>Protein Family</Comment>
     <Graphics CenterX="136.0" CenterY="307.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -14,7 +16,7 @@
   </DataNode>
   <DataNode TextLabel="cAMP" GraphId="c1cae" Type="Metabolite">
     <Graphics CenterX="281.0" CenterY="92.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00058" />
+    <Xref Database="HMDB" ID="HMDB0000058" />
   </DataNode>
   <DataNode TextLabel="SMAD8" GraphId="c8f74" Type="GeneProduct" GroupRef="f7e74">
     <Graphics CenterX="425.0" CenterY="255.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -151,9 +153,9 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wnt signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000008</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">stromal cell</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000499</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cca">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23142810</bp:ID>
@@ -172,9 +174,9 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bagchi IC</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">stromal cell</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000499</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wnt signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000008</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

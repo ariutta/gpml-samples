@@ -5,7 +5,8 @@
 Thyroid hormone and especially triiodothyronine induce morphological hypertrophy of chondrocytes, through binding to thyroid hormone receptors. Further, triiodothyronine increases the total collagen production in chondrocytes, as also terminal differentiation, but triiodothyronine also induces cell death through non-apoptotic modes of physiological death. Triiodothyronine acts by altering intracellular gene expression after receptor binding, and is crucial for growth, as receptor deficiencies lead to dwarfism and growth retardation. Thyroid hormone inhibits the PTHR1 gene, which encodes for a g-protein coupled receptor for parathyroid hormone (PTH) and PTH-like hormones. PTH receptors activate adenylyl cyclase and a phosphatidylinositol-calcium second messenger system. They control the levels of calcium in the blood and thus, ossification as they inhibit hypertrophy upon activation (Mackie, Randau, https://rarediseases.org/rare-diseases/jansen-type-metaphyseal-chondrodysplasia/ ).
 Oxygen acts upon RUNX2 and HDAC4 in the ossification process. HDAC4 is a class II histone deacetylase/acuc/apha family gene, and if tethered to a promoter, it represses transcription (https://www.ncbi.nlm.nih.gov/gene/9759). Via this mechanism, HDAC4 represses RUNX2 in the ossification process. RUNX2 is a member of the RUNX family of transcription factors, encoding a nuclear protein with an RUND DNA-binding domain. It induces osteoblastic differentiation and skeletal morphogenesis, as it acts upon the DNA and regulatory factors (https://www.ncbi.nlm.nih.gov/gene/860). Thus, RUNX2 acts directly upon chondrocytical hypertrophy. 
 Cyclic adenosine monophosphate (cAMP) act upon protein kinase A (PKA), which phosphorylates proteins if activated. In this case it leads to the inhibition of Sox9 (https://www.nature.com/articles/nm.3314). Sox9 induces cell proliferation and inhibits hypertrophy and is regulating the transcription of the anti-mÃ¼llerian hormone.
-</Comment>
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP474 CPTAC Assay Portal]</Comment>
   <Comment></Comment>
   <Comment Source="WikiPathways-category">Physiological Process</Comment>
   <BiopaxRef>e1e</BiopaxRef>
@@ -62,7 +63,7 @@ Cyclic adenosine monophosphate (cAMP) act upon protein kinase A (PKA), which pho
   </DataNode>
   <DataNode TextLabel="Oxygen" GraphId="ae9f2" Type="Metabolite">
     <Graphics CenterX="504.5" CenterY="716.0" Width="51.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01377" />
+    <Xref Database="HMDB" ID="HMDB0001377" />
   </DataNode>
   <DataNode TextLabel="TGFBI" GraphId="afacc" Type="GeneProduct" GroupRef="c0f4c">
     <Graphics CenterX="55.0" CenterY="657.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -268,7 +269,7 @@ Cyclic adenosine monophosphate (cAMP) act upon protein kinase A (PKA), which pho
   </DataNode>
   <DataNode TextLabel="cAMP" GraphId="ee5" Type="Metabolite">
     <Graphics CenterX="94.0" CenterY="444.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00058" />
+    <Xref Database="HMDB" ID="HMDB0000058" />
   </DataNode>
   <DataNode TextLabel="DDR2" GraphId="eee47" Type="GeneProduct">
     <Graphics CenterX="804.0" CenterY="503.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -1145,9 +1146,9 @@ Cyclic adenosine monophosphate (cAMP) act upon protein kinase A (PKA), which pho
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">regulatory pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteoclast</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000092</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteochondroclast</bp:TERM>
@@ -1155,10 +1156,36 @@ Cyclic adenosine monophosphate (cAMP) act upon protein kinase A (PKA), which pho
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteoclast</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000092</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">regulatory pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bfe">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23977373</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The effect of dexamethasone and triiodothyronine on terminal differentiation of primary bovine chondrocytes and chondrogenically differentiated mesenchymal stem cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PLoS One</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Randau TM</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schildberg FA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alini M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wimmer MD</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haddouti el-M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gravius S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ito K</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stoddart MJ</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fee">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18374667</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A microarray approach for comparative expression profiling of the discrete maturation zones of mouse growth plate cartilage.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochim Biophys Acta</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belluoccio D</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bernardo BC</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rowley L</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bateman JF</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e1e">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17659995</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1176,31 +1203,5 @@ Cyclic adenosine monophosphate (cAMP) act upon protein kinase A (PKA), which pho
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000138</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fee">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18374667</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A microarray approach for comparative expression profiling of the discrete maturation zones of mouse growth plate cartilage.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochim Biophys Acta</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belluoccio D</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bernardo BC</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rowley L</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bateman JF</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bfe">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23977373</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The effect of dexamethasone and triiodothyronine on terminal differentiation of primary bovine chondrocytes and chondrogenically differentiated mesenchymal stem cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PLoS One</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Randau TM</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schildberg FA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alini M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wimmer MD</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haddouti el-M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gravius S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ito K</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stoddart MJ</bp:AUTHORS>
-    </bp:PublicationXref>
   </Biopax>
 </Pathway>

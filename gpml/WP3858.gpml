@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Toll-like Receptor Signaling" Version="20160720" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">This pathway is based on the figure 1 of "Genetic variation in TLR or NFkappaB pathways and the risk of breast cancer: a case-control study" (see bibliography). TLR and NFkB are important in inflammation in the body and in the cancerous cells. TLR signaling pathways are usually connected with MyD88 dependent pathways and MyD88 independent pathways. TLR pathways that involve MyD88 dependent pathways such as this one involve IRAK complexes. The finding of TLR or NFkB genes within the body usually correlates with breast cancer within the person.</Comment>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Toll-like Receptor Signaling related to MyD88" Version="20160720" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">This pathway is based on the figure 1 of "Genetic variation in TLR or NFkappaB pathways and the risk of breast cancer: a case-control study" (see bibliography). TLR and NFkB are important in inflammation in the body and in the cancerous cells. TLR signaling pathways are usually connected with MyD88 dependent pathways and MyD88 independent pathways. TLR pathways that involve MyD88 dependent pathways such as this one involve IRAK complexes. The finding of TLR or NFkB genes within the body usually correlates with breast cancer within the person.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3858 CPTAC Assay Portal].</Comment>
   <BiopaxRef>ad6</BiopaxRef>
   <Graphics BoardWidth="969.0" BoardHeight="927.6022408963589"/>
   <DataNode TextLabel="TLR5" GraphId="d29f1" Type="GeneProduct">
@@ -346,5 +348,5 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">McKnight B</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Madeleine MM</bp:AUTHORS>
     </bp:PublicationXref>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>immune response pathway</bp:TERM><bp:ID>PW:0000023</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer pathway</bp:TERM><bp:ID>PW:0000605</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer</bp:TERM><bp:ID>DOID:162</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

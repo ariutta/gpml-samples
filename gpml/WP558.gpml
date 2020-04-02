@@ -4,7 +4,10 @@
   <Comment Source="WikiPathways-description">Blood coagulation is a series of coordinated and calcium-dependent proenzyme-to-serine protease conversions likely to be localized on the surfaces of activated cells in vivo. It culminates in the formation of thrombin, the enzyme responsible for the conversion of soluble fibrinogen to the insoluble fibrin clot.
 The kallikrein-kinin system is an endogenous metabolic cascade, triggering of which results in the release of vasoactive kinins (bradykinin-related peptides). Kinin peptides are implicated in many physiological and pathological processes including the regulation of blood pressure and sodium homeostasis, inflammatory processes, and the cardioprotective effects of preconditioning.
 Complement is a system of plasma proteins that is activated by the presence of pathogens. There are three pathways of complement activation: the classical pathway, the lectin pathway, and the alternative pathway. All of these pathways generate a crucial enzymatic activity that, intern, generates the effector molecules of complement. The three main consequences of complement activation are the opsonization of pathogens, the recruitment of inflammatory and immunocompetent cells, and the direct killing of pathogens.
-Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment>
+Source: KEGG 
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP558 CPTAC Assay Portal]</Comment>
+  <BiopaxRef>c93</BiopaxRef>
   <Graphics BoardWidth="1158.6666666666665" BoardHeight="1148.185982592761" />
   <DataNode TextLabel="C2" GraphId="a0d" Type="GeneProduct" GroupRef="dc09f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="C2 | complement component 2" />
@@ -129,7 +132,7 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
   </DataNode>
   <DataNode TextLabel="SERPING1" GraphId="c27" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="SERPING1 | serine (or cysteine) proteinase inhi..." />
-    <Graphics CenterX="276.6666666666667" CenterY="1040.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="285.9259259259262" CenterY="1035.3703703703704" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="710" />
   </DataNode>
   <DataNode TextLabel="C1S" GraphId="c35" Type="GeneProduct" GroupRef="fb858">
@@ -344,7 +347,7 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
   </Interaction>
   <Interaction GraphId="a261d">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="685.0" Y="488.33333333333337" />
+      <Point X="681.0" Y="488.33333333333337" GraphRef="da47e" RelX="-1.0" RelY="0.0" />
       <Point X="647.6666666666666" Y="534.0" GraphRef="ec4" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -374,13 +377,6 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="261.0" Y="534.0" GraphRef="e31" RelX="0.0" RelY="-1.0" />
       <Point X="286.6666666666667" Y="257.0" GraphRef="e9c" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="a6d17">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="462.3262156153279" Y="287.0" GraphRef="d045e" RelX="0.0" RelY="0.0" />
-      <Point X="419.33333333333326" Y="298.0" GraphRef="c182d" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -618,13 +614,6 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="c9c1b">
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="894.0731364275667" Y="1006.6666666666665" />
-      <Point X="931.6666666666667" Y="1006.5" GraphRef="d9e" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="cb180">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="884.5000000000002" Y="640.6666666666666" GraphRef="d46" RelX="1.0" RelY="0.0" />
@@ -658,7 +647,7 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
   </Interaction>
   <Interaction GraphId="cfb79">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="238.5" Y="772.0" GraphRef="afa" RelX="1.0" RelY="0.0" />
+      <Point X="239.65740740740742" Y="774.3148148148148" GraphRef="afa" RelX="1.0" RelY="0.0" />
       <Point X="288.6666666666667" Y="774.0" GraphRef="e2298" RelX="-1.0" RelY="0.5" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -686,14 +675,14 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
   </Interaction>
   <Interaction GraphId="d7776">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="276.6666666666667" Y="1030.0" GraphRef="c27" RelX="0.0" RelY="-1.0" />
-      <Point X="286.6666666666667" Y="985.3333333333334" ArrowHead="TBar" />
+      <Point X="285.9259259259262" Y="1025.3703703703704" GraphRef="c27" RelX="0.0" RelY="-1.0" />
+      <Point X="286.6666666666667" Y="985.3333333333334" GraphRef="b9e69" RelX="0.0" RelY="1.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="db620">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="362.6666666666667" Y="928.6666666666666" />
+      <Point X="358.6666666666667" Y="922.3333333333334" GraphRef="b9e69" RelX="1.0" RelY="-0.5" />
       <Point X="385.3333333333333" Y="920.6666666666666" GraphRef="e8468" RelX="-1.0" RelY="0.5" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -714,7 +703,7 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
   </Interaction>
   <Interaction GraphId="e4362">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="761.0" Y="503.1666666666667" />
+      <Point X="765.0" Y="505.1666666666667" GraphRef="da47e" RelX="1.0" RelY="0.5" />
       <Point X="785.0" Y="501.0" GraphRef="db8" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -834,7 +823,7 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
   </Interaction>
   <Interaction GraphId="fdbc5">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="195.16666666666669" Y="943.6666666666665" GraphRef="e67" RelX="1.0" RelY="0.0" />
+      <Point X="195.16666666666669" Y="947.1388888888887" GraphRef="e67" RelX="1.0" RelY="0.0" />
       <Point X="270.6666666666667" Y="946.6666666666666" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -860,6 +849,18 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <GraphicalLine GraphId="c524a">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="462.3262156153279" Y="287.0" GraphRef="d045e" RelX="0.0" RelY="0.0" />
+      <Point X="416.66666666666663" Y="311.34259259259255" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c6275">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
+      <Point X="891.2037037037036" Y="1004.6296296296296" />
+      <Point X="929.351851851852" Y="1005.3425925925926" GraphRef="d9e" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
   <Label TextLabel="Cell adhesion,&#xA;migration,&#xA;proliferation, etc" GraphId="a2a6b">
     <Graphics CenterX="1075.6666666666667" CenterY="639.8333333333334" Width="87.33333333333333" Height="42.333333333333336" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
   </Label>
@@ -879,7 +880,7 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
     <Graphics CenterX="950.9166666666666" CenterY="217.0" Width="37.833333333333336" Height="16.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="Zymosan,&#xA;insulin, etc." GraphId="afa">
-    <Graphics CenterX="204.75" CenterY="772.0" Width="67.5" Height="30.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="205.90740740740742" CenterY="774.3148148148148" Width="67.5" Height="30.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="Thrombin" GraphId="afe" GroupRef="ae9d1">
     <Graphics CenterX="640.3333333333334" CenterY="238.33333333333334" Width="58.333333333333336" Height="16.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
@@ -921,7 +922,7 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
     <Graphics CenterX="262.0" CenterY="159.0" Width="91.33333333333333" Height="16.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="Muscle contraction,&#xA;Chemotaxis,&#xA;Phagocyte recruitment&#xA;Inflammation, etc." GraphId="d9e">
-    <Graphics CenterX="991.3333333333334" CenterY="1006.5" Width="119.33333333333333" Height="61.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="989.0185185185186" CenterY="1005.3425925925926" Width="119.33333333333333" Height="61.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="Complement Cascade" GraphId="dc4">
     <Graphics CenterX="86.66666666666667" CenterY="666.0" Width="144.33333333333334" Height="24.0" ZOrder="28672" FillColor="ffffff" FontSize="11" Valign="Middle" ShapeType="Rectangle" />
@@ -930,7 +931,7 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
     <Graphics CenterX="516.6666666666666" CenterY="1013.3333333333334" Width="108.33333333333333" Height="16.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="Antibody/antigen&#xA;complex" GraphId="e67">
-    <Graphics CenterX="144.0" CenterY="943.6666666666666" Width="102.33333333333333" Height="32.666666666666664" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="144.0" CenterY="947.1388888888888" Width="102.33333333333333" Height="32.666666666666664" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="C4b/2a" GraphId="eb4">
     <Graphics CenterX="436.6666666666667" CenterY="870.0" Width="46.333333333333336" Height="16.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
@@ -1009,5 +1010,12 @@ Source: KEGG (http://www.genome.jp/dbget-bin/www_bget?pathway:map04610)</Comment
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000502</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c93">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.genome.jp/dbget-bin/www_bget?pathway+map04610</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+    </bp:PublicationXref>
   </Biopax>
 </Pathway>

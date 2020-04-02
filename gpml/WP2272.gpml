@@ -2,7 +2,9 @@
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Pathogenic Escherichia coli infection" Data-Source="http://www.genome.jp/kegg-bin/show_pathway?hsa05130" Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Comment Source="WikiPathways-description">Sources: [http://www.genome.jp/kegg/pathway/hsa/hsa05130.html KEGG]
-Escherichia coli (commonly abbreviated E. coli) is a gram-negative, rod-shaped bacterium that is commonly found in the lower intestine of warm-blooded organisms (endotherms). Most E. coli strains are harmless, but some serotypes are pathogenic and can cause serious food poisoning in humans, and are occasionally responsible for product recalls. E. coli are also responsible for a majority of cases of urinary tract infections. The harmless strains are part of the normal flora of the gut, and can benefit their hosts by producing vitamin K2, and by preventing the establishment of pathogenic bacteria within the intestine.</Comment>
+Escherichia coli (commonly abbreviated E. coli) is a gram-negative, rod-shaped bacterium that is commonly found in the lower intestine of warm-blooded organisms (endotherms). Most E. coli strains are harmless, but some serotypes are pathogenic and can cause serious food poisoning in humans, and are occasionally responsible for product recalls. E. coli are also responsible for a majority of cases of urinary tract infections. The harmless strains are part of the normal flora of the gut, and can benefit their hosts by producing vitamin K2, and by preventing the establishment of pathogenic bacteria within the intestine.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2272 CPTAC Assay Portal]</Comment>
   <BiopaxRef>a99</BiopaxRef>
   <Attribute Key="ConversionDate" Value="20110521"/>
   <Attribute Key="KeggId" Value="path:hsa05130"/>

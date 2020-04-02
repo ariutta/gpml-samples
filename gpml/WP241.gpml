@@ -6,9 +6,10 @@ The folate pathway is central to any study related to DNA methylation, dTMP synt
 Differential methylation (e.g. hypermethylation of tumor suppressors) as well as disturbances in nucleotide synthesis and repair, are associated with several forms of cancer. There are also indications that hypermethylation is involved in the progression of adenomas to cancer. 
 
 The pathway is also illustrative of the role of a number of B vitamins, including vitamin B12 (cobalamine) which is important for the sythesis of folate (vitamin B9) and of methionine. 
-</Comment>
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP241 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Metabolic Process</Comment>
-  <Graphics BoardWidth="1680.8535758706478" BoardHeight="791.0" />
+  <Graphics BoardWidth="1678.261878109454" BoardHeight="789.0" />
   <DataNode TextLabel="Deoxyuridine monophosphate" GraphId="a47" Type="Metabolite">
     <Graphics CenterX="146.0" CenterY="366.0" Width="189.0" Height="20.0" ZOrder="28672" FontSize="11" Valign="Middle" Color="0000ff" />
     <Xref Database="PubChem-compound" ID="65063" />
@@ -85,7 +86,7 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
   </DataNode>
   <DataNode TextLabel="glycine" GraphId="b1439" Type="Metabolite">
     <Graphics CenterX="431.40945365254754" CenterY="223.54327808471479" Width="50.62492326580731" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00123" />
+    <Xref Database="HMDB" ID="HMDB0000123" />
   </DataNode>
   <DataNode TextLabel="MTFMT" GraphId="b1b" Type="GeneProduct" GroupRef="f4484">
     <Comment>KEGG database: One carbon pool by folate - Homo sapiens (human)</Comment>
@@ -118,11 +119,11 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
   </DataNode>
   <DataNode TextLabel="Zn" GraphId="be5fb" Type="Metabolite">
     <Graphics CenterX="1000.6355768349788" CenterY="384.3224885013238" Width="28.499999999999986" Height="24.49999999999997" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01303" />
+    <Xref Database="HMDB" ID="HMDB0001303" />
   </DataNode>
   <DataNode TextLabel="Riboflavin&#xA;Vitamin B2" GraphId="bed71" Type="Metabolite" GroupRef="cffba">
     <Graphics CenterX="253.795" CenterY="581.0000000000003" Width="80.0" Height="28.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00244" />
+    <Xref Database="HMDB" ID="HMDB0000244" />
   </DataNode>
   <DataNode TextLabel="10-Formyl Tetrahydrofolate" GraphId="c01" Type="Metabolite">
     <BiopaxRef>cf5</BiopaxRef>
@@ -212,7 +213,7 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
   <DataNode TextLabel="5,10-Methylene Tetrahydrofolate" GraphId="d13" Type="Metabolite">
     <BiopaxRef>cf5</BiopaxRef>
     <Graphics CenterX="414.9916666666667" CenterY="396.0" Width="162.01666666666668" Height="22.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="12071" />
+    <Xref Database="ChEBI" ID="CHEBI:12071" />
   </DataNode>
   <DataNode TextLabel="Methionine" GraphId="d31" Type="Metabolite">
     <BiopaxRef>cf5</BiopaxRef>
@@ -260,7 +261,7 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
   </DataNode>
   <DataNode TextLabel="Cobalamin" GraphId="e31b6" Type="Metabolite">
     <Graphics CenterX="1105.5952114427857" CenterY="368.6943407960199" Width="80.0" Height="34.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02174" />
+    <Xref Database="HMDB" ID="HMDB0002174" />
   </DataNode>
   <DataNode TextLabel="serine" GraphId="e3cdb" Type="Metabolite">
     <Graphics CenterX="539.0" CenterY="314.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -268,7 +269,7 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
   </DataNode>
   <DataNode TextLabel="Methylcobalamin&#xA;B12" GraphId="e3df5" Type="Metabolite">
     <Graphics CenterX="1102.4563839412558" CenterY="442.1165937119191" Width="81.36666666666666" Height="34.03333333333333" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02274" />
+    <Xref Database="HMDB" ID="HMDB0002274" />
   </DataNode>
   <DataNode TextLabel="GART" GraphId="e4e" Type="GeneProduct">
     <BiopaxRef>cf5</BiopaxRef>
@@ -296,7 +297,7 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
   </DataNode>
   <DataNode TextLabel="Pyridoxal 5'-phosphate&#xA;Vitamin B6" GraphId="edfe5" Type="Metabolite">
     <Graphics CenterX="508.4329343155308" CenterY="351.26373542050334" Width="105.87753222836054" Height="26.75" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01491" />
+    <Xref Database="HMDB" ID="HMDB0001491" />
   </DataNode>
   <DataNode TextLabel="ATIC" GraphId="ef6" Type="GeneProduct" GroupRef="f4484">
     <BiopaxRef>cf5</BiopaxRef>
@@ -306,7 +307,7 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
   <DataNode TextLabel="Homocysteine" GraphId="f77" Type="Metabolite">
     <BiopaxRef>cf5</BiopaxRef>
     <Graphics CenterX="1211.9285447761192" CenterY="559.8610074626865" Width="81.01666666666667" Height="31.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00742" />
+    <Xref Database="HMDB" ID="HMDB0000742" />
   </DataNode>
   <DataNode TextLabel="MTHFD2" GraphId="f83" Type="GeneProduct" GroupRef="b5249">
     <Comment>KEGG database: One carbon pool by folate - Homo sapiens (human)</Comment>
@@ -826,22 +827,6 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
   <Group GroupId="c1374" GraphId="ff813" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ba1">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13271447</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glutathione-homocystine transhydrogenase.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1955</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RACKER E</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ecf">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22634633</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glutaredoxin serves as a reductant for methionine sulfoxide reductases with or without resolving cysteine.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acta Biochim Biophys Sin (Shanghai)</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim HY</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a48">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8019414</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -853,11 +838,6 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mieyal JJ</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biemann K</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">folate mediated one-carbon metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000189</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cf5">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17389618</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -871,17 +851,36 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovannucci EL</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hunter DJ</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d81">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8752328</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fd6">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9242908</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Synthesis of the osmoprotectant glycine betaine in Bacillus subtilis: characterization of the gbsAB genes.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Bacteriol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1996</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boch J</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kempf B</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schmid R</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremer E</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure-based perspectives on B12-dependent enzymes.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annu Rev Biochem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1997</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ludwig ML</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matthews RG</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ecf">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22634633</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glutaredoxin serves as a reductant for methionine sulfoxide reductases with or without resolving cysteine.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acta Biochim Biophys Sin (Shanghai)</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim HY</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ba1">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13271447</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glutathione-homocystine transhydrogenase.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1955</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RACKER E</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">folate mediated one-carbon metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000189</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c4c">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12466265</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -896,14 +895,16 @@ The pathway is also illustrative of the role of a number of B vitamins, includin
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Takano J</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Takabe T</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fd6">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9242908</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d81">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8752328</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structure-based perspectives on B12-dependent enzymes.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annu Rev Biochem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1997</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ludwig ML</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matthews RG</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Synthesis of the osmoprotectant glycine betaine in Bacillus subtilis: characterization of the gbsAB genes.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Bacteriol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1996</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boch J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kempf B</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schmid R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremer E</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Simplified Interaction Map Between LOXL4 and Oxidative Stress Pathway" Version="20160625" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">This pathway Involved in chemo-resistance of cells in bladder cancer begins with LOXL2 activation of CDC37 and COL2A1. COL2A1 activates the complex NRF1/2 and two other complexes that trigger RTK/MAPK and TGFB pathways. These pathways along with oxidative stress promotes NRF1/2 activation of theoxidative stress pathway. This pathway promotes the transcription of NQO1, ECSIT, EXOC6, and SIRT1. SIRT1 then activates SUV39H1. LOXL2 also activates some of these proteins downstream in the pathway (SUV39H1, EXOC6, ECSIT). This pathway has been modeled after figure 7 in Deng et al.</Comment>
+  <Comment Source="WikiPathways-description">This pathway Involved in chemo-resistance of cells in bladder cancer begins with LOXL2 activation of CDC37 and COL2A1. COL2A1 activates the complex NRF1/2 and two other complexes that trigger RTK/MAPK and TGFB pathways. These pathways along with oxidative stress promotes NRF1/2 activation of theoxidative stress pathway. This pathway promotes the transcription of NQO1, ECSIT, EXOC6, and SIRT1. SIRT1 then activates SUV39H1. LOXL2 also activates some of these proteins downstream in the pathway (SUV39H1, EXOC6, ECSIT). This pathway has been modeled after figure 7 in Deng et al.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3670 CPTAC Assay Portal].</Comment>
   <BiopaxRef>a06</BiopaxRef>
   <Graphics BoardWidth="1106.1904761904761" BoardHeight="690.0"/>
   <DataNode TextLabel="SIRT1" GraphId="b740c" Type="GeneProduct">
@@ -337,5 +339,5 @@
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>urinary bladder cancer</bp:TERM><bp:ID>DOID:11054</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

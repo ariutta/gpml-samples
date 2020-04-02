@@ -5,11 +5,11 @@
   <Graphics BoardWidth="912.4546240276577" BoardHeight="424.68712186689726" />
   <DataNode TextLabel="theobromine" GraphId="b51be" Type="Metabolite">
     <Graphics CenterX="294.15514261019877" CenterY="278.18712186689726" Width="80.0" Height="24.0" ZOrder="32768" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02825" />
+    <Xref Database="HMDB" ID="HMDB0002825" />
   </DataNode>
   <DataNode TextLabel="Xanthine" GraphId="c4cc8" Type="Metabolite">
     <Graphics CenterX="637.8565254969749" CenterY="306.8280034572171" Width="81.24459809853073" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00292" />
+    <Xref Database="HMDB" ID="HMDB0000292" />
   </DataNode>
   <DataNode TextLabel="AFMU" GraphId="c8b2a" Type="Metabolite">
     <Graphics CenterX="465.85998271391526" CenterY="22.471910112359552" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -29,7 +29,7 @@
   </DataNode>
   <DataNode TextLabel="1-methyluric acid" GraphId="dc28c" Type="Metabolite">
     <Graphics CenterX="836.5548833189282" CenterY="162.68712186689703" Width="91.79948141745882" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03099" />
+    <Xref Database="HMDB" ID="HMDB0003099" />
   </DataNode>
   <DataNode TextLabel="Purine metabolism" GraphId="dc81b" Type="Pathway">
     <Graphics CenterX="810.1642178046669" CenterY="306.828003457217" Width="123.83751080380348" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -37,7 +37,7 @@
   </DataNode>
   <DataNode TextLabel="3,7-dimethyluric acid" GraphId="e047a" Type="Metabolite">
     <Graphics CenterX="294.1551426101989" CenterY="384.68712186689726" Width="105.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01982" />
+    <Xref Database="HMDB" ID="HMDB0001982" />
   </DataNode>
   <DataNode TextLabel="NAT2" GraphId="e5605" Type="GeneProduct">
     <Graphics CenterX="540.6551426101989" CenterY="63.094209161624896" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -45,11 +45,11 @@
   </DataNode>
   <DataNode TextLabel="caffeine" GraphId="ece0e" Type="Metabolite">
     <Graphics CenterX="465.65514261019877" CenterY="277.68712186689726" Width="80.0" Height="24.0" ZOrder="32768" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01847" />
+    <Xref Database="HMDB" ID="HMDB0001847" />
   </DataNode>
   <DataNode TextLabel="paraxanthine" GraphId="f6007" Type="Metabolite">
     <Graphics CenterX="465.6551426101989" CenterY="162.68712186689703" Width="80.00000000000004" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01860" />
+    <Xref Database="HMDB" ID="HMDB0001860" />
   </DataNode>
   <DataNode TextLabel="XDH" GraphId="fdb28" Type="GeneProduct">
     <Comment>Generally: EC 1.17.3.2</Comment>
@@ -58,11 +58,11 @@
   </DataNode>
   <DataNode TextLabel="1-methylxanthine" GraphId="b947a" Type="Metabolite">
     <Graphics CenterX="641.6551426101987" CenterY="162.68712186689703" Width="91.99999999999996" Height="20.0" ZOrder="32769" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB10738" />
+    <Xref Database="HMDB" ID="HMDB0010738" />
   </DataNode>
   <DataNode TextLabel="1,7-dimethyluric acid" GraphId="d30ee" Type="Metabolite">
     <Graphics CenterX="282.65514261019865" CenterY="162.68712186689703" Width="113.99999999999997" Height="20.0" ZOrder="32770" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB11103" />
+    <Xref Database="HMDB" ID="HMDB0011103" />
   </DataNode>
   <DataNode TextLabel="CYP1A2" GraphId="cd8a3" Type="GeneProduct">
     <Graphics CenterX="362.1551426101988" CenterY="101.6871218668972" Width="45.0" Height="20.0" ZOrder="32771" FontSize="10" Valign="Middle" />
@@ -70,7 +70,7 @@
   </DataNode>
   <DataNode TextLabel="7-methylxanthine" GraphId="f2665" Type="Metabolite">
     <Graphics CenterX="682.3690579083831" CenterY="220.00864304235077" Width="98.0" Height="20.0" ZOrder="32772" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01991" />
+    <Xref Database="HMDB" ID="HMDB0001991" />
   </DataNode>
   <DataNode TextLabel="CYP2A6" GraphId="f8a74" Type="GeneProduct">
     <Graphics CenterX="420.1551426101989" CenterY="101.6871218668972" Width="45.0" Height="20.0" ZOrder="32773" FontSize="10" Valign="Middle" />
@@ -78,7 +78,7 @@
   </DataNode>
   <DataNode TextLabel="7-methyluric acid" GraphId="a407a" Type="Metabolite">
     <Graphics CenterX="96.75669835782193" CenterY="162.68712186689697" Width="89.79688850475361" Height="20.0" ZOrder="32774" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB11107" />
+    <Xref Database="HMDB" ID="HMDB0011107" />
   </DataNode>
   <DataNode TextLabel="XDH" GraphId="cd21d" Type="GeneProduct">
     <Graphics CenterX="192.05056179775346" CenterY="103.04407951598967" Width="55.0" Height="20.0" ZOrder="32775" FontSize="10" Valign="Middle" />
@@ -240,11 +240,6 @@
   </Interaction>
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caffeine metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001153</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e7a">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -255,6 +250,11 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bing K. Tang</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Werner Kalow</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">caffeine metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001153</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xenobiotic metabolic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001229</bp:ID>

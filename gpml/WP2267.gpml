@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Synaptic Vesicle Pathway" Author="Nathan Salomonis" Last-Modified="2/21/2013" Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
-  <Comment Source="WikiPathways-description">Pathway depicting synaptic transmission of neurotransmitters from the presynaptic nerve terminal to the synaptic cleft upon depolarization. Synaptotagmin mediated transport along the nerve cell cytoskeleton indicates the initial step of this process. Originally created by Joanna S. Fong and Nathan Salomonis in the Bruce Conklin laboratory 5/12/2000 for use in GenMAPP. Genes associated with neurotransmitter reuptake from the synaptic left were obtained from the Gene Ontology term GO:0001504. For additional information see: http://en.wikipedia.org/wiki/Synaptic_vesicle</Comment>
+  <Comment Source="WikiPathways-description">Pathway depicting synaptic transmission of neurotransmitters from the presynaptic nerve terminal to the synaptic cleft upon depolarization. Synaptotagmin mediated transport along the nerve cell cytoskeleton indicates the initial step of this process. Originally created by Joanna S. Fong and Nathan Salomonis in the Bruce Conklin laboratory 5/12/2000 for use in GenMAPP. Genes associated with neurotransmitter reuptake from the synaptic left were obtained from the Gene Ontology term GO:0001504. For additional information see: http://en.wikipedia.org/wiki/Synaptic_vesicle.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2267 CPTAC Assay Portal].</Comment>
   <Graphics BoardWidth="1286.1248757353148" BoardHeight="711.0000000000003" />
   <DataNode TextLabel="SYN1" GraphId="b44b1" Type="GeneProduct" GroupRef="db30e">
     <Graphics CenterX="196.66666666666669" CenterY="325.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -9,11 +11,11 @@
   </DataNode>
   <DataNode TextLabel="L-Glutamine" GraphId="b4859" Type="Metabolite">
     <Graphics CenterX="1183.6666666666665" CenterY="220.00000000000006" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00641" />
+    <Xref Database="HMDB" ID="HMDB0000641" />
   </DataNode>
   <DataNode TextLabel="Dopamine" GraphId="d661d" Type="Metabolite">
     <Graphics CenterX="1165.6666666666665" CenterY="177.99999999999997" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00073" />
+    <Xref Database="HMDB" ID="HMDB0000073" />
   </DataNode>
   <DataNode TextLabel="RAB3A" GraphId="e274f" Type="GeneProduct">
     <Graphics CenterX="455.66666666666663" CenterY="283.00000000000006" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -233,7 +235,7 @@
   </DataNode>
   <DataNode TextLabel="Serotonin" GraphId="f0d71" Type="Metabolite">
     <Graphics CenterX="1197.6666666666665" CenterY="254.00000000000009" Width="80.0" Height="20.0" ZOrder="32935" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00259" />
+    <Xref Database="HMDB" ID="HMDB0000259" />
   </DataNode>
   <DataNode TextLabel="SLC6A4" GraphId="ee98b" Type="GeneProduct">
     <Graphics CenterX="1087.6666666666665" CenterY="254.00000000000009" Width="80.0" Height="20.0" ZOrder="32936" FontSize="10" Valign="Middle" />
@@ -425,28 +427,22 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <GraphicalLine GraphId="cd51e">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="179.66666666666669" Y="275.00000000000006" />
-      <Point X="53.66666666666667" Y="551.0" />
+  <GraphicalLine GraphId="a1290">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
+      <Point X="417.8333333333333" Y="172.99999999999997" GraphRef="ae15e" RelX="0.0" RelY="0.0" />
+      <Point X="327.66666666666663" Y="304.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
-  <GraphicalLine GraphId="b5eb2">
+  <GraphicalLine GraphId="a336b">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="53.66666666666667" Y="552.0" />
-      <Point X="53.66666666666667" Y="583.0000000000002" />
+      <Point X="599.7876692595793" Y="327.2713915298186" GraphRef="cc457" RelX="1.0" RelY="0.0" />
+      <Point X="711.3223854796888" Y="327.571305099395" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="a3921">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="53.66666666666667" Y="584.0000000000002" />
       <Point X="74.66666666666666" Y="608.0000000000003" />
-    </Graphics>
-  </GraphicalLine>
-  <GraphicalLine GraphId="dca15">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="75.66666666666666" Y="608.0000000000003" />
-      <Point X="932.6666666666667" Y="608.0000000000003" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="a59fb">
@@ -461,40 +457,10 @@
       <Point X="723.6666666666667" Y="329.9999999999999" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
-  <GraphicalLine GraphId="a336b">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="599.7876692595793" Y="327.2713915298186" GraphRef="cc457" RelX="1.0" RelY="0.0" />
-      <Point X="711.3223854796888" Y="327.571305099395" ArrowHead="Arrow" />
-    </Graphics>
-  </GraphicalLine>
-  <GraphicalLine GraphId="cf168">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="566.6666666666667" Y="473.99999999999983" />
-      <Point X="774.6666666666667" Y="473.99999999999983" ArrowHead="Arrow" />
-    </Graphics>
-  </GraphicalLine>
-  <GraphicalLine GraphId="d2dc6">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="562.6666666666667" Y="548.0000000000001" GraphRef="d8248" RelX="-1.0" RelY="0.5" />
-      <Point X="538.6666666666667" Y="595.0000000000003" ArrowHead="Arrow" />
-    </Graphics>
-  </GraphicalLine>
   <GraphicalLine GraphId="a9492">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="602.6666666666667" Y="600.0000000000002" GraphRef="c293f" RelX="0.0" RelY="0.0" />
       <Point X="536.6666666666667" Y="600.0000000000003" ArrowHead="Arrow" />
-    </Graphics>
-  </GraphicalLine>
-  <GraphicalLine GraphId="d2d40">
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="340.66666666666663" Y="470.99999999999983" />
-      <Point X="470.66666666666663" Y="470.99999999999983" ArrowHead="Arrow" />
-    </Graphics>
-  </GraphicalLine>
-  <GraphicalLine GraphId="ccbf6">
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="293.66666666666663" Y="422.99999999999983" />
-      <Point X="295.300077921258" Y="449.6932745624993" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="b47f9">
@@ -503,10 +469,46 @@
       <Point X="220.66666666666669" Y="299.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
-  <GraphicalLine GraphId="a1290">
+  <GraphicalLine GraphId="b5eb2">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="53.66666666666667" Y="552.0" />
+      <Point X="53.66666666666667" Y="583.0000000000002" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ccbf6">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="417.8333333333333" Y="172.99999999999997" GraphRef="ae15e" RelX="0.0" RelY="0.0" />
-      <Point X="327.66666666666663" Y="304.0" ArrowHead="Arrow" />
+      <Point X="293.66666666666663" Y="422.99999999999983" />
+      <Point X="295.300077921258" Y="449.6932745624993" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="cd51e">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="179.66666666666669" Y="275.00000000000006" />
+      <Point X="53.66666666666667" Y="551.0" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="cf168">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="566.6666666666667" Y="473.99999999999983" />
+      <Point X="774.6666666666667" Y="473.99999999999983" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d2d40">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
+      <Point X="340.66666666666663" Y="470.99999999999983" />
+      <Point X="470.66666666666663" Y="470.99999999999983" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d2dc6">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="562.6666666666667" Y="548.0000000000001" GraphRef="d8248" RelX="-1.0" RelY="0.5" />
+      <Point X="538.6666666666667" Y="595.0000000000003" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="dca15">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="75.66666666666666" Y="608.0000000000003" />
+      <Point X="932.6666666666667" Y="608.0000000000003" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="edfc8">

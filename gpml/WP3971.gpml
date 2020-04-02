@@ -19,7 +19,7 @@ C – Fine-tuning role of miRNA in tooth development.</Comment>
   </DataNode>
   <DataNode TextLabel="MIR29C" GraphId="da0a7" Type="Rna" GroupRef="e815a">
     <Graphics CenterX="487.5" CenterY="159.0" Width="61.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="990099"/>
-    <Xref Database="HGNC" ID="31621"/>
+    <Xref Database="HGNC Accession number" ID="31621"/>
   </DataNode>
   <DataNode TextLabel="RUNX2" GraphId="df228" Type="GeneProduct">
     <Graphics CenterX="191.5" CenterY="335.0" Width="67.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
@@ -159,7 +159,7 @@ C – Fine-tuning role of miRNA in tooth development.</Comment>
   </DataNode>
   <DataNode TextLabel="MIR29B2" GraphId="cec80" Type="GeneProduct" GroupRef="e815a">
     <Graphics CenterX="487.5" CenterY="134.0" Width="61.0" Height="25.0" ZOrder="32808" FontSize="12" Valign="Middle" Color="990099"/>
-    <Xref Database="HGNC" ID="31620"/>
+    <Xref Database="HGNC Accession number" ID="31620"/>
   </DataNode>
   <Interaction GraphId="id111b1c2c">
     <Graphics ZOrder="12288" LineThickness="1.0">

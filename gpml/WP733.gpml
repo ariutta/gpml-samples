@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Serotonin Receptor 2 and STAT3 Signaling" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">Source: Ariadne Genomics Pathway Studio.</Comment>
+  <Comment Source="WikiPathways-description">Source: Ariadne Genomics Pathway Studio.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP733 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
-  <Graphics BoardWidth="353.0" BoardHeight="483.0" />
+  <Graphics BoardWidth="353.0" BoardHeight="483.0"/>
   <DataNode TextLabel="HTR2A" GraphId="afa00" Type="GeneProduct">
     <Comment>5-hydroxytryptamine (serotonin) receptor 2A</Comment>
-    <Graphics CenterX="182.0" CenterY="176.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="3356" />
+    <Graphics CenterX="182.0" CenterY="176.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="3356"/>
   </DataNode>
   <DataNode TextLabel="JAK2" GraphId="cacda" Type="GeneProduct">
     <Comment>Janus kinase 2</Comment>
-    <Graphics CenterX="182.0" CenterY="336.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="3717" />
+    <Graphics CenterX="182.0" CenterY="336.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="3717"/>
   </DataNode>
   <DataNode TextLabel="GNAQ" GraphId="cafea" Type="GeneProduct">
     <Comment>guanine nucleotide binding protein, alpha q polypeptide</Comment>
-    <Graphics CenterX="283.0" CenterY="254.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="2776" />
+    <Graphics CenterX="283.0" CenterY="254.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="2776"/>
   </DataNode>
   <DataNode TextLabel="STAT3" GraphId="ce8ce" Type="GeneProduct">
     <Comment>signal transducer and activator of transcription</Comment>
-    <Graphics CenterX="180.0" CenterY="443.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="6774" />
+    <Graphics CenterX="180.0" CenterY="443.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="6774"/>
   </DataNode>
   <DataNode TextLabel="serotonin" GraphId="d4a3b" Type="Metabolite">
-    <Graphics CenterX="183.0" CenterY="89.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="00cc00" />
-    <Xref Database="CAS" ID="50-67-9" />
+    <Graphics CenterX="183.0" CenterY="89.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="00cc00"/>
+    <Xref Database="CAS" ID="50-67-9"/>
   </DataNode>
   <Interaction GraphId="b5b37">
     <Comment>Regulation GNAQ --+&gt; JAK2</Comment>
@@ -33,10 +35,10 @@
 </Comment>
     <BiopaxRef>f9a</BiopaxRef>
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="283.0" Y="264.0" GraphRef="cafea" RelX="0.0" RelY="1.0" />
-      <Point X="202.0" Y="326.0" GraphRef="cacda" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="283.0" Y="264.0" GraphRef="cafea" RelX="0.0" RelY="1.0"/>
+      <Point X="202.0" Y="326.0" GraphRef="cacda" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ba2f3">
     <Comment>DirectRegulation HTR2A --+&gt; GNAQ</Comment>
@@ -47,10 +49,10 @@
     <BiopaxRef>cd8</BiopaxRef>
     <BiopaxRef>d9a</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="202.0" Y="186.0" GraphRef="afa00" RelX="0.5" RelY="1.0" />
-      <Point X="283.0" Y="244.0" GraphRef="cafea" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="202.0" Y="186.0" GraphRef="afa00" RelX="0.5" RelY="1.0"/>
+      <Point X="283.0" Y="244.0" GraphRef="cafea" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="be6b0">
     <Comment>Direct Regulation serotonin --+&gt; HTR2A</Comment>
@@ -77,10 +79,10 @@
     <BiopaxRef>f11</BiopaxRef>
     <BiopaxRef>afb</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="183.0" Y="99.0" GraphRef="d4a3b" RelX="0.0" RelY="1.0" />
-      <Point X="182.0" Y="166.0" GraphRef="afa00" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="183.0" Y="99.0" GraphRef="d4a3b" RelX="0.0" RelY="1.0"/>
+      <Point X="182.0" Y="166.0" GraphRef="afa00" RelX="0.0" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="d2154">
     <Comment>Binding HTR2A ---- JAK2</Comment>
@@ -88,10 +90,10 @@
 </Comment>
     <BiopaxRef>b19</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cc00cc">
-      <Point X="182.0" Y="186.0" GraphRef="afa00" RelX="0.0" RelY="1.0" />
-      <Point X="182.0" Y="326.0" GraphRef="cacda" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation" />
+      <Point X="182.0" Y="186.0" GraphRef="afa00" RelX="0.0" RelY="1.0"/>
+      <Point X="182.0" Y="326.0" GraphRef="cacda" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="fe91c">
     <Comment>Prot Modification JAK2 --+&gt; STAT3</Comment>
@@ -118,12 +120,12 @@
     <BiopaxRef>e0c</BiopaxRef>
     <BiopaxRef>e51</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="999900">
-      <Point X="182.0" Y="346.0" GraphRef="cacda" RelX="0.0" RelY="1.0" />
-      <Point X="180.0" Y="433.0" GraphRef="ce8ce" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="182.0" Y="346.0" GraphRef="cacda" RelX="0.0" RelY="1.0"/>
+      <Point X="180.0" Y="433.0" GraphRef="ce8ce" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
-  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <InfoBox CenterX="0.0" CenterY="0.0"/>
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neuron</bp:TERM>

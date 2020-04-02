@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Nucleotide-binding Oligomerization Domain (NOD) pathway" Last-Modified="2/22/2013" Organism="Homo sapiens" License="CC BY 2.0">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
-  <Comment Source="WikiPathways-description">The NOD (nucleotide-binding oligomerization domain) proteins NOD1 and NOD2 have important roles in innate immunity as sensors of microbial components derived from bacterial peptidoglycan. The importance of these molecules is underscored by the fact that mutations in the gene that encodes NOD2 occur in a subpopulation of patients with Crohn's disease, and NOD1 has also been shown to participate in host defence against infection with Helicobacter pylori.</Comment>
+  <Comment Source="WikiPathways-description">The NOD (nucleotide-binding oligomerization domain) proteins NOD1 and NOD2 have important roles in innate immunity as sensors of microbial components derived from bacterial peptidoglycan. The importance of these molecules is underscored by the fact that mutations in the gene that encodes NOD2 occur in a subpopulation of patients with Crohn's disease, and NOD1 has also been shown to participate in host defence against infection with Helicobacter pylori.
+
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP1433 CPTAC Assay Portal]</Comment>
   <BiopaxRef>a0c</BiopaxRef>
   <Graphics BoardWidth="1144.0" BoardHeight="767.0"/>
   <DataNode TextLabel="NOD1" GraphId="f372e" Type="GeneProduct">

@@ -28,7 +28,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   </DataNode>
   <DataNode TextLabel="Palmityl-CoA" GraphId="a7b6b" Type="Metabolite">
     <Graphics CenterX="256.3254742354889" CenterY="94.5731336036889" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB01338" />
+    <Xref Database="HMDB" ID="HMDB0001338" />
   </DataNode>
   <DataNode TextLabel="C16:1-al" GraphId="a99b3" Type="Metabolite">
     <Graphics CenterX="779.2345651445839" CenterY="54.84586087641699" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -62,7 +62,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   </DataNode>
   <DataNode TextLabel="Sphinganine" GraphId="b3cda" Type="Metabolite">
     <Graphics CenterX="503.72623384575655" CenterY="265.8458608764157" Width="84.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB00269" />
+    <Xref Database="HMDB" ID="HMDB0000269" />
   </DataNode>
   <DataNode TextLabel="SPT2" GraphId="b3d6f" Type="GeneProduct" GroupRef="b85d5">
     <Comment Source="GenMAPP remarks">2.3.1.50</Comment>
@@ -78,7 +78,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   <DataNode TextLabel="Sphingosine" GraphId="b5f3d" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="So" />
     <Graphics CenterX="892.7345651445851" CenterY="246.34586087641557" Width="127.0" Height="21.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB00252" />
+    <Xref Database="HMDB" ID="HMDB0000252" />
   </DataNode>
   <DataNode TextLabel="PP1" GraphId="b6158" Type="Protein" GroupRef="b4a7a">
     <Comment>protein phosphatase 1 (PP1)</Comment>
@@ -104,12 +104,12 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   <DataNode TextLabel="Dihydroceramide" GraphId="c1593" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DHCer" />
     <Graphics CenterX="482.4845651445843" CenterY="416.85405198953356" Width="86.5" Height="37.261715633620284" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB06752" />
+    <Xref Database="HMDB" ID="HMDB0006752" />
   </DataNode>
   <DataNode TextLabel="Ceramides" GraphId="c551e" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Cer" />
     <Graphics CenterX="892.2400778237604" CenterY="427.3486079407045" Width="125.68908489525916" Height="39.37882785732122" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB04949" />
+    <Xref Database="HMDB" ID="HMDB0004949" />
   </DataNode>
   <DataNode TextLabel="DHCer1P" GraphId="c701c" Type="Metabolite">
     <Comment>C16 Dihydroceramide-1-Phosphate</Comment>
@@ -193,7 +193,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   <DataNode TextLabel="Sa 1-phosphate" GraphId="e4ca3" Type="Metabolite">
     <Comment>sphinganine-1-phosphate</Comment>
     <Graphics CenterX="503.2345651445847" CenterY="127.68205298619311" Width="84.0" Height="28.327615780446017" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB01383" />
+    <Xref Database="HMDB" ID="HMDB0001383" />
   </DataNode>
   <DataNode TextLabel="3-ketosphinganine" GraphId="e70ed" Type="Metabolite">
     <Graphics CenterX="321.73456514458115" CenterY="265.8458608764157" Width="99.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
@@ -215,7 +215,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   </DataNode>
   <DataNode TextLabel="Serine" GraphId="eee06" Type="Metabolite">
     <Graphics CenterX="321.23456514458115" CenterY="54.84586087641699" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB00187" />
+    <Xref Database="HMDB" ID="HMDB0000187" />
   </DataNode>
   <DataNode TextLabel="C16:0-al" GraphId="ef1c5" Type="Metabolite">
     <Graphics CenterX="563.9618378718578" CenterY="54.84586087641699" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -279,7 +279,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   <DataNode TextLabel="Sphingosine 1-phosphate" GraphId="fd1ea" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="So1P" />
     <Graphics CenterX="893.0678984779183" CenterY="127.68205298619343" Width="128.33333333333348" Height="22.5" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB00277" />
+    <Xref Database="HMDB" ID="HMDB0000277" />
   </DataNode>
   <DataNode TextLabel="SoP lyase1" GraphId="ff315" Type="GeneProduct">
     <Comment Source="GenMAPP remarks">4.1.2.27</Comment>
@@ -314,7 +314,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   <DataNode TextLabel="Sphingomyelin" GraphId="d5bf3" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="SM" />
     <Graphics CenterX="892.2400778237604" CenterY="777.1166132586181" Width="125.68908489525916" Height="24.164277839029637" ZOrder="32829" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB01348" />
+    <Xref Database="HMDB" ID="HMDB0001348" />
   </DataNode>
   <DataNode TextLabel="SMS2" GraphId="c3e74" Type="Protein" GroupRef="f0c9d">
     <Comment Source="GenMAPP remarks">2.7.8.3</Comment>
@@ -326,7 +326,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
     <Comment>Glucosylceramide</Comment>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GlcCer" />
     <Graphics CenterX="1132.1429196661072" CenterY="666.9430293579297" Width="44.0" Height="35.75345232479198" ZOrder="32831" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
-    <Xref Database="HMDB" ID="HMDB00140" />
+    <Xref Database="HMDB" ID="HMDB0000140" />
   </DataNode>
   <DataNode TextLabel="SMS1" GraphId="d4f47" Type="Protein" GroupRef="f0c9d">
     <Comment Source="GenMAPP remarks">2.7.8.3</Comment>
@@ -337,7 +337,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   <DataNode TextLabel="Lactosylceramide" GraphId="d6dfb" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="LacCer" />
     <Graphics CenterX="1254.0710149613444" CenterY="710.5486900851367" Width="93.97170158030167" Height="23.023704520397075" ZOrder="32833" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06750" />
+    <Xref Database="HMDB" ID="HMDB0006750" />
   </DataNode>
   <DataNode TextLabel="GAL3ST1" GraphId="b8363" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAL3ST1" />
@@ -353,7 +353,7 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   <DataNode TextLabel="Sulfatide" GraphId="c1b69" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ST" />
     <Graphics CenterX="1254.0710149613442" CenterY="479.5243064714356" Width="74.61484748254315" Height="25.279125321573126" ZOrder="32837" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00024" />
+    <Xref Database="HMDB" ID="HMDB0000024" />
   </DataNode>
   <DataNode TextLabel="B4GALT6" GraphId="f5379" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="B4GALT6" />
@@ -419,22 +419,22 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   <DataNode TextLabel="GalCer synthase" GraphId="eefbd" Type="Protein">
     <Comment>UGT8 / CGT</Comment>
     <Graphics CenterX="1047.2185125332771" CenterY="587.3938591957924" Width="98.01266686700005" Height="25.0" ZOrder="32885" FontSize="12" Valign="Middle" />
-    <Xref Database="Wikidata" ID="Q18032287" />
+    <Xref Database="Ensembl" ID="ENSG00000174607" />
   </DataNode>
   <DataNode TextLabel="GlcCer synthase" GraphId="f4d40" Type="Protein">
     <Comment>glucosylceramide synthase (GCS)</Comment>
     <Graphics CenterX="1046.7507307913618" CenterY="619.8004368563927" Width="98.01266686700005" Height="25.0" ZOrder="32886" FontSize="12" Valign="Middle" />
-    <Xref Database="Wikidata" ID="Q22678664" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q16739" />
   </DataNode>
   <DataNode TextLabel="GalCer synthase" GraphId="e7573" Type="Protein">
     <Comment>UGT8 / CGT</Comment>
     <Graphics CenterX="392.7499473294176" CenterY="581.3360471820978" Width="98.01266686700005" Height="25.0" ZOrder="32887" FontSize="12" Valign="Middle" />
-    <Xref Database="Wikidata" ID="Q18032287" />
+    <Xref Database="Ensembl" ID="ENSG00000174607" />
   </DataNode>
   <DataNode TextLabel="GlcCer synthase" GraphId="a62ed" Type="Protein">
     <Comment>glucosylceramide synthase (GCS)</Comment>
     <Graphics CenterX="391.2317454194349" CenterY="610.5913643384952" Width="98.01266686700005" Height="25.0" ZOrder="32888" FontSize="12" Valign="Middle" />
-    <Xref Database="Wikidata" ID="Q22678664" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q16739" />
   </DataNode>
   <DataNode TextLabel="DEGS2" GraphId="ae534" Type="Metabolite" GroupRef="a5e3d">
     <Comment></Comment>
@@ -453,12 +453,12 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
   <DataNode TextLabel="SGMS2" GraphId="a2629" Type="Protein" GroupRef="a402c">
     <Comment>Sphingomyelin synthase 2</Comment>
     <Graphics CenterX="688.3382519091772" CenterY="635.1172210185422" Width="98.01266686700005" Height="25.0" ZOrder="32965" FontSize="12" Valign="Middle" />
-    <Xref Database="Wikidata" ID="Q21123432" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q8NHU3" />
   </DataNode>
   <DataNode TextLabel="SGMS1" GraphId="ec2ad" Type="GeneProduct" GroupRef="a402c">
     <Comment>Sphingomyelin synthase 1</Comment>
     <Graphics CenterX="688.2748990826665" CenterY="660.005135248561" Width="98.01266686700005" Height="25.0" ZOrder="32966" FontSize="12" Valign="Middle" />
-    <Xref Database="Wikidata" ID="Q18053901" />
+    <Xref Database="Ensembl" ID="ENSG00000198964" />
   </DataNode>
   <DataNode TextLabel="SGPL1" GraphId="ac6c7" Type="GeneProduct">
     <Comment Source="GenMAPP remarks">sphinganine-1-phosphate</Comment>
@@ -1098,6 +1098,31 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hannun, Yusuf A.</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lina M. Obeid</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f3e">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Principles of bioactive lipid signalling: lessons from sphingolipids.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Nature reviews Molecular cell biology</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Principles of bioactive lipid signalling: lessons from sphingolipids.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Nature reviews Molecular cell biology</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hannun, Yusuf A.</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lina M. Obeid</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c88">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17928229</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(Glyco)sphingolipidology: an amazing challenge and opportunity for systems biology.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trends Biochem Sci</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Merrill AH Jr</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang MD</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Park M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sullards MC</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c48">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19029065</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1114,35 +1139,10 @@ This pathway has been updated with information from Lipidmaps&gt;Sphingolipids [
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sullards MC</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang MD</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c88">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17928229</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(Glyco)sphingolipidology: an amazing challenge and opportunity for systems biology.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trends Biochem Sci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Merrill AH Jr</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang MD</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Park M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sullards MC</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sphingolipid metabolic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000197</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f3e">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Principles of bioactive lipid signalling: lessons from sphingolipids.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Nature reviews Molecular cell biology</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Principles of bioactive lipid signalling: lessons from sphingolipids.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Nature reviews Molecular cell biology</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hannun, Yusuf A.</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lina M. Obeid</bp:AUTHORS>
-    </bp:PublicationXref>
   </Biopax>
 </Pathway>

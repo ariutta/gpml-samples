@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Type 2 papillary renal cell carcinoma" Version="20171220" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">Based on KEGG: http://www.genome.jp/kegg-bin/show_pathway?hsa05211
+  <Comment Source="WikiPathways-description">Renal cell carcinoma (RCC), the most common form of kidney cancer in adults, is not a single disease but rather a collection of different tumor types driven by distinct genetic changes that arise within the same tissue. Papillary RCC represents 15 to 20 percent of RCC diagnoses and can manifest as an aggressive, solitary tumor or as multiple, slow-growing tumors. Papillary RCC itself has two main subtypes, type 1 and type 2, that are distinguished histologically. Little is currently known about the genetic basis of non-hereditary papillary RCC and patients receive treatment simply based on disease stage. If caught early, the disease can usually be cured surgically. From https://ccr.cancer.gov/news/article/understanding-papillary-renal-cell-carcinoma
 
-Renal cell carcinoma (RCC), the most common form of kidney cancer in adults, is not a single disease but rather a collection of different tumor types driven by distinct genetic changes that arise within the same tissue. Papillary RCC represents 15 to 20 percent of RCC diagnoses and can manifest as an aggressive, solitary tumor or as multiple, slow-growing tumors. Papillary RCC itself has two main subtypes, type 1 and type 2, that are distinguished histologically. Little is currently known about the genetic basis of non-hereditary papillary RCC and patients receive treatment simply based on disease stage. If caught early, the disease can usually be cured surgically. From https://ccr.cancer.gov/news/article/understanding-papillary-renal-cell-carcinoma
-
+Based on [http://www.genome.jp/kegg-bin/show_pathway?hsa05211 KEGG]
 </Comment>
   <BiopaxRef>f0e</BiopaxRef>
   <BiopaxRef>a25</BiopaxRef>

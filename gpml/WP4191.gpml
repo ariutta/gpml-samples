@@ -5,7 +5,9 @@ AMPK then blocks mTOR function, as mTOR has an important role in regulating the 
 AMPK stimulates NAMPT function and PGC-1a release. NAMPT converts nicotinamide to nicotinamide mononucleotide for NAD+ synthesis. PGC-1a is the regulator of mitochondrial biosynthesis (increasing mitochondrial cell mass to produce more ATP) which thus will increase if more PGC-1a is released.
 Levels of NAD rise during caloric restriction leading to increased SIRT1 activity. SIRT1 blocks the Insulin/IGF-1 pathway. This is a very complex and paradoxal tissue, which need further investigation/research.
 Increased SIRT1 activity leads to activation of FOXO/p53 genes. FOXOs become phosphorylated by AKT and this may attenuate apoptotic stimuli and reduce antioxidative stress expression.
-In the end these effects result in increased stress resistance and improved lifespan and health span.</Comment>
+In the end these effects result in increased stress resistance and improved lifespan and health span.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP4191 CPTAC Assay Portal]</Comment>
   <BiopaxRef>b45</BiopaxRef>
   <Graphics BoardWidth="596.0" BoardHeight="491.0"/>
   <DataNode TextLabel="mTOR" GraphId="ae933" Type="GeneProduct">

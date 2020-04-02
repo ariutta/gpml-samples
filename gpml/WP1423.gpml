@@ -52,7 +52,7 @@
   </DataNode>
   <DataNode TextLabel="GD1B" GraphId="e6141" Type="Metabolite">
     <Graphics CenterX="319.4640234948605" CenterY="105.66666666666667" Width="50.333333333333336" Height="19.0" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="CHEBI:28175 " />
+    <Xref Database="ChEBI" ID="CHEBI:28175" />
   </DataNode>
   <DataNode TextLabel="GD1aA" GraphId="e7915" Type="Metabolite">
     <Graphics CenterX="605.0" CenterY="322.99999999999994" Width="58.333333333333336" Height="19.0" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -104,7 +104,7 @@
   <DataNode TextLabel="GD3" GraphId="a6589" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GD3" />
     <Graphics CenterX="1051.3166666666664" CenterY="156.98333333333332" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04913" />
+    <Xref Database="HMDB" ID="HMDB0004913" />
   </DataNode>
   <DataNode TextLabel="B4GALNT1" GraphId="aac4c" Type="GeneProduct">
     <Comment Source="GenMAPP remarks">2.4.1.92</Comment>
@@ -119,12 +119,12 @@
   </DataNode>
   <DataNode TextLabel="GQ1bA" GraphId="ad099" Type="Metabolite">
     <Graphics CenterX="1051.3166666666664" CenterY="525.65" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04928" />
+    <Xref Database="HMDB" ID="HMDB0004928" />
   </DataNode>
   <DataNode TextLabel="GA2" GraphId="ae23e" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GA2" />
     <Graphics CenterX="483.3166666666667" CenterY="242.3166666666667" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04898" />
+    <Xref Database="HMDB" ID="HMDB0004898" />
   </DataNode>
   <DataNode TextLabel="ST6GALNAC6" GraphId="aeacd" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ST6GalNT6" />
@@ -144,17 +144,17 @@
   <DataNode TextLabel="GM1a" GraphId="b1362" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GM1a" />
     <Graphics CenterX="792.9833333333335" CenterY="322.99999999999994" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04855" />
+    <Xref Database="HMDB" ID="HMDB0004855" />
   </DataNode>
   <DataNode TextLabel="GD1a" GraphId="b1447" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GD1a" />
     <Graphics CenterX="792.9833333333333" CenterY="429.31666666666666" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04853" />
+    <Xref Database="HMDB" ID="HMDB0004853" />
   </DataNode>
   <DataNode TextLabel="GM3" GraphId="b1a7b" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GM3" />
     <Graphics CenterX="792.9833333333333" CenterY="156.98333333333332" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04844" />
+    <Xref Database="HMDB" ID="HMDB0004844" />
   </DataNode>
   <DataNode TextLabel="A3GALT2" GraphId="b264b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="A3GalT2" />
@@ -201,7 +201,7 @@
   <DataNode TextLabel="GT1b" GraphId="c0235" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GT1b" />
     <Graphics CenterX="1051.3166666666666" CenterY="429.3166666666667" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04927" />
+    <Xref Database="HMDB" ID="HMDB0004927" />
   </DataNode>
   <DataNode TextLabel="GP1c" GraphId="c02bd" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GP1c" />
@@ -232,7 +232,7 @@
   <DataNode TextLabel="GA1" GraphId="cd2f0" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GA1" />
     <Graphics CenterX="483.31666666666666" CenterY="325.9833333333333" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04910" />
+    <Xref Database="HMDB" ID="HMDB0004910" />
   </DataNode>
   <DataNode TextLabel="ST3GAL1" GraphId="cdf19" Type="GeneProduct" GroupRef="fb2b8">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ST3GAL1" />
@@ -262,7 +262,7 @@
   <DataNode TextLabel="GM2" GraphId="d3a72" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GM2" />
     <Graphics CenterX="792.9833333333335" CenterY="242.31666666666666" Width="39.999999999999936" Height="39.99999999999999" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04938" />
+    <Xref Database="HMDB" ID="HMDB0004938" />
   </DataNode>
   <DataNode TextLabel="GM3 Synthase" GraphId="d4372" Type="GeneProduct">
     <Comment Source="GenMAPP remarks">2.4.99.9</Comment>
@@ -284,7 +284,7 @@
   <DataNode TextLabel="GD1b" GraphId="d7021" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GD1b" />
     <Graphics CenterX="1051.3166666666666" CenterY="325.9833333333333" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04926" />
+    <Xref Database="HMDB" ID="HMDB0004926" />
   </DataNode>
   <DataNode TextLabel="B3GALT4" GraphId="d925e" Type="GeneProduct">
     <Comment Source="GenMAPP remarks">2.4.1.-</Comment>
@@ -328,7 +328,7 @@
   <DataNode TextLabel="LacCer" GraphId="e5fdd" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="LacCer" />
     <Graphics CenterX="483.3166666666667" CenterY="156.98333333333332" Width="40.0" Height="40.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06750" />
+    <Xref Database="HMDB" ID="HMDB0006750" />
   </DataNode>
   <DataNode TextLabel="ST3GAL2" GraphId="e7a8b" Type="GeneProduct" GroupRef="fb2b8">
     <Comment Source="GenMAPP remarks">2.4.99.4</Comment>
@@ -339,7 +339,7 @@
   <DataNode TextLabel="GD2" GraphId="e84ed" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GD2" />
     <Graphics CenterX="1051.3166666666666" CenterY="242.31666666666666" Width="40.00000000000006" Height="39.99999999999999" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04925" />
+    <Xref Database="HMDB" ID="HMDB0004925" />
   </DataNode>
   <DataNode TextLabel="ST8SIA5" GraphId="e98cb" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="2.4.99.-" />
@@ -957,6 +957,11 @@
   <Group GroupId="dc095" GraphId="f3a83" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sphingolipid metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000197</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bd4">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12011104</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -965,11 +970,6 @@
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Merrill AH Jr</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sphingolipid metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000197</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sphingolipid biosynthetic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000162</bp:ID>

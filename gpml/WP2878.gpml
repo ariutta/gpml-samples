@@ -1,266 +1,269 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="PPAR Alpha Pathway" Version="20120210" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">PPAR alpha (also known as NR1C1) is a nuclear receptor that is involved with transcriptional regulation of genes involved in beta-oxidation, metabolism, fatty acid transport, etc.</Comment>
+  <Comment Source="WikiPathways-description">PPAR alpha (also known as NR1C1) is a nuclear receptor that is involved with transcriptional regulation of genes involved in beta-oxidation, metabolism, fatty acid transport, etc.
+
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2878 CPTAC Assay Portal]</Comment>
   <BiopaxRef>c2f</BiopaxRef>
   <BiopaxRef>ab0</BiopaxRef>
   <BiopaxRef>ddf</BiopaxRef>
   <BiopaxRef>a4d</BiopaxRef>
-  <Graphics BoardWidth="644.0589569160998" BoardHeight="873.9201451905625" />
+  <Graphics BoardWidth="644.0589569160998" BoardHeight="873.9201451905625"/>
   <DataNode TextLabel="Ligand" GraphId="c1d61" Type="Metabolite">
-    <Graphics CenterX="339.65049775477837" CenterY="15.669575150581519" Width="80.0" Height="20.0" ZOrder="32769" FontSize="10" Valign="Middle" />
-    <Xref Database="ChEBI" ID="CHEBI:48705" />
+    <Graphics CenterX="339.65049775477837" CenterY="15.669575150581519" Width="80.0" Height="20.0" ZOrder="32769" FontSize="10" Valign="Middle"/>
+    <Xref Database="ChEBI" ID="CHEBI:48705"/>
   </DataNode>
   <DataNode TextLabel="PPARA" GraphId="ed0e3" Type="GeneProduct">
-    <Graphics CenterX="339.65049775477826" CenterY="149.32965348824712" Width="80.0" Height="19.999999999999986" ZOrder="32899" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000186951" />
+    <Graphics CenterX="339.65049775477826" CenterY="149.32965348824712" Width="80.0" Height="19.999999999999986" ZOrder="32899" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000186951"/>
   </DataNode>
   <DataNode TextLabel="RXRA" GraphId="d8951" Type="GeneProduct">
-    <Graphics CenterX="436.8721343760284" CenterY="187.72990236449454" Width="80.0" Height="20.0" ZOrder="32900" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000186350" />
+    <Graphics CenterX="436.8721343760284" CenterY="187.72990236449454" Width="80.0" Height="20.0" ZOrder="32900" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000186350"/>
   </DataNode>
   <DataNode TextLabel="PPARA" GraphId="b3c7a" Type="GeneProduct" GroupRef="eb016">
-    <Graphics CenterX="339.65049775477826" CenterY="364.20413815894983" Width="80.0" Height="19.999999999999986" ZOrder="32913" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000186951" />
+    <Graphics CenterX="339.65049775477826" CenterY="364.20413815894983" Width="80.0" Height="19.999999999999986" ZOrder="32913" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000186951"/>
   </DataNode>
   <DataNode TextLabel="RXRA" GraphId="ed550" Type="GeneProduct" GroupRef="eb016">
-    <Graphics CenterX="339.65049775477826" CenterY="324.20413815894983" Width="80.0" Height="19.999999999999986" ZOrder="32914" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000186350" />
+    <Graphics CenterX="339.65049775477826" CenterY="324.20413815894983" Width="80.0" Height="19.999999999999986" ZOrder="32914" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000186350"/>
   </DataNode>
   <DataNode TextLabel="Ligand" GraphId="aaa19" Type="Metabolite" GroupRef="eb016">
-    <Graphics CenterX="339.6504977547783" CenterY="344.20413815894983" Width="80.0" Height="19.999999999999986" ZOrder="32916" FontSize="10" Valign="Middle" />
-    <Xref Database="ChEBI" ID="CHEBI:48705" />
+    <Graphics CenterX="339.6504977547783" CenterY="344.20413815894983" Width="80.0" Height="19.999999999999986" ZOrder="32916" FontSize="10" Valign="Middle"/>
+    <Xref Database="ChEBI" ID="CHEBI:48705"/>
   </DataNode>
   <DataNode TextLabel="ACAA1" GraphId="db4a7" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="439.4511163046202" CenterY="509.5534467888484" Width="80.0" Height="20.0" ZOrder="33671" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000060971" />
+    <Graphics CenterX="439.4511163046202" CenterY="509.5534467888484" Width="80.0" Height="20.0" ZOrder="33671" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000060971"/>
   </DataNode>
   <DataNode TextLabel="UGT1A9" GraphId="c19b5" Type="GeneProduct" GroupRef="ac7c4">
     <BiopaxRef>a7b</BiopaxRef>
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="316.4938205811525" CenterY="461.3877818321811" Width="80.0" Height="20.0" ZOrder="33672" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000241119" />
+    <Graphics CenterX="316.4938205811525" CenterY="461.3877818321811" Width="80.0" Height="20.0" ZOrder="33672" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000241119"/>
   </DataNode>
   <DataNode TextLabel="NR1H3" GraphId="b95c3" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="443.70976994092985" CenterY="749.3532450655732" Width="80.0" Height="20.0" ZOrder="33674" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000025434" />
+    <Graphics CenterX="443.70976994092985" CenterY="749.3532450655732" Width="80.0" Height="20.0" ZOrder="33674" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000025434"/>
   </DataNode>
   <DataNode TextLabel="SCP2" GraphId="eb821" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="439.4511163046202" CenterY="489.5534467888483" Width="80.0" Height="20.0" ZOrder="33675" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000116171" />
+    <Graphics CenterX="439.4511163046202" CenterY="489.5534467888483" Width="80.0" Height="20.0" ZOrder="33675" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000116171"/>
   </DataNode>
   <DataNode TextLabel="CPT1A" GraphId="eaff4" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="443.7726374800734" CenterY="618.697785596109" Width="80.0" Height="20.0" ZOrder="33676" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000110090" />
+    <Graphics CenterX="443.7726374800734" CenterY="618.697785596109" Width="80.0" Height="20.0" ZOrder="33676" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000110090"/>
   </DataNode>
   <DataNode TextLabel="APOC3" GraphId="a87f5" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="641.1156692864481" Width="80.0" Height="20.0" ZOrder="33677" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000110245" />
+    <Graphics CenterX="313.4965789281441" CenterY="641.1156692864481" Width="80.0" Height="20.0" ZOrder="33677" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000110245"/>
   </DataNode>
   <DataNode TextLabel="FABP1" GraphId="cb8a9" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="533.452834037407" Width="80.0" Height="20.0" ZOrder="33678" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000163586" />
+    <Graphics CenterX="313.4965789281441" CenterY="533.452834037407" Width="80.0" Height="20.0" ZOrder="33678" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000163586"/>
   </DataNode>
   <DataNode TextLabel="CCND1" GraphId="aa5e1" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="731.3327829518371" Width="80.0" Height="20.0" ZOrder="33679" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000110092" />
+    <Graphics CenterX="313.4965789281441" CenterY="731.3327829518371" Width="80.0" Height="20.0" ZOrder="33679" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000110092"/>
   </DataNode>
   <DataNode TextLabel="PLTP" GraphId="e0431" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="681.1156692864481" Width="80.0" Height="20.0" ZOrder="33680" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000100979" />
+    <Graphics CenterX="313.4965789281441" CenterY="681.1156692864481" Width="80.0" Height="20.0" ZOrder="33680" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000100979"/>
   </DataNode>
   <DataNode TextLabel="DBI" GraphId="c75b5" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="513.452834037407" Width="80.0" Height="20.0" ZOrder="33681" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000155368" />
+    <Graphics CenterX="313.4965789281441" CenterY="513.452834037407" Width="80.0" Height="20.0" ZOrder="33681" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000155368"/>
   </DataNode>
   <DataNode TextLabel="APOA2" GraphId="e294e" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="621.1156692864481" Width="80.0" Height="20.0" ZOrder="33682" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000158874" />
+    <Graphics CenterX="313.4965789281441" CenterY="621.1156692864481" Width="80.0" Height="20.0" ZOrder="33682" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000158874"/>
   </DataNode>
   <DataNode TextLabel="CPT2" GraphId="a6e4f" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="443.7726374800734" CenterY="638.6977855961088" Width="80.0" Height="20.0" ZOrder="33683" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000157184" />
+    <Graphics CenterX="443.7726374800734" CenterY="638.6977855961088" Width="80.0" Height="20.0" ZOrder="33683" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000157184"/>
   </DataNode>
   <DataNode TextLabel="APOA1" GraphId="fb6e8" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="601.1156692864481" Width="80.0" Height="20.0" ZOrder="33684" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000118137" />
+    <Graphics CenterX="313.4965789281441" CenterY="601.1156692864481" Width="80.0" Height="20.0" ZOrder="33684" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000118137"/>
   </DataNode>
   <DataNode TextLabel="CYP4A11" GraphId="fcef8" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="443.7726374800734" CenterY="558.4471373679328" Width="80.0" Height="20.0" ZOrder="33685" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000187048" />
+    <Graphics CenterX="443.7726374800734" CenterY="558.4471373679328" Width="80.0" Height="20.0" ZOrder="33685" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000187048"/>
   </DataNode>
   <DataNode TextLabel="ACADM" GraphId="dde03" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="443.7726374800734" CenterY="658.6977855961088" Width="80.0" Height="20.0" ZOrder="33686" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000117054" />
+    <Graphics CenterX="443.7726374800734" CenterY="658.6977855961088" Width="80.0" Height="20.0" ZOrder="33686" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000117054"/>
   </DataNode>
   <DataNode TextLabel="CDK4" GraphId="d9c4d" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="771.3327829518371" Width="80.0" Height="20.0" ZOrder="33687" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000135446" />
+    <Graphics CenterX="313.4965789281441" CenterY="771.3327829518371" Width="80.0" Height="20.0" ZOrder="33687" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000135446"/>
   </DataNode>
   <DataNode TextLabel="CYP7A1" GraphId="d02b8" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="443.7726374800734" CenterY="709.3532450655734" Width="80.0" Height="20.0" ZOrder="33688" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000167910" />
+    <Graphics CenterX="443.7726374800734" CenterY="709.3532450655734" Width="80.0" Height="20.0" ZOrder="33688" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000167910"/>
   </DataNode>
   <DataNode TextLabel="MYC" GraphId="d9a55" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="791.3327829518371" Width="80.0" Height="20.0" ZOrder="33689" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000136997" />
+    <Graphics CenterX="313.4965789281441" CenterY="791.3327829518371" Width="80.0" Height="20.0" ZOrder="33689" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000136997"/>
   </DataNode>
   <DataNode TextLabel="SLC27A1" GraphId="d91ad" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="553.4528340374068" Width="80.0" Height="20.0" ZOrder="33691" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000130304" />
+    <Graphics CenterX="313.4965789281441" CenterY="553.4528340374068" Width="80.0" Height="20.0" ZOrder="33691" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000130304"/>
   </DataNode>
   <DataNode TextLabel="KLK15" GraphId="e509c" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="439.4511163046202" CenterY="469.5534467888483" Width="80.0" Height="20.0" ZOrder="33694" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000174562" />
+    <Graphics CenterX="439.4511163046202" CenterY="469.5534467888483" Width="80.0" Height="20.0" ZOrder="33694" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000174562"/>
   </DataNode>
   <DataNode TextLabel="APOA5" GraphId="c3fcb" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="661.1156692864481" Width="80.0" Height="20.0" ZOrder="33695" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000110243" />
+    <Graphics CenterX="313.4965789281441" CenterY="661.1156692864481" Width="80.0" Height="20.0" ZOrder="33695" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000110243"/>
   </DataNode>
   <DataNode TextLabel="CDK1" GraphId="e324f" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="313.4965789281441" CenterY="751.3327829518371" Width="80.0" Height="20.0" ZOrder="33696" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000170312" />
+    <Graphics CenterX="313.4965789281441" CenterY="751.3327829518371" Width="80.0" Height="20.0" ZOrder="33696" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000170312"/>
   </DataNode>
   <DataNode TextLabel="CYP8B1" GraphId="b96e7" Type="GeneProduct">
     <BiopaxRef>b04</BiopaxRef>
-    <Graphics CenterX="443.7726374800734" CenterY="729.3532450655732" Width="80.0" Height="20.0" ZOrder="33697" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000180432" />
+    <Graphics CenterX="443.7726374800734" CenterY="729.3532450655732" Width="80.0" Height="20.0" ZOrder="33697" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000180432"/>
   </DataNode>
   <DataNode TextLabel="EHHADH" GraphId="cda28" Type="GeneProduct" GroupRef="ab28c">
     <BiopaxRef>b6a</BiopaxRef>
-    <Graphics CenterX="441.2019829852668" CenterY="803.5060532689765" Width="80.0" Height="20.0" ZOrder="33701" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000113790" />
+    <Graphics CenterX="441.2019829852668" CenterY="803.5060532689765" Width="80.0" Height="20.0" ZOrder="33701" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000113790"/>
   </DataNode>
   <Interaction GraphId="id382eb9a1">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="210.91019134716285" Y="194.1755745560231" GraphRef="ec993" RelX="0.0" RelY="1.0" />
-      <Point X="339.65049775477826" Y="254.6425755394871" GraphRef="a5c52" RelX="0.0" RelY="0.0" />
+      <Point X="210.91019134716285" Y="194.1755745560231" GraphRef="ec993" RelX="0.0" RelY="1.0"/>
+      <Point X="339.65049775477826" Y="254.6425755394871" GraphRef="a5c52" RelX="0.0" RelY="0.0"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="id40f85dc">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="436.8721343760284" Y="197.72990236449454" GraphRef="d8951" RelX="0.0" RelY="1.0" />
-      <Point X="339.65049775477826" Y="254.6425755394871" GraphRef="a5c52" RelX="0.0" RelY="0.0" />
+      <Point X="436.8721343760284" Y="197.72990236449454" GraphRef="d8951" RelX="0.0" RelY="1.0"/>
+      <Point X="339.65049775477826" Y="254.6425755394871" GraphRef="a5c52" RelX="0.0" RelY="0.0"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="id800a0979">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="339.65049775477826" Y="159.32965348824712" GraphRef="ed0e3" RelX="0.0" RelY="1.0" />
-      <Point X="339.65049775477826" Y="289.3127937758928" GraphRef="d3113" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-      <Anchor Position="0.7332714215114176" Shape="None" GraphId="a5c52" />
+      <Point X="339.65049775477826" Y="159.32965348824712" GraphRef="ed0e3" RelX="0.0" RelY="1.0"/>
+      <Point X="339.65049775477826" Y="289.3127937758928" GraphRef="d3113" RelX="0.0" RelY="-1.0" ArrowHead="Arrow"/>
+      <Anchor Position="0.7332714215114176" Shape="None" GraphId="a5c52"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ad437">
     <Graphics ZOrder="32898" LineThickness="1.0">
-      <Point X="339.65049775477837" Y="25.66957515058152" GraphRef="c1d61" RelX="0.0" RelY="1.0" />
-      <Point X="339.65049775477826" Y="139.32965348824712" GraphRef="ed0e3" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="339.65049775477837" Y="25.66957515058152" GraphRef="c1d61" RelX="0.0" RelY="1.0"/>
+      <Point X="339.65049775477826" Y="139.32965348824712" GraphRef="ed0e3" RelX="0.0" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <GraphicalLine GraphId="id2cf27786">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="467.3525920063317" Y="374.3569449940642" />
-      <Point X="467.3525920063317" Y="345.8646616541354" />
+      <Point X="467.3525920063317" Y="374.3569449940642"/>
+      <Point X="467.3525920063317" Y="345.8646616541354"/>
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="id5787c71d">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="467.3525920063317" Y="345.5782312925171" />
-      <Point X="509.6598639455782" Y="345.5782312925171" GraphRef="dbc59" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="467.3525920063317" Y="345.5782312925171"/>
+      <Point X="509.6598639455782" Y="345.5782312925171" GraphRef="dbc59" RelX="-1.0" RelY="0.0" ArrowHead="Arrow"/>
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="c7238">
     <Graphics ZOrder="32904" LineThickness="1.0">
-      <Point X="315.46695095948843" Y="374.54197555930745" />
-      <Point X="520.649819620344" Y="374.54197555930745" />
+      <Point X="315.46695095948843" Y="374.54197555930745"/>
+      <Point X="520.649819620344" Y="374.54197555930745"/>
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="d5651">
     <Graphics ZOrder="32909" LineThickness="1.0">
-      <Point X="315.46695095948843" Y="390.68341872661296" />
-      <Point X="520.649819620344" Y="390.68341872661296" />
+      <Point X="315.46695095948843" Y="390.68341872661296"/>
+      <Point X="520.649819620344" Y="390.68341872661296"/>
     </Graphics>
   </GraphicalLine>
   <Label TextLabel="Lipoprotein metabolism" GraphId="a287c">
-    <Graphics CenterX="313.8321995464849" CenterY="575.963718820861" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="313.8321995464849" CenterY="575.963718820861" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="Cholesterol catabolism" GraphId="af76b">
-    <Graphics CenterX="440.816326530612" CenterY="682.9931972789113" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="440.816326530612" CenterY="682.9931972789113" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="mitochondrial omega-oxidation" GraphId="bc121">
-    <Graphics CenterX="439.9092970521537" CenterY="531.5192743764168" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="439.9092970521537" CenterY="531.5192743764168" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="peroxisomal beta-oxidation" GraphId="cdfa7">
-    <Graphics CenterX="440.8163265306112" CenterY="441.72335600907" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="440.8163265306112" CenterY="441.72335600907" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="Other" GraphId="d26a7">
-    <Graphics CenterX="439.9092970521535" CenterY="777.3242630385496" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="439.9092970521535" CenterY="777.3242630385496" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="Fatty acid transport" GraphId="d8b90">
-    <Graphics CenterX="312.92517006802626" CenterY="488.8888888888883" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="312.92517006802626" CenterY="488.8888888888883" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="Hepatocyte proliferation" GraphId="db761">
-    <Graphics CenterX="313.832199546485" CenterY="704.7619047619049" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="313.832199546485" CenterY="704.7619047619049" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="Transcription" GraphId="dbc59">
-    <Graphics CenterX="549.6598639455782" CenterY="345.5782312925171" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="549.6598639455782" CenterY="345.5782312925171" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="Phase 2 metabolism" GraphId="dc5e2">
-    <Graphics CenterX="317.46031746031707" CenterY="432.6530612244897" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="317.46031746031707" CenterY="432.6530612244897" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="mitochondrial beta-oxidation" GraphId="f7e89">
-    <Graphics CenterX="443.5374149659865" CenterY="588.6621315192745" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="443.5374149659865" CenterY="588.6621315192745" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="Co-activators" GraphId="ec993">
-    <Graphics CenterX="210.91019134716285" CenterY="187.72990236449456" Width="62.0012277470841" Height="12.891344383057096" ZOrder="32902" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="210.91019134716285" CenterY="187.72990236449456" Width="62.0012277470841" Height="12.891344383057096" ZOrder="32902" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
   <Label TextLabel="Genes" GraphId="c71c6">
-    <Graphics CenterX="495.742659821356" CenterY="382.7444139173348" Width="49.465769687376316" Height="15.829046299960597" ZOrder="32910" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle" />
+    <Graphics CenterX="495.742659821356" CenterY="382.7444139173348" Width="49.465769687376316" Height="15.829046299960597" ZOrder="32910" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle"/>
   </Label>
   <Label TextLabel="TATA box" GraphId="ba9d3">
-    <Graphics CenterX="414.3962604666426" CenterY="382.74441391733484" Width="49.465769687376316" Height="15.831134564643746" ZOrder="32911" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle" />
+    <Graphics CenterX="414.3962604666426" CenterY="382.74441391733484" Width="49.465769687376316" Height="15.831134564643746" ZOrder="32911" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle"/>
   </Label>
   <Label TextLabel="PPRE" GraphId="b3b57" GroupRef="eb016">
-    <Graphics CenterX="339.8206596162602" CenterY="382.74441391733484" Width="49.46576968737634" Height="15.831134564643767" ZOrder="32912" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle" />
+    <Graphics CenterX="339.8206596162602" CenterY="382.74441391733484" Width="49.46576968737634" Height="15.831134564643767" ZOrder="32912" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle"/>
   </Label>
   <Label TextLabel="Co-activators" GraphId="a2906" GroupRef="eb016">
-    <Graphics CenterX="339.6504977547782" CenterY="307.75846596742133" Width="80.0" Height="12.891344383057064" ZOrder="32915" FillColor="ffffff" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="339.6504977547782" CenterY="307.75846596742133" Width="80.0" Height="12.891344383057064" ZOrder="32915" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
-  <Label TextLabel="PPAR alpha&#xA;target genes" GraphId="d90db">
-    <Graphics CenterX="379.5698717711823" CenterY="415.70078569836113" Width="117.25452812202093" Height="24.59842860327774" ZOrder="33704" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="666666" />
+  <Label TextLabel="PPAR alpha&#10;target genes" GraphId="d90db">
+    <Graphics CenterX="379.5698717711823" CenterY="415.70078569836113" Width="117.25452812202093" Height="24.59842860327774" ZOrder="33704" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="666666"/>
   </Label>
   <Shape GraphId="cca57">
-    <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Cell" />
-    <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double" />
-    <Graphics CenterX="387.55536177768835" CenterY="455.2853901996371" Width="453.0071902768228" Height="777.2695099818508" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
+    <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Cell"/>
+    <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double"/>
+    <Graphics CenterX="387.55536177768835" CenterY="455.2853901996371" Width="453.0071902768228" Height="777.2695099818508" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="3.0" Color="c0c0c0" Rotation="0.0"/>
   </Shape>
-  <Group GroupId="ab28c" GraphId="b1d6f" Style="Group" />
-  <Group GroupId="eb016" GraphId="d3113" Style="Complex" />
-  <Group GroupId="ac7c4" GraphId="f0cee" Style="Group" />
-  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Group GroupId="ab28c" GraphId="b1d6f" Style="Group"/>
+  <Group GroupId="eb016" GraphId="d3113" Style="Complex"/>
+  <Group GroupId="ac7c4" GraphId="f0cee" Style="Group"/>
+  <InfoBox CenterX="0.0" CenterY="0.0"/>
   <Biopax>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c44">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11803135</bp:ID>
@@ -268,7 +271,7 @@
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The role of hepatocyte RXR alpha in xenobiotic-sensing nuclear receptor-mediated pathways.</bp:TITLE>
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eur J Pharm Sci</bp:SOURCE>
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The role of hepatocyte RXR alpha in xenobiotic-sensing nuclear receptor-mediated pathways.</bp:TITLE>
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eur J Pharm Sci</bp:SOURCE>
@@ -299,9 +302,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b6a">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15581595</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15581595</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulatory network of lipid-sensing nuclear receptors: roles for CAR, PXR, LXR, and FXR.</bp:TITLE>
@@ -341,14 +344,14 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cd6">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15581595</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15581595</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15581595</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulatory network of lipid-sensing nuclear receptors: roles for CAR, PXR, LXR, and FXR.</bp:TITLE>
@@ -369,9 +372,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="df0">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15340055</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="db8">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20399894</bp:ID>
@@ -430,9 +433,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="aca">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21124311</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21124311</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estrogen receptors: therapies targeted to receptor subtypes.</bp:TITLE>
@@ -534,9 +537,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ed4">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21908933</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21908933</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crosstalk of thyroid hormone receptor and liver X receptor in lipid metabolism and beyond [Review].</bp:TITLE>
@@ -558,16 +561,16 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fe0">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12573484</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d2d">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16289099</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16289099</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Over-production of IFN-gamma and IL-12 in AhR-null mice.</bp:TITLE>
@@ -595,9 +598,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="be4">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11343253</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11343253</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The phenobarbital response enhancer module in the human bilirubin UDP-glucuronosyltransferase UGT1A1 gene and regulation by the nuclear receptor CAR.</bp:TITLE>
@@ -639,9 +642,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c85">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21226706</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21226706</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The aryl hydrocarbon receptor (AHR) transcription factor regulates megakaryocytic polyploidization.</bp:TITLE>
@@ -653,9 +656,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a7b">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21420387</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21420387</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">From differential induction of UDP-glucuronosyltransferases in rat liver to characterization of responsible ligand-activated transcription factors, and their multilevel crosstalk in humans.</bp:TITLE>
@@ -810,9 +813,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ddf">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16197558</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16197558</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gene expression profiling of potential peroxisome proliferator-activated receptor (PPAR) target genes in human hepatoblastoma cell lines inducibly expressing different PPAR isoforms.</bp:TITLE>
@@ -838,9 +841,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f65">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15501915</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15501915</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chromatin immunoprecipitation (ChIP) scanning identifies primary glucocorticoid receptor target genes.</bp:TITLE>
@@ -856,9 +859,9 @@
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c2f">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15489539</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15489539</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PPAR- and LXR-dependent pathways controlling lipid metabolism and the development of atherosclerosis.</bp:TITLE>

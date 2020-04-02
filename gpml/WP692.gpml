@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Sulfation Biotransformation Reaction" Last-Modified="2/22/2013" Organism="Homo sapiens" License="CC BY 2.0">
   <Comment Source="WikiPathways-description">Metabolism of xenobiotic compounds consists of phase I and a phase II biotransformation reactions, being compound modification and conjugation reactions respectively. In phase I biotransformation, the compound is modificated via oxidation, reduction, hydrolysis, or other minor reactions, to reveal a reactive group to which a conjugation molecule can react to. In phase II, a small conjugation molecule reacts with the phase I modified molecule, producing a much more water-soluble molecule that can be excreted more easily.
-Sulfation is a phase II biotransformation reaction in which sulfate acts as a conjugation molecule and binds to a substrate via the catalysis of sulfotransferases. Sulfate is first combined with ATP molecules to form PAPS via the dual function enzymes PAPSS1 and PAPSS2 consisting of a sulfurylase domain and an APS kinase domain. From PAPS the sulfate group is transferred to the actual substrate via the action of sulfotransferases, resulting in a sulfated substrate and the sulfate-lacking PAP.</Comment>
+Sulfation is a phase II biotransformation reaction in which sulfate acts as a conjugation molecule and binds to a substrate via the catalysis of sulfotransferases. Sulfate is first combined with ATP molecules to form PAPS via the dual function enzymes PAPSS1 and PAPSS2 consisting of a sulfurylase domain and an APS kinase domain. From PAPS the sulfate group is transferred to the actual substrate via the action of sulfotransferases, resulting in a sulfated substrate and the sulfate-lacking PAP.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP692 CPTAC Assay Portal].</Comment>
   <Comment Source="WikiPathways-category">Metabolic Process</Comment>
   <BiopaxRef>fff</BiopaxRef>
   <BiopaxRef>d59</BiopaxRef>
   <BiopaxRef>c0c</BiopaxRef>
-  <Graphics BoardWidth="838.0" BoardHeight="666.5" />
+  <Graphics BoardWidth="739.0" BoardHeight="486.0" />
   <DataNode TextLabel="SULT1E1" GraphId="a0aeb" Type="GeneProduct" GroupRef="c9080">
     <Graphics CenterX="135.0" CenterY="162.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff0033" />
     <Xref Database="Ensembl" ID="ENSG00000109193" />
@@ -17,15 +19,15 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
   </DataNode>
   <DataNode TextLabel="Sulfate" GraphId="a9bd0" Type="Metabolite">
     <Graphics CenterX="185.0" CenterY="434.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01448" />
+    <Xref Database="HMDB" ID="HMDB0001448" />
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="b19ad" Type="Metabolite">
     <Graphics CenterX="110.0" CenterY="346.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00538" />
+    <Xref Database="HMDB" ID="HMDB0000538" />
   </DataNode>
   <DataNode TextLabel="Glutathione (reduced)" GraphId="b1db5" Type="Metabolite">
     <Graphics CenterX="518.4916666666667" CenterY="28.483333333333334" Width="123.01666666666667" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00125" />
+    <Xref Database="HMDB" ID="HMDB0000125" />
   </DataNode>
   <DataNode TextLabel="SULT1A1" GraphId="b2fc3" Type="GeneProduct" GroupRef="c9080">
     <Graphics CenterX="55.0" CenterY="82.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff0033" />
@@ -33,7 +35,7 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
   </DataNode>
   <DataNode TextLabel="PAPS" GraphId="b6da1" Type="Metabolite">
     <Graphics CenterX="463.0" CenterY="296.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01134" />
+    <Xref Database="HMDB" ID="HMDB0001134" />
   </DataNode>
   <DataNode TextLabel="PAPSS1" GraphId="c06a9" Type="GeneProduct" GroupRef="edb88">
     <Graphics CenterX="310.0" CenterY="360.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -61,7 +63,7 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
   </DataNode>
   <DataNode TextLabel="NADPH" GraphId="cab83" Type="Metabolite">
     <Graphics CenterX="384.0" CenterY="92.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00221" />
+    <Xref Database="HMDB" ID="HMDB0000221" />
   </DataNode>
   <DataNode TextLabel="SULT1A4" GraphId="cfc18" Type="GeneProduct" GroupRef="c9080">
     <Graphics CenterX="135.0" CenterY="102.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff0033" />
@@ -69,7 +71,7 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
   </DataNode>
   <DataNode TextLabel="Glutathione (oxidized)" GraphId="d04e5" Type="Metabolite">
     <Graphics CenterX="517.0" CenterY="82.0" Width="122.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03337" />
+    <Xref Database="HMDB" ID="HMDB0003337" />
   </DataNode>
   <DataNode TextLabel="SULT1A2" GraphId="d4728" Type="GeneProduct" GroupRef="c9080">
     <Graphics CenterX="135.0" CenterY="82.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff0033" />
@@ -93,7 +95,7 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
   </DataNode>
   <DataNode TextLabel="APS" GraphId="e5377" Type="Metabolite">
     <Graphics CenterX="185.0" CenterY="296.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01003" />
+    <Xref Database="HMDB" ID="HMDB0001003" />
   </DataNode>
   <DataNode TextLabel="SULT1A3" GraphId="eafc6" Type="GeneProduct" GroupRef="c9080">
     <Graphics CenterX="55.0" CenterY="102.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff0033" />
@@ -109,11 +111,11 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="efc9b" Type="Metabolite">
     <Graphics CenterX="262.0" CenterY="249.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00538" />
+    <Xref Database="HMDB" ID="HMDB0000538" />
   </DataNode>
   <DataNode TextLabel="PAP" GraphId="f2a78" Type="Metabolite">
     <Graphics CenterX="578.0" CenterY="296.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00061" />
+    <Xref Database="HMDB" ID="HMDB0000061" />
   </DataNode>
   <DataNode TextLabel="SULT1C2" GraphId="f504b" Type="GeneProduct" GroupRef="c9080">
     <Graphics CenterX="55.0" CenterY="142.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff0033" />
@@ -121,7 +123,7 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
   </DataNode>
   <DataNode TextLabel="NADP+" GraphId="f86e8" Type="Metabolite">
     <Graphics CenterX="383.0" CenterY="24.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00217" />
+    <Xref Database="HMDB" ID="HMDB0000217" />
   </DataNode>
   <DataNode TextLabel="SULT1B1" GraphId="f89bf" Type="GeneProduct" GroupRef="c9080">
     <Graphics CenterX="55.0" CenterY="122.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff0033" />
@@ -133,7 +135,7 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
   </DataNode>
   <DataNode TextLabel="ADP" GraphId="fde0b" Type="Metabolite">
     <Graphics CenterX="362.0" CenterY="249.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01341" />
+    <Xref Database="HMDB" ID="HMDB0001341" />
   </DataNode>
   <Interaction GraphId="a5d9e">
     <Graphics ZOrder="12288" LineThickness="1.0">
@@ -303,19 +305,6 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
   <Group GroupId="edb88" GraphId="e366d" Style="Complex" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fff">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12439736</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sulfation through the looking glass--recent advances in sulfotransferase research for the curious.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pharmacogenomics J</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coughtrie MW</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sulfonation conjugation pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000860</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d59">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16322073</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -338,6 +327,19 @@ Sulfation is a phase II biotransformation reaction in which sulfate acts as a co
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2001</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coughtrie MW</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Johnston LE</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sulfonation conjugation pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000860</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fff">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12439736</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sulfation through the looking glass--recent advances in sulfotransferase research for the curious.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pharmacogenomics J</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coughtrie MW</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>

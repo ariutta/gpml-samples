@@ -4,14 +4,14 @@
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <BiopaxRef>be3</BiopaxRef>
   <BiopaxRef>bb9</BiopaxRef>
-  <Graphics BoardWidth="918.129032258064" BoardHeight="599.0" />
+  <Graphics BoardWidth="912.7096774193544" BoardHeight="599.0" />
   <DataNode TextLabel="NOS3 (endothelial)" GraphId="b43d0" Type="GeneProduct" GroupRef="c7733">
     <Graphics CenterX="205.5" CenterY="125.0" Width="95.0" Height="20.0" ZOrder="32806" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4846" />
   </DataNode>
   <DataNode TextLabel="Nitric oxide" GraphId="ba00a" Type="Metabolite">
     <Graphics CenterX="424.0" CenterY="162.0" Width="80.0" Height="20.0" ZOrder="32807" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03378" />
+    <Xref Database="HMDB" ID="HMDB0003378" />
   </DataNode>
   <DataNode TextLabel="AOX1" GraphId="ee1d5" Type="Protein">
     <Graphics CenterX="728.6451612903226" CenterY="229.4277894478414" Width="80.0" Height="20.0" ZOrder="32808" FontSize="10" Valign="Middle" />
@@ -27,7 +27,7 @@
   </DataNode>
   <DataNode TextLabel="Nitrate" GraphId="e6a6f" Type="Metabolite">
     <Graphics CenterX="818.0" CenterY="162.0" Width="80.0" Height="20.0" ZOrder="32811" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02878" />
+    <Xref Database="HMDB" ID="HMDB0002878" />
   </DataNode>
   <DataNode TextLabel="NOS1 (neuronal)" GraphId="e8e2f" Type="GeneProduct" GroupRef="c7733">
     <Graphics CenterX="205.5" CenterY="85.0" Width="95.0" Height="20.0" ZOrder="32812" FontSize="10" Valign="Middle" />
@@ -43,15 +43,15 @@
   </DataNode>
   <DataNode TextLabel="Citrulline" GraphId="dfea3" Type="Metabolite">
     <Graphics CenterX="285.0" CenterY="204.0" Width="80.0" Height="20.0" ZOrder="32816" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00904" />
+    <Xref Database="HMDB" ID="HMDB0000904" />
   </DataNode>
   <DataNode TextLabel="VItamin C" GraphId="dd448" Type="Metabolite">
     <Graphics CenterX="842.7096774193544" CenterY="229.4277894478414" Width="80.0" Height="20.0" ZOrder="32817" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00044" />
+    <Xref Database="HMDB" ID="HMDB0000044" />
   </DataNode>
   <DataNode TextLabel="Nitrite" GraphId="e23d1" Type="Metabolite">
     <Graphics CenterX="613.0" CenterY="162.0" Width="80.0" Height="20.0" ZOrder="32818" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02786" />
+    <Xref Database="HMDB" ID="HMDB0002786" />
   </DataNode>
   <DataNode TextLabel="XDH" GraphId="e2aba" Type="GeneProduct">
     <Graphics CenterX="207.8333870967741" CenterY="359.10064516129023" Width="80.0" Height="20.0" ZOrder="32819" FontSize="10" Valign="Middle" />
@@ -59,11 +59,11 @@
   </DataNode>
   <DataNode TextLabel="L-Arginine" GraphId="db722" Type="Metabolite">
     <Graphics CenterX="61.0" CenterY="161.0" Width="80.0" Height="20.0" ZOrder="32820" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00517" />
+    <Xref Database="HMDB" ID="HMDB0000517" />
   </DataNode>
   <DataNode TextLabel="Oxygen" GraphId="d511b" Type="Metabolite">
     <Graphics CenterX="61.0" CenterY="204.0" Width="80.0" Height="20.0" ZOrder="32821" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01377" />
+    <Xref Database="HMDB" ID="HMDB0001377" />
   </DataNode>
   <Interaction GraphId="d7db9">
     <Graphics ZOrder="32773" LineThickness="1.0">
@@ -293,20 +293,6 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tang Y</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bryan NS</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="be5">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21284982</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dietary inorganic nitrate improves mitochondrial efficiency in humans.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Metab</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Larsen FJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schiffer TA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Borniquel S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sahlin K</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ekblom B</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lundberg JO</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weitzberg E</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiovascular system homeostasis pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000476</bp:ID>
@@ -351,6 +337,20 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Webb AJ</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zuckerbraun BS</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zweier JL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weitzberg E</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="be5">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21284982</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dietary inorganic nitrate improves mitochondrial efficiency in humans.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Metab</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Larsen FJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schiffer TA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Borniquel S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sahlin K</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ekblom B</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lundberg JO</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weitzberg E</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>

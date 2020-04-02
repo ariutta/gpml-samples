@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Cardiac Progenitor Differentiation" Author="Nathan Salomonis" Last-Modified="10/17/2013" Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
-  <Comment Source="WikiPathways-description">Factors involved in the induction of cardiac differentiation in vitro and in vivo. This model was based on the below two review articles.</Comment>
+  <Comment Source="WikiPathways-description">Factors involved in the induction of cardiac differentiation in vitro and in vivo. This model was based on the below two review articles.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2406 CPTAC Assay Portal]</Comment>
   <BiopaxRef>e3d</BiopaxRef>
   <BiopaxRef>a11</BiopaxRef>
   <Graphics BoardWidth="1137.0" BoardHeight="451.0"/>
-  <DataNode TextLabel="POU5F1" GraphId="fceee" Type="GeneProduct">
-    <Graphics CenterX="68.5" CenterY="255.0" Width="67.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
-    <Xref Database="Ensembl" ID="ENSG00000204531"/>
+  <DataNode TextLabel="Retinoic acid" GraphId="df69d" Type="Metabolite">
+    <Graphics CenterX="987.5392156862739" CenterY="160.13725490196077" Width="71.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff"/>
+    <Xref Database="HMDB" ID="HMDB0001852"/>
   </DataNode>
   <DataNode TextLabel="INS" GraphId="e7845" Type="GeneProduct">
     <Graphics CenterX="370.0" CenterY="186.0" Width="62.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="3630"/>
   </DataNode>
-  <DataNode TextLabel="Retinoic acid" GraphId="df69d" Type="Metabolite">
-    <Graphics CenterX="987.5392156862739" CenterY="160.13725490196077" Width="71.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff"/>
-    <Xref Database="HMDB" ID="HMDB01852"/>
+  <DataNode TextLabel="POU5F1" GraphId="fceee" Type="GeneProduct">
+    <Graphics CenterX="68.5" CenterY="255.0" Width="67.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000204531"/>
   </DataNode>
   <DataNode TextLabel="NANOG" GraphId="ba4f9" Type="GeneProduct">
     <Graphics CenterX="68.5" CenterY="275.0" Width="67.0" Height="20.0" ZOrder="32769" FontSize="10" Valign="Middle"/>
@@ -237,10 +239,18 @@
     <Graphics CenterX="824.5" CenterY="128.0" Width="61.0" Height="20.0" ZOrder="32891" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000157168"/>
   </DataNode>
-  <Interaction GraphId="idc37d1d45">
+  <Interaction GraphId="id21a400a0">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="734.0" Y="195.0" GraphRef="ac932" RelX="-0.5" RelY="-1.0"/>
+      <Point X="745.8007313898627" Y="176.76542659835152"/>
+      <Point X="757.6014627797252" Y="156.80957023032948" GraphRef="d1db1" RelX="0.0" RelY="1.0"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="id2f1f0664">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="370.0" Y="196.0" GraphRef="e7845" RelX="0.0" RelY="1.0"/>
-      <Point X="370.0" Y="249.0" GraphRef="d221f" RelX="0.0" RelY="0.0" ArrowHead="TBar"/>
+      <Point X="473.0" Y="68.0" GraphRef="b5ec1" RelX="0.0" RelY="1.0"/>
+      <Point X="473.75" Y="113.0" GraphRef="ec418" RelX="0.5" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
@@ -250,13 +260,6 @@
       <Point X="462.0" Y="199.0"/>
       <Point X="414.0" Y="249.0" GraphRef="b35b9" RelX="0.0" RelY="0.0" ArrowHead="Arrow"/>
       <Anchor Position="0.5204081632653061" Shape="None" GraphId="d5533"/>
-    </Graphics>
-    <Xref Database="" ID=""/>
-  </Interaction>
-  <Interaction GraphId="id5920670c">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="425.0" Y="47.0" GraphRef="c3146" RelX="1.0" RelY="-0.5"/>
-      <Point X="444.0" Y="46.25" GraphRef="b5ec1" RelX="-1.0" RelY="-0.5" ArrowHead="Arrow"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
@@ -275,17 +278,25 @@
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
-  <Interaction GraphId="id2f1f0664">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="473.0" Y="68.0" GraphRef="b5ec1" RelX="0.0" RelY="1.0"/>
-      <Point X="473.75" Y="113.0" GraphRef="ec418" RelX="0.5" RelY="-1.0" ArrowHead="Arrow"/>
-    </Graphics>
-    <Xref Database="" ID=""/>
-  </Interaction>
   <Interaction GraphId="id53e4ab04">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="444.0" Y="60.75" GraphRef="b5ec1" RelX="-1.0" RelY="0.5"/>
       <Point X="425.0" Y="61.0" GraphRef="c3146" RelX="1.0" RelY="0.5" ArrowHead="Arrow"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="id5920670c">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="425.0" Y="47.0" GraphRef="c3146" RelX="1.0" RelY="-0.5"/>
+      <Point X="444.0" Y="46.25" GraphRef="b5ec1" RelX="-1.0" RelY="-0.5" ArrowHead="Arrow"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="id699be87">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="900.8146662671771" Y="149.12981146807965" GraphRef="a265a" RelX="0.0" RelY="1.0"/>
+      <Point X="916.5323331335885" Y="168.75738313551216"/>
+      <Point X="932.25" Y="195.0" GraphRef="acd14" RelX="0.5" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
@@ -296,34 +307,25 @@
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
-  <Interaction>
+  <Interaction GraphId="idb34da48e">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="757.6014627797252" Y="156.80957023032948" GraphRef="d1db1" RelX="0.0" RelY="1.0"/>
       <Point X="780.0" Y="195.0" GraphRef="ac932" RelX="0.5" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
-  <Interaction>
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="734.0" Y="195.0" GraphRef="ac932" RelX="-0.5" RelY="-1.0"/>
-      <Point X="745.8007313898627" Y="176.76542659835152"/>
-      <Point X="757.6014627797252" Y="156.80957023032948" GraphRef="d1db1" RelX="0.0" RelY="1.0"/>
+  <Interaction GraphId="idc37d1d45">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="370.0" Y="196.0" GraphRef="e7845" RelX="0.0" RelY="1.0"/>
+      <Point X="370.0" Y="249.0" GraphRef="d221f" RelX="0.0" RelY="0.0" ArrowHead="TBar"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
-  <Interaction>
+  <Interaction GraphId="ide95b5693">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="868.75" Y="195.0" GraphRef="acd14" RelX="-0.5" RelY="-1.0"/>
       <Point X="884.7823331335885" Y="168.7128712871287"/>
       <Point X="900.8146662671771" Y="149.12981146807965" GraphRef="a265a" RelX="0.0" RelY="1.0"/>
-    </Graphics>
-    <Xref Database="" ID=""/>
-  </Interaction>
-  <Interaction>
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="900.8146662671771" Y="149.12981146807965" GraphRef="a265a" RelX="0.0" RelY="1.0"/>
-      <Point X="916.5323331335885" Y="168.75738313551216"/>
-      <Point X="932.25" Y="195.0" GraphRef="acd14" RelX="0.5" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
@@ -452,11 +454,11 @@
       <Point X="138.0" Y="154.0" ArrowHead="Arrow"/>
     </Graphics>
   </GraphicalLine>
-  <Label TextLabel="ES/IPS cells" GraphId="e7e3f">
-    <Graphics CenterX="138.0" CenterY="215.0" Width="112.0" Height="26.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="15" Valign="Middle"/>
-  </Label>
   <Label TextLabel="Hypoxia" GraphId="a8901">
     <Graphics CenterX="220.0" CenterY="238.5" Width="80.0" Height="23.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle"/>
+  </Label>
+  <Label TextLabel="ES/IPS cells" GraphId="e7e3f">
+    <Graphics CenterX="138.0" CenterY="215.0" Width="112.0" Height="26.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="15" Valign="Middle"/>
   </Label>
   <Label TextLabel="Ectoderm" GraphId="c7754">
     <Graphics CenterX="137.0" CenterY="144.5" Width="112.0" Height="23.0" ZOrder="32787" FillColor="ffffff" FontWeight="Bold" FontSize="15" Valign="Middle" Color="666666"/>
@@ -500,11 +502,11 @@
   <Label TextLabel="Day 30+" GraphId="fa4a9">
     <Graphics CenterX="1043.5" CenterY="281.0" Width="67.0" Height="26.0" ZOrder="32881" FillColor="ffffff" FontWeight="Bold" FontSize="15" Valign="Middle" Color="0000ff"/>
   </Label>
-  <Shape GraphId="e1910" GroupRef="a7a2d">
-    <Graphics CenterX="129.0" CenterY="273.0" Width="30.0" Height="30.0" ZOrder="16384" FillColor="999999" FontSize="10" Valign="Middle" ShapeType="Oval" LineThickness="2.0" Color="666666" Rotation="0.0"/>
-  </Shape>
   <Shape GraphId="bef0b">
     <Graphics CenterX="1046.727349059612" CenterY="250.98711170415322" Width="79.73472773451932" Height="25.294198506410147" ZOrder="16384" FillColor="ff3333" FontSize="10" Valign="Middle" ShapeType="Rectangle" Color="cc0000" Rotation="6.102874962127771"/>
+  </Shape>
+  <Shape GraphId="e1910" GroupRef="a7a2d">
+    <Graphics CenterX="129.0" CenterY="273.0" Width="30.0" Height="30.0" ZOrder="16384" FillColor="999999" FontSize="10" Valign="Middle" ShapeType="Oval" LineThickness="2.0" Color="666666" Rotation="0.0"/>
   </Shape>
   <Shape GraphId="b9a38" GroupRef="a7a2d">
     <Graphics CenterX="128.375" CenterY="272.125" Width="20.75" Height="20.75" ZOrder="16385" FillColor="cccccc" FontSize="10" Valign="Middle" ShapeType="Oval" LineThickness="2.0" Color="999999" Rotation="0.0"/>
@@ -578,18 +580,13 @@
   <Shape GraphId="e8b18">
     <Graphics CenterX="1043.0" CenterY="250.0" Width="24.0" Height="12.0" ZOrder="32875" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Oval" Color="ffcccc" Rotation="6.0978373571838915"/>
   </Shape>
+  <Group GroupId="b1431" GraphId="a265a" Style="Group"/>
+  <Group GroupId="d2b1e" GraphId="bac6a" Style="Group"/>
+  <Group GroupId="bf4d2" GraphId="be55f" Style="Group"/>
   <Group GroupId="a7a2d" GraphId="e27cd" Style="Group"/>
   <Group GroupId="d7eb3" GraphId="f9710" Style="Group"/>
-  <Group GroupId="bf4d2" GraphId="be55f" Style="Group"/>
-  <Group GroupId="d2b1e" GraphId="bac6a" Style="Group"/>
-  <Group GroupId="b1431" GraphId="a265a" Style="Group"/>
   <InfoBox CenterX="0.0" CenterY="0.0"/>
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiac myocyte</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000746</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e3d">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22226352</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -606,6 +603,11 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gold JD</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu JC</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiac myocyte</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000746</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a11">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -623,5 +625,10 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hajjar RJ</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hulot S</bp:AUTHORS>
     </bp:PublicationXref>
-  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>regulatory pathway</bp:TERM><bp:ID>PW:0000004</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">regulatory pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+  </Biopax>
 </Pathway>

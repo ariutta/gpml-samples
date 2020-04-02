@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Fatty Acid Beta Oxidation" Organism="Homo sapiens" >
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Fatty Acid Beta Oxidation" Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Metabolic Process</Comment>
-  <Comment Source="WikiPathways-description">Complete fatty acid beta-oxidation pathway for saturated and unsaturated fatty acids, developed and curated internally by BiGCaT Bioinformatics. 
-
-This pathway was previously split into three parts plus a meta file for statistics. If you still have these you can replace all four with this single pathway.</Comment>
+  <Comment Source="WikiPathways-description">Complete fatty acid beta-oxidation pathway for saturated and unsaturated fatty acids.
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP143 CPTAC Assay Portal]</Comment>
   <Graphics BoardWidth="1915.2466208333321" BoardHeight="2086.8767307638986" />
+  <DataNode TextLabel="Cronoyl-CoA" GraphId="af301" Type="Metabolite">
+    <Graphics CenterX="1408.0" CenterY="1538.0" Width="104.33333333333333" Height="19.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="trans,cis-Lauro-2,6-dienoyl-CoA" GraphId="b2e35" Type="Metabolite">
     <Graphics CenterX="1377.3333333333333" CenterY="418.6666666666667" Width="246.33333333333334" Height="19.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:28387" />
@@ -16,6 +19,10 @@ This pathway was previously split into three parts plus a meta file for statisti
   <DataNode TextLabel="3-Oxododexanoyl-CoA" GraphId="c2064" Type="Metabolite">
     <Graphics CenterX="1298.3333333333333" CenterY="1019.0" Width="174.93333333333334" Height="19.2" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="PubChem-compound" ID="11966169" />
+  </DataNode>
+  <DataNode TextLabel="(S)-Hydrocyhexanoyl" GraphId="c4afe" Type="Metabolite">
+    <Graphics CenterX="1022.0" CenterY="1663.3333333333333" Width="163.73333333333332" Height="19.2" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Fatty Acid" GraphId="c66df" Type="Metabolite">
     <Graphics CenterX="372.6666666666667" CenterY="752.6878092708334" Width="81.33333333333333" Height="19.2" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -37,8 +44,8 @@ This pathway was previously split into three parts plus a meta file for statisti
     <Graphics CenterX="952.6666666666666" CenterY="800.6666666666666" Width="219.73333333333332" Height="19.2" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Glutarate" GraphId="d17" Type="Metabolite">
-    <Graphics CenterX="1744.6666666666667" CenterY="1410.0" Width="74.33333333333333" Height="19.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  <DataNode TextLabel="Glutarate" GraphId="d9df0" Type="Metabolite">
+    <Graphics CenterX="1744.6666666666667" CenterY="1410.0" Width="74.33333333333333" Height="19.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="PubChem-compound" ID="743" />
   </DataNode>
   <DataNode TextLabel="Trans-Hexadecanoyl-CoA" GraphId="eb796" Type="Metabolite">
@@ -86,12 +93,12 @@ This pathway was previously split into three parts plus a meta file for statisti
   </DataNode>
   <DataNode TextLabel="PNPLA2" GraphId="a7c" Type="GeneProduct" GroupRef="cb66c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PNPLA2 | patatin-like phospholipase domain cont..." />
-    <Graphics CenterX="668.6666666666666" CenterY="394.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1695.7207748830995" CenterY="175.5631262525051" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="57104" />
   </DataNode>
   <DataNode TextLabel="Glutaryl-CoA" GraphId="a8c" Type="Metabolite">
     <Graphics CenterX="1744.6666666666667" CenterY="1538.0" Width="102.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="15524" />
+    <Xref Database="ChEBI" ID="CHEBI:15524" />
   </DataNode>
   <DataNode TextLabel="CPT2" GraphId="a92" Type="GeneProduct" GroupRef="f6db6">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CPT2 | carnitine palmitoyltransferase II" />
@@ -165,7 +172,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   </DataNode>
   <DataNode TextLabel="HADHB" GraphId="b37" Type="GeneProduct" GroupRef="ea8b1">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HADHB | hydroxyacyl-Coenzyme A dehydrogenase/3-..." />
-    <Graphics CenterX="606.3333333333334" CenterY="1898.3333333333333" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="607.493426140758" CenterY="1936.6163959783469" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3032" />
   </DataNode>
   <DataNode TextLabel="HADHB" GraphId="b4f" Type="GeneProduct" GroupRef="f6993">
@@ -318,7 +325,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   </DataNode>
   <DataNode TextLabel="LIPC" GraphId="d4c" Type="GeneProduct" GroupRef="cb66c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="LIPC | lipase hepatic" />
-    <Graphics CenterX="668.6666666666666" CenterY="334.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1695.7207748830995" CenterY="115.56312625250507" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3990" />
   </DataNode>
   <DataNode TextLabel="(S)-3-Hydroxyhexadecanoyl-CoA" GraphId="d5291" Type="Metabolite">
@@ -351,7 +358,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   </DataNode>
   <DataNode TextLabel="LIPE" GraphId="d88" Type="GeneProduct" GroupRef="cb66c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="LIPE | lipase hormone-sensitive" />
-    <Graphics CenterX="668.6666666666666" CenterY="354.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1695.7207748830995" CenterY="135.56312625250507" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3991" />
   </DataNode>
   <DataNode TextLabel="ECHS1" GraphId="d92" Type="GeneProduct">
@@ -417,7 +424,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   </DataNode>
   <DataNode TextLabel="HADHA" GraphId="e21" Type="GeneProduct" GroupRef="ea8b1">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HADHA | hydroxyacyl-Coenzyme A dehydrogenase/3-..." />
-    <Graphics CenterX="606.3333333333334" CenterY="1878.3333333333333" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="607.493426140758" CenterY="1916.6163959783469" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3030" />
   </DataNode>
   <DataNode TextLabel="Acyl-CoA" GraphId="e29" Type="Metabolite">
@@ -466,7 +473,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   </DataNode>
   <DataNode TextLabel="LIPF" GraphId="e9c" Type="GeneProduct" GroupRef="cb66c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="LIPF | lipase gastric" />
-    <Graphics CenterX="668.6666666666666" CenterY="374.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1695.7207748830995" CenterY="155.5631262525051" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8513" />
   </DataNode>
   <DataNode TextLabel="(S)-3-Hydroxyoctanoyl-CoA" GraphId="ea739" Type="Metabolite">
@@ -629,7 +636,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="a0914">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1693.5" Y="1538.0" GraphRef="a8c" RelX="-1.0" RelY="0.0" />
-      <Point X="1460.1666666666665" Y="1538.0" GraphRef="f19" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1460.1666666666665" Y="1538.0" GraphRef="af301" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.47296322999279017" Shape="None" GraphId="b37f8" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -667,7 +674,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   </Interaction>
   <Interaction GraphId="a4c47">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1022.0" Y="1672.9333333333334" GraphRef="a9d" RelX="0.0" RelY="1.0" />
+      <Point X="1022.0" Y="1672.9333333333334" GraphRef="c4afe" RelX="0.0" RelY="1.0" />
       <Point X="1021.0" Y="1772.0" GraphRef="bb576" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="e0d6f" />
     </Graphics>
@@ -683,14 +690,14 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="a6130">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1583.333333333333" Y="1498.0" GraphRef="af4" RelX="0.0" RelY="1.0" />
-      <Point X="1583.1419130016823" Y="1538.0" GraphRef="b37f8" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="1583.1419130016823" Y="1538.0" GraphRef="b37f8" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="a633e">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="567.6666666666667" Y="1713.6666666666667" GraphRef="c02" RelX="1.0" RelY="0.0" />
-      <Point X="607.9662295375" Y="1712.56396174375" GraphRef="e6714" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="607.9662295375" Y="1712.56396174375" GraphRef="e6714" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -741,7 +748,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="acd75">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1367.0" Y="1465.0" GraphRef="a9b" RelX="0.0" RelY="1.0" />
-      <Point X="1366.9324364948143" Y="1508.5" GraphRef="b5385" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="1366.9324364948143" Y="1508.5" GraphRef="b5385" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -799,8 +806,8 @@ This pathway was previously split into three parts plus a meta file for statisti
   </Interaction>
   <Interaction GraphId="b2f2b">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="628.6666666666669" Y="1860.3333333333333" GraphRef="aa946" RelX="0.5" RelY="-1.0" />
-      <Point X="666.0586628818352" Y="1840.7054019529755" GraphRef="b478a" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="629.8267594740913" Y="1898.6163959783469" GraphRef="aa946" RelX="0.5" RelY="-1.0" />
+      <Point X="666.0586628818352" Y="1840.7054019529755" GraphRef="b478a" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -823,7 +830,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="b694d">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="1168.0" Y="1943.0" GraphRef="bf98b" RelX="1.0" RelY="0.0" />
-      <Point X="1408.0" Y="1528.5" GraphRef="f19" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="1408.0" Y="1528.5" GraphRef="af301" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.9120697429730948" Shape="None" GraphId="b5385" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1065,7 +1072,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   </Interaction>
   <Interaction GraphId="d5659">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1408.0" Y="1547.5" GraphRef="f19" RelX="0.0" RelY="1.0" />
+      <Point X="1408.0" Y="1547.5" GraphRef="af301" RelX="0.0" RelY="1.0" />
       <Point X="1407.5" Y="1647.0" GraphRef="d85b0" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="a4693" />
     </Graphics>
@@ -1081,7 +1088,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="d6c72">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="972.0" Y="1469.0" GraphRef="e6e" RelX="0.0" RelY="1.0" />
-      <Point X="970.3606620891537" Y="1509.0" GraphRef="ac316" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="970.3606620891537" Y="1509.0" GraphRef="ac316" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1141,7 +1148,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="dc82a">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1045.3333333333333" Y="1862.3333333333333" GraphRef="c3868" RelX="0.5" RelY="-1.0" />
-      <Point X="1079.7" Y="1848.4" GraphRef="bd490" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1079.7" Y="1848.4" GraphRef="bd490" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1191,7 +1198,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   </Interaction>
   <Interaction GraphId="e1025">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1744.6666666666665" Y="1419.5" GraphRef="d17" RelX="0.0" RelY="1.0" />
+      <Point X="1744.6666666666665" Y="1419.5" GraphRef="d9df0" RelX="0.0" RelY="1.0" />
       <Point X="1744.6666666666665" Y="1528.5" GraphRef="a8c" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.43577981651376146" Shape="None" GraphId="dbb04" />
     </Graphics>
@@ -1216,7 +1223,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="e49b6">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1374.6666666666665" Y="1587.3333333333333" GraphRef="cfa" RelX="1.0" RelY="0.0" />
-      <Point X="1407.8" Y="1587.3" GraphRef="a4693" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="1407.8" Y="1587.3" GraphRef="a4693" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1245,7 +1252,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="e7838">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1000.6666666666666" Y="1862.3333333333333" GraphRef="c3868" RelX="-0.5" RelY="-1.0" />
-      <Point X="965.5" Y="1848.6933333333334" GraphRef="aa817" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="965.5" Y="1848.6933333333334" GraphRef="aa817" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1259,7 +1266,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="e8e36">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1378.0" Y="1707.3333333333333" GraphRef="e2c" RelX="1.0" RelY="0.0" />
-      <Point X="1407.7" Y="1707.6" GraphRef="ab3a3" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="1407.7" Y="1707.6" GraphRef="ab3a3" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1280,7 +1287,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="ec56e">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1021.0" Y="1549.0" GraphRef="d35a9" RelX="0.0" RelY="1.0" />
-      <Point X="1022.0" Y="1653.7333333333336" GraphRef="a9d" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="1022.0" Y="1653.7333333333336" GraphRef="c4afe" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="f59af" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1288,7 +1295,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="ec5c8">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="978.7679882525699" Y="1591.2026431718064" GraphRef="aef" RelX="1.0" RelY="0.0" />
-      <Point X="1021.4" Y="1590.8933333333334" GraphRef="f59af" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="1021.4" Y="1590.8933333333334" GraphRef="f59af" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1302,21 +1309,21 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="ee26f">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="984.3333333333333" Y="1713.6666666666667" GraphRef="db7" RelX="1.0" RelY="0.0" />
-      <Point X="1021.6" Y="1712.56" GraphRef="e0d6f" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="1021.6" Y="1712.56" GraphRef="e0d6f" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="eecbc">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="584.0000000000001" Y="1860.3333333333333" GraphRef="aa946" RelX="-0.5" RelY="-1.0" />
-      <Point X="550.8469672302084" Y="1848.6392759489586" GraphRef="d7c32" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="585.1600928074246" Y="1898.6163959783469" GraphRef="aa946" RelX="-0.5" RelY="-1.0" />
+      <Point X="550.8469672302084" Y="1848.6392759489586" GraphRef="d7c32" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="f1d9d">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1783.0" Y="1467.0" GraphRef="c92" RelX="-1.0" RelY="0.0" />
-      <Point X="1744.6666666666665" Y="1467.0" GraphRef="dbb04" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="1744.6666666666665" Y="1467.0" GraphRef="dbb04" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1346,7 +1353,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="f4f32">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="561.0" Y="1428.0" GraphRef="a5b" RelX="1.0" RelY="0.0" />
-      <Point X="607.5" Y="1427.6274338294436" GraphRef="d852e" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="607.5" Y="1427.6274338294436" GraphRef="d852e" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1361,7 +1368,7 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="f703f">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="561.0" Y="1589.0" GraphRef="d92" RelX="1.0" RelY="0.0" />
-      <Point X="607.5720765125" Y="1588.8" GraphRef="fbe6c" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="607.5720765125" Y="1588.8" GraphRef="fbe6c" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1406,24 +1413,18 @@ This pathway was previously split into three parts plus a meta file for statisti
   <Interaction GraphId="fd3e7">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1382.6666666666665" Y="1843.3333333333333" GraphRef="c1ebc" RelX="1.0" RelY="0.0" />
-      <Point X="1408.0" Y="1843.9" GraphRef="a8cbc" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="1408.0" Y="1843.9" GraphRef="a8cbc" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Label TextLabel="(S)-Hydrocyhexanoyl" GraphId="a9d">
-    <Graphics CenterX="1022.0" CenterY="1663.3333333333333" Width="163.73333333333332" Height="19.2" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
   <Label TextLabel="Saturated fatty acids" GraphId="ae2">
     <Graphics CenterX="254.23200410954541" CenterY="639.9228681311978" Width="250.0" Height="58.166666666666664" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="0000ff" />
   </Label>
   <Label TextLabel="Unsaturated fatty acids" GraphId="bfc">
     <Graphics CenterX="1373.0" CenterY="51.083333333333336" Width="250.0" Height="58.166666666666664" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="0000ff" />
   </Label>
-  <Label TextLabel="Cronoyl-CoA" GraphId="f19">
-    <Graphics CenterX="1408.0" CenterY="1538.0" Width="104.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
   <Label TextLabel="Lipases" GraphId="fd1" GroupRef="cb66c">
-    <Graphics CenterX="668.6666666666666" CenterY="310.6666666666667" Width="59.733333333333334" Height="16.8" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="11" Valign="Middle" />
+    <Graphics CenterX="1695.7207748830992" CenterY="92.22979291917174" Width="59.733333333333334" Height="16.8" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="11" Valign="Middle" />
   </Label>
   <Group GroupId="f6993" GraphId="a9c06" />
   <Group GroupId="ea8b1" GraphId="aa946" />
@@ -1450,11 +1451,6 @@ This pathway was previously split into three parts plus a meta file for statisti
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fatty acid beta degradation pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000738</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fatty acid degradation pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000642</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
@@ -1462,6 +1458,11 @@ This pathway was previously split into three parts plus a meta file for statisti
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fatty acid metabolic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000058</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fatty acid beta degradation pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000738</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
   </Biopax>

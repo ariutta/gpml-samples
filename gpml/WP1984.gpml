@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Integrated Breast Cancer Pathway" Version="20110320" Author="Sara Ibrahim" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">This pathway incorporates the most important proteins for Breast Cancer. The Rp score from the Connectivity-Maps (C-Maps) webserver was used to determine the rank of the most important proteins in Breast Cancer. These proteins were then used to determine the most important pathways involved in Breast Cancer by using the Human Pathway Database (HPD). The pathways retrieved from the Human Pathway Database were from several sources such as Protein Lounge, BioCarta, KEGG, and NCI-Nature. The pathways were then annotated. Protein-protein relations for the most important proteins for Breast Cancer were determined by annotating the pathways and by literature review. The protein-protein interactions are mapped onto this pathway.</Comment>
+  <Comment Source="WikiPathways-description">This pathway incorporates the most important proteins for Breast Cancer. The Rp score from the Connectivity-Maps (C-Maps) webserver was used to determine the rank of the most important proteins in Breast Cancer. These proteins were then used to determine the most important pathways involved in Breast Cancer by using the Human Pathway Database (HPD). The pathways retrieved from the Human Pathway Database were from several sources such as Protein Lounge, BioCarta, KEGG, and NCI-Nature. The pathways were then annotated. Protein-protein relations for the most important proteins for Breast Cancer were determined by annotating the pathways and by literature review. The protein-protein interactions are mapped onto this pathway.
+
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP1984 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="1865.0383526112132" BoardHeight="1477.8638020545673" />
   <DataNode TextLabel="P85A" GraphId="a0ad5" Type="GeneProduct">
@@ -111,9 +114,10 @@
     <Graphics CenterX="852.5779257610411" CenterY="625.7749665812349" Width="80.0" Height="22.10125726144912" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="Uniprot-TrEMBL" ID="Q92934" />
   </DataNode>
-  <DataNode TextLabel="C9JNK1" GraphId="ac463" Type="Protein">
-    <Graphics CenterX="608.9429796857636" CenterY="426.22010492796744" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
-    <Xref Database="Uniprot-TrEMBL" ID="C9JNK1" />
+  <DataNode TextLabel="ZN655" GraphId="ac463" Type="Protein">
+    <Comment>AKA C9JNK1</Comment>
+    <Graphics CenterX="591.048242843658" CenterY="420.9569470332308" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q8N720" />
   </DataNode>
   <DataNode TextLabel="HIPK2" GraphId="ac497" Type="Protein">
     <Graphics CenterX="230.21498599439758" CenterY="276.0679271708685" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
@@ -153,9 +157,10 @@
     <Graphics CenterX="856.5" CenterY="1318.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="990099" />
     <Xref Database="Ensembl" ID="ENSG00000284190" />
   </DataNode>
-  <DataNode TextLabel="P65&#xA;" GraphId="b0cf0" Type="Protein">
+  <DataNode TextLabel="MAP3K13" GraphId="b0cf0" Type="Protein">
+    <Comment>AKA P65</Comment>
     <Graphics CenterX="1328.9181205424904" CenterY="1010.3585592349004" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
-    <Xref Database="Uniprot-TrEMBL" ID="C9JP65" />
+    <Xref Database="Uniprot-TrEMBL" ID="O43283" />
   </DataNode>
   <DataNode TextLabel="FADD" GraphId="b1135" Type="GeneProduct">
     <Graphics CenterX="168.82782900380172" CenterY="439.8054872210422" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
@@ -215,7 +220,7 @@
   </DataNode>
   <DataNode TextLabel="Dihydrotestosterone" GraphId="b4e26" Type="Metabolite">
     <Graphics CenterX="1211.6676415017978" CenterY="12.544610010325608" Width="139.4897959183666" Height="29.132653061224474" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="RoundedRectangle" />
-    <Xref Database="HMDB" ID="HMDB02961" />
+    <Xref Database="HMDB" ID="HMDB0002961" />
   </DataNode>
   <DataNode TextLabel="TSC1" GraphId="b4ed4" Type="GeneProduct">
     <Graphics CenterX="455.35714285714283" CenterY="1100.765306122449" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
@@ -568,7 +573,7 @@
     <Xref Database="Ensembl" ID="ENSG00000118046" />
   </DataNode>
   <DataNode TextLabel="Nocodazole" GraphId="d7a21" Type="Metabolite">
-    <Graphics CenterX="197.6676542201994" CenterY="26.285919299375614" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="RoundedRectangle" />
+    <Graphics CenterX="197.23135404567932" CenterY="39.81122470949778" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="RoundedRectangle" />
     <Xref Database="PubChem-compound" ID="4122" />
   </DataNode>
   <DataNode TextLabel="TSC2" GraphId="d96a0" Type="GeneProduct">
@@ -673,7 +678,7 @@
   </DataNode>
   <DataNode TextLabel="Tetradecanoylphorbol Acetate" GraphId="e1602" Type="Metabolite">
     <Graphics CenterX="610.0974377117085" CenterY="21.163153696455964" Width="197.95868772782464" Height="30.37667071688943" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="RoundedRectangle" />
-    <Xref Database="PubChem-compound" ID="22833501" />
+    <Xref Database="ChEBI" ID="CHEBI:37537" />
   </DataNode>
   <DataNode TextLabel="SMAD3" GraphId="e18a7" Type="Protein">
     <Graphics CenterX="1012.1283371431558" CenterY="1118.0372818207538" Width="80.0" Height="30.228893165883562" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
@@ -687,9 +692,10 @@
     <Graphics CenterX="1542.8973277074547" CenterY="1176.4275668073137" Width="80.00000000000016" Height="20.00000000000004" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8061" />
   </DataNode>
-  <DataNode TextLabel="C9JNK1" GraphId="e1eba" Type="Protein">
+  <DataNode TextLabel="ZN655" GraphId="e1eba" Type="Protein">
+    <Comment>AKA C9JNK1</Comment>
     <Graphics CenterX="212.07089517325343" CenterY="376.1831026762998" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
-    <Xref Database="Uniprot-TrEMBL" ID="C9JNK1" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q8N720" />
   </DataNode>
   <DataNode TextLabel="SMAD4" GraphId="e3fca" Type="Protein">
     <Graphics CenterX="852.7500986129339" CenterY="975.0589943267016" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
@@ -740,9 +746,10 @@
     <Graphics CenterX="267.89360215158024" CenterY="859.5980319674244" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
     <Xref Database="Uniprot-TrEMBL" ID="P23458" />
   </DataNode>
-  <DataNode TextLabel="B3KP27" GraphId="e978a" Type="Protein">
+  <DataNode TextLabel="FOSL2" GraphId="e978a" Type="Protein">
+    <Comment>AKA B3KP27</Comment>
     <Graphics CenterX="900.8395142649044" CenterY="682.3342019001807" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
-    <Xref Database="Uniprot-TrEMBL" ID="B3KP27" />
+    <Xref Database="Uniprot-TrEMBL" ID="P15408" />
   </DataNode>
   <DataNode TextLabel="STAT1" GraphId="e9ff6" Type="Protein">
     <Graphics CenterX="238.73137202443385" CenterY="659.7102333885638" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
@@ -872,10 +879,6 @@
     <Graphics CenterX="349.29040097205336" CenterY="176.74240583232086" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="Uniprot-TrEMBL" ID="P15056" />
   </DataNode>
-  <DataNode TextLabel="B5MEC1" GraphId="f406d" Type="Protein">
-    <Graphics CenterX="1098.4595591229365" CenterY="637.9072379543882" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
-    <Xref Database="Uniprot-TrEMBL" ID="B5MEC1" />
-  </DataNode>
   <DataNode TextLabel="RALA" GraphId="f466c" Type="Protein">
     <Graphics CenterX="547.0" CenterY="159.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="Uniprot-TrEMBL" ID="P11233" />
@@ -960,9 +963,10 @@
     <Graphics CenterX="401.6955253491651" CenterY="274.68639490936806" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="Uniprot-TrEMBL" ID="Q8TCT0" />
   </DataNode>
-  <DataNode TextLabel="C9JNK1" GraphId="fc728" Type="Protein">
+  <DataNode TextLabel="ZN655" GraphId="fc728" Type="Protein">
+    <Comment>AKA C9JNK1</Comment>
     <Graphics CenterX="56.71202531645574" CenterY="720.8625175808722" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
-    <Xref Database="Uniprot-TrEMBL" ID="C9JNK1" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q8N720" />
   </DataNode>
   <DataNode TextLabel="IPKA" GraphId="fce13" Type="Protein">
     <Graphics CenterX="156.15066828675577" CenterY="138.2369380315915" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
@@ -1515,7 +1519,7 @@
   </Interaction>
   <Interaction GraphId="id39306df0">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="66cc00">
-      <Point X="157.6676542201994" Y="26.285919299375614" GraphRef="d7a21" RelX="-1.0" RelY="0.0" />
+      <Point X="157.23135404567932" Y="39.81122470949778" GraphRef="d7a21" RelX="-1.0" RelY="0.0" />
       <Point X="178.04207885816757" Y="898.061510220029" GraphRef="f76fa" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1786,7 +1790,7 @@
   </Interaction>
   <Interaction GraphId="id4be6dcfd">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="339900">
-      <Point X="197.6676542201994" Y="36.285919299375614" GraphRef="d7a21" RelX="0.0" RelY="1.0" />
+      <Point X="197.23135404567932" Y="49.81122470949778" GraphRef="d7a21" RelX="0.0" RelY="1.0" />
       <Point X="633.1843753575953" Y="559.7524130033004" GraphRef="cc4fa" RelX="-1.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1992,14 +1996,6 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="669900">
       <Point X="415.714640837062" Y="586.3692198047689" GraphRef="af326" RelX="-1.0" RelY="0.0" />
       <Point X="327.02941031839833" Y="659.505045658311" GraphRef="dedcb" RelX="0.5" RelY="-1.0" ArrowHead="mim-stimulation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id60ddb6b2">
-    <Comment>DNA Repair Mechanisms</Comment>
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="1078.4595591229365" Y="627.9072379543882" GraphRef="f406d" RelX="-0.5" RelY="-1.0" />
-      <Point X="1077.5036352305772" Y="567.5845450768592" GraphRef="d38d8" RelX="-0.5" RelY="1.0" ArrowHead="mim-inhibition" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -2388,7 +2384,7 @@
   <Interaction GraphId="id7c945660">
     <BiopaxRef>d50</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="217.6676542201994" Y="36.285919299375614" GraphRef="d7a21" RelX="0.5" RelY="1.0" />
+      <Point X="217.23135404567932" Y="49.81122470949778" GraphRef="d7a21" RelX="0.5" RelY="1.0" />
       <Point X="621.397160335509" Y="464.6881925321609" GraphRef="a9563" RelX="0.5" RelY="-1.0" ArrowHead="mim-inhibition" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -2490,7 +2486,7 @@
   <Interaction GraphId="id85948b54">
     <BiopaxRef>cfc</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="669900">
-      <Point X="197.6676542201994" Y="36.285919299375614" GraphRef="d7a21" RelX="0.0" RelY="1.0" />
+      <Point X="197.23135404567932" Y="49.81122470949778" GraphRef="d7a21" RelX="0.0" RelY="1.0" />
       <Point X="250.61989215591387" Y="519.3277320905884" GraphRef="cab04" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -2520,7 +2516,7 @@
   <Interaction GraphId="id877cdcde">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="669900">
       <Point X="252.07089517325343" Y="376.1831026762998" GraphRef="e1eba" RelX="1.0" RelY="0.0" />
-      <Point X="588.9429796857636" Y="416.22010492796744" GraphRef="ac463" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation" />
+      <Point X="571.048242843658" Y="410.9569470332308" GraphRef="ac463" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -2876,7 +2872,7 @@
   </Interaction>
   <Interaction GraphId="ida551a5ac">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0033">
-      <Point X="217.6676542201994" Y="36.285919299375614" GraphRef="d7a21" RelX="0.5" RelY="1.0" />
+      <Point X="217.23135404567932" Y="49.81122470949778" GraphRef="d7a21" RelX="0.5" RelY="1.0" />
       <Point X="561.397160335509" Y="474.6881925321609" GraphRef="a9563" RelX="-1.0" RelY="0.0" ArrowHead="mim-inhibition" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -3010,7 +3006,7 @@
   <Interaction GraphId="idb7bb9f3e">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="669900">
       <Point X="454.50923862248527" Y="361.5766106181965" GraphRef="d7005" RelX="1.0" RelY="0.0" />
-      <Point X="568.9429796857636" Y="426.22010492796744" GraphRef="ac463" RelX="-1.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="551.048242843658" Y="420.9569470332308" GraphRef="ac463" RelX="-1.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -3142,7 +3138,7 @@
   <Interaction GraphId="idc4ba6f22">
     <BiopaxRef>e21</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="177.6676542201994" Y="36.285919299375614" GraphRef="d7a21" RelX="-0.5" RelY="1.0" />
+      <Point X="177.23135404567932" Y="49.81122470949778" GraphRef="d7a21" RelX="-0.5" RelY="1.0" />
       <Point X="515.4674347976561" Y="821.8389184081276" GraphRef="ef977" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -4033,6 +4029,23 @@
   <Group GroupId="f1666" GraphId="f165c" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e6b">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7966593</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tax induces nuclear translocation of NF-kappa B through dissociation of cytoplasmic complexes containing p105 or p100 but does not induce degradation of I kappa B alpha/MAD3.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Virol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MuÃ˜Â£Ã‚Â±oz E</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Courtois G</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Veschambre P</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jalinot P</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IsraÃ˜Â£Ã‚Â«l A</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cancer pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000605</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a4a">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8182145</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -4046,19 +4059,78 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Johnson GL</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gelfand EW</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ce8">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21047769</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cfc">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12221076</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Context-dependent bidirectional regulation of the MutS homolog 2 by transforming growth factor ÃŽÂ² contributes to chemoresistance in breast cancer cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Cancer Res</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yu Y</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang Y</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ren X</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tsuyada A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Li A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Liu LJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang SE</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nocodazole-induced p53-dependent c-Jun N-terminal kinase activation reduces apoptosis in human colon carcinoma HCT116 cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang H</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shi X</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang QJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hampong M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paddon H</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wahyuningsih D</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pelech S</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="aeb">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10363963</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Selection for androgen receptor mutations in prostate cancers treated with androgen antagonist.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer Res</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Taplin ME</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bubley GJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ko YJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Small EJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Upton M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rajeshkumar B</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Balk SP</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">breast cancer</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1612</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bee">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21820606</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MicroRNA-21 modulates chemosensitivity of breast cancer cells to doxorubicin by targeting PTEN.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arch Med Res</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang ZX</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lu BB</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang H</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cheng ZX</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yin YM</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d50">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8758926</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A brief staurosporine treatment of mitotic cells triggers premature exit from mitosis and polyploid cell formation.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer Res</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1996</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hall LL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Th'ng JP</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guo XW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teplitz RL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bradbury EM</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">breast cancer pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000624</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cc5">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21359530</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">miR-29b regulates migration of human breast cancer cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Cell Biochem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang C</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bian Z</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wei D</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang JG</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f0e">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10880455</bp:ID>
@@ -4076,11 +4148,6 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katada T</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enomoto T</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">breast cancer pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000624</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d34">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10022864</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -4090,43 +4157,57 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fritz G</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaina B</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d50">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8758926</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d99">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16087680</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A brief staurosporine treatment of mitotic cells triggers premature exit from mitosis and polyploid cell formation.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer Res</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1996</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hall LL</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Th'ng JP</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guo XW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teplitz RL</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bradbury EM</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e6b">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7966593</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tax induces nuclear translocation of NF-kappa B through dissociation of cytoplasmic complexes containing p105 or p100 but does not induce degradation of I kappa B alpha/MAD3.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Virol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MuÃ˜Â£Ã‚Â±oz E</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Courtois G</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Veschambre P</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jalinot P</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IsraÃ˜Â£Ã‚Â«l A</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cfc">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12221076</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nocodazole-induced p53-dependent c-Jun N-terminal kinase activation reduces apoptosis in human colon carcinoma HCT116 cells.</bp:TITLE>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recruitment of nuclear factor Y to the inverted CCAAT element (ICE) by c-Jun and E1A stimulates basal transcription of the bone sialoprotein gene in osteosarcoma cells.</bp:TITLE>
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang H</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shi X</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang QJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hampong M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paddon H</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wahyuningsih D</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pelech S</bp:AUTHORS>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Su M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bansal AK</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mantovani R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sodek J</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f3e">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11003670</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a3c">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17623674</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polarity of response to transforming growth factor-beta1 in proximal tubular epithelial cells is regulated by beta-catenin.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lee CH</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luo DD</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krupa A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fraser D</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Phillips A</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ac4">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16601937</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P300 auditory event-related potentials and neuropsychological study during donepezil treatment in vascular dementia.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurol Sci</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paci C</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gobbato R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carboni T</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanguigni S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santone A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curatola L</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ae4">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1199706</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The use of electro-analgesia in obstetrics and gynecology. A survey by invitation.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acta Obstet Gynecol Scand</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1975</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persianinov LS</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d26">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15701627</bp:ID>
@@ -4140,29 +4221,15 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kedar PS</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wilson SH</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="aeb">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10363963</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cba">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16597033</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Selection for androgen receptor mutations in prostate cancers treated with androgen antagonist.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer Res</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Taplin ME</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bubley GJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ko YJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Small EJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Upton M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rajeshkumar B</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Balk SP</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f8e">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2828745</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glucocorticoids modulate renal glucocorticoid receptors and Na-K ATPase activity.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kidney Int</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1987</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ellis D</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sothi TD</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Avner ED</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[Effect of dihydrotestosterone on the transcriptions and expressions of Smad3 and Smad4 in LNCaP cell line].</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhonghua Nan Ke Xue</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gu RG</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhou CW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ma QZ</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b98">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19528081</bp:ID>
@@ -4195,89 +4262,6 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu F</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mo YY</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e21">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7859292</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interactions among endoplasmic reticulum, microtubules, and retrograde movements of the cell surface.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Motil Cytoskeleton</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terasaki M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reese TS</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fe2">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2147360</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mithramycin selectively inhibits the transcriptional activity of a transfected human c-myc gene.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Am J Med Sci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1990</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ray R</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thomas S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miller DM</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a3c">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17623674</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polarity of response to transforming growth factor-beta1 in proximal tubular epithelial cells is regulated by beta-catenin.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lee CH</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luo DD</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krupa A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fraser D</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Phillips A</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bee">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21820606</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MicroRNA-21 modulates chemosensitivity of breast cancer cells to doxorubicin by targeting PTEN.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arch Med Res</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang ZX</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lu BB</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang H</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cheng ZX</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yin YM</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cba">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16597033</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[Effect of dihydrotestosterone on the transcriptions and expressions of Smad3 and Smad4 in LNCaP cell line].</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhonghua Nan Ke Xue</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gu RG</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhou CW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ma QZ</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">breast cancer</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1612</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a0c">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17991735</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programmed cell death 4 (PDCD4) is an important functional target of the microRNA miR-21 in breast cancer cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frankel LB</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoffersen NR</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jacobsen A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lindow M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krogh A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lund AH</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d99">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16087680</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recruitment of nuclear factor Y to the inverted CCAAT element (ICE) by c-Jun and E1A stimulates basal transcription of the bone sialoprotein gene in osteosarcoma cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Su M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bansal AK</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mantovani R</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sodek J</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fbe">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16438734</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -4298,31 +4282,24 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kudoh S</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Omura S</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f3e">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11003670</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fe2">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2147360</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mithramycin selectively inhibits the transcriptional activity of a transfected human c-myc gene.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Am J Med Sci</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1990</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ray R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thomas S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miller DM</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ae4">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1199706</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e21">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7859292</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The use of electro-analgesia in obstetrics and gynecology. A survey by invitation.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acta Obstet Gynecol Scand</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1975</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persianinov LS</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a5a">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11356332</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Expression of E. coli RecA targeted to mitochondria of human cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mutat Res</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2001</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul R</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dalibart R</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lemoine S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lestienne P</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interactions among endoplasmic reticulum, microtubules, and retrograde movements of the cell surface.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Motil Cytoskeleton</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Terasaki M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reese TS</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e46">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9688941</bp:ID>
@@ -4336,29 +4313,53 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schotman E</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hamid Q</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cc5">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21359530</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a5a">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11356332</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">miR-29b regulates migration of human breast cancer cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Cell Biochem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang C</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bian Z</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wei D</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang JG</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Expression of E. coli RecA targeted to mitochondria of human cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mutat Res</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2001</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dalibart R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lemoine S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lestienne P</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ac4">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16601937</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a0c">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17991735</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P300 auditory event-related potentials and neuropsychological study during donepezil treatment in vascular dementia.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurol Sci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paci C</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gobbato R</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carboni T</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanguigni S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santone A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curatola L</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programmed cell death 4 (PDCD4) is an important functional target of the microRNA miR-21 in breast cancer cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frankel LB</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoffersen NR</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jacobsen A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lindow M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krogh A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lund AH</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ce8">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21047769</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Context-dependent bidirectional regulation of the MutS homolog 2 by transforming growth factor ÃŽÂ² contributes to chemoresistance in breast cancer cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Cancer Res</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yu Y</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang Y</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ren X</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tsuyada A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Li A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Liu LJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wang SE</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f8e">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2828745</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glucocorticoids modulate renal glucocorticoid receptors and Na-K ATPase activity.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kidney Int</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1987</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ellis D</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sothi TD</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Avner ED</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>

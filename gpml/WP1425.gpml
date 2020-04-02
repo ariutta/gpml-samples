@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Bone Morphogenic Protein (BMP) Signalling and Regulation" Last-Modified="2/21/2013" Organism="Homo sapiens" License="CC BY 2.0">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
-  <Comment Source="WikiPathways-description">"BMP signals are mediated by type I and II BMP receptors and their downstream molecules Smad1, 5 and 8. Phosphorylated Smad1, 5 and 8 proteins form a complex with Smad4 and then are translocated into the nucleus where they interact with other transcription factors, such as Runx2 in osteoblasts." [http://www.ncbi.nlm.nih.gov/pubmed/15621726 (Chen 2004)]</Comment>
+  <Comment Source="WikiPathways-description">"BMP signals are mediated by type I and II BMP receptors and their downstream molecules Smad1, 5 and 8. Phosphorylated Smad1, 5 and 8 proteins form a complex with Smad4 and then are translocated into the nucleus where they interact with other transcription factors, such as Runx2 in osteoblasts." [http://www.ncbi.nlm.nih.gov/pubmed/15621726 (Chen 2004)].
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP1425 CPTAC Assay Portal]</Comment>
   <BiopaxRef>f9a</BiopaxRef>
   <Graphics BoardWidth="676.0" BoardHeight="664.0"/>
   <DataNode TextLabel="BMP2" GraphId="e2008" Type="GeneProduct">

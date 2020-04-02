@@ -144,5 +144,5 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tannous B</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krichevsky AM</bp:AUTHORS>
     </bp:PublicationXref>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer pathway</bp:TERM><bp:ID>PW:0000605</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

@@ -5,7 +5,9 @@
   <Comment Source="WikiPathways-category">Physiological Process</Comment>
   <Comment Source="WikiPathways-description">Coagulation is a complex process by which blood forms clots. It is an important part of hemostasis (the cessation of blood loss from a damaged vessel), wherein a damaged blood vessel wall is covered by a platelet and fibrin-containing clot to stop bleeding and begin repair of the damaged vessel. Disorders of coagulation can lead to an increased risk of bleeding (hemorrhage) or clotting (thrombosis).
 
-Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
+Source: [[wikipedia:Coagulation|Wikipedia]]
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP272 CPTAC Assay Portal]</Comment>
   <BiopaxRef>cc2</BiopaxRef>
   <Graphics BoardWidth="1286.0" BoardHeight="1086.5" />
   <DataNode TextLabel="Factor XIIa" GraphId="a10d3" Type="GeneProduct">
@@ -53,7 +55,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Fibrin" GraphId="a53" Type="Metabolite">
     <Graphics CenterX="828.8623864256954" CenterY="821.6921468160116" Width="49.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="5054" />
+    <Xref Database="ChEBI" ID="CHEBI:5054" />
   </DataNode>
   <DataNode TextLabel="FGG" GraphId="aa3" Type="GeneProduct" GroupRef="cc726">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FGG | fibrinogen gamma chain" />
@@ -62,7 +64,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Zinc" GraphId="ab8bc" Type="Metabolite" GroupRef="ab77b">
     <Graphics CenterX="61.0" CenterY="237.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01303" />
+    <Xref Database="HMDB" ID="HMDB0001303" />
   </DataNode>
   <DataNode TextLabel="Factor X" GraphId="b58" Type="GeneProduct" GroupRef="fd46e">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F10 | coagulation factor X" />

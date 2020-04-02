@@ -110,7 +110,7 @@
   </DataNode>
   <DataNode TextLabel="Retinoic Acids?" GraphId="eec0d" Type="Metabolite">
     <Graphics CenterX="1461.0" CenterY="482.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff"/>
-    <Xref Database="HMDB" ID="HMDB01852"/>
+    <Xref Database="HMDB" ID="HMDB0001852"/>
   </DataNode>
   <DataNode TextLabel="MTOR Protein Kinase Signaling Pathway" GraphId="f06e5" Type="Pathway">
     <Graphics CenterX="973.0" CenterY="202.0" Width="282.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
@@ -458,5 +458,5 @@
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eto I</bp:AUTHORS>
     </bp:PublicationXref>
-  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>breast cancer</bp:TERM><bp:ID>DOID:1612</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary></Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>breast cancer</bp:TERM><bp:ID>DOID:1612</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer pathway</bp:TERM><bp:ID>PW:0000605</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer</bp:TERM><bp:ID>DOID:162</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

@@ -5,13 +5,19 @@
   <Comment Source="WikiPathways-category">Physiological Process</Comment>
   <Comment Source="WikiPathways-description">Calcium is a common signaling mechanism, as once it enters the cytoplasm it exerts allosteric regulatory affects on many enzymes and proteins. Calcium can act in signal transduction after influx resulting from activation of ion channels or as a second messenger caused by indirect signal transduction pathways such as G protein-coupled receptors. Movement of calcium ions from the extracellular compartment to the intracellular compartment alters membrane depolarisation. This is seen in the heart, during the plateau phase of ventricular contraction. In this example, calcium acts to maintain depolarisation of the heart.
 
-Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
+Source: [[wikipedia:Calcium_signaling|Wikipedia]]
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP536 CPTAC Assay Portal]</Comment>
   <BiopaxRef>fbf</BiopaxRef>
   <Graphics BoardWidth="1504.3333333333333" BoardHeight="1056.6666666666667" />
   <DataNode TextLabel="CACNB1" GraphId="bac" Type="GeneProduct" GroupRef="c7479">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CACNB1 | calcium channel voltage-dependent be..." />
     <Graphics CenterX="188.33333333333334" CenterY="685.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="782" />
+  </DataNode>
+  <DataNode TextLabel="STIM2" GraphId="c0d7b" Type="GeneProduct">
+    <Graphics CenterX="383.25" CenterY="392.75" Width="59.5" Height="17.5" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000109689" />
   </DataNode>
   <DataNode TextLabel="CALM1" GraphId="a23" Type="GeneProduct" GroupRef="d52f5">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CALM1 | calmodulin 1 (phosphorylase kinase del..." />
@@ -70,7 +76,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Epinephrine" GraphId="c26da" Type="Metabolite">
     <Graphics CenterX="636.050420168067" CenterY="70.69085173501577" Width="80.0" Height="20.0" ZOrder="32792" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00068" />
+    <Xref Database="HMDB" ID="HMDB0000068" />
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="c2e" Type="Metabolite">
     <Graphics CenterX="820.0" CenterY="196.80680012710513" Width="31.333333333333332" Height="16.0" ZOrder="32794" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -103,7 +109,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Na+" GraphId="b45a2" Type="Metabolite">
     <Graphics CenterX="350.55800760789924" CenterY="592.2323976909377" Width="31.026841927058655" Height="20.0" ZOrder="32806" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00588" />
+    <Xref Database="HMDB" ID="HMDB0000588" />
   </DataNode>
   <DataNode TextLabel="GNAI2" GraphId="a58" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GNAI2 | guanine nucleotide binding protein (G p..." />
@@ -181,7 +187,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Pi" GraphId="e5d44" Type="Metabolite" GroupRef="e75ca">
     <Graphics CenterX="818.1493165089377" CenterY="769.7160883280761" Width="35.793901156676654" Height="20.0" ZOrder="32838" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01429" />
+    <Xref Database="HMDB" ID="HMDB0001429" />
   </DataNode>
   <DataNode TextLabel="ADCY5" GraphId="b80" Type="GeneProduct" GroupRef="c4b3c">
     <Comment Source="GenMAPP remarks">There is no SwissProt entry for a full-length sequence in mouse.  This EST is from the Affymetrix Murine6500 chip.</Comment>
@@ -221,7 +227,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="IP4" GraphId="fd85f" Type="Metabolite">
     <Graphics CenterX="1000.4575786463299" CenterY="504.756911344137" Width="37.14013346043842" Height="20.0" ZOrder="32854" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="16783" />
+    <Xref Database="ChEBI" ID="CHEBI:16783" />
   </DataNode>
   <DataNode TextLabel="DAG" GraphId="caa32" Type="Metabolite">
     <Comment>DAG = aspartate-alanine-glycine</Comment>
@@ -432,7 +438,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="K+" GraphId="b4df6" Type="Metabolite">
     <Graphics CenterX="23.239495798319325" CenterY="289.0168067226892" Width="30.54621848739496" Height="20.0" ZOrder="32938" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00586" />
+    <Xref Database="HMDB" ID="HMDB0000586" />
   </DataNode>
   <DataNode TextLabel="GRK5" GraphId="f5d" Type="GeneProduct" GroupRef="b3174">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GRK5 | G protein-coupled receptor kinase 5" />
@@ -451,7 +457,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="ee706" Type="Metabolite">
     <Graphics CenterX="882.7339642481597" CenterY="463.7223974763413" Width="43.15457413249204" Height="20.0" ZOrder="32946" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="RYR3" GraphId="f0f" Type="GeneProduct" GroupRef="c4f89">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RYR3 | ryanodine receptor 3" />
@@ -588,7 +594,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="PIP2" GraphId="b40cc" Type="Metabolite">
     <Graphics CenterX="970.5268138801258" CenterY="395.0126182965296" Width="44.20609884332291" Height="20.0" ZOrder="33002" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB10032" />
+    <Xref Database="HMDB" ID="HMDB0010032" />
   </DataNode>
   <DataNode TextLabel="Calreticulin" GraphId="f92ea" Type="GeneProduct" GroupRef="b4122">
     <Graphics CenterX="590.4877811625712" CenterY="386.58619345047424" Width="69.73940430974764" Height="20.0" ZOrder="33004" FontSize="10" Valign="Middle" />
@@ -696,7 +702,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="K+" GraphId="f535c" Type="Metabolite">
     <Graphics CenterX="21.735294117647058" CenterY="340.68067226890753" Width="30.54621848739496" Height="20.0" ZOrder="33045" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00586" />
+    <Xref Database="HMDB" ID="HMDB0000586" />
   </DataNode>
   <DataNode TextLabel="RGS2" GraphId="eb8" Type="GeneProduct" GroupRef="aed98">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RGS2 | regulator of G-protein signalling 2 24k..." />
@@ -705,7 +711,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="K+" GraphId="aef72" Type="Metabolite">
     <Graphics CenterX="389.5414165666263" CenterY="758.2997198879546" Width="30.54621848739496" Height="20.0" ZOrder="33047" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00586" />
+    <Xref Database="HMDB" ID="HMDB0000586" />
   </DataNode>
   <DataNode TextLabel="ARRB1" GraphId="fa8" Type="GeneProduct" GroupRef="f86b6">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ARRB1 | arrestin beta 1" />
@@ -714,7 +720,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="e63e1" Type="Metabolite">
     <Graphics CenterX="255.50998948475328" CenterY="739.7581493165097" Width="43.15457413249204" Height="20.0" ZOrder="33049" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="GNAS" GraphId="d09" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GNAS | GNAS complex locus" />
@@ -723,15 +729,15 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="db6dd" Type="Metabolite">
     <Graphics CenterX="559.6221753685705" CenterY="757.8096632974963" Width="40.16271808407993" Height="20.7213674113191" ZOrder="33051" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="ADP" GraphId="ade0a" Type="Metabolite" GroupRef="e75ca">
     <Graphics CenterX="781.3038906414303" CenterY="769.716088328076" Width="37.89695057833835" Height="20.0" ZOrder="33052" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01341" />
+    <Xref Database="HMDB" ID="HMDB0001341" />
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="ebbcd" Type="Metabolite">
     <Graphics CenterX="642.4921135646692" CenterY="894.3533123028402" Width="43.15457413249204" Height="20.0" ZOrder="33053" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="GJB2" GraphId="aef" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GJB2 | gap junction protein beta 2 26kDa (con..." />
@@ -740,7 +746,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="d5f32" Type="Metabolite">
     <Graphics CenterX="730.3049421661416" CenterY="798.1493165089385" Width="43.15457413249204" Height="20.0" ZOrder="33055" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="CACNA1B" GraphId="b9f" Type="GeneProduct" GroupRef="b347b">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CACNA1B | calcium channel voltage-dependent L..." />
@@ -749,7 +755,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="b01ff" Type="Metabolite">
     <Graphics CenterX="964.2797055730814" CenterY="734.5425867507898" Width="43.15457413249204" Height="20.0" ZOrder="33057" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="GNAI1" GraphId="ce1" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GNAI1 | guanine nucleotide binding protein (G p..." />
@@ -758,7 +764,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="a8fd3" Type="Metabolite">
     <Graphics CenterX="608.8222923238695" CenterY="478.9800210304947" Width="43.15457413249204" Height="20.0" ZOrder="33059" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="CHRM3" GraphId="df1" Type="GeneProduct" GroupRef="e8236">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHRM3 | cholinergic receptor muscarinic 3" />
@@ -767,7 +773,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="b92d2" Type="Metabolite">
     <Graphics CenterX="200.3154574132492" CenterY="479.4180627687081" Width="43.15457413249204" Height="20.0" ZOrder="33061" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="CALR" GraphId="fbc" Type="GeneProduct" GroupRef="f9f41">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CALR | calreticulin" />
@@ -776,7 +782,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="b687e" Type="Metabolite">
     <Graphics CenterX="88.33859095688746" CenterY="735.5730809674044" Width="43.15457413249204" Height="20.0" ZOrder="33063" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="RGS9" GraphId="b6b" Type="GeneProduct" GroupRef="aed98">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RGS9 | regulator of G-protein signalling 9" />
@@ -785,7 +791,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="af916" Type="Metabolite">
     <Graphics CenterX="435.8780231335432" CenterY="70.49421661409119" Width="43.15457413249204" Height="20.0" ZOrder="33065" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="CHRM5" GraphId="b46" Type="GeneProduct" GroupRef="b0644">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHRM5 | cholinergic receptor muscarinic 5" />
@@ -794,7 +800,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="f3265" Type="Metabolite">
     <Graphics CenterX="435.3627760252368" CenterY="250.84121976866538" Width="43.15457413249204" Height="20.0" ZOrder="33067" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="PRKCH" GraphId="b42" Type="GeneProduct" GroupRef="d4570">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRKCH | protein kinase C eta" />
@@ -803,7 +809,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Na+" GraphId="d33d3" Type="Metabolite">
     <Graphics CenterX="246.57202944269218" CenterY="73.09148264984228" Width="44.20609884332278" Height="20.0" ZOrder="33069" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00588" />
+    <Xref Database="HMDB" ID="HMDB0000588" />
   </DataNode>
   <DataNode TextLabel="CAMK2B" GraphId="f22" Type="GeneProduct" GroupRef="ce465">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CAMK2B | calcium/calmodulin-dependent protein k..." />
@@ -812,7 +818,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Na+" GraphId="bac79" Type="Metabolite">
     <Graphics CenterX="520.743926908303" CenterY="599.3901156677175" Width="33.83479259211575" Height="20.0" ZOrder="33071" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00588" />
+    <Xref Database="HMDB" ID="HMDB0000588" />
   </DataNode>
   <DataNode TextLabel="GJA4" GraphId="b49" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GJA4 | gap junction protein alpha 4 37kDa (co..." />
@@ -821,7 +827,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="a60f0" Type="Metabolite">
     <Graphics CenterX="643.522607781283" CenterY="639.8633017875927" Width="43.15457413249204" Height="20.0" ZOrder="33073" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="GNG4" GraphId="b99" Type="GeneProduct" GroupRef="ced50">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GNG4 | guanine nucleotide binding protein (G pr..." />
@@ -830,7 +836,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Pi" GraphId="a33c1" Type="Metabolite" GroupRef="c6e89">
     <Graphics CenterX="713.5331230283908" CenterY="574.6687697160886" Width="35.793901156676654" Height="20.0" ZOrder="33075" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01429" />
+    <Xref Database="HMDB" ID="HMDB0001429" />
   </DataNode>
   <DataNode TextLabel="YWHAG" GraphId="b78" Type="GeneProduct" GroupRef="f9c5e">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="YWHAG | tyrosine 3-monooxygenase/tryptophan 5-m..." />
@@ -839,7 +845,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="ADP" GraphId="d632a" Type="Metabolite" GroupRef="c6e89">
     <Graphics CenterX="676.6876971608834" CenterY="574.6687697160885" Width="37.89695057833835" Height="20.0" ZOrder="33077" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01341" />
+    <Xref Database="HMDB" ID="HMDB0001341" />
   </DataNode>
   <DataNode TextLabel="CAMK1" GraphId="fb2" Type="GeneProduct" GroupRef="ce465">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CAMK1 | calcium/calmodulin-dependent protein ki..." />
@@ -857,7 +863,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="dfc21" Type="Metabolite" GroupRef="b4122">
     <Graphics CenterX="649.1139626242609" CenterY="362.6487195757011" Width="43.15457413249204" Height="20.0" ZOrder="33081" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="PRKCG" GraphId="ba3" Type="GeneProduct" GroupRef="d4570">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRKCG | protein kinase C gamma" />
@@ -866,7 +872,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="e6703" Type="Metabolite" GroupRef="b4122">
     <Graphics CenterX="646.9347703836911" CenterY="386.5861934504742" Width="43.15457413249204" Height="20.0" ZOrder="33083" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="ADCY6" GraphId="b06" Type="GeneProduct" GroupRef="c4b3c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ADCY6 | adenylate cyclase 6" />
@@ -875,7 +881,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="K+" GraphId="a6495" Type="Metabolite">
     <Graphics CenterX="173.54561824729882" CenterY="289.0747298919569" Width="30.54621848739496" Height="16.924969987995382" ZOrder="33085" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00586" />
+    <Xref Database="HMDB" ID="HMDB0000586" />
   </DataNode>
   <DataNode TextLabel="GRK4" GraphId="f72" Type="GeneProduct" GroupRef="b3174">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GRK4 | G protein-coupled receptor kinase 4" />
@@ -884,7 +890,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="K+" GraphId="b01cb" Type="Metabolite">
     <Graphics CenterX="169.5150060024011" CenterY="340.9045618247301" Width="30.54621848739496" Height="20.0" ZOrder="33087" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00586" />
+    <Xref Database="HMDB" ID="HMDB0000586" />
   </DataNode>
   <DataNode TextLabel="PRKAR2A" GraphId="f50" Type="GeneProduct" GroupRef="dbe86">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRKAR2A | protein kinase cAMP-dependent regul..." />
@@ -893,7 +899,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="e972e" Type="Metabolite">
     <Graphics CenterX="965.3511341445093" CenterY="646.328301036504" Width="43.15457413249204" Height="20.0" ZOrder="33089" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="ADRB2" GraphId="c8d" Type="GeneProduct" GroupRef="c7ed6">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ADRB2 | adrenergic beta-2- receptor surface" />
@@ -902,7 +908,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="b679f" Type="Metabolite">
     <Graphics CenterX="558.9887658533448" CenterY="598.5274898602984" Width="29.98165196677946" Height="20.0" ZOrder="33091" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="HMDB" ID="HMDB0000464" />
   </DataNode>
   <DataNode TextLabel="Connexin" GraphId="cbd36" Type="GeneProduct">
     <Graphics CenterX="642.9863301787592" CenterY="715.0368033648791" Width="59.97896950578334" Height="20.0" ZOrder="33092" FontSize="10" Valign="Middle" ShapeType="None" />
@@ -910,7 +916,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Na+" GraphId="a3478" Type="Metabolite">
     <Graphics CenterX="520.5398452756504" CenterY="758.6248095452692" Width="33.83479259211575" Height="20.0" ZOrder="33093" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00588" />
+    <Xref Database="HMDB" ID="HMDB0000588" />
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="cf4" Type="Metabolite">
     <Graphics CenterX="761.6984752891696" CenterY="728.7620925341745" Width="32.5" Height="14.166666666666666" ZOrder="33094" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -918,7 +924,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="K+" GraphId="c58bc" Type="Metabolite">
     <Graphics CenterX="389.3373349339733" CenterY="592.2793117246894" Width="30.54621848739496" Height="20.0" ZOrder="33095" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00586" />
+    <Xref Database="HMDB" ID="HMDB0000586" />
   </DataNode>
   <DataNode TextLabel="RGS3" GraphId="cbf" Type="GeneProduct" GroupRef="aed98">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RGS3 | regulator of G-protein signalling 3" />
@@ -927,7 +933,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Na+" GraphId="e946b" Type="Metabolite">
     <Graphics CenterX="350.3539259752462" CenterY="757.8446425888966" Width="31.026841927058655" Height="20.0" ZOrder="33097" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00588" />
+    <Xref Database="HMDB" ID="HMDB0000588" />
   </DataNode>
   <DataNode TextLabel="CX36" GraphId="b3e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CX36 | connexin-36" />
@@ -941,7 +947,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Epinephrine" GraphId="b6bb6" Type="Metabolite">
     <Graphics CenterX="969.6908517350157" CenterY="71.89695057833859" Width="80.0" Height="20.0" ZOrder="33102" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00068" />
+    <Xref Database="HMDB" ID="HMDB0000068" />
   </DataNode>
   <DataNode TextLabel="ATP1A4" GraphId="b17" Type="GeneProduct" GroupRef="a9f13">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP1A4 | ATPase Na+/K+ transporting alpha 4 p..." />
@@ -968,10 +974,36 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
     <Graphics CenterX="414.1020408163263" CenterY="677.9285714285722" Width="60.0" Height="20.0" ZOrder="33111" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="483" />
   </DataNode>
+  <DataNode TextLabel="ORAI1" GraphId="ec4b6" Type="GeneProduct">
+    <Graphics CenterX="78.25" CenterY="392.75" Width="59.5" Height="17.5" ZOrder="33112" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000276045" />
+  </DataNode>
+  <DataNode TextLabel="Ca2+" GraphId="be459" Type="Metabolite">
+    <Graphics CenterX="22.735294117647058" CenterY="419.68067226890753" Width="30.54621848739496" Height="20.0" ZOrder="33113" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="ChEBI" ID="CHEBI:29108" />
+  </DataNode>
+  <DataNode TextLabel="Ca2+" GraphId="f2933" Type="Metabolite">
+    <Graphics CenterX="140.5150060024011" CenterY="419.68067226890753" Width="30.54621848739496" Height="20.0" ZOrder="33114" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="ChEBI" ID="CHEBI:29108" />
+  </DataNode>
   <State GraphRef="a0c17" TextLabel="P" GraphId="d3882">
     <Graphics RelX="1.0" RelY="6.246096189876987E-4" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="353.5" Y="392.75" GraphRef="c0d7b" RelX="-1.0" RelY="0.0" />
+      <Point X="108.0" Y="392.75" GraphRef="ec4b6" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction>
+    <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
+      <Point X="30.371848739495796" Y="409.68067226890753" GraphRef="be459" RelX="0.5" RelY="-1.0" />
+      <Point X="132.87845138055235" Y="409.68067226890753" GraphRef="f2933" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="f4da1">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="970.6635120925381" Y="203.07570977917982" GraphRef="e4897" RelX="0.0" RelY="1.0" />
@@ -1629,7 +1661,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
     <Graphics CenterX="1170.387126173143" CenterY="544.3184079601991" Width="40.38121752041589" Height="17.0" ZOrder="28730" FillColor="ffffff" FontWeight="Bold" FontSize="11" Valign="Middle" />
   </Label>
   <Label TextLabel="Cytosol" GraphId="c4d">
-    <Graphics CenterX="146.66666666666666" CenterY="393.3333333333333" Width="76.33333333333333" Height="24.0" ZOrder="28732" FillColor="ffffff" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.66666666666666" CenterY="370.3333333333333" Width="76.33333333333333" Height="24.0" ZOrder="28732" FillColor="ffffff" FontSize="16" Valign="Middle" />
   </Label>
   <Label TextLabel="Protein Kinase C" GraphId="daf" GroupRef="d4570">
     <Graphics CenterX="1376.6666666666667" CenterY="535.2238805970151" Width="111.33333333333333" Height="16.0" ZOrder="28734" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
@@ -1728,11 +1760,6 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
   <InfoBox CenterX="1.6666666666666667" CenterY="0.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiovascular system disease</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1287</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calcium/calcium-mediated signaling pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001140</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
@@ -1750,5 +1777,10 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]</Comment>
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2003</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marks AR</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiovascular system disease</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1287</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

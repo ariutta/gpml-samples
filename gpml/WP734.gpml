@@ -1,133 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Serotonin Receptor 4/6/7 and NR3C Signaling" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">This pathway is courtesy of Ariadne Genomics Pathway Studio.</Comment>
+  <Comment Source="WikiPathways-description">This pathway is courtesy of Ariadne Genomics Pathway Studio.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP734 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
-  <Graphics BoardWidth="780.0" BoardHeight="941.0" />
+  <Graphics BoardWidth="780.0" BoardHeight="941.0"/>
   <DataNode TextLabel="serotonin" GraphId="c7ec0" Type="Metabolite">
-    <Graphics CenterX="446.0" CenterY="86.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="00cc00" />
-    <Xref Database="CAS" ID="50-67-9" />
+    <Graphics CenterX="446.0" CenterY="86.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="00cc00"/>
+    <Xref Database="CAS" ID="50-67-9"/>
   </DataNode>
   <DataNode TextLabel="HTR6" GraphId="afb31" Type="GeneProduct">
     <Comment>5-hydroxytryptamine (serotonin) receptor 6</Comment>
-    <Graphics CenterX="445.0" CenterY="155.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="3362" />
+    <Graphics CenterX="445.0" CenterY="155.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="3362"/>
   </DataNode>
   <DataNode TextLabel="HTR7" GraphId="a5cd1" Type="GeneProduct">
     <Comment>5-hydroxytryptamine (serotonin) receptor 7</Comment>
-    <Graphics CenterX="575.0" CenterY="156.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="3363" />
+    <Graphics CenterX="575.0" CenterY="156.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="3363"/>
   </DataNode>
   <DataNode TextLabel="HTR4" GraphId="ff5e5" Type="GeneProduct">
     <Comment>5 hydroxytryptamine (serotonin) receptor 4</Comment>
-    <Graphics CenterX="317.0" CenterY="155.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="3360" />
+    <Graphics CenterX="317.0" CenterY="155.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="3360"/>
   </DataNode>
   <DataNode TextLabel="GNAS" GraphId="bbbcd" Type="GeneProduct">
     <Comment>GNAS (guanine nucleotide binding protein, alpha stimulating)</Comment>
-    <Graphics CenterX="444.0" CenterY="223.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="2778" />
+    <Graphics CenterX="444.0" CenterY="223.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="2778"/>
   </DataNode>
   <DataNode TextLabel="ADCY" GraphId="a6384" Type="GeneProduct">
     <Comment>Adenylate cyclase</Comment>
-    <Graphics CenterX="445.0" CenterY="290.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff9900" />
-    <Xref Database="" ID="" />
+    <Graphics CenterX="445.0" CenterY="290.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff9900"/>
+    <Xref Database="" ID=""/>
   </DataNode>
   <DataNode TextLabel="Cyclic AMP" GraphId="a1ca6" Type="Metabolite">
-    <Graphics CenterX="447.0" CenterY="352.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="00cc00" />
-    <Xref Database="CAS" ID="60-92-4" />
+    <Graphics CenterX="447.0" CenterY="352.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="00cc00"/>
+    <Xref Database="CAS" ID="60-92-4"/>
   </DataNode>
   <DataNode TextLabel="PKA" GraphId="e4b51" Type="GeneProduct">
     <Comment>cAMP-dependent protein kinase, protein kinase A</Comment>
-    <Graphics CenterX="449.0" CenterY="409.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff9900" />
-    <Xref Database="" ID="" />
+    <Graphics CenterX="449.0" CenterY="409.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff9900"/>
+    <Xref Database="" ID=""/>
   </DataNode>
   <DataNode TextLabel="RAP1A" GraphId="e811f" Type="GeneProduct">
     <Comment>RAS-related protein-1a</Comment>
-    <Graphics CenterX="450.0" CenterY="460.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="5906" />
+    <Graphics CenterX="450.0" CenterY="460.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="5906"/>
   </DataNode>
   <DataNode TextLabel="BRAF" GraphId="a5ca5" Type="GeneProduct">
     <Comment>v-raf murine sarcoma viral oncogene homolog B1</Comment>
-    <Graphics CenterX="452.0" CenterY="516.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="673" />
+    <Graphics CenterX="452.0" CenterY="516.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="673"/>
   </DataNode>
   <DataNode TextLabel="MAP2K1" GraphId="d2aef" Type="GeneProduct">
     <Comment>mitogen activated protein kinase kinase 1</Comment>
-    <Graphics CenterX="386.0" CenterY="576.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="5604" />
+    <Graphics CenterX="386.0" CenterY="576.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="5604"/>
   </DataNode>
   <DataNode TextLabel="MAP2K2" GraphId="c06e8" Type="GeneProduct">
     <Comment>mitogen activated protein kinase kinase 2</Comment>
-    <Graphics CenterX="530.0" CenterY="579.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="5605" />
+    <Graphics CenterX="530.0" CenterY="579.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="5605"/>
   </DataNode>
   <DataNode TextLabel="MAPK1" GraphId="d2925" Type="GeneProduct">
     <Comment>mitogen activated protein kinase 1</Comment>
-    <Graphics CenterX="532.0" CenterY="641.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="HGNC" ID="MAPK1" />
+    <Graphics CenterX="532.0" CenterY="641.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="HGNC" ID="MAPK1"/>
   </DataNode>
   <DataNode TextLabel="MAPK3" GraphId="cf078" Type="GeneProduct">
     <Comment>mitogen activated protein kinase 3</Comment>
-    <Graphics CenterX="387.0" CenterY="639.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="5595" />
+    <Graphics CenterX="387.0" CenterY="639.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="5595"/>
   </DataNode>
   <DataNode TextLabel="RPS6KA5" GraphId="dcbd8" Type="GeneProduct">
     <Comment>ribosomal protein S6 kinase, polypeptide 5</Comment>
-    <Graphics CenterX="485.0" CenterY="705.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="9252" />
+    <Graphics CenterX="485.0" CenterY="705.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="9252"/>
   </DataNode>
   <DataNode TextLabel="RPS6K" GraphId="e03b1" Type="GeneProduct">
     <Comment>ribosomal protein S6 kinase</Comment>
-    <Graphics CenterX="584.0" CenterY="693.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff9900" />
-    <Xref Database="" ID="" />
+    <Graphics CenterX="584.0" CenterY="693.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="ff9900"/>
+    <Xref Database="" ID=""/>
   </DataNode>
   <DataNode TextLabel="MAPKAPK2" GraphId="ea96c" Type="GeneProduct">
     <Comment>MAP kinase-activated protein kinase 2</Comment>
-    <Graphics CenterX="384.0" CenterY="706.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="9261" />
+    <Graphics CenterX="384.0" CenterY="706.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="9261"/>
   </DataNode>
   <DataNode TextLabel="ELK1" GraphId="f9794" Type="GeneProduct">
     <Comment>ELK1, member of ETS oncogene family</Comment>
-    <Graphics CenterX="509.0" CenterY="783.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="2002" />
+    <Graphics CenterX="509.0" CenterY="783.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="2002"/>
   </DataNode>
   <DataNode TextLabel="CREB1" GraphId="d1ca1" Type="GeneProduct">
     <Comment>cAMP response element-binding protein 1</Comment>
-    <Graphics CenterX="611.0" CenterY="784.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="1385" />
+    <Graphics CenterX="611.0" CenterY="784.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="1385"/>
   </DataNode>
   <DataNode TextLabel="SRF" GraphId="a64df" Type="GeneProduct">
     <Comment>serum response factor</Comment>
-    <Graphics CenterX="365.0" CenterY="782.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="6722" />
+    <Graphics CenterX="365.0" CenterY="782.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="6722"/>
   </DataNode>
   <DataNode TextLabel="ATF1" GraphId="bc3c8" Type="GeneProduct">
     <Comment>activating transcription factor 1</Comment>
-    <Graphics CenterX="710.0" CenterY="783.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="466" />
+    <Graphics CenterX="710.0" CenterY="783.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="466"/>
   </DataNode>
   <DataNode TextLabel="ELK4" GraphId="a8006" Type="GeneProduct">
     <Comment>ETS domain-containing protein Elk-4 (SRF accessory protein 1)</Comment>
-    <Graphics CenterX="249.0" CenterY="782.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="2005" />
+    <Graphics CenterX="249.0" CenterY="782.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="2005"/>
   </DataNode>
   <DataNode TextLabel="EGR1" GraphId="af70b" Type="GeneProduct">
     <Comment>early growth response protein</Comment>
-    <Graphics CenterX="470.0" CenterY="847.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="1958" />
+    <Graphics CenterX="470.0" CenterY="847.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="1958"/>
   </DataNode>
   <DataNode TextLabel="NR3C1" GraphId="e1dd8" Type="GeneProduct">
     <Comment>nuclear receptor, subfamily 3, group C, member 1</Comment>
-    <Graphics CenterX="468.0" CenterY="901.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="Entrez Gene" ID="2908" />
+    <Graphics CenterX="468.0" CenterY="901.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000"/>
+    <Xref Database="Entrez Gene" ID="2908"/>
   </DataNode>
   <Interaction GraphId="a4543">
     <Comment>Direct Regulation serotonin --+&gt; HTR4</Comment>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="426.0" Y="96.0" GraphRef="c7ec0" RelX="-0.5" RelY="1.0" />
-      <Point X="317.0" Y="145.0" GraphRef="ff5e5" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="426.0" Y="96.0" GraphRef="c7ec0" RelX="-0.5" RelY="1.0"/>
+      <Point X="317.0" Y="145.0" GraphRef="ff5e5" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="e03a9">
     <Comment>Binding HTR6 ---- serotonin</Comment>
@@ -135,10 +137,10 @@
 </Comment>
     <BiopaxRef>c16</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cc00cc">
-      <Point X="446.0" Y="96.0" GraphRef="c7ec0" RelX="0.0" RelY="1.0" />
-      <Point X="445.0" Y="145.0" GraphRef="afb31" RelX="0.0" RelY="-1.0" />
+      <Point X="446.0" Y="96.0" GraphRef="c7ec0" RelX="0.0" RelY="1.0"/>
+      <Point X="445.0" Y="145.0" GraphRef="afb31" RelX="0.0" RelY="-1.0"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="b81d6">
     <Comment>Binding HTR7 ---- serotonin</Comment>
@@ -146,10 +148,10 @@
 </Comment>
     <BiopaxRef>f8b</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cc00cc">
-      <Point X="466.0" Y="96.0" GraphRef="c7ec0" RelX="0.5" RelY="1.0" />
-      <Point X="575.0" Y="146.0" GraphRef="a5cd1" RelX="0.0" RelY="-1.0" />
+      <Point X="466.0" Y="96.0" GraphRef="c7ec0" RelX="0.5" RelY="1.0"/>
+      <Point X="575.0" Y="146.0" GraphRef="a5cd1" RelX="0.0" RelY="-1.0"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="e6fe0">
     <Comment>Binding GNAS ---- HTR6</Comment>
@@ -157,10 +159,10 @@
 </Comment>
     <BiopaxRef>ea0</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cc00cc">
-      <Point X="445.0" Y="165.0" GraphRef="afb31" RelX="0.0" RelY="1.0" />
-      <Point X="444.0" Y="213.0" GraphRef="bbbcd" RelX="0.0" RelY="-1.0" />
+      <Point X="445.0" Y="165.0" GraphRef="afb31" RelX="0.0" RelY="1.0"/>
+      <Point X="444.0" Y="213.0" GraphRef="bbbcd" RelX="0.0" RelY="-1.0"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ef7ce">
     <Comment>Binding GNAS ---- HTR7</Comment>
@@ -171,10 +173,10 @@
     <BiopaxRef>ea0</BiopaxRef>
     <BiopaxRef>bfc</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cc00cc">
-      <Point X="575.0" Y="166.0" GraphRef="a5cd1" RelX="0.0" RelY="1.0" />
-      <Point X="464.0" Y="213.0" GraphRef="bbbcd" RelX="0.5" RelY="-1.0" />
+      <Point X="575.0" Y="166.0" GraphRef="a5cd1" RelX="0.0" RelY="1.0"/>
+      <Point X="464.0" Y="213.0" GraphRef="bbbcd" RelX="0.5" RelY="-1.0"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="a2bb3">
     <Comment>Binding GNAS ---- HTR4</Comment>
@@ -182,10 +184,10 @@
 </Comment>
     <BiopaxRef>ab8</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cc00cc">
-      <Point X="317.0" Y="165.0" GraphRef="ff5e5" RelX="0.0" RelY="1.0" />
-      <Point X="424.0" Y="213.0" GraphRef="bbbcd" RelX="-0.5" RelY="-1.0" />
+      <Point X="317.0" Y="165.0" GraphRef="ff5e5" RelX="0.0" RelY="1.0"/>
+      <Point X="424.0" Y="213.0" GraphRef="bbbcd" RelX="-0.5" RelY="-1.0"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="af4cf">
     <Comment>Direct Regulation GNAS --+&gt; ADCY</Comment>
@@ -212,20 +214,20 @@
     <BiopaxRef>ee4</BiopaxRef>
     <BiopaxRef>d49</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="444.0" Y="233.0" GraphRef="bbbcd" RelX="0.0" RelY="1.0" />
-      <Point X="445.0" Y="280.0" GraphRef="a6384" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="444.0" Y="233.0" GraphRef="bbbcd" RelX="0.0" RelY="1.0"/>
+      <Point X="445.0" Y="280.0" GraphRef="a6384" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="f2002">
     <Comment>Mol Synthesis ADCY --+&gt; Cyclic AMP</Comment>
     <BiopaxRef>c2f</BiopaxRef>
     <BiopaxRef>d1b</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="00cccc">
-      <Point X="445.0" Y="300.0" GraphRef="a6384" RelX="0.0" RelY="1.0" />
-      <Point X="447.0" Y="342.0" GraphRef="a1ca6" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="445.0" Y="300.0" GraphRef="a6384" RelX="0.0" RelY="1.0"/>
+      <Point X="447.0" Y="342.0" GraphRef="a1ca6" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="db949">
     <Comment>Regulation Cyclic AMP --+&gt; PKA</Comment>
@@ -237,10 +239,10 @@
     <BiopaxRef>f6d</BiopaxRef>
     <BiopaxRef>ddb</BiopaxRef>
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="447.0" Y="362.0" GraphRef="a1ca6" RelX="0.0" RelY="1.0" />
-      <Point X="449.0" Y="399.0" GraphRef="e4b51" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="447.0" Y="362.0" GraphRef="a1ca6" RelX="0.0" RelY="1.0"/>
+      <Point X="449.0" Y="399.0" GraphRef="e4b51" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ef93f">
     <Comment>Prot Modification PKA --+&gt; RAP1A</Comment>
@@ -248,10 +250,10 @@
 </Comment>
     <BiopaxRef>c25</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="449.0" Y="419.0" GraphRef="e4b51" RelX="0.0" RelY="1.0" />
-      <Point X="450.0" Y="450.0" GraphRef="e811f" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="449.0" Y="419.0" GraphRef="e4b51" RelX="0.0" RelY="1.0"/>
+      <Point X="450.0" Y="450.0" GraphRef="e811f" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ba145">
     <Comment>Direct Regulation RAP1A --+&gt; BRAF</Comment>
@@ -278,10 +280,10 @@
     <BiopaxRef>a28</BiopaxRef>
     <BiopaxRef>c39</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="450.0" Y="470.0" GraphRef="e811f" RelX="0.0" RelY="1.0" />
-      <Point X="452.0" Y="506.0" GraphRef="a5ca5" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="450.0" Y="470.0" GraphRef="e811f" RelX="0.0" RelY="1.0"/>
+      <Point X="452.0" Y="506.0" GraphRef="a5ca5" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ff89a">
     <Comment>Prot Modification BRAF --+&gt; MAP2K1</Comment>
@@ -303,10 +305,10 @@
     <BiopaxRef>eb0</BiopaxRef>
     <BiopaxRef>a78</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="432.0" Y="526.0" GraphRef="a5ca5" RelX="-0.5" RelY="1.0" />
-      <Point X="386.0" Y="566.0" GraphRef="d2aef" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="432.0" Y="526.0" GraphRef="a5ca5" RelX="-0.5" RelY="1.0"/>
+      <Point X="386.0" Y="566.0" GraphRef="d2aef" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="fe480">
     <Comment>Prot Modification BRAF --+&gt; MAP2K2</Comment>
@@ -317,10 +319,10 @@
     <BiopaxRef>f98</BiopaxRef>
     <BiopaxRef>ae2</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="472.0" Y="526.0" GraphRef="a5ca5" RelX="0.5" RelY="1.0" />
-      <Point X="530.0" Y="569.0" GraphRef="c06e8" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="472.0" Y="526.0" GraphRef="a5ca5" RelX="0.5" RelY="1.0"/>
+      <Point X="530.0" Y="569.0" GraphRef="c06e8" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="a92bf">
     <Comment>ProtModification PKA --+&gt; CREB1</Comment>
@@ -332,11 +334,11 @@
     <BiopaxRef>c3d</BiopaxRef>
     <BiopaxRef>bad</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="469.0" Y="419.0" GraphRef="e4b51" RelX="0.5" RelY="1.0" />
-      <Point X="550.0" Y="426.0" />
-      <Point X="631.0" Y="774.0" GraphRef="d1ca1" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="469.0" Y="419.0" GraphRef="e4b51" RelX="0.5" RelY="1.0"/>
+      <Point X="550.0" Y="426.0"/>
+      <Point X="631.0" Y="774.0" GraphRef="d1ca1" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="dcdd3">
     <Comment>Prot Modification PKA --+&gt; ATF1</Comment>
@@ -344,30 +346,30 @@
 </Comment>
     <BiopaxRef>ec4</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="489.0" Y="409.0" GraphRef="e4b51" RelX="1.0" RelY="0.0" />
-      <Point X="730.0" Y="773.0" GraphRef="bc3c8" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="489.0" Y="409.0" GraphRef="e4b51" RelX="1.0" RelY="0.0"/>
+      <Point X="730.0" Y="773.0" GraphRef="bc3c8" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="eac2f">
     <Comment>Prot Modification MAP2K1 --+&gt; MAPK3</Comment>
     <BiopaxRef>a46</BiopaxRef>
     <BiopaxRef>bf8</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="386.0" Y="586.0" GraphRef="d2aef" RelX="0.0" RelY="1.0" />
-      <Point X="387.0" Y="629.0" GraphRef="cf078" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="386.0" Y="586.0" GraphRef="d2aef" RelX="0.0" RelY="1.0"/>
+      <Point X="387.0" Y="629.0" GraphRef="cf078" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="d4576">
     <Comment>Prot Modification MAP2K1 --+&gt; MAPK1</Comment>
     <BiopaxRef>f8e</BiopaxRef>
     <BiopaxRef>b40</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="406.0" Y="586.0" GraphRef="d2aef" RelX="0.5" RelY="1.0" />
-      <Point X="512.0" Y="631.0" GraphRef="d2925" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="406.0" Y="586.0" GraphRef="d2aef" RelX="0.5" RelY="1.0"/>
+      <Point X="512.0" Y="631.0" GraphRef="d2925" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="f6d11">
     <Comment>Prot Modification MAP2K2 --+&gt; MAPK1</Comment>
@@ -379,10 +381,10 @@
     <BiopaxRef>d6c</BiopaxRef>
     <BiopaxRef>b31</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="530.0" Y="589.0" GraphRef="c06e8" RelX="0.0" RelY="1.0" />
-      <Point X="532.0" Y="631.0" GraphRef="d2925" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="530.0" Y="589.0" GraphRef="c06e8" RelX="0.0" RelY="1.0"/>
+      <Point X="532.0" Y="631.0" GraphRef="d2925" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="a33e6">
     <Comment>Prot Modification MAP2K2 --+&gt; MAPK3</Comment>
@@ -412,10 +414,10 @@
     <BiopaxRef>b9a</BiopaxRef>
     <BiopaxRef>bbe</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="510.0" Y="589.0" GraphRef="c06e8" RelX="-0.5" RelY="1.0" />
-      <Point X="407.0" Y="629.0" GraphRef="cf078" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="510.0" Y="589.0" GraphRef="c06e8" RelX="-0.5" RelY="1.0"/>
+      <Point X="407.0" Y="629.0" GraphRef="cf078" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ee66d">
     <Comment>Prot Modification MAPK1 --+&gt; MAPKAPK2</Comment>
@@ -442,10 +444,10 @@
     <BiopaxRef>d17</BiopaxRef>
     <BiopaxRef>cb5</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="512.0" Y="651.0" GraphRef="d2925" RelX="-0.5" RelY="1.0" />
-      <Point X="404.0" Y="696.0" GraphRef="ea96c" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="512.0" Y="651.0" GraphRef="d2925" RelX="-0.5" RelY="1.0"/>
+      <Point X="404.0" Y="696.0" GraphRef="ea96c" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="a4f29">
     <Comment>Prot Modification MAPK1 --+&gt; RPS6KA5</Comment>
@@ -456,10 +458,10 @@
     <BiopaxRef>bcf</BiopaxRef>
     <BiopaxRef>b12</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="532.0" Y="651.0" GraphRef="d2925" RelX="0.0" RelY="1.0" />
-      <Point X="505.0" Y="695.0" GraphRef="dcbd8" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="532.0" Y="651.0" GraphRef="d2925" RelX="0.0" RelY="1.0"/>
+      <Point X="505.0" Y="695.0" GraphRef="dcbd8" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="efc22">
     <Comment>Prot Modification MAPK1 --+&gt; ELK1</Comment>
@@ -477,10 +479,10 @@
     <BiopaxRef>b38</BiopaxRef>
     <BiopaxRef>dd8</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="532.0" Y="651.0" GraphRef="d2925" RelX="0.0" RelY="1.0" />
-      <Point X="529.0" Y="773.0" GraphRef="f9794" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="532.0" Y="651.0" GraphRef="d2925" RelX="0.0" RelY="1.0"/>
+      <Point X="529.0" Y="773.0" GraphRef="f9794" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="d0ddb">
     <Comment>Prot Modification MAPK1 --+&gt; RPS6K</Comment>
@@ -488,10 +490,10 @@
     <BiopaxRef>ed6</BiopaxRef>
     <BiopaxRef>d25</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="552.0" Y="651.0" GraphRef="d2925" RelX="0.5" RelY="1.0" />
-      <Point X="584.0" Y="683.0" GraphRef="e03b1" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="552.0" Y="651.0" GraphRef="d2925" RelX="0.5" RelY="1.0"/>
+      <Point X="584.0" Y="683.0" GraphRef="e03b1" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="bd491">
     <Comment>Prot Modification MAPK3 --+&gt; RPS6K</Comment>
@@ -512,10 +514,10 @@
     <BiopaxRef>e73</BiopaxRef>
     <BiopaxRef>d83</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="407.0" Y="649.0" GraphRef="cf078" RelX="0.5" RelY="1.0" />
-      <Point X="564.0" Y="683.0" GraphRef="e03b1" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="407.0" Y="649.0" GraphRef="cf078" RelX="0.5" RelY="1.0"/>
+      <Point X="564.0" Y="683.0" GraphRef="e03b1" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="b6119">
     <Comment>Prot Modification MAPK3 --+&gt; RPS6KA5</Comment>
@@ -523,10 +525,10 @@
 </Comment>
     <BiopaxRef>ca5</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="407.0" Y="649.0" GraphRef="cf078" RelX="0.5" RelY="1.0" />
-      <Point X="465.0" Y="695.0" GraphRef="dcbd8" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="407.0" Y="649.0" GraphRef="cf078" RelX="0.5" RelY="1.0"/>
+      <Point X="465.0" Y="695.0" GraphRef="dcbd8" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="f5c9e">
     <Comment>Prot Modification MAPK3 --+&gt; MAPKAPK2</Comment>
@@ -537,10 +539,10 @@
     <BiopaxRef>caa</BiopaxRef>
     <BiopaxRef>a91</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="387.0" Y="649.0" GraphRef="cf078" RelX="0.0" RelY="1.0" />
-      <Point X="384.0" Y="696.0" GraphRef="ea96c" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="387.0" Y="649.0" GraphRef="cf078" RelX="0.0" RelY="1.0"/>
+      <Point X="384.0" Y="696.0" GraphRef="ea96c" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="c657e">
     <Comment>Prot Modification MAPK3 --+&gt; ELK4</Comment>
@@ -548,10 +550,10 @@
 </Comment>
     <BiopaxRef>da0</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="367.0" Y="649.0" GraphRef="cf078" RelX="-0.5" RelY="1.0" />
-      <Point X="249.0" Y="772.0" GraphRef="a8006" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="367.0" Y="649.0" GraphRef="cf078" RelX="-0.5" RelY="1.0"/>
+      <Point X="249.0" Y="772.0" GraphRef="a8006" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="e9ff8">
     <Comment>Prot Modification MAPK3 --+&gt; ELK1</Comment>
@@ -578,20 +580,20 @@
     <BiopaxRef>bef</BiopaxRef>
     <BiopaxRef>d32</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="387.0" Y="649.0" GraphRef="cf078" RelX="0.0" RelY="1.0" />
-      <Point X="489.0" Y="773.0" GraphRef="f9794" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="387.0" Y="649.0" GraphRef="cf078" RelX="0.0" RelY="1.0"/>
+      <Point X="489.0" Y="773.0" GraphRef="f9794" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="bf7f1">
     <Comment>Binding ELK4 ---- SRF</Comment>
     <BiopaxRef>aa8</BiopaxRef>
     <BiopaxRef>f34</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cc00cc">
-      <Point X="289.0" Y="782.0" GraphRef="a8006" RelX="1.0" RelY="0.0" />
-      <Point X="325.0" Y="782.0" GraphRef="a64df" RelX="-1.0" RelY="0.0" />
+      <Point X="289.0" Y="782.0" GraphRef="a8006" RelX="1.0" RelY="0.0"/>
+      <Point X="325.0" Y="782.0" GraphRef="a64df" RelX="-1.0" RelY="0.0"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="b1244">
     <Comment>Binding ELK1 ---- SRF</Comment>
@@ -612,10 +614,10 @@
     <BiopaxRef>ac0</BiopaxRef>
     <BiopaxRef>e11</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cc00cc">
-      <Point X="405.0" Y="782.0" GraphRef="a64df" RelX="1.0" RelY="0.0" />
-      <Point X="469.0" Y="783.0" GraphRef="f9794" RelX="-1.0" RelY="0.0" />
+      <Point X="405.0" Y="782.0" GraphRef="a64df" RelX="1.0" RelY="0.0"/>
+      <Point X="469.0" Y="783.0" GraphRef="f9794" RelX="-1.0" RelY="0.0"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="eb6a3">
     <Comment>Prot Modification RPS6K --+&gt; CREB1</Comment>
@@ -627,19 +629,19 @@
     <BiopaxRef>cfa</BiopaxRef>
     <BiopaxRef>d6b</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="584.0" Y="703.0" GraphRef="e03b1" RelX="0.0" RelY="1.0" />
-      <Point X="611.0" Y="774.0" GraphRef="d1ca1" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="584.0" Y="703.0" GraphRef="e03b1" RelX="0.0" RelY="1.0"/>
+      <Point X="611.0" Y="774.0" GraphRef="d1ca1" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="dfbe4">
     <Comment>Prot Modification RPS6KA5 --+&gt; ATF1</Comment>
     <BiopaxRef>ca5</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="485.0" Y="715.0" GraphRef="dcbd8" RelX="0.0" RelY="1.0" />
-      <Point X="710.0" Y="773.0" GraphRef="bc3c8" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="485.0" Y="715.0" GraphRef="dcbd8" RelX="0.0" RelY="1.0"/>
+      <Point X="710.0" Y="773.0" GraphRef="bc3c8" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="e944a">
     <Comment>Prot Modification MAPKAPK2 --+&gt; SRF</Comment>
@@ -650,10 +652,10 @@
     <BiopaxRef>d63</BiopaxRef>
     <BiopaxRef>de0</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="364.0" Y="716.0" GraphRef="ea96c" RelX="-0.5" RelY="1.0" />
-      <Point X="365.0" Y="772.0" GraphRef="a64df" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="364.0" Y="716.0" GraphRef="ea96c" RelX="-0.5" RelY="1.0"/>
+      <Point X="365.0" Y="772.0" GraphRef="a64df" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="cb92f">
     <Comment>Prot Modification MAPKAPK2 --+&gt; CREB1</Comment>
@@ -680,10 +682,10 @@
     <BiopaxRef>e56</BiopaxRef>
     <BiopaxRef>a1d</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="364.0" Y="716.0" GraphRef="ea96c" RelX="-0.5" RelY="1.0" />
-      <Point X="591.0" Y="774.0" GraphRef="d1ca1" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="364.0" Y="716.0" GraphRef="ea96c" RelX="-0.5" RelY="1.0"/>
+      <Point X="591.0" Y="774.0" GraphRef="d1ca1" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ee9dc">
     <Comment>Prot Modification MAPKAPK2 --+&gt; ATF1</Comment>
@@ -691,10 +693,10 @@
 </Comment>
     <BiopaxRef>e56</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccc00">
-      <Point X="404.0" Y="716.0" GraphRef="ea96c" RelX="0.5" RelY="1.0" />
-      <Point X="690.0" Y="773.0" GraphRef="bc3c8" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="404.0" Y="716.0" GraphRef="ea96c" RelX="0.5" RelY="1.0"/>
+      <Point X="690.0" Y="773.0" GraphRef="bc3c8" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="a4989">
     <Comment>Promoter Binding CREB1 --+&gt; EGR1</Comment>
@@ -705,10 +707,10 @@
     <BiopaxRef>ec7</BiopaxRef>
     <BiopaxRef>db1</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="00cc00">
-      <Point X="611.0" Y="794.0" GraphRef="d1ca1" RelX="0.0" RelY="1.0" />
-      <Point X="470.0" Y="837.0" GraphRef="af70b" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="611.0" Y="794.0" GraphRef="d1ca1" RelX="0.0" RelY="1.0"/>
+      <Point X="470.0" Y="837.0" GraphRef="af70b" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="eaa1b">
     <Comment>Promoter Binding SRF --+&gt; EGR1</Comment>
@@ -720,10 +722,10 @@
     <BiopaxRef>f28</BiopaxRef>
     <BiopaxRef>c1c</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="00cc00">
-      <Point X="365.0" Y="792.0" GraphRef="a64df" RelX="0.0" RelY="1.0" />
-      <Point X="450.0" Y="837.0" GraphRef="af70b" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="365.0" Y="792.0" GraphRef="a64df" RelX="0.0" RelY="1.0"/>
+      <Point X="450.0" Y="837.0" GraphRef="af70b" RelX="-0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="af4bb">
     <Comment>Regulation ATF1 --+&gt; EGR1</Comment>
@@ -731,10 +733,10 @@
 </Comment>
     <BiopaxRef>e2c</BiopaxRef>
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="710.0" Y="793.0" GraphRef="bc3c8" RelX="0.0" RelY="1.0" />
-      <Point X="490.0" Y="837.0" GraphRef="af70b" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="710.0" Y="793.0" GraphRef="bc3c8" RelX="0.0" RelY="1.0"/>
+      <Point X="490.0" Y="837.0" GraphRef="af70b" RelX="0.5" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="fb34b">
     <Comment>PromoterBinding EGR1 --+&gt; NR3C1</Comment>
@@ -745,12 +747,12 @@
     <BiopaxRef>e7c</BiopaxRef>
     <BiopaxRef>d6e</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="00cc00">
-      <Point X="470.0" Y="857.0" GraphRef="af70b" RelX="0.0" RelY="1.0" />
-      <Point X="468.0" Y="891.0" GraphRef="e1dd8" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation" />
+      <Point X="470.0" Y="857.0" GraphRef="af70b" RelX="0.0" RelY="1.0"/>
+      <Point X="468.0" Y="891.0" GraphRef="e1dd8" RelX="0.0" RelY="-1.0" ArrowHead="mim-necessary-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
-  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <InfoBox CenterX="0.0" CenterY="0.0"/>
   <Biopax>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="db1">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7608156</bp:ID>

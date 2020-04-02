@@ -92,7 +92,7 @@
   <DataNode TextLabel="Cell Growth" GraphId="f7fcf" Type="Pathway">
     <Comment>Identifier Not Found</Comment>
     <Graphics CenterX="500.25" CenterY="536.75" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
-    <Xref Database="WikiPathways" ID="N/A"/>
+    <Xref Database="" ID=""/>
   </DataNode>
   <DataNode TextLabel="Cell Differentiation" GraphId="a8a5b" Type="Pathway">
     <Graphics CenterX="668.0" CenterY="528.0" Width="120.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>

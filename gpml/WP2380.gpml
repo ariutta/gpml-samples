@@ -6,8 +6,9 @@
 BDNF binds to tyrosine kinase receptor known as tropomyosin-related kinase B (TrkB). It also binds with low affinity to p75 neurotrophin receptor (p75NTR). BDNF and its receptors are expressed throughout the central and peripheral nervous system.
 
 BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the receptor dimerization and autophosphorylation. The activation of the receptor results in its interaction with molecules such as Shp2, Shc and PLC-gamma. These molecules further interact and modify their downstream targets leading to various neuronal processes. BDNF activates the signaling cascades such as PLC/PKC, PI3K/Akt, Ras/Erk, AMPK/ACC and NFκB pathways. BDNF through PLC/PKC pathway leads to release of intracellular calcium and regulation of synaptic plasticity. It also maintains synaptic plasticity through cAMP/PKA signaling. Activation of PI3K/Akt pathway through BDNF/TrkB interaction inhibits cell apoptosis by decreasing the expression of BIM. However, BDNF/p75NTR interaction activates JNK through TRAF6, which leads to apoptosis. Activation of JNK3 also leads to proteolytic cleavage of the p75NTR by TACE. PI3K/Akt also leads to activation of mTOR pathway and subsequently protein synthesis. Ras/Erk signaling is involved in cell proliferation, differentiation and protection of neurons. BDNF also leads to neuronal survival through Erk5/Mef pathway. Phosphorylation of synapsin by Erk1/2 leads to neurotransmitter release. BDNF signaling leads to nitric oxide production through NFκB pathway. BDNF induces neurite outgrowth through activation of JAK/STAT, Rac, and Cdc42 pathways. BDNF enhances oxidation of fat through AMPK mediated inhibition of ACC. It also plays role in microtubule assembly through inhibition of GSK3-beta. It leads to oxidative neuronal necrosis through activation of NCF molecules. BDNF also regulates the surface expression of AMPA and NMDA receptors. BDNF also regulates the expression of genes leading to processes such as differentiation of dendrites and calcification of cementoblast-like cells.
-</Comment>
-  <Graphics BoardWidth="1820.0924574209241" BoardHeight="1777.9790340799482"/>
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2380 CPTAC Assay Portal]</Comment>
+  <Graphics BoardWidth="1760.3685029347282" BoardHeight="1777.9790340799482"/>
   <DataNode TextLabel="VAV3" GraphId="ea83d" Type="Protein">
     <Graphics CenterX="1314.9059338915306" CenterY="537.4985952046579" Width="51.0" Height="20.0" ZOrder="-22" FontWeight="Bold" FontSize="12" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="10451"/>
@@ -32,14 +33,6 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     <Graphics CenterX="1065.0949795202346" CenterY="945.9015097471074" Width="69.0" Height="20.0" ZOrder="0" FontWeight="Bold" FontSize="12" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="5595"/>
   </DataNode>
-  <DataNode TextLabel="BCL2L11" GraphId="f4caf" Type="Rna">
-    <Graphics CenterX="641.2801080831173" CenterY="1626.0" Width="60.0" Height="20.0" ZOrder="32768" FontStyle="Italic" FontSize="12" Valign="Middle"/>
-    <Xref Database="Entrez Gene" ID="10018"/>
-  </DataNode>
-  <DataNode TextLabel="IKK1" GraphId="ef948" Type="GeneProduct" GroupRef="d5de9">
-    <Graphics CenterX="1301.6057083383928" CenterY="1005.9489051094904" Width="36.35036496350378" Height="15.81508515815085" ZOrder="32768" FontSize="10" Valign="Middle"/>
-    <Xref Database="Entrez Gene" ID="1147"/>
-  </DataNode>
   <DataNode TextLabel="IKK2" GraphId="d9067" Type="GeneProduct" GroupRef="d5de9">
     <Graphics CenterX="1301.6057083383928" CenterY="1021.7639902676412" Width="36.35036496350378" Height="15.81508515815085" ZOrder="32768" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="3551"/>
@@ -47,6 +40,14 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
   <DataNode TextLabel="IkkG" GraphId="eb7d8" Type="GeneProduct" GroupRef="d5de9">
     <Graphics CenterX="1301.6057083383928" CenterY="1037.579075425792" Width="36.35036496350372" Height="15.815085158150847" ZOrder="32768" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="8517"/>
+  </DataNode>
+  <DataNode TextLabel="IKK1" GraphId="ef948" Type="GeneProduct" GroupRef="d5de9">
+    <Graphics CenterX="1301.6057083383928" CenterY="1005.9489051094904" Width="36.35036496350378" Height="15.81508515815085" ZOrder="32768" FontSize="10" Valign="Middle"/>
+    <Xref Database="Entrez Gene" ID="1147"/>
+  </DataNode>
+  <DataNode TextLabel="BCL2L11" GraphId="f4caf" Type="Rna">
+    <Graphics CenterX="641.2801080831173" CenterY="1626.0" Width="60.0" Height="20.0" ZOrder="32768" FontStyle="Italic" FontSize="12" Valign="Middle"/>
+    <Xref Database="Entrez Gene" ID="10018"/>
   </DataNode>
   <DataNode TextLabel="CYFIP1" GraphId="d9301" Type="GeneProduct">
     <Graphics CenterX="714.3685029347289" CenterY="1232.8907563025202" Width="54.0" Height="20.0" ZOrder="32770" FontWeight="Bold" FontSize="12" Valign="Middle"/>
@@ -410,7 +411,7 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
   </DataNode>
   <DataNode TextLabel="IP3" GraphId="b5b5f" Type="Metabolite">
     <Graphics CenterX="236.83879979525867" CenterY="672.7651345389505" Width="32.0" Height="20.0" ZOrder="35159" FillColor="ffccff" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="Oval"/>
-    <Xref Database="HMDB" ID="HMDB01143"/>
+    <Xref Database="HMDB" ID="HMDB0001143"/>
   </DataNode>
   <DataNode TextLabel="SRC" GraphId="d456c" Type="Protein">
     <Graphics CenterX="549.2408271116353" CenterY="490.31651871683084" Width="30.65758628305764" Height="20.0" ZOrder="35165" FontWeight="Bold" FontSize="12" Valign="Middle"/>
@@ -696,12 +697,12 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="abe94" TextLabel="T202" GraphId="f1d45">
-    <Graphics RelX="-1.0" RelY="1.0" Width="33.5253592670706" Height="15.598490252892589" FillColor="ffff00" ShapeType="RoundedRectangle"/>
-    <Xref Database="" ID=""/>
-  </State>
   <State GraphRef="abe94" TextLabel="Y204" GraphId="c06bd">
     <Graphics RelX="1.0" RelY="1.0" Width="30.4746407329294" Height="13.598490252892589" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="abe94" TextLabel="T202" GraphId="f1d45">
+    <Graphics RelX="-1.0" RelY="1.0" Width="33.5253592670706" Height="15.598490252892589" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="b0dfb" TextLabel="P" GraphId="e0564">
@@ -792,12 +793,12 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="bdcdb" TextLabel="T185" GraphId="e4857">
-    <Graphics RelX="-1.0" RelY="-1.0" Width="30.026360268070675" Height="17.399507745105325" FillColor="ffff00" ShapeType="RoundedRectangle"/>
-    <Xref Database="" ID=""/>
-  </State>
   <State GraphRef="bdcdb" TextLabel="Y187" GraphId="de3c0">
     <Graphics RelX="1.0" RelY="-1.0" Width="34.973639731929325" Height="16.39950774510544" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="bdcdb" TextLabel="T185" GraphId="e4857">
+    <Graphics RelX="-1.0" RelY="-1.0" Width="30.026360268070675" Height="17.399507745105325" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="fb731" TextLabel="P" GraphId="f6a50">
@@ -824,16 +825,16 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval"/>
     <Xref Database="" ID=""/>
   </State>
+  <State GraphRef="e92da" TextLabel="S447" GraphId="a8e9f">
+    <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </State>
   <State GraphRef="e92da" TextLabel="T412" GraphId="f4dbc">
     <Graphics RelX="-1.0" RelY="-1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="e92da" TextLabel="T444" GraphId="f7d2c">
     <Graphics RelX="1.0" RelY="-1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
-    <Xref Database="" ID=""/>
-  </State>
-  <State GraphRef="e92da" TextLabel="S447" GraphId="a8e9f">
-    <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="f7665" TextLabel="T37" GraphId="b1226">
@@ -912,16 +913,16 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="c0d9f" TextLabel="S195" GraphId="e1bd4">
-    <Graphics RelX="-1.0" RelY="-1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+  <State GraphRef="c0d9f" TextLabel="S198" GraphId="ade81">
+    <Graphics RelX="-1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="c0d9f" TextLabel="S202" GraphId="d4ae2">
     <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="c0d9f" TextLabel="S198" GraphId="ade81">
-    <Graphics RelX="-1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+  <State GraphRef="c0d9f" TextLabel="S195" GraphId="e1bd4">
+    <Graphics RelX="-1.0" RelY="-1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="f3301" TextLabel="P" GraphId="d1bf6">
@@ -960,10 +961,6 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     <Graphics RelX="1.0" RelY="1.0" Width="25.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="edaeb" TextLabel="S235" GraphId="e1e24">
-    <Graphics RelX="-1.0" RelY="-1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
-    <Xref Database="" ID=""/>
-  </State>
   <State GraphRef="edaeb" TextLabel="S236" GraphId="b3495">
     <Graphics RelX="-1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
@@ -974,6 +971,10 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
   </State>
   <State GraphRef="edaeb" TextLabel="S240" GraphId="caa5e">
     <Graphics RelX="1.0" RelY="-1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="edaeb" TextLabel="S235" GraphId="e1e24">
+    <Graphics RelX="-1.0" RelY="-1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="a59d6" TextLabel="P" GraphId="d6a6f">
@@ -988,36 +989,36 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="dbf95" TextLabel="S36" GraphId="ea30b">
-    <Graphics RelX="1.0" RelY="1.0" Width="25.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
-    <Xref Database="" ID=""/>
-  </State>
   <State GraphRef="dbf95" TextLabel="S32" GraphId="a4798">
     <Graphics RelX="-1.0" RelY="1.0" Width="25.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="dbf95" TextLabel="S36" GraphId="ea30b">
+    <Graphics RelX="1.0" RelY="1.0" Width="25.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="ba96b" TextLabel="P" GraphId="d744c">
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" FillColor="ffff00" ShapeType="Oval"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="a5857" TextLabel="S386" GraphId="e2685">
-    <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
-    <Xref Database="" ID=""/>
-  </State>
   <State GraphRef="a5857" TextLabel="S227" GraphId="db9b1">
     <Graphics RelX="-1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="a5857" TextLabel="S386" GraphId="e2685">
+    <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="c4a77" TextLabel="S102" GraphId="a9553">
     <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="e6cd2" TextLabel="S221" GraphId="edbe4">
-    <Graphics RelX="-1.0" RelY="-1.0" Width="32.26393820215253" Height="14.287234042551518" FillColor="ffff00" ShapeType="RoundedRectangle"/>
-    <Xref Database="" ID=""/>
-  </State>
   <State GraphRef="e6cd2" TextLabel="S380" GraphId="e638f">
     <Graphics RelX="1.0" RelY="-1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="e6cd2" TextLabel="S221" GraphId="edbe4">
+    <Graphics RelX="-1.0" RelY="-1.0" Width="32.26393820215253" Height="14.287234042551518" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="a2195" TextLabel="S376" GraphId="f9330">
@@ -1080,20 +1081,20 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="f94ed" TextLabel="S495" GraphId="fbdcc">
-    <Graphics RelX="-0.07597593223922332" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
-    <Xref Database="" ID=""/>
-  </State>
   <State GraphRef="f94ed" TextLabel="Y722" GraphId="e74ec">
     <Graphics RelX="-0.96" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="e0b05" TextLabel="Y723" GraphId="f0210">
-    <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+  <State GraphRef="f94ed" TextLabel="S495" GraphId="fbdcc">
+    <Graphics RelX="-0.07597593223922332" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="e0b05" TextLabel="K811" GraphId="e67db">
     <Graphics RelX="0.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="e0b05" TextLabel="Y723" GraphId="f0210">
+    <Graphics RelX="1.0" RelY="1.0" Width="30.0" Height="15.0" FillColor="ffff00" ShapeType="RoundedRectangle"/>
     <Xref Database="" ID=""/>
   </State>
   <State GraphRef="f9405" TextLabel="S9" GraphId="c3500">
@@ -1196,18 +1197,17 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
+  <Interaction GraphId="id5f915509">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
+      <Point X="1242.7007299270072" Y="1063.2603406326034" GraphRef="c24fc" RelX="0.0" RelY="1.0"/>
+      <Point X="1250.6378004196201" Y="1227.304674049362" GraphRef="ebb55" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
   <Interaction GraphId="id9d497f49">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
       <Point X="795.1337560197095" Y="789.8655462184873" ArrowHead="Arrow"/>
       <Point X="795.64055450922" Y="765.0" GraphRef="a41f3" RelX="0.0" RelY="1.0"/>
-    </Graphics>
-    <Xref Database="" ID=""/>
-  </Interaction>
-  <Interaction GraphId="idbb99fd0e">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0" Color="ff0000">
-      <Point X="1350.5918698274684" Y="587.6307273367895" GraphRef="d9e4f" RelX="-0.5" RelY="1.0"/>
-      <Point X="1303.5667553272278" Y="634.0"/>
-      <Point X="1256.541640826987" Y="661.2878211450866" GraphRef="f9405" RelX="0.0" RelY="-1.0" ArrowHead="mim-inhibition"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
@@ -1219,10 +1219,11 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
-  <Interaction GraphId="id5f915509">
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="2.0">
-      <Point X="1242.7007299270072" Y="1063.2603406326034" GraphRef="c24fc" RelX="0.0" RelY="1.0"/>
-      <Point X="1250.6378004196201" Y="1227.304674049362" GraphRef="ebb55" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+  <Interaction GraphId="idbb99fd0e">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="2.0" Color="ff0000">
+      <Point X="1350.5918698274684" Y="587.6307273367895" GraphRef="d9e4f" RelX="-0.5" RelY="1.0"/>
+      <Point X="1303.5667553272278" Y="634.0"/>
+      <Point X="1256.541640826987" Y="661.2878211450866" GraphRef="f9405" RelX="0.0" RelY="-1.0" ArrowHead="mim-inhibition"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
@@ -2936,12 +2937,6 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
-  <Label TextLabel="Endocytosis-&#10;dependent" GraphId="f4696">
-    <Graphics CenterX="1182.353464031001" CenterY="457.5" Width="67.0" Height="29.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="ff0000"/>
-  </Label>
-  <Label TextLabel="Oxidative&#10;neuronal&#10;necrosis" GraphId="d7b2f">
-    <Graphics CenterX="1488.7305294838554" CenterY="862.0" Width="70.0" Height="48.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff0000"/>
-  </Label>
   <Label TextLabel="Brain-derived neurotrophic factor signaling pathway" GraphId="a304f">
     <Graphics CenterX="985.5696202531645" CenterY="82.91284403669725" Width="552.0" Height="51.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="18" Valign="Middle"/>
   </Label>
@@ -2950,6 +2945,12 @@ BDNF signaling is elicited when it dimerizes and binds to TrkB, resulting in the
   </Label>
   <Label TextLabel="IKK" GraphId="c63ca" GroupRef="d5de9">
     <Graphics CenterX="1300.4743870159118" CenterY="989.0510948905113" Width="38.95390236720277" Height="14.59854014598631" ZOrder="28672" FillColor="33ff00" FontWeight="Bold" FontSize="10" Valign="Middle" ShapeType="Rectangle"/>
+  </Label>
+  <Label TextLabel="Oxidative&#10;neuronal&#10;necrosis" GraphId="d7b2f">
+    <Graphics CenterX="1488.7305294838554" CenterY="862.0" Width="70.0" Height="48.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff0000"/>
+  </Label>
+  <Label TextLabel="Endocytosis-&#10;dependent" GraphId="f4696">
+    <Graphics CenterX="1182.353464031001" CenterY="457.5" Width="67.0" Height="29.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="ff0000"/>
   </Label>
   <Label TextLabel="Degradation" GraphId="fb800">
     <Graphics CenterX="1408.5818023842673" CenterY="1141.4195697919115" Width="75.38072733944409" Height="21.160860416177" ZOrder="28674" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="ff0000"/>

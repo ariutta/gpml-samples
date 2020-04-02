@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Cell Differentiation - Index expanded" Version="20110413" Last-Modified="2/21/2013" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Proteins and miRNAs associated with major cell type differentiation pathways.
-</Comment>
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2023 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="3109.014640483688" BoardHeight="1984.2523446470473" />
   <DataNode TextLabel="MIR155" GraphId="a27b9" Type="GeneProduct">
@@ -254,7 +255,7 @@
   </DataNode>
   <DataNode TextLabel="MIR106A" GraphId="e7772" Type="GeneProduct">
     <Graphics CenterX="3039.014640483688" CenterY="1286.4637985309553" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000207602" />
+    <Xref Database="Ensembl" ID="ENSG00000284157" />
   </DataNode>
   <DataNode TextLabel="MEF2A" GraphId="e99ce" Type="GeneProduct" GroupRef="ee720">
     <Graphics CenterX="2742.2356870970266" CenterY="409.4616639477978" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />

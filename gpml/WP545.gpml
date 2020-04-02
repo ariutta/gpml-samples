@@ -9,7 +9,9 @@ The Classical pathway begins with circulating C1Q binding to an antigen on the s
 
 The Lectin pathway involves mannose-binding lectin (MBL) binding the surface of the pathogen instead of C1Q. MBL-associated serine proteases MASP1 and MASP1 can cleave C2 and C4 in place of the C1 complex, leading to the formation of C3 convertase and the subsequent cascade.
 
-The Alternative pathway relies on the spontaneous hydrolysis of C3 and the cleavage of factor B (CFB) by factor D (CFD), which form an alternative C3 convertase stabilized by factor P (CFP). Additional copies of the cleavage product C3B are recruited to the complex, resulting in an alternative C5 convertase, which cleaves C5 and contributes C5B to the formation of the Membrane Attack Complex.</Comment>
+The Alternative pathway relies on the spontaneous hydrolysis of C3 and the cleavage of factor B (CFB) by factor D (CFD), which form an alternative C3 convertase stabilized by factor P (CFP). Additional copies of the cleavage product C3B are recruited to the complex, resulting in an alternative C5 convertase, which cleaves C5 and contributes C5B to the formation of the Membrane Attack Complex.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP545 CPTAC Assay Portal]</Comment>
   <BiopaxRef>a6c</BiopaxRef>
   <Graphics BoardWidth="913.0202020202033" BoardHeight="611.2121212121205" />
   <DataNode TextLabel="C1S" GraphId="a0b" Type="GeneProduct">
@@ -66,7 +68,7 @@ The Alternative pathway relies on the spontaneous hydrolysis of C3 and the cleav
   </DataNode>
   <DataNode TextLabel="H2O" GraphId="d956b" Type="Metabolite">
     <Graphics CenterX="860.0202020202033" CenterY="372.3434343434344" Width="46.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02111" />
+    <Xref Database="HMDB" ID="HMDB0002111" />
   </DataNode>
   <DataNode TextLabel="C8B" GraphId="e26" Type="GeneProduct" GroupRef="ffb70">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="C8B | complement component 8 beta polypeptide" />
@@ -167,7 +169,7 @@ The Alternative pathway relies on the spontaneous hydrolysis of C3 and the cleav
   </DataNode>
   <DataNode TextLabel="H2O" GraphId="f8805" Type="Metabolite">
     <Graphics CenterX="587.1919191919204" CenterY="373.75757575757626" Width="46.0" Height="20.0" ZOrder="32786" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02111" />
+    <Xref Database="HMDB" ID="HMDB0002111" />
   </DataNode>
   <DataNode TextLabel="MASP1" GraphId="d549e" Type="GeneProduct" GroupRef="ef1f6">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MASP1 | mannan-binding lectin serine protease 1..." />
@@ -511,6 +513,11 @@ The Alternative pathway relies on the spontaneous hydrolysis of C3 and the cleav
   <Group GroupId="a44f8" GraphId="feb6b" Style="Complex" />
   <InfoBox CenterX="5.0" CenterY="496.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">classical complement pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000503</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a6c">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16387686 </bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -523,10 +530,5 @@ The Alternative pathway relies on the spontaneous hydrolysis of C3 and the cleav
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Soares DC</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barlow PN</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">classical complement pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000503</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

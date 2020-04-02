@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Steroid Biosynthesis" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">Steroidogenesis is the biological process by which steroids are generated from cholesterol and transformed into other steroids.</Comment>
+  <Comment Source="WikiPathways-description">Steroidogenesis is the biological process by which steroids are generated from cholesterol and transformed into other steroids.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP496 CPTAC Assay Portal].</Comment>
   <BiopaxRef>ef9</BiopaxRef>
   <Graphics BoardWidth="1228.9999999999998" BoardHeight="722.8333333333334" />
   <DataNode TextLabel="HSD17B4" GraphId="a47" Type="GeneProduct" GroupRef="f1f13">
@@ -42,7 +44,7 @@
   </DataNode>
   <DataNode TextLabel="Androstenediol" GraphId="aa58a" Type="Metabolite">
     <Graphics CenterX="259.0" CenterY="486.0" Width="108.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB05849" />
+    <Xref Database="HMDB" ID="HMDB0005849" />
   </DataNode>
   <DataNode TextLabel="HSD3B1" GraphId="ab1" Type="GeneProduct" GroupRef="c5376">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HSD3B1 | hydroxy-delta-5-steroid dehydrogenase..." />
@@ -51,7 +53,7 @@
   </DataNode>
   <DataNode TextLabel="Dihydrotestosterone" GraphId="b37e5" Type="Metabolite">
     <Graphics CenterX="644.0" CenterY="598.0" Width="124.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02961" />
+    <Xref Database="HMDB" ID="HMDB0002961" />
   </DataNode>
   <DataNode TextLabel="Hydroxyprogesterone aldolase" GraphId="b50" Type="GeneProduct">
     <Graphics CenterX="767.6666666666666" CenterY="322.3333333333333" Width="166.66666666666674" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -142,7 +144,7 @@
   </DataNode>
   <DataNode TextLabel="17-alpha-OH-Pregnenolone" GraphId="d5886" Type="Metabolite">
     <Graphics CenterX="259.5" CenterY="258.0" Width="169.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00363" />
+    <Xref Database="HMDB" ID="HMDB0000363" />
   </DataNode>
   <DataNode TextLabel="HSD3B1" GraphId="d86" Type="GeneProduct" GroupRef="cc626">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HSD3B1 | hydroxy-delta-5-steroid dehydrogenase..." />
@@ -194,7 +196,7 @@
   </DataNode>
   <DataNode TextLabel="17-alpha-OH-Progesterone" GraphId="eba07" Type="Metabolite">
     <Graphics CenterX="644.3333333333334" CenterY="258.0" Width="165.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00374" />
+    <Xref Database="HMDB" ID="HMDB0000374" />
   </DataNode>
   <DataNode TextLabel="HSD3B1" GraphId="ef5" Type="GeneProduct" GroupRef="e3493">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HSD3B1 | hydroxy-delta-5-steroid dehydrogenase..." />

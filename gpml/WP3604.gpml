@@ -5,7 +5,7 @@
   <Graphics BoardWidth="3466.427088007769" BoardHeight="2363.5145404550717" />
   <DataNode TextLabel="Succinic acid" GraphId="a513b" Type="Metabolite">
     <Graphics CenterX="1769.2864259408266" CenterY="1019.7608934329808" Width="47.5" Height="23.5" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00254" />
+    <Xref Database="HMDB" ID="HMDB0000254" />
   </DataNode>
   <DataNode TextLabel="Indolepyruvic acid" GraphId="b5c71" Type="Metabolite">
     <Graphics CenterX="2593.001874910081" CenterY="457.4187355745106" Width="46.5" Height="23.5" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -13,1059 +13,1059 @@
   </DataNode>
   <DataNode TextLabel="Glycolic acid" GraphId="b30b3" Type="Metabolite">
     <Graphics CenterX="1601.6592237613413" CenterY="1155.777968034683" Width="47.5" Height="23.5" ZOrder="32769" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00115" />
+    <Xref Database="HMDB" ID="HMDB0000115" />
   </DataNode>
   <DataNode TextLabel="Oxalacetic acid" GraphId="cf187" Type="Metabolite">
     <Graphics CenterX="1529.3724530136008" CenterY="1125.963670581932" Width="47.5" Height="23.5" ZOrder="32770" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00223" />
+    <Xref Database="HMDB" ID="HMDB0000223" />
   </DataNode>
   <DataNode TextLabel="L-Glutamic acid" GraphId="fab1e" Type="Metabolite">
     <Graphics CenterX="1690.3724530136008" CenterY="1226.7467437125813" Width="47.5" Height="23.5" ZOrder="32771" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00148" />
+    <Xref Database="HMDB" ID="HMDB0000148" />
   </DataNode>
   <DataNode TextLabel="Glyoxylic acid" GraphId="e6d1b" Type="Metabolite">
     <Graphics CenterX="1678.302609135212" CenterY="1155.6695046000075" Width="47.5" Height="23.5" ZOrder="32772" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00119" />
+    <Xref Database="HMDB" ID="HMDB0000119" />
   </DataNode>
   <DataNode TextLabel="cis-Aconitic acid" GraphId="a5c27" Type="Metabolite">
     <Graphics CenterX="1576.1555261442488" CenterY="1289.467368199025" Width="47.5" Height="23.5" ZOrder="32773" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00072" />
+    <Xref Database="HMDB" ID="HMDB0000072" />
   </DataNode>
   <DataNode TextLabel="D-threo-Isocitric acid" GraphId="e59f3" Type="Metabolite">
     <Graphics CenterX="1668.1169065879617" CenterY="1310.7467437125813" Width="47.5" Height="23.5" ZOrder="32774" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01874" />
+    <Xref Database="HMDB" ID="HMDB0001874" />
   </DataNode>
   <DataNode TextLabel="Oxalosuccinic acid" GraphId="e0e6d" Type="Metabolite">
     <Graphics CenterX="1771.1555261442466" CenterY="1289.467368199025" Width="47.5" Height="23.5" ZOrder="32775" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03974" />
+    <Xref Database="HMDB" ID="HMDB0003974" />
   </DataNode>
   <DataNode TextLabel="Citric acid" GraphId="b79fe" Type="Metabolite">
     <Graphics CenterX="1529.372453013601" CenterY="1201.7467437125813" Width="47.5" Height="23.5" ZOrder="32776" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00094" />
+    <Xref Database="HMDB" ID="HMDB0000094" />
   </DataNode>
   <DataNode TextLabel="Oxoglutaric acid" GraphId="a627b" Type="Metabolite">
     <Graphics CenterX="1806.8224530135965" CenterY="1193.7467437125813" Width="47.5" Height="23.5" ZOrder="32777" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00208" />
+    <Xref Database="HMDB" ID="HMDB0000208" />
   </DataNode>
   <DataNode TextLabel="Succinyl-CoA" GraphId="d470c" Type="Metabolite">
     <Graphics CenterX="1806.8224530135965" CenterY="1125.9636705819325" Width="47.5" Height="23.5" ZOrder="32778" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01022" />
+    <Xref Database="HMDB" ID="HMDB0001022" />
   </DataNode>
   <DataNode TextLabel="L-Malic acid" GraphId="e2c40" Type="Metabolite">
     <Graphics CenterX="1573.7623637510874" CenterY="1019.7608934329808" Width="47.5" Height="23.5" ZOrder="32779" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00156" />
+    <Xref Database="HMDB" ID="HMDB0000156" />
   </DataNode>
   <DataNode TextLabel="L-2-Amino-3-oxobutanoic acid" GraphId="ad2a4" Type="Metabolite">
     <Graphics CenterX="1925.7010374056051" CenterY="1012.5795930773721" Width="47.5" Height="23.5" ZOrder="32780" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06454" />
+    <Xref Database="HMDB" ID="HMDB0006454" />
   </DataNode>
   <DataNode TextLabel="Fumaric acid" GraphId="e539b" Type="Metabolite">
     <Graphics CenterX="1682.3449263085909" CenterY="976.1033583387117" Width="47.5" Height="23.5" ZOrder="32781" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00134" />
+    <Xref Database="HMDB" ID="HMDB0000134" />
   </DataNode>
   <DataNode TextLabel="5-Aminolevulinic acid" GraphId="bcd23" Type="Metabolite">
     <Graphics CenterX="1920.1941457005264" CenterY="1194.7467437125813" Width="47.5" Height="23.5" ZOrder="32785" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01149" />
+    <Xref Database="HMDB" ID="HMDB0001149" />
   </DataNode>
   <DataNode TextLabel="Oxalic acid" GraphId="a34cf" Type="Metabolite">
     <Graphics CenterX="1678.1555261442493" CenterY="1095.994894904035" Width="47.5" Height="23.5" ZOrder="32786" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02329" />
+    <Xref Database="HMDB" ID="HMDB0002329" />
   </DataNode>
   <DataNode TextLabel="Acetyl-CoA" GraphId="a36e4" Type="Metabolite">
     <Graphics CenterX="1438.3724530135994" CenterY="1146.7467437125813" Width="47.5" Height="23.5" ZOrder="32787" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01206" />
+    <Xref Database="HMDB" ID="HMDB0001206" />
   </DataNode>
   <DataNode TextLabel="Glycolic acid" GraphId="f4aeb" Type="Metabolite">
     <Graphics CenterX="1416.6924158597776" CenterY="1031.064140011867" Width="47.5" Height="23.5" ZOrder="32788" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00115" />
+    <Xref Database="HMDB" ID="HMDB0000115" />
   </DataNode>
   <DataNode TextLabel="Porphobilinogen" GraphId="fcfdf" Type="Metabolite">
     <Graphics CenterX="2045.1941457005196" CenterY="1194.7467437125813" Width="47.5" Height="23.5" ZOrder="32789" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00245" />
+    <Xref Database="HMDB" ID="HMDB0000245" />
   </DataNode>
   <DataNode TextLabel="4-Aminobutyraldehyde" GraphId="aeabc" Type="Metabolite">
     <Graphics CenterX="1461.3699617042134" CenterY="1405.9516683939248" Width="47.5" Height="23.5" ZOrder="32790" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01080" />
+    <Xref Database="HMDB" ID="HMDB0001080" />
   </DataNode>
   <DataNode TextLabel="L-Glutamic acid" GraphId="d123d" Type="Metabolite">
     <Graphics CenterX="1914.3724530135912" CenterY="1350.7467437125813" Width="47.5" Height="23.5" ZOrder="32799" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00148" />
+    <Xref Database="HMDB" ID="HMDB0000148" />
   </DataNode>
   <DataNode TextLabel="Gamma-Aminobutyric acid" GraphId="d87cd" Type="Metabolite">
     <Graphics CenterX="1986.3724530135876" CenterY="1262.7467437125813" Width="47.5" Height="23.5" ZOrder="32800" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00112" />
+    <Xref Database="HMDB" ID="HMDB0000112" />
   </DataNode>
   <DataNode TextLabel="Succinic acid semialdehyde" GraphId="a3f4b" Type="Metabolite">
     <Graphics CenterX="1981.0053319632054" CenterY="1062.016084749503" Width="47.5" Height="23.5" ZOrder="32801" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01259" />
+    <Xref Database="HMDB" ID="HMDB0001259" />
   </DataNode>
   <DataNode TextLabel="Pyrroline hydroxycarboxylic acid" GraphId="da277" Type="Metabolite">
     <Graphics CenterX="2216.372453013571" CenterY="1425.7467437125813" Width="47.5" Height="23.5" ZOrder="32806" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01369" />
+    <Xref Database="HMDB" ID="HMDB0001369" />
   </DataNode>
   <DataNode TextLabel="4-Hydroxy-L-proline" GraphId="c5f96" Type="Metabolite">
     <Graphics CenterX="2136.3724530135787" CenterY="1426.7467437125813" Width="47.5" Height="23.5" ZOrder="32807" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06055" />
+    <Xref Database="HMDB" ID="HMDB0006055" />
   </DataNode>
   <DataNode TextLabel="L-Proline" GraphId="ed1f0" Type="Metabolite">
     <Graphics CenterX="2054.372453013584" CenterY="1425.7467437125813" Width="47.5" Height="23.5" ZOrder="32808" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00162" />
+    <Xref Database="HMDB" ID="HMDB0000162" />
   </DataNode>
   <DataNode TextLabel="1-Pyrroline-5-carboxylic acid" GraphId="cb70c" Type="Metabolite">
     <Graphics CenterX="1980.372453013588" CenterY="1429.7467437125813" Width="47.5" Height="23.5" ZOrder="32809" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01301" />
+    <Xref Database="HMDB" ID="HMDB0001301" />
   </DataNode>
   <DataNode TextLabel="L-Glutamine" GraphId="d9ffc" Type="Metabolite">
     <Graphics CenterX="1791.372453013598" CenterY="1354.7467437125813" Width="47.5" Height="23.5" ZOrder="32810" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00641" />
+    <Xref Database="HMDB" ID="HMDB0000641" />
   </DataNode>
   <DataNode TextLabel="1-Pyrroline-2-carboxylic acid" GraphId="f1ed9" Type="Metabolite">
     <Graphics CenterX="1990.3724530135871" CenterY="1510.7467437125813" Width="47.5" Height="23.5" ZOrder="32818" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06875" />
+    <Xref Database="HMDB" ID="HMDB0006875" />
   </DataNode>
   <DataNode TextLabel="S-Lactoylglutathione" GraphId="eb507" Type="Metabolite">
     <Graphics CenterX="2218.8552116342876" CenterY="1012.234946979369" Width="47.5" Height="23.5" ZOrder="32819" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01066" />
+    <Xref Database="HMDB" ID="HMDB0001066" />
   </DataNode>
   <DataNode TextLabel="L-Glutamic acid 5-phosphate" GraphId="d0769" Type="Metabolite">
     <Graphics CenterX="1841.3724530135953" CenterY="1423.7467437125813" Width="47.5" Height="23.5" ZOrder="32820" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01228" />
+    <Xref Database="HMDB" ID="HMDB0001228" />
   </DataNode>
   <DataNode TextLabel="L-Arginine" GraphId="a0a6a" Type="Metabolite">
     <Graphics CenterX="1506.9986986682932" CenterY="1579.3203821830307" Width="47.5" Height="23.5" ZOrder="32821" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00517" />
+    <Xref Database="HMDB" ID="HMDB0000517" />
   </DataNode>
   <DataNode TextLabel="Argininosuccinic acid" GraphId="ea407" Type="Metabolite">
     <Graphics CenterX="1618.2894753673227" CenterY="1658.2369190998606" Width="47.5" Height="23.5" ZOrder="32822" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00052" />
+    <Xref Database="HMDB" ID="HMDB0000052" />
   </DataNode>
   <DataNode TextLabel="L-Aspartic acid" GraphId="aa835" Type="Metabolite">
     <Graphics CenterX="1747.6970072329082" CenterY="1658.2369190998606" Width="47.5" Height="23.5" ZOrder="32823" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00191" />
+    <Xref Database="HMDB" ID="HMDB0000191" />
   </DataNode>
   <DataNode TextLabel="D-Proline" GraphId="b5b93" Type="Metabolite">
     <Graphics CenterX="2094.2224530135823" CenterY="1511.6967437125822" Width="47.5" Height="23.5" ZOrder="32824" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03411" />
+    <Xref Database="HMDB" ID="HMDB0003411" />
   </DataNode>
   <DataNode TextLabel="Spermidine" GraphId="e8437" Type="Metabolite">
     <Graphics CenterX="1514.4949327354998" CenterY="1348.425422739232" Width="47.5" Height="23.5" ZOrder="32828" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01257" />
+    <Xref Database="HMDB" ID="HMDB0001257" />
   </DataNode>
   <DataNode TextLabel="Putrescine" GraphId="feca5" Type="Metabolite">
     <Graphics CenterX="1548.0262189463936" CenterY="1406.3279140486168" Width="47.5" Height="23.5" ZOrder="32829" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01414" />
+    <Xref Database="HMDB" ID="HMDB0001414" />
   </DataNode>
   <DataNode TextLabel="Urea" GraphId="b06ab" Type="Metabolite">
     <Graphics CenterX="1603.6486986682937" CenterY="1569.9203821830308" Width="47.5" Height="23.5" ZOrder="32830" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00294" />
+    <Xref Database="HMDB" ID="HMDB0000294" />
   </DataNode>
   <DataNode TextLabel="Ornithine" GraphId="a776b" Type="Metabolite">
     <Graphics CenterX="1630.448698668294" CenterY="1465.4703821830324" Width="47.5" Height="23.5" ZOrder="32831" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00214" />
+    <Xref Database="HMDB" ID="HMDB0000214" />
   </DataNode>
   <DataNode TextLabel="Citrulline" GraphId="a6077" Type="Metabolite">
     <Graphics CenterX="1746.4986986682936" CenterY="1573.120382183032" Width="47.5" Height="23.5" ZOrder="32832" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00904" />
+    <Xref Database="HMDB" ID="HMDB0000904" />
   </DataNode>
   <DataNode TextLabel="Fumaric acid" GraphId="d76d7" Type="Metabolite">
     <Graphics CenterX="1475.7448151731483" CenterY="1658.2369190998604" Width="47.5" Height="23.5" ZOrder="32838" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00134" />
+    <Xref Database="HMDB" ID="HMDB0000134" />
   </DataNode>
   <DataNode TextLabel="Carbamoylphosphate" GraphId="c8efd" Type="Metabolite">
     <Graphics CenterX="1675.500173454213" CenterY="1570.402827473234" Width="47.5" Height="23.5" ZOrder="32839" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01096" />
+    <Xref Database="HMDB" ID="HMDB0001096" />
   </DataNode>
   <DataNode TextLabel="Orotic acid" GraphId="a0b99" Type="Metabolite">
     <Graphics CenterX="2096.584376873679" CenterY="1658.2369190998606" Width="47.5" Height="23.5" ZOrder="32844" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00226" />
+    <Xref Database="HMDB" ID="HMDB0000226" />
   </DataNode>
   <DataNode TextLabel="4,5-Dihydroorotic acid" GraphId="fe871" Type="Metabolite">
     <Graphics CenterX="1984.5622329638636" CenterY="1658.2369190998606" Width="47.5" Height="23.5" ZOrder="32845" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00528" />
+    <Xref Database="HMDB" ID="HMDB0000528" />
   </DataNode>
   <DataNode TextLabel="Ureidosuccinic acid" GraphId="b9285" Type="Metabolite">
     <Graphics CenterX="1866.5818152518934" CenterY="1658.2369190998606" Width="47.5" Height="23.5" ZOrder="32846" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00828" />
+    <Xref Database="HMDB" ID="HMDB0000828" />
   </DataNode>
   <DataNode TextLabel="Spermine" GraphId="c8753" Type="Metabolite">
     <Graphics CenterX="1491.526161008963" CenterY="1293.270440120461" Width="47.5" Height="23.5" ZOrder="32847" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01256" />
+    <Xref Database="HMDB" ID="HMDB0001256" />
   </DataNode>
   <DataNode TextLabel="Fructose 6-phosphate" GraphId="dd0e6" Type="Metabolite">
     <Graphics CenterX="686.3724530135985" CenterY="1146.7467437125813" Width="47.5" Height="23.5" ZOrder="32854" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00124" />
+    <Xref Database="HMDB" ID="HMDB0000124" />
   </DataNode>
   <DataNode TextLabel="Glutathione" GraphId="b1bc2" Type="Metabolite">
     <Graphics CenterX="2098.372453013582" CenterY="1371.0967437125812" Width="47.5" Height="23.5" ZOrder="32855" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00125" />
+    <Xref Database="HMDB" ID="HMDB0000125" />
   </DataNode>
   <DataNode TextLabel="Oxidized glutathione" GraphId="ee7e3" Type="Metabolite">
     <Graphics CenterX="2191.3224530135753" CenterY="1370.59674371258" Width="47.5" Height="23.5" ZOrder="32856" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03337" />
+    <Xref Database="HMDB" ID="HMDB0003337" />
   </DataNode>
   <DataNode TextLabel="Gamma-Glutamylcysteine" GraphId="a5f05" Type="Metabolite">
     <Graphics CenterX="2007.0724530135878" CenterY="1371.1467437125796" Width="47.5" Height="23.5" ZOrder="32857" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01049" />
+    <Xref Database="HMDB" ID="HMDB0001049" />
   </DataNode>
   <DataNode TextLabel="L-Cysteine" GraphId="e5072" Type="Metabolite">
     <Graphics CenterX="1967.7224530135893" CenterY="1329.696743712581" Width="47.5" Height="23.5" ZOrder="32858" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00574" />
+    <Xref Database="HMDB" ID="HMDB0000574" />
   </DataNode>
   <DataNode TextLabel="D-2-Hydroxyglutaric acid" GraphId="b6a50" Type="Metabolite">
     <Graphics CenterX="1896.8724530135944" CenterY="1237.8467437125819" Width="47.5" Height="23.5" ZOrder="32859" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00606" />
+    <Xref Database="HMDB" ID="HMDB0000606" />
   </DataNode>
   <DataNode TextLabel="Phosphoenolpyruvic acid" GraphId="bb77c" Type="Metabolite">
     <Graphics CenterX="1247.872453013597" CenterY="1146.746743712581" Width="47.5" Height="23.5" ZOrder="32864" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00263" />
+    <Xref Database="HMDB" ID="HMDB0000263" />
   </DataNode>
   <DataNode TextLabel="Pyruvic acid" GraphId="be882" Type="Metabolite">
     <Graphics CenterX="1334.5224530135981" CenterY="1146.746743712581" Width="47.5" Height="23.5" ZOrder="32865" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00243" />
+    <Xref Database="HMDB" ID="HMDB0000243" />
   </DataNode>
   <DataNode TextLabel="Glutaryl-CoA" GraphId="e572c" Type="Metabolite">
     <Graphics CenterX="2554.595946882806" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="32866" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01339" />
+    <Xref Database="HMDB" ID="HMDB0001339" />
   </DataNode>
   <DataNode TextLabel="L-Histidine" GraphId="ec950" Type="Metabolite">
     <Graphics CenterX="1687.9150119972358" CenterY="445.9333135855388" Width="47.5" Height="23.5" ZOrder="32867" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00177" />
+    <Xref Database="HMDB" ID="HMDB0000177" />
   </DataNode>
   <DataNode TextLabel="Uric acid" GraphId="bd88a" Type="Metabolite">
     <Graphics CenterX="2287.7298940299015" CenterY="232.47051866720858" Width="47.5" Height="23.5" ZOrder="32868" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00289" />
+    <Xref Database="HMDB" ID="HMDB0000289" />
   </DataNode>
   <DataNode TextLabel="Glycine" GraphId="e8254" Type="Metabolite">
     <Graphics CenterX="2032.8724530135876" CenterY="1329.7467437125802" Width="47.5" Height="23.5" ZOrder="32869" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00123" />
+    <Xref Database="HMDB" ID="HMDB0000123" />
   </DataNode>
   <DataNode TextLabel="Glycine" GraphId="cbb85" Type="Metabolite">
     <Graphics CenterX="1832.2269805253882" CenterY="1061.6519438640923" Width="47.5" Height="23.5" ZOrder="32870" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00123" />
+    <Xref Database="HMDB" ID="HMDB0000123" />
   </DataNode>
   <DataNode TextLabel="Hydroxypyruvic acid" GraphId="cd6fe" Type="Metabolite">
     <Graphics CenterX="1151.7080544716791" CenterY="1310.0316768839054" Width="47.5" Height="23.5" ZOrder="32876" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01352" />
+    <Xref Database="HMDB" ID="HMDB0001352" />
   </DataNode>
   <DataNode TextLabel="L-Alanine" GraphId="e6826" Type="Metabolite">
     <Graphics CenterX="1228.1881881290315" CenterY="1309.696743712582" Width="47.5" Height="23.5" ZOrder="32877" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00161" />
+    <Xref Database="HMDB" ID="HMDB0000161" />
   </DataNode>
   <DataNode TextLabel="L-Lactic acid" GraphId="fcc94" Type="Metabolite">
     <Graphics CenterX="1335.0724530135994" CenterY="1230.4467437125813" Width="47.5" Height="23.5" ZOrder="32878" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00190" />
+    <Xref Database="HMDB" ID="HMDB0000190" />
   </DataNode>
   <DataNode TextLabel="2-Phospho-D-glyceric acid" GraphId="bdf1e" Type="Metabolite">
     <Graphics CenterX="1152.9224530135953" CenterY="1146.7467437125813" Width="47.5" Height="23.5" ZOrder="32879" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03391" />
+    <Xref Database="HMDB" ID="HMDB0003391" />
   </DataNode>
   <DataNode TextLabel="3-Phosphoglyceric acid" GraphId="b40b6" Type="Metabolite">
     <Graphics CenterX="1081.0224530135943" CenterY="1146.746743712581" Width="47.5" Height="23.5" ZOrder="32880" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00807" />
+    <Xref Database="HMDB" ID="HMDB0000807" />
   </DataNode>
   <DataNode TextLabel="Glyceric acid 1,3-biphosphate" GraphId="e61d6" Type="Metabolite">
     <Graphics CenterX="996.9224530135959" CenterY="1146.746743712581" Width="47.5" Height="23.5" ZOrder="32884" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01270" />
+    <Xref Database="HMDB" ID="HMDB0001270" />
   </DataNode>
   <DataNode TextLabel="Glyceric acid" GraphId="afbc7" Type="Metabolite">
     <Graphics CenterX="1152.9779208143277" CenterY="1227.7967437125815" Width="47.5" Height="23.5" ZOrder="32885" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00139" />
+    <Xref Database="HMDB" ID="HMDB0000139" />
   </DataNode>
   <DataNode TextLabel="L-Asparagine" GraphId="f6a96" Type="Metabolite">
     <Graphics CenterX="1392.1247749950237" CenterY="951.4866817930771" Width="47.5" Height="23.5" ZOrder="32889" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00168" />
+    <Xref Database="HMDB" ID="HMDB0000168" />
   </DataNode>
   <DataNode TextLabel="Fructose 1,6-bisphosphate" GraphId="d1b2d" Type="Metabolite">
     <Graphics CenterX="804.2724530135973" CenterY="1146.746743712581" Width="47.5" Height="23.5" ZOrder="32890" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01058" />
+    <Xref Database="HMDB" ID="HMDB0001058" />
   </DataNode>
   <DataNode TextLabel="D-Glyceraldehyde 3-phosphate" GraphId="aba49" Type="Metabolite">
     <Graphics CenterX="900.6032222443674" CenterY="1146.7467437125813" Width="47.5" Height="23.5" ZOrder="32891" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01112" />
+    <Xref Database="HMDB" ID="HMDB0001112" />
   </DataNode>
   <DataNode TextLabel="L-Aspartic acid" GraphId="fd414" Type="Metabolite">
     <Graphics CenterX="1529.2742550299495" CenterY="951.1987560964828" Width="47.5" Height="23.5" ZOrder="32899" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00191" />
+    <Xref Database="HMDB" ID="HMDB0000191" />
   </DataNode>
   <DataNode TextLabel="L-2-Amino-3-oxobutanoic acid" GraphId="c8a1a" Type="Metabolite">
     <Graphics CenterX="1918.500851070762" CenterY="1126.2163298985993" Width="47.5" Height="23.5" ZOrder="32901" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06454" />
+    <Xref Database="HMDB" ID="HMDB0006454" />
   </DataNode>
   <DataNode TextLabel="Aminoacetone" GraphId="a6eda" Type="Metabolite">
     <Graphics CenterX="2047.1936871333826" CenterY="1012.0843117706582" Width="47.5" Height="23.5" ZOrder="32902" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02134" />
+    <Xref Database="HMDB" ID="HMDB0002134" />
   </DataNode>
   <DataNode TextLabel="Pyruvaldehyde" GraphId="ba29f" Type="Metabolite">
     <Graphics CenterX="2138.204576425577" CenterY="1012.3438399013293" Width="47.5" Height="23.5" ZOrder="32903" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01167" />
+    <Xref Database="HMDB" ID="HMDB0001167" />
   </DataNode>
   <DataNode TextLabel="Glucose 6-phosphate" GraphId="db0d6" Type="Metabolite">
     <Graphics CenterX="561.2699171811837" CenterY="1146.746743712581" Width="47.5" Height="23.5" ZOrder="32904" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01401" />
+    <Xref Database="HMDB" ID="HMDB0001401" />
   </DataNode>
   <DataNode TextLabel="Glucose 1-phosphate" GraphId="a7e45" Type="Metabolite">
     <Graphics CenterX="439.3724530135985" CenterY="1146.746743712581" Width="47.5" Height="23.5" ZOrder="32905" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01586" />
+    <Xref Database="HMDB" ID="HMDB0001586" />
   </DataNode>
   <DataNode TextLabel="Uridine diphosphate glucose" GraphId="ae301" Type="Metabolite">
     <Graphics CenterX="336.9220744115353" CenterY="1056.7540291916503" Width="47.5" Height="23.5" ZOrder="32906" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00286" />
+    <Xref Database="HMDB" ID="HMDB0000286" />
   </DataNode>
   <DataNode TextLabel="Alpha-D-Glucose 1,6-bisphosphate" GraphId="dbb08" Type="Metabolite">
     <Graphics CenterX="475.65800979419316" CenterY="1022.3884195670469" Width="47.5" Height="23.5" ZOrder="32908" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03514" />
+    <Xref Database="HMDB" ID="HMDB0003514" />
   </DataNode>
   <DataNode TextLabel="GDP-glucose" GraphId="e8cbb" Type="Metabolite">
     <Graphics CenterX="400.7859039507536" CenterY="1021.670668740145" Width="47.5" Height="23.5" ZOrder="32910" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03351" />
+    <Xref Database="HMDB" ID="HMDB0003351" />
   </DataNode>
   <DataNode TextLabel="Uridine diphosphate glucuronic acid" GraphId="cbb7d" Type="Metabolite">
     <Graphics CenterX="336.9220744115353" CenterY="759.6464129518313" Width="47.50000000000001" Height="23.49999999999998" ZOrder="32912" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00935" />
+    <Xref Database="HMDB" ID="HMDB0000935" />
   </DataNode>
   <DataNode TextLabel="D-Glucuronic acid 1-phosphate" GraphId="ce4de" Type="Metabolite">
     <Graphics CenterX="336.92207441153533" CenterY="681.0170897122023" Width="47.50000000000001" Height="23.49999999999998" ZOrder="32913" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03976" />
+    <Xref Database="HMDB" ID="HMDB0003976" />
   </DataNode>
   <DataNode TextLabel="D-Glucuronic acid" GraphId="f862f" Type="Metabolite">
     <Graphics CenterX="336.9220744115353" CenterY="598.1376031989543" Width="47.50000000000001" Height="23.49999999999998" ZOrder="32914" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00127" />
+    <Xref Database="HMDB" ID="HMDB0000127" />
   </DataNode>
   <DataNode TextLabel="Gulonic acid" GraphId="cc57c" Type="Metabolite">
     <Graphics CenterX="336.9220744115353" CenterY="470.8648484745523" Width="47.50000000000001" Height="23.49999999999998" ZOrder="32915" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03290" />
+    <Xref Database="HMDB" ID="HMDB0003290" />
   </DataNode>
   <DataNode TextLabel="L-Gulonolactone" GraphId="a6cb5" Type="Metabolite">
     <Graphics CenterX="336.92207441153533" CenterY="376.70311278820486" Width="47.50000000000001" Height="23.49999999999998" ZOrder="32916" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03466" />
+    <Xref Database="HMDB" ID="HMDB0003466" />
   </DataNode>
   <DataNode TextLabel="5'-Phosphoribosyl-N-formylglycinamide" GraphId="ed6a9" Type="Metabolite">
     <Graphics CenterX="1138.909658095268" CenterY="323.8031230967008" Width="47.499999999999964" Height="23.500000000000025" ZOrder="32917" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01308" />
+    <Xref Database="HMDB" ID="HMDB0001308" />
   </DataNode>
   <DataNode TextLabel="D-Ribose 5-phosphate" GraphId="e3a19" Type="Metabolite">
     <Graphics CenterX="900.6032222443674" CenterY="899.3101395229453" Width="47.5" Height="23.5" ZOrder="32918" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01548" />
+    <Xref Database="HMDB" ID="HMDB0001548" />
   </DataNode>
   <DataNode TextLabel="D-Sedoheptulose 7-phosphate" GraphId="ec7e4" Type="Metabolite">
     <Graphics CenterX="855.8344155273801" CenterY="1057.6166444843564" Width="47.5" Height="23.5" ZOrder="32919" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01068" />
+    <Xref Database="HMDB" ID="HMDB0001068" />
   </DataNode>
   <DataNode TextLabel="Xylulose 5-phosphate" GraphId="d452a" Type="Metabolite">
     <Graphics CenterX="750.9994303556026" CenterY="969.4312710666729" Width="47.5" Height="23.5" ZOrder="32921" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00868" />
+    <Xref Database="HMDB" ID="HMDB0000868" />
   </DataNode>
   <DataNode TextLabel="D-Ribulose 5-phosphate" GraphId="ac92d" Type="Metabolite">
     <Graphics CenterX="718.273779004554" CenterY="900.5445020862529" Width="47.5" Height="23.5" ZOrder="32924" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00618" />
+    <Xref Database="HMDB" ID="HMDB0000618" />
   </DataNode>
   <DataNode TextLabel="6-Phosphogluconic acid" GraphId="aa1ab" Type="Metabolite">
     <Graphics CenterX="561.9909756155826" CenterY="899.0025320257016" Width="47.5" Height="23.5" ZOrder="32927" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01316" />
+    <Xref Database="HMDB" ID="HMDB0001316" />
   </DataNode>
   <DataNode TextLabel="D-Ribulose" GraphId="bfa57" Type="Metabolite">
     <Graphics CenterX="710.9424345593897" CenterY="796.5112786134422" Width="47.5" Height="23.5" ZOrder="32928" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00621" />
+    <Xref Database="HMDB" ID="HMDB0000621" />
   </DataNode>
   <DataNode TextLabel="D-Ribose" GraphId="dad87" Type="Metabolite">
     <Graphics CenterX="819.5268080301363" CenterY="795.2329620146763" Width="47.5" Height="23.5" ZOrder="32929" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00283" />
+    <Xref Database="HMDB" ID="HMDB0000283" />
   </DataNode>
   <DataNode TextLabel="Phosphoribosyl pyrophosphate" GraphId="d43ab" Type="Metabolite">
     <Graphics CenterX="900.6032222443674" CenterY="450.7467437125806" Width="47.5" Height="23.5" ZOrder="32934" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00280" />
+    <Xref Database="HMDB" ID="HMDB0000280" />
   </DataNode>
   <DataNode TextLabel="5-Phosphoribosylamine" GraphId="e14d1" Type="Metabolite">
     <Graphics CenterX="900.6032222443675" CenterY="323.8031230967008" Width="47.499999999999964" Height="23.500000000000025" ZOrder="32935" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01128" />
+    <Xref Database="HMDB" ID="HMDB0001128" />
   </DataNode>
   <DataNode TextLabel="Glycineamideribotide" GraphId="a8645" Type="Metabolite">
     <Graphics CenterX="1024.9096580952678" CenterY="323.8031230967008" Width="47.499999999999964" Height="23.500000000000025" ZOrder="32937" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02022" />
+    <Xref Database="HMDB" ID="HMDB0002022" />
   </DataNode>
   <DataNode TextLabel="5'-phosphoribosyl-a-N-formylglycineamidine" GraphId="d953d" Type="Metabolite">
     <Graphics CenterX="1245.9096580952687" CenterY="323.8031230967008" Width="47.5" Height="23.5" ZOrder="32940" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02305" />
+    <Xref Database="HMDB" ID="HMDB0002305" />
   </DataNode>
   <DataNode TextLabel="AICAR" GraphId="f070c" Type="Metabolite">
     <Graphics CenterX="1691.9096580952687" CenterY="323.80312309670074" Width="47.50000000000015" Height="23.500000000000025" ZOrder="32941" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01517" />
+    <Xref Database="HMDB" ID="HMDB0001517" />
   </DataNode>
   <DataNode TextLabel="SAICAR" GraphId="b10f0" Type="Metabolite">
     <Graphics CenterX="1576.9096580952687" CenterY="323.80312309670074" Width="47.499999999999964" Height="23.500000000000025" ZOrder="32942" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00797" />
+    <Xref Database="HMDB" ID="HMDB0000797" />
   </DataNode>
   <DataNode TextLabel="5-Aminoimidazole ribonucleotide" GraphId="e4fcc" Type="Metabolite">
     <Graphics CenterX="1344.9096580952687" CenterY="323.80312309670074" Width="47.499999999999964" Height="23.500000000000025" ZOrder="32943" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01235" />
+    <Xref Database="HMDB" ID="HMDB0001235" />
   </DataNode>
   <DataNode TextLabel="Phosphoribosyl formamidocarboxamide" GraphId="cb4ce" Type="Metabolite">
     <Graphics CenterX="1798.909658095269" CenterY="323.8031230967008" Width="47.50000000000015" Height="23.500000000000025" ZOrder="32947" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01439" />
+    <Xref Database="HMDB" ID="HMDB0001439" />
   </DataNode>
   <DataNode TextLabel="Inosinic acid" GraphId="cdd52" Type="Metabolite">
     <Graphics CenterX="1909.279894029933" CenterY="323.8031230967008" Width="47.50000000000015" Height="23.500000000000025" ZOrder="32949" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00175" />
+    <Xref Database="HMDB" ID="HMDB0000175" />
   </DataNode>
   <DataNode TextLabel="Inosine" GraphId="b52f6" Type="Metabolite">
     <Graphics CenterX="1930.279894029933" CenterY="278.67051866720897" Width="47.5" Height="23.5" ZOrder="32951" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00195" />
+    <Xref Database="HMDB" ID="HMDB0000195" />
   </DataNode>
   <DataNode TextLabel="Xanthosine" GraphId="e386f" Type="Metabolite">
     <Graphics CenterX="1933.279894029933" CenterY="198.67051866720874" Width="47.5" Height="23.5" ZOrder="32952" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00299" />
+    <Xref Database="HMDB" ID="HMDB0000299" />
   </DataNode>
   <DataNode TextLabel="Hypoxanthine" GraphId="dd79e" Type="Metabolite">
     <Graphics CenterX="2016.279894029933" CenterY="273.67051866720897" Width="47.5" Height="23.5" ZOrder="32955" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00157" />
+    <Xref Database="HMDB" ID="HMDB0000157" />
   </DataNode>
   <DataNode TextLabel="Xanthine" GraphId="d8680" Type="Metabolite">
     <Graphics CenterX="2018.279894029933" CenterY="207.6705186672088" Width="47.5" Height="23.5" ZOrder="32956" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00292" />
+    <Xref Database="HMDB" ID="HMDB0000292" />
   </DataNode>
   <DataNode TextLabel="Adenylsuccinic acid" GraphId="bba91" Type="Metabolite">
     <Graphics CenterX="2008.279894029933" CenterY="335.20555051434235" Width="47.5" Height="23.5" ZOrder="32960" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00536" />
+    <Xref Database="HMDB" ID="HMDB0000536" />
   </DataNode>
   <DataNode TextLabel="Adenosine monophosphate" GraphId="ff2d0" Type="Metabolite">
     <Graphics CenterX="2116.279894029932" CenterY="345.6705186672088" Width="47.5" Height="23.5" ZOrder="32961" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00045" />
+    <Xref Database="HMDB" ID="HMDB0000045" />
   </DataNode>
   <DataNode TextLabel="Adenosine" GraphId="a19f5" Type="Metabolite">
     <Graphics CenterX="2116.279894029932" CenterY="262.67051866720897" Width="47.5" Height="23.5" ZOrder="32962" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00050" />
+    <Xref Database="HMDB" ID="HMDB0000050" />
   </DataNode>
   <DataNode TextLabel="Adenine" GraphId="c6159" Type="Metabolite">
     <Graphics CenterX="2203.2798940299313" CenterY="260.67051866720897" Width="47.5" Height="23.5" ZOrder="32963" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00034" />
+    <Xref Database="HMDB" ID="HMDB0000034" />
   </DataNode>
   <DataNode TextLabel="Guanosine" GraphId="ec811" Type="Metabolite">
     <Graphics CenterX="2100.636581928022" CenterY="167.39663331689016" Width="47.5" Height="23.5" ZOrder="32968" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00133" />
+    <Xref Database="HMDB" ID="HMDB0000133" />
   </DataNode>
   <DataNode TextLabel="Guanine" GraphId="cc399" Type="Metabolite">
     <Graphics CenterX="2203.2798940299313" CenterY="205.67051866720868" Width="47.5" Height="23.5" ZOrder="32969" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00132" />
+    <Xref Database="HMDB" ID="HMDB0000132" />
   </DataNode>
   <DataNode TextLabel="Guanosine monophosphate" GraphId="ea0c4" Type="Metabolite">
     <Graphics CenterX="2099.279894029932" CenterY="97.67051866720868" Width="47.5" Height="23.5" ZOrder="32970" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01397" />
+    <Xref Database="HMDB" ID="HMDB0001397" />
   </DataNode>
   <DataNode TextLabel="Xanthylic acid" GraphId="dc28f" Type="Metabolite">
     <Graphics CenterX="1908.279894029933" CenterY="97.67051866720868" Width="47.5" Height="23.5" ZOrder="32971" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01554" />
+    <Xref Database="HMDB" ID="HMDB0001554" />
   </DataNode>
   <DataNode TextLabel="Guanosine diphosphate" GraphId="da887" Type="Metabolite">
     <Graphics CenterX="2201.2798940299303" CenterY="97.67051866720868" Width="47.5" Height="23.5" ZOrder="32975" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01201" />
+    <Xref Database="HMDB" ID="HMDB0001201" />
   </DataNode>
   <DataNode TextLabel="Allantoin" GraphId="f052b" Type="Metabolite">
     <Graphics CenterX="2385.7298940299015" CenterY="231.47051866720858" Width="47.5" Height="23.5" ZOrder="32982" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00462" />
+    <Xref Database="HMDB" ID="HMDB0000462" />
   </DataNode>
   <DataNode TextLabel="Allantoic acid" GraphId="d2b18" Type="Metabolite">
     <Graphics CenterX="2465.7298940299015" CenterY="231.47051866720858" Width="47.5" Height="23.5" ZOrder="32983" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01209" />
+    <Xref Database="HMDB" ID="HMDB0001209" />
   </DataNode>
   <DataNode TextLabel="Guanosine triphosphate" GraphId="a3f64" Type="Metabolite">
     <Graphics CenterX="2295.2798940299313" CenterY="130.67051866720874" Width="47.5" Height="23.5" ZOrder="32984" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01273" />
+    <Xref Database="HMDB" ID="HMDB0001273" />
   </DataNode>
   <DataNode TextLabel="2'-Deoxyguanosine 5'-monophosphate" GraphId="d2bfc" Type="Metabolite">
     <Graphics CenterX="2393.2798940299313" CenterY="131.67051866720874" Width="47.5" Height="23.5" ZOrder="32988" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01044" />
+    <Xref Database="HMDB" ID="HMDB0001044" />
   </DataNode>
   <DataNode TextLabel="(S)-Ureidoglycolic acid" GraphId="ef050" Type="Metabolite">
     <Graphics CenterX="2587.2798940299313" CenterY="301.67051866720874" Width="47.5" Height="23.5" ZOrder="32989" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01005" />
+    <Xref Database="HMDB" ID="HMDB0001005" />
   </DataNode>
   <DataNode TextLabel="dGDP" GraphId="eef43" Type="Metabolite">
     <Graphics CenterX="2489.2798940299313" CenterY="97.67051866720868" Width="47.5" Height="23.5" ZOrder="32990" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00960" />
+    <Xref Database="HMDB" ID="HMDB0000960" />
   </DataNode>
   <DataNode TextLabel="dGTP" GraphId="b5a02" Type="Metabolite">
     <Graphics CenterX="2580.2798940299313" CenterY="97.67051866720868" Width="47.5" Height="23.5" ZOrder="32991" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01440" />
+    <Xref Database="HMDB" ID="HMDB0001440" />
   </DataNode>
   <DataNode TextLabel="Deoxyguanosine" GraphId="bf889" Type="Metabolite">
     <Graphics CenterX="2394.184352628658" CenterY="185.67051866720863" Width="47.5" Height="23.5" ZOrder="32994" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00085" />
+    <Xref Database="HMDB" ID="HMDB0000085" />
   </DataNode>
   <DataNode TextLabel="Adenosine 3',5'-diphosphate" GraphId="dce22" Type="Metabolite">
     <Graphics CenterX="2234.2798940299313" CenterY="345.6705186672088" Width="47.5" Height="23.5" ZOrder="32996" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00061" />
+    <Xref Database="HMDB" ID="HMDB0000061" />
   </DataNode>
   <DataNode TextLabel="Adenosine triphosphate" GraphId="f83ca" Type="Metabolite">
     <Graphics CenterX="2311.2798940299313" CenterY="320.67051866720874" Width="47.5" Height="23.5" ZOrder="32998" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00538" />
+    <Xref Database="HMDB" ID="HMDB0000538" />
   </DataNode>
   <DataNode TextLabel="dATP" GraphId="e66de" Type="Metabolite">
     <Graphics CenterX="2585.2798940299313" CenterY="345.67051866720874" Width="47.5" Height="23.5" ZOrder="33000" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01532" />
+    <Xref Database="HMDB" ID="HMDB0001532" />
   </DataNode>
   <DataNode TextLabel="dADP" GraphId="bebc6" Type="Metabolite">
     <Graphics CenterX="2468.2798940299313" CenterY="345.6705186672088" Width="47.5" Height="23.5" ZOrder="33001" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01508" />
+    <Xref Database="HMDB" ID="HMDB0001508" />
   </DataNode>
   <DataNode TextLabel="Deoxyadenosine monophosphate" GraphId="ba046" Type="Metabolite">
     <Graphics CenterX="2387.006008679612" CenterY="320.67051866720874" Width="47.5" Height="23.5" ZOrder="33003" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00905" />
+    <Xref Database="HMDB" ID="HMDB0000905" />
   </DataNode>
   <DataNode TextLabel="Deoxyadenosine" GraphId="a402e" Type="Metabolite">
     <Graphics CenterX="2386.2798940299313" CenterY="273.67051866720897" Width="47.5" Height="23.5" ZOrder="33004" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00101" />
+    <Xref Database="HMDB" ID="HMDB0000101" />
   </DataNode>
   <DataNode TextLabel="Adenine" GraphId="f236b" Type="Metabolite">
     <Graphics CenterX="2464.2798940299313" CenterY="273.67051866720897" Width="47.5" Height="23.5" ZOrder="33007" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00034" />
+    <Xref Database="HMDB" ID="HMDB0000034" />
   </DataNode>
   <DataNode TextLabel="Guanine" GraphId="ba0b9" Type="Metabolite">
     <Graphics CenterX="2465.6365819280213" CenterY="185.21828936784556" Width="47.5" Height="23.5" ZOrder="33008" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00132" />
+    <Xref Database="HMDB" ID="HMDB0000132" />
   </DataNode>
   <DataNode TextLabel="5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate" GraphId="ef668" Type="Metabolite">
     <Graphics CenterX="1452.9096580952687" CenterY="323.8031230967008" Width="47.499999999999964" Height="23.500000000000025" ZOrder="33013" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06273" />
+    <Xref Database="HMDB" ID="HMDB0006273" />
   </DataNode>
   <DataNode TextLabel="Urocanic acid" GraphId="c3bc3" Type="Metabolite">
     <Graphics CenterX="1800.9150119972358" CenterY="398.9333135855388" Width="47.5" Height="23.5" ZOrder="33016" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00301" />
+    <Xref Database="HMDB" ID="HMDB0000301" />
   </DataNode>
   <DataNode TextLabel="Histamine" GraphId="a35f9" Type="Metabolite">
     <Graphics CenterX="1801.9150119972358" CenterY="493.9333135855391" Width="47.5" Height="23.5" ZOrder="33017" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00870" />
+    <Xref Database="HMDB" ID="HMDB0000870" />
   </DataNode>
   <DataNode TextLabel="1-Methylhistamine" GraphId="ce8ed" Type="Metabolite">
     <Graphics CenterX="1891.9150119972358" CenterY="458.93331358553877" Width="47.5" Height="23.5" ZOrder="33018" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00898" />
+    <Xref Database="HMDB" ID="HMDB0000898" />
   </DataNode>
   <DataNode TextLabel="4-Imidazolone-5-propionic acid" GraphId="d563e" Type="Metabolite">
     <Graphics CenterX="1892.9150119972358" CenterY="379.742230782991" Width="47.5" Height="23.5" ZOrder="33022" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01014" />
+    <Xref Database="HMDB" ID="HMDB0001014" />
   </DataNode>
   <DataNode TextLabel="Hydantoin-5-propionic acid" GraphId="f888d" Type="Metabolite">
     <Graphics CenterX="1983.6411266469172" CenterY="432.29000148362786" Width="47.5" Height="23.5" ZOrder="33023" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01212" />
+    <Xref Database="HMDB" ID="HMDB0001212" />
   </DataNode>
   <DataNode TextLabel="Formiminoglutamic acid" GraphId="c32dc" Type="Metabolite">
     <Graphics CenterX="1983.3672412965984" CenterY="379.74223078299093" Width="47.5" Height="23.5" ZOrder="33026" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00854" />
+    <Xref Database="HMDB" ID="HMDB0000854" />
   </DataNode>
   <DataNode TextLabel="L-Glutamic acid" GraphId="cde1a" Type="Metabolite">
     <Graphics CenterX="2083.271699895325" CenterY="379.92057473203545" Width="47.5" Height="23.5" ZOrder="33027" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00148" />
+    <Xref Database="HMDB" ID="HMDB0000148" />
   </DataNode>
   <DataNode TextLabel="Carglumic acid" GraphId="fde12" Type="Metabolite">
     <Graphics CenterX="2079.176158494052" CenterY="432.7422307829909" Width="47.5" Height="23.5" ZOrder="33030" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB15673" />
+    <Xref Database="HMDB" ID="HMDB0015673" />
   </DataNode>
   <DataNode TextLabel="4-Hydroxyphenylpyruvic acid" GraphId="f396d" Type="Metabolite">
     <Graphics CenterX="1682.915011997236" CenterY="595.5154791906343" Width="47.5" Height="23.5" ZOrder="33032" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00707" />
+    <Xref Database="HMDB" ID="HMDB0000707" />
   </DataNode>
   <DataNode TextLabel="L-Tyrosine" GraphId="b717b" Type="Metabolite">
     <Graphics CenterX="1835.0933559462803" CenterY="595.5154791906343" Width="47.5" Height="23.5" ZOrder="33033" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00158" />
+    <Xref Database="HMDB" ID="HMDB0000158" />
   </DataNode>
   <DataNode TextLabel="Phenylpyruvic acid" GraphId="ea3ee" Type="Metabolite">
     <Graphics CenterX="1683.6411266469172" CenterY="649.7549696364948" Width="47.5" Height="23.5" ZOrder="33034" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00205" />
+    <Xref Database="HMDB" ID="HMDB0000205" />
   </DataNode>
   <DataNode TextLabel="L-Phenylalanine" GraphId="a3a93" Type="Metabolite">
     <Graphics CenterX="1835.9150119972358" CenterY="649.9333135855393" Width="47.5" Height="23.5" ZOrder="33035" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00159" />
+    <Xref Database="HMDB" ID="HMDB0000159" />
   </DataNode>
   <DataNode TextLabel="Homogentisic acid" GraphId="f5887" Type="Metabolite">
     <Graphics CenterX="1931.5455852456432" CenterY="595.5154791906343" Width="47.5" Height="23.5" ZOrder="33039" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00130" />
+    <Xref Database="HMDB" ID="HMDB0000130" />
   </DataNode>
   <DataNode TextLabel="Maleylacetoacetic acid" GraphId="dc9cd" Type="Metabolite">
     <Graphics CenterX="2025.0933559462803" CenterY="595.5154791906343" Width="47.5" Height="23.5" ZOrder="33040" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02052" />
+    <Xref Database="HMDB" ID="HMDB0002052" />
   </DataNode>
   <DataNode TextLabel="4-Fumarylacetoacetic acid" GraphId="a04b4" Type="Metabolite">
     <Graphics CenterX="2122.093355946279" CenterY="595.5154791906343" Width="47.5" Height="23.5" ZOrder="33041" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01268" />
+    <Xref Database="HMDB" ID="HMDB0001268" />
   </DataNode>
   <DataNode TextLabel="Fumaric acid" GraphId="b1966" Type="Metabolite">
     <Graphics CenterX="2215.7166043539523" CenterY="636.5982817384056" Width="47.5" Height="23.5" ZOrder="33045" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00134" />
+    <Xref Database="HMDB" ID="HMDB0000134" />
   </DataNode>
   <DataNode TextLabel="Acetoacetic acid" GraphId="f69c4" Type="Metabolite">
     <Graphics CenterX="2216.143355946308" CenterY="595.5154791906343" Width="47.5" Height="23.5" ZOrder="33046" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00060" />
+    <Xref Database="HMDB" ID="HMDB0000060" />
   </DataNode>
   <DataNode TextLabel="3,5-Diiodo-L-tyrosine" GraphId="e2617" Type="Metabolite">
     <Graphics CenterX="2036.7111903411812" CenterY="547.5638868339469" Width="47.5" Height="23.5" ZOrder="33049" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03474" />
+    <Xref Database="HMDB" ID="HMDB0003474" />
   </DataNode>
   <DataNode TextLabel="Iodotyrosine" GraphId="d8d38" Type="Metabolite">
     <Graphics CenterX="1946.9150119972358" CenterY="546.933313585539" Width="47.5" Height="23.5" ZOrder="33050" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00021" />
+    <Xref Database="HMDB" ID="HMDB0000021" />
   </DataNode>
   <DataNode TextLabel="Liothyronine" GraphId="d87b5" Type="Metabolite">
     <Graphics CenterX="2140.5583240991446" CenterY="523.933313585539" Width="47.5" Height="23.5" ZOrder="33051" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00265" />
+    <Xref Database="HMDB" ID="HMDB0000265" />
   </DataNode>
   <DataNode TextLabel="Thyroxine" GraphId="a15c1" Type="Metabolite">
     <Graphics CenterX="2136.3545024430964" CenterY="562.8505110377682" Width="47.5" Height="23.5" ZOrder="33056" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00248" />
+    <Xref Database="HMDB" ID="HMDB0000248" />
   </DataNode>
   <DataNode TextLabel="L-Dopa" GraphId="db5c9" Type="Metabolite">
     <Graphics CenterX="1958.9150119972358" CenterY="509.9333135855391" Width="47.5" Height="23.5" ZOrder="33058" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00181" />
+    <Xref Database="HMDB" ID="HMDB0000181" />
   </DataNode>
   <DataNode TextLabel="Dopamine" GraphId="a7028" Type="Metabolite">
     <Graphics CenterX="2035.4500438443697" CenterY="509.3027403371315" Width="47.5" Height="23.5" ZOrder="33059" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00073" />
+    <Xref Database="HMDB" ID="HMDB0000073" />
   </DataNode>
   <DataNode TextLabel="Norepinephrine" GraphId="d8c1c" Type="Metabolite">
     <Graphics CenterX="2137.9150119972355" CenterY="489.4683454326727" Width="47.5" Height="23.5" ZOrder="33061" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00216" />
+    <Xref Database="HMDB" ID="HMDB0000216" />
   </DataNode>
   <DataNode TextLabel="Epinephrine" GraphId="d80c4" Type="Metabolite">
     <Graphics CenterX="2232.5455852456416" CenterY="489.74223078299116" Width="47.5" Height="23.5" ZOrder="33062" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00068" />
+    <Xref Database="HMDB" ID="HMDB0000068" />
   </DataNode>
   <DataNode TextLabel="Vanillylmandelic acid" GraphId="e9ea4" Type="Metabolite">
     <Graphics CenterX="2186.3672412965984" CenterY="442.3728040313984" Width="47.5" Height="23.5" ZOrder="33065" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00291" />
+    <Xref Database="HMDB" ID="HMDB0000291" />
   </DataNode>
   <DataNode TextLabel="Dopaquinone" GraphId="bcc5b" Type="Metabolite">
     <Graphics CenterX="1958.3672412965986" CenterY="466.290001483628" Width="47.5" Height="23.5" ZOrder="33068" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01229" />
+    <Xref Database="HMDB" ID="HMDB0001229" />
   </DataNode>
   <DataNode TextLabel="Melanin" GraphId="d69a8" Type="Metabolite">
     <Graphics CenterX="2035.558324099147" CenterY="466.2900014836279" Width="47.5" Height="23.5" ZOrder="33070" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04068" />
+    <Xref Database="HMDB" ID="HMDB0004068" />
   </DataNode>
   <DataNode TextLabel="L-Tryptophan" GraphId="e4fb7" Type="Metabolite">
     <Graphics CenterX="2468.894231597989" CenterY="547.2403916254666" Width="47.5" Height="23.5" ZOrder="33072" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00929" />
+    <Xref Database="HMDB" ID="HMDB0000929" />
   </DataNode>
   <DataNode TextLabel="5-Hydroxy-L-tryptophan" GraphId="c324a" Type="Metabolite">
     <Graphics CenterX="2468.894231597989" CenterY="401.24039162546615" Width="47.5" Height="23.5" ZOrder="33073" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00472" />
+    <Xref Database="HMDB" ID="HMDB0000472" />
   </DataNode>
   <DataNode TextLabel="Serotonin" GraphId="bdc8c" Type="Metabolite">
     <Graphics CenterX="2579.894231597989" CenterY="401.2403916254662" Width="47.5" Height="23.5" ZOrder="33074" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00259" />
+    <Xref Database="HMDB" ID="HMDB0000259" />
   </DataNode>
   <DataNode TextLabel="5-Hydroxyindoleacetaldehyde" GraphId="bdc10" Type="Metabolite">
     <Graphics CenterX="2725.894231597989" CenterY="401.24039162546615" Width="47.5" Height="23.5" ZOrder="33075" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04073" />
+    <Xref Database="HMDB" ID="HMDB0004073" />
   </DataNode>
   <DataNode TextLabel="5-Hydroxyindoleacetic acid" GraphId="f8bfb" Type="Metabolite">
     <Graphics CenterX="2853.894231597989" CenterY="401.24039162546615" Width="47.5" Height="23.5" ZOrder="33076" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00763" />
+    <Xref Database="HMDB" ID="HMDB0000763" />
   </DataNode>
   <DataNode TextLabel="Indoleacetic acid" GraphId="f88fc" Type="Metabolite">
     <Graphics CenterX="2800.0725755470344" CenterY="497.2403916254665" Width="47.5" Height="23.5" ZOrder="33081" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00197" />
+    <Xref Database="HMDB" ID="HMDB0000197" />
   </DataNode>
   <DataNode TextLabel="Indoleacetaldehyde" GraphId="b4b5d" Type="Metabolite">
     <Graphics CenterX="2693.894231597989" CenterY="497.24039162546643" Width="47.5" Height="23.5" ZOrder="33082" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01190" />
+    <Xref Database="HMDB" ID="HMDB0001190" />
   </DataNode>
   <DataNode TextLabel="Tryptamine" GraphId="e92d4" Type="Metabolite">
     <Graphics CenterX="2590.894231597989" CenterY="497.24039162546643" Width="47.5" Height="23.5" ZOrder="33083" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00303" />
+    <Xref Database="HMDB" ID="HMDB0000303" />
   </DataNode>
   <DataNode TextLabel="N'-Formylkynurenine" GraphId="ec4a5" Type="Metabolite">
     <Graphics CenterX="2892.894231597989" CenterY="549.2403916254666" Width="47.5" Height="23.5" ZOrder="33086" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01200" />
+    <Xref Database="HMDB" ID="HMDB0001200" />
   </DataNode>
   <DataNode TextLabel="Oxoadipic acid" GraphId="d62c9" Type="Metabolite">
     <Graphics CenterX="2507.5239956633245" CenterY="597.4418435310931" Width="47.5" Height="23.5" ZOrder="33087" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00225" />
+    <Xref Database="HMDB" ID="HMDB0000225" />
   </DataNode>
   <DataNode TextLabel="L-Kynurenine" GraphId="d69e6" Type="Metabolite">
     <Graphics CenterX="3019.894231597989" CenterY="548.2403916254666" Width="47.5" Height="23.5" ZOrder="33091" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00684" />
+    <Xref Database="HMDB" ID="HMDB0000684" />
   </DataNode>
   <DataNode TextLabel="L-3-Hydroxykynurenine" GraphId="b87bf" Type="Metabolite">
     <Graphics CenterX="3139.5365080207516" CenterY="546.614375365304" Width="47.5" Height="23.5" ZOrder="33092" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB11631" />
+    <Xref Database="HMDB" ID="HMDB0011631" />
   </DataNode>
   <DataNode TextLabel="3-Hydroxyanthranilic acid" GraphId="f9e17" Type="Metabolite">
     <Graphics CenterX="3139.5365080207516" CenterY="446.61437536530354" Width="47.5" Height="23.5" ZOrder="33096" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01476" />
+    <Xref Database="HMDB" ID="HMDB0001476" />
   </DataNode>
   <DataNode TextLabel="Xanthurenic acid" GraphId="c923b" Type="Metabolite">
     <Graphics CenterX="3012.894231597989" CenterY="456.24039162546615" Width="47.5" Height="23.5" ZOrder="33098" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00881" />
+    <Xref Database="HMDB" ID="HMDB0000881" />
   </DataNode>
   <DataNode TextLabel="Kynurenic acid" GraphId="b7bc7" Type="Metabolite">
     <Graphics CenterX="2931.894231597989" CenterY="454.24039162546615" Width="47.5" Height="23.5" ZOrder="33099" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00715" />
+    <Xref Database="HMDB" ID="HMDB0000715" />
   </DataNode>
   <DataNode TextLabel="2-Aminobenzoic acid" GraphId="a4de4" Type="Metabolite">
     <Graphics CenterX="2865.894231597989" CenterY="455.24039162546615" Width="47.5" Height="23.5" ZOrder="33100" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01123" />
+    <Xref Database="HMDB" ID="HMDB0001123" />
   </DataNode>
   <DataNode TextLabel="2-Amino-3-carboxymuconic acid semialdehyde" GraphId="a0adf" Type="Metabolite">
     <Graphics CenterX="3139.5365080207516" CenterY="365.6143753653037" Width="47.5" Height="23.5" ZOrder="33104" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01330" />
+    <Xref Database="HMDB" ID="HMDB0001330" />
   </DataNode>
   <DataNode TextLabel="Quinolinic acid" GraphId="d13c0" Type="Metabolite">
     <Graphics CenterX="3009.894231597989" CenterY="366.2403916254663" Width="47.5" Height="23.5" ZOrder="33106" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00232" />
+    <Xref Database="HMDB" ID="HMDB0000232" />
   </DataNode>
   <DataNode TextLabel="2-Aminomuconic acid semialdehyde" GraphId="dc95d" Type="Metabolite">
     <Graphics CenterX="3139.5365080207516" CenterY="293.2403916254665" Width="47.5" Height="23.5" ZOrder="33108" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01280" />
+    <Xref Database="HMDB" ID="HMDB0001280" />
   </DataNode>
   <DataNode TextLabel="Picolinic acid" GraphId="b58ca" Type="Metabolite">
     <Graphics CenterX="2996.894231597989" CenterY="292.2403916254665" Width="47.5" Height="23.5" ZOrder="33110" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02243" />
+    <Xref Database="HMDB" ID="HMDB0002243" />
   </DataNode>
   <DataNode TextLabel="2-Aminomuconic acid" GraphId="bb6ac" Type="Metabolite">
     <Graphics CenterX="3139.5365080207516" CenterY="200.24039162546637" Width="47.5" Height="23.5" ZOrder="33112" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01241" />
+    <Xref Database="HMDB" ID="HMDB0001241" />
   </DataNode>
   <DataNode TextLabel="Aminoadipic acid" GraphId="ad3b8" Type="Metabolite">
     <Graphics CenterX="2601.5239956633245" CenterY="597.4418435310931" Width="47.5" Height="23.5" ZOrder="33115" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00510" />
+    <Xref Database="HMDB" ID="HMDB0000510" />
   </DataNode>
   <DataNode TextLabel="Saccharopine" GraphId="eff29" Type="Metabolite">
     <Graphics CenterX="2758.428454262051" CenterY="632.4545823845962" Width="47.5" Height="23.5" ZOrder="33116" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00279" />
+    <Xref Database="HMDB" ID="HMDB0000279" />
   </DataNode>
   <DataNode TextLabel="L-Lysine" GraphId="fbbf7" Type="Metabolite">
     <Graphics CenterX="2787.2882233056002" CenterY="691.3242745877087" Width="47.5" Height="23.5" ZOrder="33117" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00182" />
+    <Xref Database="HMDB" ID="HMDB0000182" />
   </DataNode>
   <DataNode TextLabel="N6-Acetyl-L-lysine" GraphId="e5a27" Type="Metabolite">
     <Graphics CenterX="2869.1087418011675" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33119" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00206" />
+    <Xref Database="HMDB" ID="HMDB0000206" />
   </DataNode>
   <DataNode TextLabel="2-Keto-6-aminocaproate" GraphId="fff59" Type="Metabolite">
     <Graphics CenterX="3055.2938597684997" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33120" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB12151" />
+    <Xref Database="HMDB" ID="HMDB0012151" />
   </DataNode>
   <DataNode TextLabel="2-Keto-6-acetamidocaproate" GraphId="f3d61" Type="Metabolite">
     <Graphics CenterX="2961.1087418011675" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33122" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB12150" />
+    <Xref Database="HMDB" ID="HMDB0012150" />
   </DataNode>
   <DataNode TextLabel="D-1-Piperideine-2-carboxylic acid" GraphId="e530a" Type="Metabolite">
     <Graphics CenterX="3054.7948985960356" CenterY="597.4418435310931" Width="47.5" Height="23.5" ZOrder="33125" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01084" />
+    <Xref Database="HMDB" ID="HMDB0001084" />
   </DataNode>
   <DataNode TextLabel="L-Pipecolic acid" GraphId="a14b0" Type="Metabolite">
     <Graphics CenterX="2939.801672614323" CenterY="597.4418435310931" Width="47.5" Height="23.5" ZOrder="33126" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00716" />
+    <Xref Database="HMDB" ID="HMDB0000716" />
   </DataNode>
   <DataNode TextLabel="Glutaric acid" GraphId="a6b3a" Type="Metabolite">
     <Graphics CenterX="2444.595946882806" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33132" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00661" />
+    <Xref Database="HMDB" ID="HMDB0000661" />
   </DataNode>
   <DataNode TextLabel="Glutaconyl-CoA" GraphId="bbad3" Type="Metabolite">
     <Graphics CenterX="2635.595946882806" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33134" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01290" />
+    <Xref Database="HMDB" ID="HMDB0001290" />
   </DataNode>
   <DataNode TextLabel="Crotonoyl-CoA" GraphId="fa7b2" Type="Metabolite">
     <Graphics CenterX="2714.595946882806" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33136" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02009" />
+    <Xref Database="HMDB" ID="HMDB0002009" />
   </DataNode>
   <DataNode TextLabel="Allysine" GraphId="e8052" Type="Metabolite">
     <Graphics CenterX="2684.5239956633245" CenterY="597.4418435310931" Width="47.5" Height="23.5" ZOrder="33138" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01263" />
+    <Xref Database="HMDB" ID="HMDB0001263" />
   </DataNode>
   <DataNode TextLabel="5-Hydroxylysine" GraphId="d95dd" Type="Metabolite">
     <Graphics CenterX="2923.5681168469255" CenterY="734.2523362828106" Width="47.5" Height="23.5" ZOrder="33143" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00450" />
+    <Xref Database="HMDB" ID="HMDB0000450" />
   </DataNode>
   <DataNode TextLabel="Galactosylhydroxylysine" GraphId="e1eed" Type="Metabolite">
     <Graphics CenterX="3018.941806074761" CenterY="778.7385135945367" Width="47.5" Height="23.5" ZOrder="33144" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00600" />
+    <Xref Database="HMDB" ID="HMDB0000600" />
   </DataNode>
   <DataNode TextLabel="Hydroxymethylbilane" GraphId="e59b0" Type="Metabolite">
     <Graphics CenterX="2163.1941457005187" CenterY="1194.746743712581" Width="47.5" Height="23.5" ZOrder="33146" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01137" />
+    <Xref Database="HMDB" ID="HMDB0001137" />
   </DataNode>
   <DataNode TextLabel="Uroporphyrinogen I" GraphId="cdc42" Type="Metabolite">
     <Graphics CenterX="2163.0856822658443" CenterY="1133.746743712581" Width="47.5" Height="23.5" ZOrder="33148" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02211" />
+    <Xref Database="HMDB" ID="HMDB0002211" />
   </DataNode>
   <DataNode TextLabel="Uroporphyrinogen III" GraphId="cc66e" Type="Metabolite">
     <Graphics CenterX="2286.1941457005173" CenterY="1194.7467437125813" Width="47.5" Height="23.5" ZOrder="33149" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01086" />
+    <Xref Database="HMDB" ID="HMDB0001086" />
   </DataNode>
   <DataNode TextLabel="Uroporphyrin III" GraphId="a3f45" Type="Metabolite">
     <Graphics CenterX="2316.3724530135823" CenterY="1133.7467437125813" Width="47.5" Height="23.5" ZOrder="33150" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00916" />
+    <Xref Database="HMDB" ID="HMDB0000916" />
   </DataNode>
   <DataNode TextLabel="Coproporphyrinogen III" GraphId="f443a" Type="Metabolite">
     <Graphics CenterX="2414.3724530135823" CenterY="1133.746743712581" Width="47.5" Height="23.5" ZOrder="33154" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01261" />
+    <Xref Database="HMDB" ID="HMDB0001261" />
   </DataNode>
   <DataNode TextLabel="Coproporphyrin III" GraphId="ce9c7" Type="Metabolite">
     <Graphics CenterX="2464.3724530135823" CenterY="1077.746743712581" Width="47.5" Height="23.5" ZOrder="33156" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00570" />
+    <Xref Database="HMDB" ID="HMDB0000570" />
   </DataNode>
   <DataNode TextLabel="Protoporphyrinogen IX" GraphId="a262b" Type="Metabolite">
     <Graphics CenterX="2507.3724530135823" CenterY="1133.7467437125813" Width="47.5" Height="23.5" ZOrder="33157" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01097" />
+    <Xref Database="HMDB" ID="HMDB0001097" />
   </DataNode>
   <DataNode TextLabel="Coproporphyrinogen I" GraphId="ba61b" Type="Metabolite">
     <Graphics CenterX="2245.3724530135823" CenterY="1133.7467437125813" Width="47.5" Height="23.5" ZOrder="33160" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02158" />
+    <Xref Database="HMDB" ID="HMDB0002158" />
   </DataNode>
   <DataNode TextLabel="Coproporphyrin I" GraphId="dd16e" Type="Metabolite">
     <Graphics CenterX="2376.3724530135823" CenterY="1077.7467437125813" Width="47.5" Height="23.5" ZOrder="33161" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00643" />
+    <Xref Database="HMDB" ID="HMDB0000643" />
   </DataNode>
   <DataNode TextLabel="Uroporphyrin I" GraphId="da54f" Type="Metabolite">
     <Graphics CenterX="2271.3724530135823" CenterY="1077.746743712581" Width="47.5" Height="23.5" ZOrder="33164" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00936" />
+    <Xref Database="HMDB" ID="HMDB0000936" />
   </DataNode>
   <DataNode TextLabel="Protoporphyrin IX" GraphId="dcf70" Type="Metabolite">
     <Graphics CenterX="2542.3724530135823" CenterY="1194.7467437125815" Width="47.5" Height="23.5" ZOrder="33166" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00241" />
+    <Xref Database="HMDB" ID="HMDB0000241" />
   </DataNode>
   <DataNode TextLabel="Heme" GraphId="b3801" Type="Metabolite">
     <Graphics CenterX="2580.3724530135823" CenterY="1133.7467437125815" Width="47.5" Height="23.5" ZOrder="33168" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03178" />
+    <Xref Database="HMDB" ID="HMDB0003178" />
   </DataNode>
   <DataNode TextLabel="Adenosine phosphosulfate" GraphId="fd32a" Type="Metabolite">
     <Graphics CenterX="2712.6717857113904" CenterY="755.988123022925" Width="47.5" Height="23.5" ZOrder="33170" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01003" />
+    <Xref Database="HMDB" ID="HMDB0001003" />
   </DataNode>
   <DataNode TextLabel="Acetyl-CoA" GraphId="c3bee" Type="Metabolite">
     <Graphics CenterX="1853.0911462985343" CenterY="968.184130282453" Width="47.5" Height="23.5" ZOrder="33172" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01206" />
+    <Xref Database="HMDB" ID="HMDB0001206" />
   </DataNode>
   <DataNode TextLabel="D-Lactic acid" GraphId="c5cc0" Type="Metabolite">
     <Graphics CenterX="2299.6356109083335" CenterY="1012.2530957996961" Width="47.5" Height="23.5" ZOrder="33174" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01311" />
+    <Xref Database="HMDB" ID="HMDB0001311" />
   </DataNode>
   <DataNode TextLabel="L-Threonine" GraphId="fea76" Type="Metabolite">
     <Graphics CenterX="1983.780801470948" CenterY="905.5888489757378" Width="47.5" Height="23.5" ZOrder="33177" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00167" />
+    <Xref Database="HMDB" ID="HMDB0000167" />
   </DataNode>
   <DataNode TextLabel="Glycine" GraphId="f8663" Type="Metabolite">
     <Graphics CenterX="2077.9901481134148" CenterY="907.1978326418" Width="47.5" Height="23.5" ZOrder="33178" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00123" />
+    <Xref Database="HMDB" ID="HMDB0000123" />
   </DataNode>
   <DataNode TextLabel="Acetaldehyde" GraphId="c3af8" Type="Metabolite">
     <Graphics CenterX="2083.4529430317452" CenterY="957.1252373604939" Width="47.5" Height="23.5" ZOrder="33179" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00990" />
+    <Xref Database="HMDB" ID="HMDB0000990" />
   </DataNode>
   <DataNode TextLabel="2-Ketobutyric acid" GraphId="b0889" Type="Metabolite">
     <Graphics CenterX="1977.4468631769378" CenterY="844.8084497016894" Width="47.5" Height="23.5" ZOrder="33182" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00005" />
+    <Xref Database="HMDB" ID="HMDB0000005" />
   </DataNode>
   <DataNode TextLabel="2-Hydroxybutyric acid" GraphId="b0300" Type="Metabolite">
     <Graphics CenterX="2084.5430519246693" CenterY="839.381952424013" Width="47.5" Height="23.5" ZOrder="33183" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00008" />
+    <Xref Database="HMDB" ID="HMDB0000008" />
   </DataNode>
   <DataNode TextLabel="L-Homoserine" GraphId="e5b4a" Type="Metabolite">
     <Graphics CenterX="1851.3307107268474" CenterY="921.0516438940683" Width="47.5" Height="23.5" ZOrder="33184" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00719" />
+    <Xref Database="HMDB" ID="HMDB0000719" />
   </DataNode>
   <DataNode TextLabel="N-acetyl-S-(3-oxo-3-carboxy-n-propyl)cysteine" GraphId="eae35" Type="Metabolite">
     <Graphics CenterX="1981.0947760626004" CenterY="773.1387582316354" Width="47.5" Height="23.5" ZOrder="33188" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02194" />
+    <Xref Database="HMDB" ID="HMDB0002194" />
   </DataNode>
   <DataNode TextLabel="Homocysteine" GraphId="f1b64" Type="Metabolite">
     <Graphics CenterX="1981.3017906554326" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33189" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00742" />
+    <Xref Database="HMDB" ID="HMDB0000742" />
   </DataNode>
   <DataNode TextLabel="S-Adenosylhomocysteine" GraphId="a811a" Type="Metabolite">
     <Graphics CenterX="2092.9351844848325" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33190" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00939" />
+    <Xref Database="HMDB" ID="HMDB0000939" />
   </DataNode>
   <DataNode TextLabel="S-Adenosylmethionine" GraphId="b8ad4" Type="Metabolite">
     <Graphics CenterX="2196.4016091672265" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33191" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01185" />
+    <Xref Database="HMDB" ID="HMDB0001185" />
   </DataNode>
   <DataNode TextLabel="L-Methionine" GraphId="afd34" Type="Metabolite">
     <Graphics CenterX="2276.6522989699506" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33196" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00696" />
+    <Xref Database="HMDB" ID="HMDB0000696" />
   </DataNode>
   <DataNode TextLabel="Methionine sulfoxide" GraphId="e41d2" Type="Metabolite">
     <Graphics CenterX="2364.6922263746665" CenterY="692.9502908478713" Width="47.5" Height="23.5" ZOrder="33197" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02005" />
+    <Xref Database="HMDB" ID="HMDB0002005" />
   </DataNode>
   <DataNode TextLabel="L-Cysteine" GraphId="bb864" Type="Metabolite">
     <Graphics CenterX="2129.0716583755448" CenterY="808.8221936701041" Width="47.5" Height="23.5" ZOrder="33200" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00574" />
+    <Xref Database="HMDB" ID="HMDB0000574" />
   </DataNode>
   <DataNode TextLabel="3-Mercaptopyruvic acid" GraphId="d83f2" Type="Metabolite">
     <Graphics CenterX="2256.1964284876035" CenterY="779.5271429866268" Width="47.5" Height="23.5" ZOrder="33202" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01368" />
+    <Xref Database="HMDB" ID="HMDB0001368" />
   </DataNode>
   <DataNode TextLabel="Pyruvic acid" GraphId="b60ce" Type="Metabolite">
     <Graphics CenterX="2345.94051108982" CenterY="779.5271429866268" Width="47.5" Height="23.5" ZOrder="33204" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00243" />
+    <Xref Database="HMDB" ID="HMDB0000243" />
   </DataNode>
   <DataNode TextLabel="L-Cystine" GraphId="a1988" Type="Metabolite">
     <Graphics CenterX="2244.288968440092" CenterY="846.6777781953374" Width="47.5" Height="23.5" ZOrder="33207" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00192" />
+    <Xref Database="HMDB" ID="HMDB0000192" />
   </DataNode>
   <DataNode TextLabel="Thiocysteine" GraphId="cd8b8" Type="Metabolite">
     <Graphics CenterX="2349.5702751551576" CenterY="847.6033680319986" Width="47.5" Height="23.5" ZOrder="33208" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03585" />
+    <Xref Database="HMDB" ID="HMDB0003585" />
   </DataNode>
   <DataNode TextLabel="3-Sulfinoalanine" GraphId="c4dcf" Type="Metabolite">
     <Graphics CenterX="2298.771727060785" CenterY="912.0498290120347" Width="47.5" Height="23.5" ZOrder="33213" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00996" />
+    <Xref Database="HMDB" ID="HMDB0000996" />
   </DataNode>
   <DataNode TextLabel="Hypotaurine" GraphId="d03df" Type="Metabolite">
     <Graphics CenterX="2384.9967724328344" CenterY="915.6977418976969" Width="47.5" Height="23.5" ZOrder="33214" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00965" />
+    <Xref Database="HMDB" ID="HMDB0000965" />
   </DataNode>
   <DataNode TextLabel="Cysteic acid" GraphId="f6a5b" Type="Metabolite">
     <Graphics CenterX="2299.697316897446" CenterY="961.0697927143938" Width="47.5" Height="23.5" ZOrder="33215" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02757" />
+    <Xref Database="HMDB" ID="HMDB0002757" />
   </DataNode>
   <DataNode TextLabel="Taurine" GraphId="fe8b4" Type="Metabolite">
     <Graphics CenterX="2386.8298032858293" CenterY="965.6251466163903" Width="47.5" Height="23.5" ZOrder="33216" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00251" />
+    <Xref Database="HMDB" ID="HMDB0000251" />
   </DataNode>
   <DataNode TextLabel="3-Sulfinylpyruvic acid" GraphId="f2928" Type="Metabolite">
     <Graphics CenterX="2487.5194584582414" CenterY="779.5271429866268" Width="47.5" Height="23.5" ZOrder="33222" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01405" />
+    <Xref Database="HMDB" ID="HMDB0001405" />
   </DataNode>
   <DataNode TextLabel="Sulfite" GraphId="ca82c" Type="Metabolite">
     <Graphics CenterX="2549.243596389274" CenterY="755.988123022925" Width="47.5" Height="23.5" ZOrder="33226" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00240" />
+    <Xref Database="HMDB" ID="HMDB0000240" />
   </DataNode>
   <DataNode TextLabel="Sulfate" GraphId="a4a4d" Type="Metabolite">
     <Graphics CenterX="2634.8726199688967" CenterY="755.9881230229252" Width="47.5" Height="23.5" ZOrder="33227" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01448" />
+    <Xref Database="HMDB" ID="HMDB0001448" />
   </DataNode>
   <DataNode TextLabel="Phosphoadenosine phosphosulfate" GraphId="fd12f" Type="Metabolite">
     <Graphics CenterX="2778.9158276561016" CenterY="755.988123022925" Width="47.5" Height="23.5" ZOrder="33230" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01134" />
+    <Xref Database="HMDB" ID="HMDB0001134" />
   </DataNode>
   <DataNode TextLabel="Adenosine 3',5'-diphosphate" GraphId="ea141" Type="Metabolite">
     <Graphics CenterX="2852.786180372976" CenterY="755.9881230229249" Width="47.5" Height="23.5" ZOrder="33231" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00061" />
+    <Xref Database="HMDB" ID="HMDB0000061" />
   </DataNode>
   <DataNode TextLabel="L-Serine" GraphId="a9aa8" Type="Metabolite">
     <Graphics CenterX="2129.6588894164697" CenterY="744.7378493309284" Width="47.5" Height="23.5" ZOrder="33234" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00187" />
+    <Xref Database="HMDB" ID="HMDB0000187" />
   </DataNode>
   <DataNode TextLabel="O-Acetylserine" GraphId="c2ae2" Type="Metabolite">
     <Graphics CenterX="2173.023999044688" CenterY="773.8036262613389" Width="47.5" Height="23.5" ZOrder="33236" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03011" />
+    <Xref Database="HMDB" ID="HMDB0003011" />
   </DataNode>
   <DataNode TextLabel="R-Methylmalonyl-CoA" GraphId="a735e" Type="Metabolite">
     <Graphics CenterX="2437.144512134787" CenterY="1026.2010227857268" Width="47.5" Height="23.5" ZOrder="33241" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02255" />
+    <Xref Database="HMDB" ID="HMDB0002255" />
   </DataNode>
   <DataNode TextLabel="S-Methylmalonyl-CoA" GraphId="ee430" Type="Metabolite">
     <Graphics CenterX="2552.0062852520427" CenterY="1026.2010227857268" Width="47.5" Height="23.5" ZOrder="33242" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02310" />
+    <Xref Database="HMDB" ID="HMDB0002310" />
   </DataNode>
   <DataNode TextLabel="Propionyl-CoA" GraphId="ca059" Type="Metabolite">
     <Graphics CenterX="2636.8299268154383" CenterY="1026.2010227857268" Width="47.5" Height="23.5" ZOrder="33243" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01275" />
+    <Xref Database="HMDB" ID="HMDB0001275" />
   </DataNode>
   <DataNode TextLabel="Propinol adenylate" GraphId="f3f1b" Type="Metabolite">
     <Graphics CenterX="2636.8299268154387" CenterY="947.5832916131824" Width="47.5" Height="23.5" ZOrder="33246" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06806" />
+    <Xref Database="HMDB" ID="HMDB0006806" />
   </DataNode>
   <DataNode TextLabel="Propionic acid" GraphId="de2d1" Type="Metabolite">
     <Graphics CenterX="2727.8594787696825" CenterY="948.0504031479777" Width="47.5" Height="23.5" ZOrder="33247" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00237" />
+    <Xref Database="HMDB" ID="HMDB0000237" />
   </DataNode>
   <DataNode TextLabel="Acrylyl-CoA" GraphId="b8e26" Type="Metabolite">
     <Graphics CenterX="2727.392367234889" CenterY="1026.2010227857268" Width="47.5" Height="23.5" ZOrder="33250" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02307" />
+    <Xref Database="HMDB" ID="HMDB0002307" />
   </DataNode>
   <DataNode TextLabel="3-Hydroxypropionyl-CoA" GraphId="d48b3" Type="Metabolite">
     <Graphics CenterX="2827.001518807816" CenterY="1026.2010227857268" Width="47.5" Height="23.5" ZOrder="33252" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06807" />
+    <Xref Database="HMDB" ID="HMDB0006807" />
   </DataNode>
   <DataNode TextLabel="Hydroxypropionic acid" GraphId="ddb92" Type="Metabolite">
     <Graphics CenterX="2914.217915375978" CenterY="1026.2010227857268" Width="47.5" Height="23.5" ZOrder="33253" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00700" />
+    <Xref Database="HMDB" ID="HMDB0000700" />
   </DataNode>
   <DataNode TextLabel="Malonic semialdehyde" GraphId="f0db8" Type="Metabolite">
     <Graphics CenterX="2995.7145788650178" CenterY="1026.2010227857268" Width="47.5" Height="23.5" ZOrder="33256" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB11111" />
+    <Xref Database="HMDB" ID="HMDB0011111" />
   </DataNode>
   <DataNode TextLabel="Malonic acid" GraphId="d2f79" Type="Metabolite">
     <Graphics CenterX="2991.4152461672074" CenterY="923.7129388963074" Width="47.5" Height="23.5" ZOrder="33258" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00691" />
+    <Xref Database="HMDB" ID="HMDB0000691" />
   </DataNode>
   <DataNode TextLabel="Malonyl-CoA" GraphId="f4565" Type="Metabolite">
     <Graphics CenterX="3079.584931581889" CenterY="921.3201838915404" Width="47.5" Height="23.5" ZOrder="33259" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01175" />
+    <Xref Database="HMDB" ID="HMDB0001175" />
   </DataNode>
   <DataNode TextLabel="Acetyl-CoA" GraphId="d4151" Type="Metabolite">
     <Graphics CenterX="3081.958620809725" CenterY="1016.1628912318647" Width="47.5" Height="23.5" ZOrder="33260" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01206" />
+    <Xref Database="HMDB" ID="HMDB0001206" />
   </DataNode>
   <DataNode TextLabel="L-4-Hydroxyglutamate semialdehyde" GraphId="a5f13" Type="Metabolite">
     <Graphics CenterX="2290.10362334961" CenterY="1472.8266973626382" Width="47.5" Height="23.5" ZOrder="33264" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06556" />
+    <Xref Database="HMDB" ID="HMDB0006556" />
   </DataNode>
   <DataNode TextLabel="4-Hydroxy-L-glutamic acid" GraphId="b3d69" Type="Metabolite">
     <Graphics CenterX="2291.2623719011735" CenterY="1390.555550201573" Width="47.5" Height="23.5" ZOrder="33266" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02273" />
+    <Xref Database="HMDB" ID="HMDB0002273" />
   </DataNode>
   <DataNode TextLabel="4-Hydroxy-2-oxoglutaric acid" GraphId="ce9e5" Type="Metabolite">
     <Graphics CenterX="2347.612313963744" CenterY="1322.9193972467644" Width="47.5" Height="23.5" ZOrder="33267" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02070" />
+    <Xref Database="HMDB" ID="HMDB0002070" />
   </DataNode>
   <DataNode TextLabel="Glyoxylic acid" GraphId="bc9cf" Type="Metabolite">
     <Graphics CenterX="2445.677203882631" CenterY="1322.4906602826861" Width="47.5" Height="23.5" ZOrder="33268" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00119" />
+    <Xref Database="HMDB" ID="HMDB0000119" />
   </DataNode>
   <DataNode TextLabel="Oxoglutaric acid" GraphId="c6e33" Type="Metabolite">
     <Graphics CenterX="2419.4547241607324" CenterY="1479.3504517079443" Width="47.5" Height="23.5" ZOrder="33272" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00208" />
+    <Xref Database="HMDB" ID="HMDB0000208" />
   </DataNode>
   <DataNode TextLabel="Pyruvic acid" GraphId="acdd5" Type="Metabolite">
     <Graphics CenterX="2434.0897183669886" CenterY="1375.7930936546454" Width="47.5" Height="23.5" ZOrder="33273" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00243" />
+    <Xref Database="HMDB" ID="HMDB0000243" />
   </DataNode>
   <DataNode TextLabel="L-Glutamic acid" GraphId="d9525" Type="Metabolite">
     <Graphics CenterX="2385.4222792012906" CenterY="1416.3492929593933" Width="47.5" Height="23.5" ZOrder="33276" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00148" />
+    <Xref Database="HMDB" ID="HMDB0000148" />
   </DataNode>
   <DataNode TextLabel="L-Alanine" GraphId="f18a3" Type="Metabolite">
     <Graphics CenterX="2548.3770880077773" CenterY="1417.0793045468793" Width="47.5" Height="23.5" ZOrder="33279" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00161" />
+    <Xref Database="HMDB" ID="HMDB0000161" />
   </DataNode>
   <DataNode TextLabel="L-Glutamic-gamma-semialdehyde" GraphId="ea7e0" Type="Metabolite">
     <Graphics CenterX="1844.4199617042098" CenterY="1504.4304053580036" Width="47.5" Height="23.5" ZOrder="33282" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02104" />
+    <Xref Database="HMDB" ID="HMDB0002104" />
   </DataNode>
   <DataNode TextLabel="5-Amino-2-oxopentanoic acid" GraphId="de052" Type="Metabolite">
     <Graphics CenterX="1949.387516744758" CenterY="1556.6679488110735" Width="47.5" Height="23.5" ZOrder="33285" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06272" />
+    <Xref Database="HMDB" ID="HMDB0006272" />
   </DataNode>
   <DataNode TextLabel="Phosphoguanidinoacetate" GraphId="ea46b" Type="Metabolite">
     <Graphics CenterX="1723.8785943809232" CenterY="1394.3579835735316" Width="47.5" Height="23.5" ZOrder="33288" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03705" />
+    <Xref Database="HMDB" ID="HMDB0003705" />
   </DataNode>
   <DataNode TextLabel="Guanidoacetic acid" GraphId="ac350" Type="Metabolite">
     <Graphics CenterX="1634.2262189463945" CenterY="1395.0879951610173" Width="47.5" Height="23.5" ZOrder="33289" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00128" />
+    <Xref Database="HMDB" ID="HMDB0000128" />
   </DataNode>
   <DataNode TextLabel="Creatine" GraphId="d2070" Type="Metabolite">
     <Graphics CenterX="1629.1624877760592" CenterY="1347.1505675828028" Width="47.5" Height="23.5" ZOrder="33292" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00064" />
+    <Xref Database="HMDB" ID="HMDB0000064" />
   </DataNode>
   <DataNode TextLabel="Phosphocreatine" GraphId="f8555" Type="Metabolite">
     <Graphics CenterX="1717.9573892824324" CenterY="1354.8330704796742" Width="47.5" Height="23.5" ZOrder="33293" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01511" />
+    <Xref Database="HMDB" ID="HMDB0001511" />
   </DataNode>
   <DataNode TextLabel="Orotidylic acid" GraphId="b2c10" Type="Metabolite">
     <Graphics CenterX="2362.667806769389" CenterY="1658.2369190998606" Width="47.5" Height="23.5" ZOrder="33296" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00218" />
+    <Xref Database="HMDB" ID="HMDB0000218" />
   </DataNode>
   <DataNode TextLabel="Uridine 5'-monophosphate" GraphId="e45ef" Type="Metabolite">
     <Graphics CenterX="2634.544979422917" CenterY="1658.2369190998606" Width="47.5" Height="23.5" ZOrder="33298" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00288" />
+    <Xref Database="HMDB" ID="HMDB0000288" />
   </DataNode>
   <DataNode TextLabel="1-Pyrroline-4-hydroxy-2-carboxylate" GraphId="c30dd" Type="Metabolite">
     <Graphics CenterX="2290.7809698154338" CenterY="1532.1254806766606" Width="47.5" Height="23.5" ZOrder="33300" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02234" />
+    <Xref Database="HMDB" ID="HMDB0002234" />
   </DataNode>
   <DataNode TextLabel="allo-4-hydroxy-d-proline" GraphId="ad1fd" Type="Metabolite">
     <Graphics CenterX="2197.699677716181" CenterY="1531.495316306812" Width="46.5" Height="23.5" ZOrder="33301" FontSize="10" Valign="Middle" />
@@ -1073,7 +1073,7 @@
   </DataNode>
   <DataNode TextLabel="Pyrrole-2-carboxylic acid" GraphId="c3279" Type="Metabolite">
     <Graphics CenterX="2329.320946640463" CenterY="1575.3004517079457" Width="47.5" Height="23.5" ZOrder="33303" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04230" />
+    <Xref Database="HMDB" ID="HMDB0004230" />
   </DataNode>
   <DataNode TextLabel="2-oxo-4-hydroxy-5-aminovaleric acid" GraphId="d50e1" Type="Metabolite">
     <Graphics CenterX="2397.7344401727273" CenterY="1532.2253278942978" Width="46.5" Height="23.5" ZOrder="33306" FontSize="10" Valign="Middle" />
@@ -1081,135 +1081,135 @@
   </DataNode>
   <DataNode TextLabel="Uridine 5'-diphosphate" GraphId="daf8d" Type="Metabolite">
     <Graphics CenterX="2746.35032091624" CenterY="1678.8078676986734" Width="47.5" Height="23.5" ZOrder="33308" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00295" />
+    <Xref Database="HMDB" ID="HMDB0000295" />
   </DataNode>
   <DataNode TextLabel="Uridine triphosphate" GraphId="ffc3a" Type="Metabolite">
     <Graphics CenterX="2766.7790578803215" CenterY="1628.5529430173315" Width="47.5" Height="23.5" ZOrder="33309" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00285" />
+    <Xref Database="HMDB" ID="HMDB0000285" />
   </DataNode>
   <DataNode TextLabel="Uridine" GraphId="b5629" Type="Metabolite">
     <Graphics CenterX="2633.951711414502" CenterY="1559.260517690188" Width="47.5" Height="23.5" ZOrder="33313" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00296" />
+    <Xref Database="HMDB" ID="HMDB0000296" />
   </DataNode>
   <DataNode TextLabel="Uracil" GraphId="fec0e" Type="Metabolite">
     <Graphics CenterX="2721.2498345370714" CenterY="1559.2605176901882" Width="47.5" Height="23.5" ZOrder="33314" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00300" />
+    <Xref Database="HMDB" ID="HMDB0000300" />
   </DataNode>
   <DataNode TextLabel="Cytidine" GraphId="e0cad" Type="Metabolite">
     <Graphics CenterX="2639.316717208245" CenterY="1395.6444841529055" Width="47.5" Height="23.5" ZOrder="33316" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00089" />
+    <Xref Database="HMDB" ID="HMDB0000089" />
   </DataNode>
   <DataNode TextLabel="Cytidine monophosphate" GraphId="f8078" Type="Metabolite">
     <Graphics CenterX="2641.205477347295" CenterY="1337.2783196106127" Width="47.5" Height="23.5" ZOrder="33318" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00095" />
+    <Xref Database="HMDB" ID="HMDB0000095" />
   </DataNode>
   <DataNode TextLabel="Cytidine triphosphate" GraphId="fbfdb" Type="Metabolite">
     <Graphics CenterX="2767.0803325037264" CenterY="1339.167079749663" Width="47.5" Height="23.5" ZOrder="33319" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00082" />
+    <Xref Database="HMDB" ID="HMDB0000082" />
   </DataNode>
   <DataNode TextLabel="CDP" GraphId="e1e6a" Type="Metabolite">
     <Graphics CenterX="2728.412893338026" CenterY="1302.817137687092" Width="47.5" Height="23.5" ZOrder="33320" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01546" />
+    <Xref Database="HMDB" ID="HMDB0001546" />
   </DataNode>
   <DataNode TextLabel="Cytosine" GraphId="b07a1" Type="Metabolite">
     <Graphics CenterX="2718.841630302102" CenterY="1394.056998637263" Width="47.5" Height="23.5" ZOrder="33324" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00630" />
+    <Xref Database="HMDB" ID="HMDB0000630" />
   </DataNode>
   <DataNode TextLabel="Dihydrouracil" GraphId="c805e" Type="Metabolite">
     <Graphics CenterX="2826.490108798826" CenterY="1559.260517690188" Width="47.5" Height="23.5" ZOrder="33328" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00076" />
+    <Xref Database="HMDB" ID="HMDB0000076" />
   </DataNode>
   <DataNode TextLabel="Ureidopropionic acid" GraphId="d919e" Type="Metabolite">
     <Graphics CenterX="2896.860170278925" CenterY="1559.2605176901884" Width="47.5" Height="23.5" ZOrder="33329" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00026" />
+    <Xref Database="HMDB" ID="HMDB0000026" />
   </DataNode>
   <DataNode TextLabel="Beta-Alanine" GraphId="b53da" Type="Metabolite">
     <Graphics CenterX="2965.9563464087064" CenterY="1559.2605176901882" Width="47.5" Height="23.5" ZOrder="33330" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00056" />
+    <Xref Database="HMDB" ID="HMDB0000056" />
   </DataNode>
   <DataNode TextLabel="Deoxyuridine triphosphate" GraphId="f9c91" Type="Metabolite">
     <Graphics CenterX="3271.564689398268" CenterY="1638.552943017331" Width="47.5" Height="23.5" ZOrder="33335" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01191" />
+    <Xref Database="HMDB" ID="HMDB0001191" />
   </DataNode>
   <DataNode TextLabel="dUDP" GraphId="e54bd" Type="Metabolite">
     <Graphics CenterX="3157.578594380889" CenterY="1672.8866626001814" Width="47.5" Height="23.5" ZOrder="33336" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01000" />
+    <Xref Database="HMDB" ID="HMDB0001000" />
   </DataNode>
   <DataNode TextLabel="dUMP" GraphId="be68a" Type="Metabolite">
     <Graphics CenterX="3011.1475399197107" CenterY="1642.3304632954323" Width="47.5" Height="23.5" ZOrder="33337" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01409" />
+    <Xref Database="HMDB" ID="HMDB0001409" />
   </DataNode>
   <DataNode TextLabel="dCTP" GraphId="c30e9" Type="Metabolite">
     <Graphics CenterX="3247.5322444388257" CenterY="1392.0407761575436" Width="47.5" Height="23.5" ZOrder="33340" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00998" />
+    <Xref Database="HMDB" ID="HMDB0000998" />
   </DataNode>
   <DataNode TextLabel="dCDP" GraphId="ce276" Type="Metabolite">
     <Graphics CenterX="3150.9273776949094" CenterY="1390.4532906419001" Width="47.5" Height="23.5" ZOrder="33341" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01245" />
+    <Xref Database="HMDB" ID="HMDB0001245" />
   </DataNode>
   <DataNode TextLabel="dCMP" GraphId="abe1d" Type="Metabolite">
     <Graphics CenterX="3007.512021693404" CenterY="1397.2073185847162" Width="47.5" Height="23.5" ZOrder="33342" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01202" />
+    <Xref Database="HMDB" ID="HMDB0001202" />
   </DataNode>
   <DataNode TextLabel="Thymidine 5'-triphosphate" GraphId="a1d73" Type="Metabolite">
     <Graphics CenterX="3272.2947009857526" CenterY="1502.5506255202306" Width="47.5" Height="23.5" ZOrder="33345" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01342" />
+    <Xref Database="HMDB" ID="HMDB0001342" />
   </DataNode>
   <DataNode TextLabel="Thymidine" GraphId="fe6ac" Type="Metabolite">
     <Graphics CenterX="3112.0738007045547" CenterY="1559.2605176901884" Width="47.5" Height="23.5" ZOrder="33346" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00273" />
+    <Xref Database="HMDB" ID="HMDB0000273" />
   </DataNode>
   <DataNode TextLabel="Thymine" GraphId="ae6c4" Type="Metabolite">
     <Graphics CenterX="3184.6462224890247" CenterY="1559.2605176901882" Width="47.5" Height="23.5" ZOrder="33347" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00262" />
+    <Xref Database="HMDB" ID="HMDB0000262" />
   </DataNode>
   <DataNode TextLabel="Dihydrothymine" GraphId="d1a1d" Type="Metabolite">
     <Graphics CenterX="3259.5361413766245" CenterY="1559.260517690188" Width="47.5" Height="23.5" ZOrder="33348" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00079" />
+    <Xref Database="HMDB" ID="HMDB0000079" />
   </DataNode>
   <DataNode TextLabel="Ureidoisobutyric acid" GraphId="c481b" Type="Metabolite">
     <Graphics CenterX="3337.902305918924" CenterY="1559.2605176901882" Width="47.5" Height="23.5" ZOrder="33351" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02031" />
+    <Xref Database="HMDB" ID="HMDB0002031" />
   </DataNode>
   <DataNode TextLabel="(R)-b-aminoisobutyric acid" GraphId="c312c" Type="Metabolite">
     <Graphics CenterX="3412.677088007769" CenterY="1559.260517690188" Width="47.5" Height="23.5" ZOrder="33352" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02299" />
+    <Xref Database="HMDB" ID="HMDB0002299" />
   </DataNode>
   <DataNode TextLabel="dTDP" GraphId="c1a18" Type="Metabolite">
     <Graphics CenterX="3167.7524066636242" CenterY="1503.4544493904473" Width="47.5" Height="23.5" ZOrder="33355" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01274" />
+    <Xref Database="HMDB" ID="HMDB0001274" />
   </DataNode>
   <DataNode TextLabel="5-Thymidylic acid" GraphId="da803" Type="Metabolite">
     <Graphics CenterX="3090.846265296301" CenterY="1503.025712426369" Width="47.5" Height="23.5" ZOrder="33357" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01227" />
+    <Xref Database="HMDB" ID="HMDB0001227" />
   </DataNode>
   <DataNode TextLabel="Deoxycytidine" GraphId="d95de" Type="Metabolite">
     <Graphics CenterX="3074.021236327584" CenterY="1451.438226910726" Width="47.5" Height="23.5" ZOrder="33360" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00014" />
+    <Xref Database="HMDB" ID="HMDB0000014" />
   </DataNode>
   <DataNode TextLabel="5,10-Methylene-THF" GraphId="c5e43" Type="Metabolite">
     <Graphics CenterX="3030.2777404496355" CenterY="1559.2605176901884" Width="47.5" Height="23.5" ZOrder="33365" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01533" />
+    <Xref Database="HMDB" ID="HMDB0001533" />
   </DataNode>
   <DataNode TextLabel="Dihydrofolic acid" GraphId="e210c" Type="Metabolite">
     <Graphics CenterX="3028.575118135239" CenterY="1517.23196966855" Width="47.5" Height="23.5" ZOrder="33366" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01056" />
+    <Xref Database="HMDB" ID="HMDB0001056" />
   </DataNode>
   <DataNode TextLabel="3a,11b,21-Trihydroxy-20-oxo-5b-pregnan-18-al" GraphId="aa5ff" Type="Metabolite">
     <Graphics CenterX="1558.5604652275006" CenterY="1956.1267743491637" Width="47.5" Height="23.5" ZOrder="33369" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06753" />
+    <Xref Database="HMDB" ID="HMDB0006753" />
   </DataNode>
   <DataNode TextLabel="11b,21-Dihydroxy-3,20-oxo-5b-pregnan-18-al" GraphId="b1add" Type="Metabolite">
     <Graphics CenterX="1668.1773234650473" CenterY="1957.1867998919474" Width="47.5" Height="23.5" ZOrder="33370" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06754" />
+    <Xref Database="HMDB" ID="HMDB0006754" />
   </DataNode>
   <DataNode TextLabel="Aldosterone" GraphId="a5efa" Type="Metabolite">
     <Graphics CenterX="1848.0368381521462" CenterY="1925.0639830272041" Width="47.5" Height="23.5" ZOrder="33371" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00037" />
+    <Xref Database="HMDB" ID="HMDB0000037" />
   </DataNode>
   <DataNode TextLabel="18-Hydroxycorticosterone" GraphId="d59a5" Type="Metabolite">
     <Graphics CenterX="1928.279494601699" CenterY="1958.0297117693442" Width="47.5" Height="23.5" ZOrder="33372" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00319" />
+    <Xref Database="HMDB" ID="HMDB0000319" />
   </DataNode>
   <DataNode TextLabel="Aldosterone hemiacetal" GraphId="a5653" Type="Metabolite">
     <Graphics CenterX="1750.1948910870167" CenterY="1924.9345720305455" Width="46.5" Height="23.5" ZOrder="33373" FontSize="10" Valign="Middle" />
@@ -1217,83 +1217,83 @@
   </DataNode>
   <DataNode TextLabel="Corticosterone" GraphId="a80f8" Type="Metabolite">
     <Graphics CenterX="2049.390605712809" CenterY="1959.089737312128" Width="47.5" Height="23.5" ZOrder="33374" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01547" />
+    <Xref Database="HMDB" ID="HMDB0001547" />
   </DataNode>
   <DataNode TextLabel="Deoxycorticosterone" GraphId="e57bd" Type="Metabolite">
     <Graphics CenterX="2141.1275150359247" CenterY="2013.572495932818" Width="47.5" Height="23.5" ZOrder="33381" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00016" />
+    <Xref Database="HMDB" ID="HMDB0000016" />
   </DataNode>
   <DataNode TextLabel="Progesterone" GraphId="d44f4" Type="Metabolite">
     <Graphics CenterX="2263.51576535521" CenterY="2013.5724959328177" Width="47.5" Height="23.5" ZOrder="33382" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01830" />
+    <Xref Database="HMDB" ID="HMDB0001830" />
   </DataNode>
   <DataNode TextLabel="Pregnenolone" GraphId="d0d3c" Type="Metabolite">
     <Graphics CenterX="2265.8529301061685" CenterY="2097.106703810481" Width="47.5" Height="23.5" ZOrder="33383" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00253" />
+    <Xref Database="HMDB" ID="HMDB0000253" />
   </DataNode>
   <DataNode TextLabel="21-Hydroxypregnenolone" GraphId="cd579" Type="Metabolite">
     <Graphics CenterX="2140.910401370536" CenterY="2097.106703810481" Width="47.5" Height="23.5" ZOrder="33386" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04026" />
+    <Xref Database="HMDB" ID="HMDB0004026" />
   </DataNode>
   <DataNode TextLabel="17a-Hydroxypregnenolone" GraphId="bf5dd" Type="Metabolite">
     <Graphics CenterX="2371.6383707191935" CenterY="2097.1067038104816" Width="47.5" Height="23.5" ZOrder="33390" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00363" />
+    <Xref Database="HMDB" ID="HMDB0000363" />
   </DataNode>
   <DataNode TextLabel="Dehydroepiandrosterone" GraphId="fc3ce" Type="Metabolite">
     <Graphics CenterX="2485.086646581261" CenterY="2097.1067038104816" Width="47.5" Height="23.5" ZOrder="33392" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00077" />
+    <Xref Database="HMDB" ID="HMDB0000077" />
   </DataNode>
   <DataNode TextLabel="17-Hydroxyprogesterone" GraphId="df43e" Type="Metabolite">
     <Graphics CenterX="2370.5783451764087" CenterY="2013.5724959328181" Width="47.5" Height="23.5" ZOrder="33394" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00374" />
+    <Xref Database="HMDB" ID="HMDB0000374" />
   </DataNode>
   <DataNode TextLabel="17-Hydroxyprogesterone" GraphId="f1fe6" Type="Metabolite">
     <Graphics CenterX="2486.5808994548215" CenterY="1926.2928024462283" Width="47.5" Height="23.5" ZOrder="33395" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00374" />
+    <Xref Database="HMDB" ID="HMDB0000374" />
   </DataNode>
   <DataNode TextLabel="Androstenedione" GraphId="e2635" Type="Metabolite">
     <Graphics CenterX="2612.5834537332407" CenterY="2097.106703810481" Width="47.5" Height="23.5" ZOrder="33397" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00053" />
+    <Xref Database="HMDB" ID="HMDB0000053" />
   </DataNode>
   <DataNode TextLabel="Testosterone" GraphId="a7925" Type="Metabolite">
     <Graphics CenterX="2722.2003119707874" CenterY="2097.106703810481" Width="47.5" Height="23.5" ZOrder="33399" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00234" />
+    <Xref Database="HMDB" ID="HMDB0000234" />
   </DataNode>
   <DataNode TextLabel="19-Hydroxytestosterone" GraphId="bac6e" Type="Metabolite">
     <Graphics CenterX="2827.985752583809" CenterY="2097.106703810481" Width="47.5" Height="23.5" ZOrder="33401" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06769" />
+    <Xref Database="HMDB" ID="HMDB0006769" />
   </DataNode>
   <DataNode TextLabel="Estradiol" GraphId="a6835" Type="Metabolite">
     <Graphics CenterX="2935.0483324050083" CenterY="2097.106703810481" Width="47.5" Height="23.5" ZOrder="33402" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00151" />
+    <Xref Database="HMDB" ID="HMDB0000151" />
   </DataNode>
   <DataNode TextLabel="Estrone" GraphId="cd8f2" Type="Metabolite">
     <Graphics CenterX="3008.905292813694" CenterY="2048.438396315959" Width="47.5" Height="23.5" ZOrder="33403" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00145" />
+    <Xref Database="HMDB" ID="HMDB0000145" />
   </DataNode>
   <DataNode TextLabel="Estriol" GraphId="f58b9" Type="Metabolite">
     <Graphics CenterX="3004.8567615237816" CenterY="2148.2723682188966" Width="47.5" Height="23.5" ZOrder="33404" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00153" />
+    <Xref Database="HMDB" ID="HMDB0000153" />
   </DataNode>
   <DataNode TextLabel="2-Hydroxyestrone" GraphId="bdcfb" Type="Metabolite">
     <Graphics CenterX="3123.630707883937" CenterY="2048.438396315959" Width="47.5" Height="23.5" ZOrder="33409" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00343" />
+    <Xref Database="HMDB" ID="HMDB0000343" />
   </DataNode>
   <DataNode TextLabel="2-Methoxyestrone" GraphId="bb822" Type="Metabolite">
     <Graphics CenterX="3224.307591664265" CenterY="2048.438396315959" Width="47.5" Height="23.5" ZOrder="33410" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00010" />
+    <Xref Database="HMDB" ID="HMDB0000010" />
   </DataNode>
   <DataNode TextLabel="16a-Hydroxyestrone" GraphId="afa7a" Type="Metabolite">
     <Graphics CenterX="3109.3650629286335" CenterY="2128.898166430902" Width="47.5" Height="23.5" ZOrder="33413" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00335" />
+    <Xref Database="HMDB" ID="HMDB0000335" />
   </DataNode>
   <DataNode TextLabel="16a-Hydroxyandrost-4-ene-3,17-dione" GraphId="f3193" Type="Metabolite">
     <Graphics CenterX="2827.1172979222497" CenterY="2160.8266466352447" Width="47.5" Height="23.5" ZOrder="33416" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06774" />
+    <Xref Database="HMDB" ID="HMDB0006774" />
   </DataNode>
   <DataNode TextLabel="17a,21-Dihydroxy-5b-pregnane-3,11,20-trione" GraphId="d84b6" Type="Metabolite">
     <Graphics CenterX="2791.1402864279967" CenterY="2017.5699416544" Width="47.5" Height="23.5" ZOrder="33418" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06758" />
+    <Xref Database="HMDB" ID="HMDB0006758" />
   </DataNode>
   <DataNode TextLabel="16a-hydroxydehydroepiandrosterone" GraphId="ebbbc" Type="Metabolite">
     <Graphics CenterX="2712.66549153396" CenterY="2168.295002308193" Width="46.5" Height="23.5" ZOrder="33419" FontSize="10" Valign="Middle" />
@@ -1305,43 +1305,43 @@
   </DataNode>
   <DataNode TextLabel="Cortisol" GraphId="fbe27" Type="Metabolite">
     <Graphics CenterX="2603.183709161081" CenterY="1958.604424413023" Width="47.5" Height="23.5" ZOrder="33424" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00063" />
+    <Xref Database="HMDB" ID="HMDB0000063" />
   </DataNode>
   <DataNode TextLabel="Cortisone" GraphId="b65b6" Type="Metabolite">
     <Graphics CenterX="2692.3663400678493" CenterY="2009.4728790745792" Width="47.5" Height="23.5" ZOrder="33429" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02802" />
+    <Xref Database="HMDB" ID="HMDB0002802" />
   </DataNode>
   <DataNode TextLabel="Tetrahydrocortisone" GraphId="f8076" Type="Metabolite">
     <Graphics CenterX="2881.600056542935" CenterY="2007.1357143236196" Width="47.5" Height="23.5" ZOrder="33432" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00903" />
+    <Xref Database="HMDB" ID="HMDB0000903" />
   </DataNode>
   <DataNode TextLabel="Cortolone" GraphId="f1ccd" Type="Metabolite">
     <Graphics CenterX="2969.505548241531" CenterY="2008.1957398664033" Width="47.5" Height="23.5" ZOrder="33434" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03128" />
+    <Xref Database="HMDB" ID="HMDB0003128" />
   </DataNode>
   <DataNode TextLabel="Cortol" GraphId="e87c5" Type="Metabolite">
     <Graphics CenterX="2964.179877743448" CenterY="1935.1816913351158" Width="47.5" Height="23.5" ZOrder="33436" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03180" />
+    <Xref Database="HMDB" ID="HMDB0003180" />
   </DataNode>
   <DataNode TextLabel="Tetrahydrocortisol" GraphId="a764b" Type="Metabolite">
     <Graphics CenterX="2873.2858802977266" CenterY="1936.2417168779002" Width="47.5" Height="23.5" ZOrder="33437" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00949" />
+    <Xref Database="HMDB" ID="HMDB0000949" />
   </DataNode>
   <DataNode TextLabel="11b,17a,21-Trihydroxy-5b-pregnane-3,20-dione" GraphId="e04f9" Type="Metabolite">
     <Graphics CenterX="2783.260337513566" CenterY="1938.170197082242" Width="47.5" Height="23.5" ZOrder="33439" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03259" />
+    <Xref Database="HMDB" ID="HMDB0003259" />
   </DataNode>
   <DataNode TextLabel="5-alpha-Dihydrotestosterone glucuronide" GraphId="bff47" Type="Metabolite">
     <Graphics CenterX="2830.4359075487846" CenterY="2065.9356915466205" Width="47.5" Height="23.5" ZOrder="33442" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06203" />
+    <Xref Database="HMDB" ID="HMDB0006203" />
   </DataNode>
   <DataNode TextLabel="19-Hydroxyandrost-4-ene-3,17-dione" GraphId="f8c0d" Type="Metabolite">
     <Graphics CenterX="2737.0917551380903" CenterY="2048.438396315959" Width="47.5" Height="23.5" ZOrder="33445" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03955" />
+    <Xref Database="HMDB" ID="HMDB0003955" />
   </DataNode>
   <DataNode TextLabel="22b-Hydroxycholesterol" GraphId="f9f9e" Type="Metabolite">
     <Graphics CenterX="2141.8857635790523" CenterY="2200.7945067081523" Width="47.5" Height="23.5" ZOrder="33447" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04035" />
+    <Xref Database="HMDB" ID="HMDB0004035" />
   </DataNode>
   <DataNode TextLabel="Dehydroepiandrosterone sulfate" GraphId="be8f0" Type="Metabolite">
     <Graphics CenterX="2483.822106015531" CenterY="2175.0668849467133" Width="46.5" Height="23.5" ZOrder="33448" FontSize="10" Valign="Middle" />
@@ -1349,15 +1349,15 @@
   </DataNode>
   <DataNode TextLabel="Androstanedione" GraphId="d633f" Type="Metabolite">
     <Graphics CenterX="3214.2878002354696" CenterY="2137.7944136715196" Width="47.5" Height="23.5" ZOrder="33453" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00899" />
+    <Xref Database="HMDB" ID="HMDB0000899" />
   </DataNode>
   <DataNode TextLabel="Androsterone" GraphId="a5857" Type="Metabolite">
     <Graphics CenterX="3305.965504429722" CenterY="2137.8606388370827" Width="47.5" Height="23.5" ZOrder="33454" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00031" />
+    <Xref Database="HMDB" ID="HMDB0000031" />
   </DataNode>
   <DataNode TextLabel="20a,22b-Dihydroxycholesterol" GraphId="c89cf" Type="Metabolite">
     <Graphics CenterX="2266.8044411056326" CenterY="2203.1331938767066" Width="47.5" Height="23.5" ZOrder="33460" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06763" />
+    <Xref Database="HMDB" ID="HMDB0006763" />
   </DataNode>
   <DataNode TextLabel="isocaproic aldehyde" GraphId="c1632" Type="Metabolite">
     <Graphics CenterX="2202.431377538711" CenterY="2143.124280090201" Width="46.5" Height="23.5" ZOrder="33462" FontSize="10" Valign="Middle" />
@@ -1365,19 +1365,19 @@
   </DataNode>
   <DataNode TextLabel="Cholesterol" GraphId="a875a" Type="Metabolite">
     <Graphics CenterX="2094.490620091194" CenterY="2249.4258532865165" Width="47.5" Height="23.5" ZOrder="33465" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00067" />
+    <Xref Database="HMDB" ID="HMDB0000067" />
   </DataNode>
   <DataNode TextLabel="7a-Hydroxycholesterol" GraphId="c8322" Type="Metabolite">
     <Graphics CenterX="2143.1219666695592" CenterY="2294.745941586734" Width="47.5" Height="23.5" ZOrder="33467" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01496" />
+    <Xref Database="HMDB" ID="HMDB0001496" />
   </DataNode>
   <DataNode TextLabel="17a,20a-Dihydroxycholesterol" GraphId="f2f93" Type="Metabolite">
     <Graphics CenterX="2372.830931171854" CenterY="2199.8881607641238" Width="47.5" Height="23.5" ZOrder="33468" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06764" />
+    <Xref Database="HMDB" ID="HMDB0006764" />
   </DataNode>
   <DataNode TextLabel="7a-Hydroxy-cholestene-3-one" GraphId="a32da" Type="Metabolite">
     <Graphics CenterX="2245.9655890085" CenterY="2294.8771232365234" Width="47.5" Height="23.5" ZOrder="33469" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01993" />
+    <Xref Database="HMDB" ID="HMDB0001993" />
   </DataNode>
   <DataNode TextLabel="2-methylheptanone" GraphId="d605d" Type="Metabolite">
     <Graphics CenterX="2309.5616203643144" CenterY="2150.9167745714367" Width="46.5" Height="23.5" ZOrder="33470" FontSize="10" Valign="Middle" />
@@ -1385,47 +1385,47 @@
   </DataNode>
   <DataNode TextLabel="3a,7a,12a-Trihydroxy-5b-cholestanoic acid" GraphId="a8fd3" Type="Metabolite">
     <Graphics CenterX="2717.2680172645455" CenterY="2292.6696177177614" Width="47.5" Height="23.5" ZOrder="33472" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03873" />
+    <Xref Database="HMDB" ID="HMDB0003873" />
   </DataNode>
   <DataNode TextLabel="7a,12a-Dihydroxy-cholestene-3-one" GraphId="c842f" Type="Metabolite">
     <Graphics CenterX="2345.369562518429" CenterY="2293.8395956427066" Width="47.5" Height="23.5" ZOrder="33477" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02197" />
+    <Xref Database="HMDB" ID="HMDB0002197" />
   </DataNode>
   <DataNode TextLabel="7a,12a-Dihydroxy-5b-cholestan-3-one" GraphId="a88f1" Type="Metabolite">
     <Graphics CenterX="2437.04726671269" CenterY="2293.9058208082715" Width="47.5" Height="23.5" ZOrder="33479" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06887" />
+    <Xref Database="HMDB" ID="HMDB0006887" />
   </DataNode>
   <DataNode TextLabel="3a,7a,12a,24-Tetrahydroxy-5b-cholestanoyl-CoA" GraphId="dc66d" Type="Metabolite">
     <Graphics CenterX="2849.9170238870634" CenterY="2293.972045973836" Width="47.5" Height="23.5" ZOrder="33481" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06890" />
+    <Xref Database="HMDB" ID="HMDB0006890" />
   </DataNode>
   <DataNode TextLabel="27-Deoxy-5b-cyprinol" GraphId="bea79" Type="Metabolite">
     <Graphics CenterX="2605.855213732551" CenterY="2292.7358428833218" Width="47.5" Height="23.5" ZOrder="33483" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01231" />
+    <Xref Database="HMDB" ID="HMDB0001231" />
   </DataNode>
   <DataNode TextLabel="Choloyl-CoA" GraphId="f283e" Type="Metabolite">
     <Graphics CenterX="2949.1508648060567" CenterY="2293.017475593779" Width="47.5" Height="23.5" ZOrder="33485" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01374" />
+    <Xref Database="HMDB" ID="HMDB0001374" />
   </DataNode>
   <DataNode TextLabel="Cholic acid" GraphId="e9407" Type="Metabolite">
     <Graphics CenterX="2950.146491976654" CenterY="2236.709352817105" Width="47.5" Height="23.5" ZOrder="33486" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00619" />
+    <Xref Database="HMDB" ID="HMDB0000619" />
   </DataNode>
   <DataNode TextLabel="Taurocholic acid" GraphId="d4ffc" Type="Metabolite">
     <Graphics CenterX="3079.6300481696167" CenterY="2264.3031718016528" Width="47.5" Height="23.5" ZOrder="33490" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00036" />
+    <Xref Database="HMDB" ID="HMDB0000036" />
   </DataNode>
   <DataNode TextLabel="Glycocholic acid" GraphId="bd76b" Type="Metabolite">
     <Graphics CenterX="3079.69627333518" CenterY="2321.7645404550717" Width="47.5" Height="23.5" ZOrder="33491" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00138" />
+    <Xref Database="HMDB" ID="HMDB0000138" />
   </DataNode>
   <DataNode TextLabel="5b-Cyprinol sulfate" GraphId="f4f59" Type="Metabolite">
     <Graphics CenterX="2694.2216596486546" CenterY="2237.614430079794" Width="47.5" Height="23.5" ZOrder="33493" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06888" />
+    <Xref Database="HMDB" ID="HMDB0006888" />
   </DataNode>
   <DataNode TextLabel="7a-Hydroxy-5b-cholestan-3-one" GraphId="d8c3a" Type="Metabolite">
     <Graphics CenterX="2434.905986359474" CenterY="2245.406924561033" Width="47.5" Height="23.5" ZOrder="33494" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06892" />
+    <Xref Database="HMDB" ID="HMDB0006892" />
   </DataNode>
   <DataNode TextLabel="scymnol sulfate" GraphId="bc59c" Type="Metabolite">
     <Graphics CenterX="2797.354114845544" CenterY="2238.047017397044" Width="46.5" Height="23.5" ZOrder="33495" FontSize="10" Valign="Middle" />
@@ -1433,27 +1433,27 @@
   </DataNode>
   <DataNode TextLabel="3a,7a-Dihydroxy-5b-cholestane" GraphId="c4748" Type="Metabolite">
     <Graphics CenterX="2525.479937794351" CenterY="2245.4731497265957" Width="47.5" Height="23.5" ZOrder="33499" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06893" />
+    <Xref Database="HMDB" ID="HMDB0006893" />
   </DataNode>
   <DataNode TextLabel="Chenodeoxycholic acid" GraphId="f4e17" Type="Metabolite">
     <Graphics CenterX="2606.1201143947856" CenterY="2243.3318693733954" Width="47.5" Height="23.5" ZOrder="33501" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00518" />
+    <Xref Database="HMDB" ID="HMDB0000518" />
   </DataNode>
   <DataNode TextLabel="Desmosterol" GraphId="c0063" Type="Metabolite">
     <Graphics CenterX="1925.7209736402606" CenterY="2286.9674442225073" Width="47.5" Height="23.5" ZOrder="33503" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02719" />
+    <Xref Database="HMDB" ID="HMDB0002719" />
   </DataNode>
   <DataNode TextLabel="7-Dehydrocholesterol" GraphId="d27eb" Type="Metabolite">
     <Graphics CenterX="1969.8990086121646" CenterY="2213.1344625580364" Width="47.5" Height="23.5" ZOrder="33504" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00032" />
+    <Xref Database="HMDB" ID="HMDB0000032" />
   </DataNode>
   <DataNode TextLabel="Lathosterol" GraphId="b3fa7" Type="Metabolite">
     <Graphics CenterX="1878.35375474903" CenterY="2212.096934964218" Width="47.5" Height="23.5" ZOrder="33505" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01170" />
+    <Xref Database="HMDB" ID="HMDB0001170" />
   </DataNode>
   <DataNode TextLabel="Zymosterol intermediate 2" GraphId="cafd3" Type="Metabolite">
     <Graphics CenterX="1711.7533132479255" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33506" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06271" />
+    <Xref Database="HMDB" ID="HMDB0006271" />
   </DataNode>
   <DataNode TextLabel="delta-7,24-Cholestadien-3b-ol" GraphId="ec9d6" Type="Metabolite">
     <Graphics CenterX="1789.736162045822" CenterY="2263.80963619719" Width="46.5" Height="23.5" ZOrder="33509" FontSize="10" Valign="Middle" />
@@ -1461,127 +1461,127 @@
   </DataNode>
   <DataNode TextLabel="Lanosterin" GraphId="a6336" Type="Metabolite">
     <Graphics CenterX="1546.2566245062035" CenterY="2263.8096361971902" Width="47.5" Height="23.5" ZOrder="33514" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01251" />
+    <Xref Database="HMDB" ID="HMDB0001251" />
   </DataNode>
   <DataNode TextLabel="(S)-2,3-Epoxysqualene" GraphId="d2f47" Type="Metabolite">
     <Graphics CenterX="1438.1477857319035" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33515" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01188" />
+    <Xref Database="HMDB" ID="HMDB0001188" />
   </DataNode>
   <DataNode TextLabel="Squalene" GraphId="e7fdd" Type="Metabolite">
     <Graphics CenterX="1322.3199711623668" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33517" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00256" />
+    <Xref Database="HMDB" ID="HMDB0000256" />
   </DataNode>
   <DataNode TextLabel="Farnesyl pyrophosphate" GraphId="ecf67" Type="Metabolite">
     <Graphics CenterX="1226.3597062617043" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33519" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00961" />
+    <Xref Database="HMDB" ID="HMDB0000961" />
   </DataNode>
   <DataNode TextLabel="Geranyl-PP" GraphId="a38ba" Type="Metabolite">
     <Graphics CenterX="1113.8431499703133" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33520" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01285" />
+    <Xref Database="HMDB" ID="HMDB0001285" />
   </DataNode>
   <DataNode TextLabel="Isopentenyl pyrophosphate" GraphId="ec64d" Type="Metabolite">
     <Graphics CenterX="1003.5340991976852" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33523" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01347" />
+    <Xref Database="HMDB" ID="HMDB0001347" />
   </DataNode>
   <DataNode TextLabel="5-Diphosphomevalonic acid" GraphId="e8deb" Type="Metabolite">
     <Graphics CenterX="905.3663287782587" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33525" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01090" />
+    <Xref Database="HMDB" ID="HMDB0001090" />
   </DataNode>
   <DataNode TextLabel="Mevalonic acid-5P" GraphId="af958" Type="Metabolite">
     <Graphics CenterX="905.3663287782585" CenterY="2142.0503536803703" Width="47.5" Height="23.5" ZOrder="33527" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01343" />
+    <Xref Database="HMDB" ID="HMDB0001343" />
   </DataNode>
   <DataNode TextLabel="Mevalonic acid" GraphId="ff8be" Type="Metabolite">
     <Graphics CenterX="905.3663287782587" CenterY="1996.4212146075224" Width="47.5" Height="23.5" ZOrder="33528" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00227" />
+    <Xref Database="HMDB" ID="HMDB0000227" />
   </DataNode>
   <DataNode TextLabel="3-Hydroxy-3-methylglutaryl-CoA" GraphId="d5764" Type="Metabolite">
     <Graphics CenterX="774.4683751017023" CenterY="1811.4650594890954" Width="47.5" Height="23.5" ZOrder="33531" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01375" />
+    <Xref Database="HMDB" ID="HMDB0001375" />
   </DataNode>
   <DataNode TextLabel="Coenzyme A" GraphId="d694c" Type="Metabolite">
     <Graphics CenterX="810.5098166369785" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33533" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01423" />
+    <Xref Database="HMDB" ID="HMDB0001423" />
   </DataNode>
   <DataNode TextLabel="Dephospho-CoA" GraphId="ed425" Type="Metabolite">
     <Graphics CenterX="701.3045186237337" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33534" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01373" />
+    <Xref Database="HMDB" ID="HMDB0001373" />
   </DataNode>
   <DataNode TextLabel="Pantetheine" GraphId="f639a" Type="Metabolite">
     <Graphics CenterX="519.2515384912834" CenterY="2156.5315898834606" Width="47.5" Height="23.5" ZOrder="33535" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03426" />
+    <Xref Database="HMDB" ID="HMDB0003426" />
   </DataNode>
   <DataNode TextLabel="Pantetheine 4'-phosphate" GraphId="f1638" Type="Metabolite">
     <Graphics CenterX="595.4767040541973" CenterY="2263.8096361971902" Width="47.5" Height="23.5" ZOrder="33536" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01416" />
+    <Xref Database="HMDB" ID="HMDB0001416" />
   </DataNode>
   <DataNode TextLabel="4-Phosphopantothenoylcysteine" GraphId="d55e4" Type="Metabolite">
     <Graphics CenterX="471.85639500342467" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33540" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01117" />
+    <Xref Database="HMDB" ID="HMDB0001117" />
   </DataNode>
   <DataNode TextLabel="Pantothenic acid" GraphId="c9050" Type="Metabolite">
     <Graphics CenterX="267.72835968333607" CenterY="2263.8096361971902" Width="47.5" Height="23.5" ZOrder="33541" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00210" />
+    <Xref Database="HMDB" ID="HMDB0000210" />
   </DataNode>
   <DataNode TextLabel="Pantothenol" GraphId="e1704" Type="Metabolite">
     <Graphics CenterX="244.6157769018792" CenterY="2157.834018139532" Width="47.5" Height="23.5" ZOrder="33542" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04231" />
+    <Xref Database="HMDB" ID="HMDB0004231" />
   </DataNode>
   <DataNode TextLabel="L-Cysteine" GraphId="cede0" Type="Metabolite">
     <Graphics CenterX="409.07493804978225" CenterY="2185.427837124076" Width="47.5" Height="23.5" ZOrder="33543" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00574" />
+    <Xref Database="HMDB" ID="HMDB0000574" />
   </DataNode>
   <DataNode TextLabel="D-4'-Phosphopantothenate" GraphId="dcda8" Type="Metabolite">
     <Graphics CenterX="375.9623552683252" CenterY="2263.80963619719" Width="47.5" Height="23.5" ZOrder="33545" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01016" />
+    <Xref Database="HMDB" ID="HMDB0001016" />
   </DataNode>
   <DataNode TextLabel="4,4-Dimethyl-5a-cholesta-8,24-dien-3-b-ol" GraphId="d020c" Type="Metabolite">
     <Graphics CenterX="1621.3780373097359" CenterY="2263.8096361971902" Width="47.5" Height="23.5" ZOrder="33550" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01286" />
+    <Xref Database="HMDB" ID="HMDB0001286" />
   </DataNode>
   <DataNode TextLabel="Vitamin D3" GraphId="c7211" Type="Metabolite">
     <Graphics CenterX="1642.3595764355086" CenterY="2125.3426644507826" Width="47.5" Height="23.5" ZOrder="33553" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00876" />
+    <Xref Database="HMDB" ID="HMDB0000876" />
   </DataNode>
   <DataNode TextLabel="Ergocalciferol" GraphId="d9aeb" Type="Metabolite">
     <Graphics CenterX="1553.5162536174232" CenterY="2032.2932427893716" Width="47.5" Height="23.5" ZOrder="33554" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00900" />
+    <Xref Database="HMDB" ID="HMDB0000900" />
   </DataNode>
   <DataNode TextLabel="Ergosterol" GraphId="da9fc" Type="Metabolite">
     <Graphics CenterX="1554.0525312199468" CenterY="2080.148132379277" Width="47.5" Height="23.5" ZOrder="33555" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00878" />
+    <Xref Database="HMDB" ID="HMDB0000878" />
   </DataNode>
   <DataNode TextLabel="Calcitriol" GraphId="c1496" Type="Metabolite">
     <Graphics CenterX="1640.8138351105843" CenterY="2076.478311138479" Width="47.5" Height="23.5" ZOrder="33557" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01903" />
+    <Xref Database="HMDB" ID="HMDB0001903" />
   </DataNode>
   <DataNode TextLabel="Pregnanediol" GraphId="ce987" Type="Metabolite">
     <Graphics CenterX="1706.5446447846114" CenterY="2124.3332007283834" Width="47.5" Height="23.5" ZOrder="33562" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04025" />
+    <Xref Database="HMDB" ID="HMDB0004025" />
   </DataNode>
   <DataNode TextLabel="Tetrahydrocorticosterone" GraphId="e9a4a" Type="Metabolite">
     <Graphics CenterX="1778.5846027236237" CenterY="2032.3353037778033" Width="47.5" Height="23.5" ZOrder="33563" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00268" />
+    <Xref Database="HMDB" ID="HMDB0000268" />
   </DataNode>
   <DataNode TextLabel="11b,21-Dihydroxy-5b-pregnane-3,20-dione" GraphId="e7150" Type="Metabolite">
     <Graphics CenterX="1856.9337089276173" CenterY="2030.7685319586644" Width="47.5" Height="23.5" ZOrder="33564" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06757" />
+    <Xref Database="HMDB" ID="HMDB0006757" />
   </DataNode>
   <DataNode TextLabel="11-Dehydrocorticosterone" GraphId="fb23e" Type="Metabolite">
     <Graphics CenterX="1953.1587352157399" CenterY="2078.6234215485706" Width="47.5" Height="23.5" ZOrder="33567" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04029" />
+    <Xref Database="HMDB" ID="HMDB0004029" />
   </DataNode>
   <DataNode TextLabel="3a-Hydroxy-5b-pregnane-20-one" GraphId="d50ac" Type="Metabolite">
     <Graphics CenterX="1781.7602073503313" CenterY="2124.3332007283834" Width="47.5" Height="23.5" ZOrder="33569" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06759" />
+    <Xref Database="HMDB" ID="HMDB0006759" />
   </DataNode>
   <DataNode TextLabel="21-Hydroxy-5b-pregnane-3,11,20-trione" GraphId="e5c90" Type="Metabolite">
     <Graphics CenterX="1857.4699865301402" CenterY="2078.623421548571" Width="47.5" Height="23.5" ZOrder="33572" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06756" />
+    <Xref Database="HMDB" ID="HMDB0006756" />
   </DataNode>
   <DataNode TextLabel="3a,21-Dihydroxy-5b-pregnane-11,20-dione" GraphId="cc23b" Type="Metabolite">
     <Graphics CenterX="1781.2449602420243" CenterY="2078.623421548571" Width="47.5" Height="23.5" ZOrder="33574" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06755" />
+    <Xref Database="HMDB" ID="HMDB0006755" />
   </DataNode>
   <DataNode TextLabel="3a,20a,21-Trihydroxy-5b-pregnan-11-one" GraphId="d9680" Type="Metabolite">
     <Graphics CenterX="1710.3565616252122" CenterY="2078.6234215485706" Width="46.5" Height="23.5" ZOrder="33578" FontSize="10" Valign="Middle" />
@@ -1597,167 +1597,167 @@
   </DataNode>
   <DataNode TextLabel="L-Valine" GraphId="f3cde" Type="Metabolite">
     <Graphics CenterX="354.03476137461377" CenterY="2146.26976478939" Width="47.5" Height="23.5" ZOrder="33583" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00883" />
+    <Xref Database="HMDB" ID="HMDB0000883" />
   </DataNode>
   <DataNode TextLabel="Alpha-ketoisovaleric acid" GraphId="ad653" Type="Metabolite">
     <Graphics CenterX="299.14484248701274" CenterY="2100.649834314307" Width="47.5" Height="23.5" ZOrder="33584" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00019" />
+    <Xref Database="HMDB" ID="HMDB0000019" />
   </DataNode>
   <DataNode TextLabel="Isobutyryl-CoA" GraphId="ef42d" Type="Metabolite">
     <Graphics CenterX="382.3917470660225" CenterY="2073.779822466429" Width="47.5" Height="23.5" ZOrder="33585" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01243" />
+    <Xref Database="HMDB" ID="HMDB0001243" />
   </DataNode>
   <DataNode TextLabel="Methacrylyl-CoA" GraphId="f49f6" Type="Metabolite">
     <Graphics CenterX="468.86915146926685" CenterY="2073.7798224664293" Width="47.5" Height="23.5" ZOrder="33586" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01011" />
+    <Xref Database="HMDB" ID="HMDB0001011" />
   </DataNode>
   <DataNode TextLabel="(S)-3-Hydroxyisobutyryl-CoA" GraphId="d439b" Type="Metabolite">
     <Graphics CenterX="556.5053044240752" CenterY="2073.779822466429" Width="47.5" Height="23.5" ZOrder="33587" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01052" />
+    <Xref Database="HMDB" ID="HMDB0001052" />
   </DataNode>
   <DataNode TextLabel="(S)-3-Hydroxyisobutyric acid" GraphId="a31e1" Type="Metabolite">
     <Graphics CenterX="647.6177030335771" CenterY="2073.7798224664293" Width="47.5" Height="23.5" ZOrder="33592" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00023" />
+    <Xref Database="HMDB" ID="HMDB0000023" />
   </DataNode>
   <DataNode TextLabel="S-Methylmalonyl-CoA" GraphId="e0ad3" Type="Metabolite">
     <Graphics CenterX="844.9062314229163" CenterY="2073.779822466429" Width="47.5" Height="23.5" ZOrder="33596" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02310" />
+    <Xref Database="HMDB" ID="HMDB0002310" />
   </DataNode>
   <DataNode TextLabel="(S)-Methylmalonic acid semialdehyde" GraphId="baadb" Type="Metabolite">
     <Graphics CenterX="752.9363588852577" CenterY="2073.779822466429" Width="47.5" Height="23.5" ZOrder="33598" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02217" />
+    <Xref Database="HMDB" ID="HMDB0002217" />
   </DataNode>
   <DataNode TextLabel="(S)-b-aminoisobutyric acid" GraphId="e4460" Type="Metabolite">
     <Graphics CenterX="751.3488733696142" CenterY="2144.938571017993" Width="47.5" Height="23.5" ZOrder="33599" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02166" />
+    <Xref Database="HMDB" ID="HMDB0002166" />
   </DataNode>
   <DataNode TextLabel="L-Isoleucine" GraphId="c39cb" Type="Metabolite">
     <Graphics CenterX="378.67698148475995" CenterY="2028.5258742585795" Width="47.5" Height="23.5" ZOrder="33601" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00172" />
+    <Xref Database="HMDB" ID="HMDB0000172" />
   </DataNode>
   <DataNode TextLabel="3-Methyl-2-oxovaleric acid" GraphId="ae666" Type="Metabolite">
     <Graphics CenterX="321.22381966357165" CenterY="1990.2441421247918" Width="47.5" Height="23.5" ZOrder="33602" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00491" />
+    <Xref Database="HMDB" ID="HMDB0000491" />
   </DataNode>
   <DataNode TextLabel="2-Methylbutyryl-CoA" GraphId="dafec" Type="Metabolite">
     <Graphics CenterX="396.11373855117307" CenterY="1946.0914607285667" Width="47.5" Height="23.5" ZOrder="33603" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01041" />
+    <Xref Database="HMDB" ID="HMDB0001041" />
   </DataNode>
   <DataNode TextLabel="Tiglyl-CoA" GraphId="dadf0" Type="Metabolite">
     <Graphics CenterX="472.16240599033875" CenterY="1946.091460728567" Width="47.5" Height="23.5" ZOrder="33606" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02054" />
+    <Xref Database="HMDB" ID="HMDB0002054" />
   </DataNode>
   <DataNode TextLabel="2-Methyl-3-hydroxybutyryl-CoA" GraphId="f2a49" Type="Metabolite">
     <Graphics CenterX="558.6398103935833" CenterY="1946.0914607285665" Width="47.5" Height="23.5" ZOrder="33607" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01356" />
+    <Xref Database="HMDB" ID="HMDB0001356" />
   </DataNode>
   <DataNode TextLabel="2-Methylacetoacetyl-CoA" GraphId="b06d6" Type="Metabolite">
     <Graphics CenterX="642.7997176936993" CenterY="1946.0914607285667" Width="47.5" Height="23.5" ZOrder="33608" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01157" />
+    <Xref Database="HMDB" ID="HMDB0001157" />
   </DataNode>
   <DataNode TextLabel="Acetyl-CoA" GraphId="b4c43" Type="Metabolite">
     <Graphics CenterX="759.9581267393173" CenterY="1946.0914607285667" Width="47.5" Height="23.5" ZOrder="33609" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01206" />
+    <Xref Database="HMDB" ID="HMDB0001206" />
   </DataNode>
   <DataNode TextLabel="Propionyl-CoA" GraphId="ac740" Type="Metabolite">
     <Graphics CenterX="766.1600345902388" CenterY="2009.2138949978046" Width="47.5" Height="23.5" ZOrder="33610" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01275" />
+    <Xref Database="HMDB" ID="HMDB0001275" />
   </DataNode>
   <DataNode TextLabel="L-Leucine" GraphId="e3709" Type="Metabolite">
     <Graphics CenterX="398.016950498001" CenterY="1896.9111776814461" Width="47.5" Height="23.5" ZOrder="33617" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00687" />
+    <Xref Database="HMDB" ID="HMDB0000687" />
   </DataNode>
   <DataNode TextLabel="Ketoleucine" GraphId="cb37a" Type="Metabolite">
     <Graphics CenterX="304.8883294087773" CenterY="1839.7037616907169" Width="47.5" Height="23.5" ZOrder="33618" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00695" />
+    <Xref Database="HMDB" ID="HMDB0000695" />
   </DataNode>
   <DataNode TextLabel="Isovaleryl-CoA" GraphId="ce357" Type="Metabolite">
     <Graphics CenterX="413.38195629174373" CenterY="1811.465059489095" Width="47.5" Height="23.5" ZOrder="33619" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01113" />
+    <Xref Database="HMDB" ID="HMDB0001113" />
   </DataNode>
   <DataNode TextLabel="3-Methylcrotonyl-CoA" GraphId="a4466" Type="Metabolite">
     <Graphics CenterX="513.7643433137597" CenterY="1811.4650594890952" Width="47.5" Height="23.5" ZOrder="33620" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01493" />
+    <Xref Database="HMDB" ID="HMDB0001493" />
   </DataNode>
   <DataNode TextLabel="3-Hydroxyisovaleryl-CoA" GraphId="fecfe" Type="Metabolite">
     <Graphics CenterX="566.6380397216392" CenterY="1877.8150015516678" Width="47.5" Height="23.5" ZOrder="33621" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06870" />
+    <Xref Database="HMDB" ID="HMDB0006870" />
   </DataNode>
   <DataNode TextLabel="3-Methylglutaconyl-CoA" GraphId="be07f" Type="Metabolite">
     <Graphics CenterX="631.5279586092405" CenterY="1811.4650594890952" Width="47.5" Height="23.5" ZOrder="33626" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01057" />
+    <Xref Database="HMDB" ID="HMDB0001057" />
   </DataNode>
   <DataNode TextLabel="Phosphohydroxypyruvic acid" GraphId="e44c9" Type="Metabolite">
     <Graphics CenterX="1066.932841834984" CenterY="1228.9016647332342" Width="47.5" Height="23.5" ZOrder="33630" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01024" />
+    <Xref Database="HMDB" ID="HMDB0001024" />
   </DataNode>
   <DataNode TextLabel="Phosphoserine" GraphId="db88e" Type="Metabolite">
     <Graphics CenterX="1063.4533614767797" CenterY="1341.2001215448363" Width="47.5" Height="23.5" ZOrder="33631" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00272" />
+    <Xref Database="HMDB" ID="HMDB0000272" />
   </DataNode>
   <DataNode TextLabel="Fructose 1-phosphate" GraphId="ea2fa" Type="Metabolite">
     <Graphics CenterX="805.766985212869" CenterY="1229.8507534331152" Width="47.5" Height="23.5" ZOrder="33632" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01076" />
+    <Xref Database="HMDB" ID="HMDB0001076" />
   </DataNode>
   <DataNode TextLabel="Dihydroxyacetone phosphate" GraphId="cc071" Type="Metabolite">
     <Graphics CenterX="900.6032222443674" CenterY="1224.054884660333" Width="47.5" Height="23.5" ZOrder="33633" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01473" />
+    <Xref Database="HMDB" ID="HMDB0001473" />
   </DataNode>
   <DataNode TextLabel="Glycerol 3-phosphate" GraphId="dc7dd" Type="Metabolite">
     <Graphics CenterX="900.6032222443675" CenterY="1340.9807655837847" Width="47.5" Height="23.5" ZOrder="33635" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00126" />
+    <Xref Database="HMDB" ID="HMDB0000126" />
   </DataNode>
   <DataNode TextLabel="Glycerol" GraphId="e757d" Type="Metabolite">
     <Graphics CenterX="974.284603681884" CenterY="1341.2602309543797" Width="47.5" Height="23.5" ZOrder="33637" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00131" />
+    <Xref Database="HMDB" ID="HMDB0000131" />
   </DataNode>
   <DataNode TextLabel="Glyceraldehyde" GraphId="bef6b" Type="Metabolite">
     <Graphics CenterX="975.7791358811546" CenterY="1267.4206197757646" Width="47.5" Height="23.5" ZOrder="33638" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01051" />
+    <Xref Database="HMDB" ID="HMDB0001051" />
   </DataNode>
   <DataNode TextLabel="D-Fructose" GraphId="da3d3" Type="Metabolite">
     <Graphics CenterX="742.862975492333" CenterY="1317.6150304683524" Width="47.5" Height="23.5" ZOrder="33645" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00660" />
+    <Xref Database="HMDB" ID="HMDB0000660" />
   </DataNode>
   <DataNode TextLabel="D-Glucose" GraphId="f6e33" Type="Metabolite">
     <Graphics CenterX="565.0820520415449" CenterY="1313.630097297029" Width="47.5" Height="23.5" ZOrder="33646" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00122" />
+    <Xref Database="HMDB" ID="HMDB0000122" />
   </DataNode>
   <DataNode TextLabel="D-Fructose 2,6-bisphosphate" GraphId="fe41c" Type="Metabolite">
     <Graphics CenterX="752.8629754923328" CenterY="1258.3562212338434" Width="47.5" Height="23.5" ZOrder="33649" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01047" />
+    <Xref Database="HMDB" ID="HMDB0001047" />
   </DataNode>
   <DataNode TextLabel="Mannose 6-phosphate" GraphId="c25fe" Type="Metabolite">
     <Graphics CenterX="652.8463290767814" CenterY="1256.801421719873" Width="47.5" Height="23.5" ZOrder="33651" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01078" />
+    <Xref Database="HMDB" ID="HMDB0001078" />
   </DataNode>
   <DataNode TextLabel="D-Mannose" GraphId="b5fa0" Type="Metabolite">
     <Graphics CenterX="655.5559281047281" CenterY="1315.4040948668967" Width="47.5" Height="23.5" ZOrder="33653" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00169" />
+    <Xref Database="HMDB" ID="HMDB0000169" />
   </DataNode>
   <DataNode TextLabel="Sorbitol" GraphId="ed2d3" Type="Metabolite">
     <Graphics CenterX="656.9367150612266" CenterY="1371.1163006681695" Width="47.5" Height="23.5" ZOrder="33655" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00247" />
+    <Xref Database="HMDB" ID="HMDB0000247" />
   </DataNode>
   <DataNode TextLabel="Gluconolactone" GraphId="c2fdf" Type="Metabolite">
     <Graphics CenterX="433.9967807237157" CenterY="1314.3277717156332" Width="47.5" Height="23.5" ZOrder="33658" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00150" />
+    <Xref Database="HMDB" ID="HMDB0000150" />
   </DataNode>
   <DataNode TextLabel="Gluconic acid" GraphId="dfb41" Type="Metabolite">
     <Graphics CenterX="435.10641039133054" CenterY="1248.7724440744598" Width="47.5" Height="23.5" ZOrder="33659" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00625" />
+    <Xref Database="HMDB" ID="HMDB0000625" />
   </DataNode>
   <DataNode TextLabel="6-Phosphonoglucono-D-lactone" GraphId="a526e" Type="Metabolite">
     <Graphics CenterX="560.7605456266084" CenterY="1024.4424438228348" Width="47.5" Height="23.5" ZOrder="33662" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01127" />
+    <Xref Database="HMDB" ID="HMDB0001127" />
   </DataNode>
   <DataNode TextLabel="D-Erythrose 4-phosphate" GraphId="dd24e" Type="Metabolite">
     <Graphics CenterX="780.319531293643" CenterY="1019.0841196772997" Width="47.5" Height="23.5" ZOrder="33667" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01321" />
+    <Xref Database="HMDB" ID="HMDB0001321" />
   </DataNode>
   <DataNode TextLabel="D-Xylulose" GraphId="ec5c7" Type="Metabolite">
     <Graphics CenterX="745.721745746191" CenterY="663.8876857135756" Width="47.5" Height="23.5" ZOrder="33668" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01644" />
+    <Xref Database="HMDB" ID="HMDB0001644" />
   </DataNode>
   <DataNode TextLabel="Sedoheptulose-1,7-biphosphate" GraphId="daeab" Type="Metabolite">
     <Graphics CenterX="996.0074069739262" CenterY="1058.1457665439068" Width="46.5" Height="23.5" ZOrder="33676" FontSize="10" Valign="Middle" />
@@ -1765,27 +1765,27 @@
   </DataNode>
   <DataNode TextLabel="Xylulose 5-phosphate" GraphId="e73e9" Type="Metabolite">
     <Graphics CenterX="811.5390971794034" CenterY="613.665352691574" Width="47.5" Height="23.5" ZOrder="33678" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00868" />
+    <Xref Database="HMDB" ID="HMDB0000868" />
   </DataNode>
   <DataNode TextLabel="D-Xylitol" GraphId="a8f8b" Type="Metabolite">
     <Graphics CenterX="703.1758996670133" CenterY="584.9994210487953" Width="47.5" Height="23.5" ZOrder="33680" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB02917" />
+    <Xref Database="HMDB" ID="HMDB0002917" />
   </DataNode>
   <DataNode TextLabel="D-Xylose" GraphId="ed102" Type="Metabolite">
     <Graphics CenterX="593.3394541863565" CenterY="584.9994210487953" Width="47.5" Height="23.5" ZOrder="33682" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00098" />
+    <Xref Database="HMDB" ID="HMDB0000098" />
   </DataNode>
   <DataNode TextLabel="L-Arabinose" GraphId="d9ae0" Type="Metabolite">
     <Graphics CenterX="596.1357519131675" CenterY="524.5592494183783" Width="47.5" Height="23.5" ZOrder="33684" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00646" />
+    <Xref Database="HMDB" ID="HMDB0000646" />
   </DataNode>
   <DataNode TextLabel="L-Arabitol" GraphId="a8224" Type="Metabolite">
     <Graphics CenterX="691.4860703845056" CenterY="524.5592494183783" Width="47.5" Height="23.5" ZOrder="33690" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01851" />
+    <Xref Database="HMDB" ID="HMDB0001851" />
   </DataNode>
   <DataNode TextLabel="3-Dehydro-L-gulonate" GraphId="f43cc" Type="Metabolite">
     <Graphics CenterX="594.4560350612215" CenterY="468.7921443123031" Width="47.5" Height="23.5" ZOrder="33691" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06334" />
+    <Xref Database="HMDB" ID="HMDB0006334" />
   </DataNode>
   <DataNode TextLabel="L-Xylulose" GraphId="c0c22" Type="Metabolite">
     <Graphics CenterX="783.0774706681948" CenterY="524.5592494183783" Width="46.5" Height="23.5" ZOrder="33692" FontSize="10" Valign="Middle" />
@@ -1793,7 +1793,7 @@
   </DataNode>
   <DataNode TextLabel="Ascorbic acid" GraphId="cac60" Type="Metabolite">
     <Graphics CenterX="554.6019426343862" CenterY="376.94725528623616" Width="47.5" Height="23.5" ZOrder="33697" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00044" />
+    <Xref Database="HMDB" ID="HMDB0000044" />
   </DataNode>
   <DataNode TextLabel="2-dehydro-l-gulonolactone" GraphId="b2b59" Type="Metabolite">
     <Graphics CenterX="458.0456235344373" CenterY="377.50882386874855" Width="46.5" Height="23.5" ZOrder="33698" FontSize="10" Valign="Middle" />
@@ -1801,15 +1801,15 @@
   </DataNode>
   <DataNode TextLabel="Dehydroascorbic acid" GraphId="cd713" Type="Metabolite">
     <Graphics CenterX="668.6901605978529" CenterY="376.8627972486932" Width="47.5" Height="23.5" ZOrder="33699" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01264" />
+    <Xref Database="HMDB" ID="HMDB0001264" />
   </DataNode>
   <DataNode TextLabel="2,3-Diketo-L-gulonate" GraphId="d81ec" Type="Metabolite">
     <Graphics CenterX="667.6683125584465" CenterY="440.08471979312424" Width="47.5" Height="23.5" ZOrder="33703" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06511" />
+    <Xref Database="HMDB" ID="HMDB0006511" />
   </DataNode>
   <DataNode TextLabel="D-Glucurono-6,3-lactone" GraphId="e1c6b" Type="Metabolite">
     <Graphics CenterX="195.28945793289577" CenterY="429.15960966096543" Width="47.5" Height="23.5" ZOrder="33704" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06355" />
+    <Xref Database="HMDB" ID="HMDB0006355" />
   </DataNode>
   <DataNode TextLabel="L-Lyxonic acid" GraphId="c5f64" Type="Metabolite">
     <Graphics CenterX="739.1127129589443" CenterY="427.1300253614953" Width="46.5" Height="23.5" ZOrder="33705" FontSize="10" Valign="Middle" />
@@ -1821,7 +1821,7 @@
   </DataNode>
   <DataNode TextLabel="Myo-inositol 1-phosphate" GraphId="dc858" Type="Metabolite">
     <Graphics CenterX="73.04276189765244" CenterY="599.8644554759427" Width="47.5" Height="23.5" ZOrder="33707" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00213" />
+    <Xref Database="HMDB" ID="HMDB0000213" />
   </DataNode>
   <DataNode TextLabel="Erythroascorbic acid" GraphId="ad47e" Type="Metabolite">
     <Graphics CenterX="810.6986160426438" CenterY="441.4472059782355" Width="46.5" Height="23.5" ZOrder="33708" FontSize="10" Valign="Middle" />
@@ -1829,211 +1829,211 @@
   </DataNode>
   <DataNode TextLabel="Glucaric acid" GraphId="e3d50" Type="Metabolite">
     <Graphics CenterX="78.63747555404098" CenterY="425.9437506301286" Width="47.5" Height="23.5" ZOrder="33711" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00663" />
+    <Xref Database="HMDB" ID="HMDB0000663" />
   </DataNode>
   <DataNode TextLabel="Myoinositol" GraphId="dd19c" Type="Metabolite">
     <Graphics CenterX="186.65509669941466" CenterY="598.851239616912" Width="47.50000000000001" Height="23.49999999999998" ZOrder="33715" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00211" />
+    <Xref Database="HMDB" ID="HMDB0000211" />
   </DataNode>
   <DataNode TextLabel="Cellobiose" GraphId="ba359" Type="Metabolite">
     <Graphics CenterX="86.43483238223399" CenterY="926.0318563569983" Width="47.5" Height="23.5" ZOrder="33716" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00055" />
+    <Xref Database="HMDB" ID="HMDB0000055" />
   </DataNode>
   <DataNode TextLabel="Sucrose" GraphId="df2eb" Type="Metabolite">
     <Graphics CenterX="190.0471671839962" CenterY="799.4679797050171" Width="47.5" Height="23.5" ZOrder="33717" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00258" />
+    <Xref Database="HMDB" ID="HMDB0000258" />
   </DataNode>
   <DataNode TextLabel="D-Glucose" GraphId="dac04" Type="Metabolite">
     <Graphics CenterX="86.09526790057586" CenterY="832.4406699842547" Width="47.5" Height="23.5" ZOrder="33718" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00122" />
+    <Xref Database="HMDB" ID="HMDB0000122" />
   </DataNode>
   <DataNode TextLabel="D-Fructose" GraphId="d8904" Type="Metabolite">
     <Graphics CenterX="87.66473760687037" CenterY="735.104017252495" Width="47.5" Height="23.5" ZOrder="33719" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00660" />
+    <Xref Database="HMDB" ID="HMDB0000660" />
   </DataNode>
   <DataNode TextLabel="1-Phosphatidyl-D-myo-inositol" GraphId="dca37" Type="Metabolite">
     <Graphics CenterX="186.65509669941468" CenterY="678.2344995288054" Width="47.500000000000036" Height="23.49999999999998" ZOrder="33726" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06953" />
+    <Xref Database="HMDB" ID="HMDB0006953" />
   </DataNode>
   <DataNode TextLabel="Galactose 1-phosphate" GraphId="fa284" Type="Metabolite">
     <Graphics CenterX="370.0370052723395" CenterY="909.4239727049036" Width="47.5" Height="23.5" ZOrder="33728" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00645" />
+    <Xref Database="HMDB" ID="HMDB0000645" />
   </DataNode>
   <DataNode TextLabel="Uridine diphosphategalactose" GraphId="ef8d1" Type="Metabolite">
     <Graphics CenterX="442.81233566881514" CenterY="910.613400017679" Width="47.5" Height="23.5" ZOrder="33729" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00302" />
+    <Xref Database="HMDB" ID="HMDB0000302" />
   </DataNode>
   <DataNode TextLabel="D-Galactose" GraphId="ebe7a" Type="Metabolite">
     <Graphics CenterX="370.12511099921187" CenterY="845.6354264493981" Width="47.5" Height="23.5" ZOrder="33730" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00143" />
+    <Xref Database="HMDB" ID="HMDB0000143" />
   </DataNode>
   <DataNode TextLabel="Alpha-Lactose" GraphId="bd0f8" Type="Metabolite">
     <Graphics CenterX="442.90044139568755" CenterY="845.7235321762705" Width="47.5" Height="23.5" ZOrder="33731" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00186" />
+    <Xref Database="HMDB" ID="HMDB0000186" />
   </DataNode>
   <DataNode TextLabel="Amylose" GraphId="bf830" Type="Metabolite">
     <Graphics CenterX="242.5175748996634" CenterY="989.6615181784332" Width="47.5" Height="23.5" ZOrder="33738" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03403" />
+    <Xref Database="HMDB" ID="HMDB0003403" />
   </DataNode>
   <DataNode TextLabel="Amylopectin" GraphId="e9f6a" Type="Metabolite">
     <Graphics CenterX="193.04620926089677" CenterY="1051.4236327158756" Width="47.5" Height="23.5" ZOrder="33739" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03255" />
+    <Xref Database="HMDB" ID="HMDB0003255" />
   </DataNode>
   <DataNode TextLabel="D-Maltose" GraphId="bc4eb" Type="Metabolite">
     <Graphics CenterX="193.1343149877691" CenterY="1192.4809014383463" Width="47.5" Height="23.5" ZOrder="33742" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00163" />
+    <Xref Database="HMDB" ID="HMDB0000163" />
   </DataNode>
   <DataNode TextLabel="Choline" GraphId="c9310" Type="Metabolite">
     <Graphics CenterX="898.5316101747308" CenterY="1625.5255777201262" Width="47.5" Height="23.5" ZOrder="33745" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00097" />
+    <Xref Database="HMDB" ID="HMDB0000097" />
   </DataNode>
   <DataNode TextLabel="Betaine aldehyde" GraphId="e11eb" Type="Metabolite">
     <Graphics CenterX="798.5972685826546" CenterY="1687.5419292129645" Width="47.5" Height="23.5" ZOrder="33746" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01252" />
+    <Xref Database="HMDB" ID="HMDB0001252" />
   </DataNode>
   <DataNode TextLabel="Betaine" GraphId="bbb44" Type="Metabolite">
     <Graphics CenterX="643.744158226023" CenterY="1644.5561341330458" Width="47.5" Height="23.5" ZOrder="33747" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00043" />
+    <Xref Database="HMDB" ID="HMDB0000043" />
   </DataNode>
   <DataNode TextLabel="Dimethylglycine" GraphId="dee8f" Type="Metabolite">
     <Graphics CenterX="605.923980595332" CenterY="1589.0683459438046" Width="47.5" Height="23.5" ZOrder="33748" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00092" />
+    <Xref Database="HMDB" ID="HMDB0000092" />
   </DataNode>
   <DataNode TextLabel="Sarcosine" GraphId="d69bc" Type="Metabolite">
     <Graphics CenterX="606.2331933714955" CenterY="1533.0775616024941" Width="47.5" Height="23.5" ZOrder="33749" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00271" />
+    <Xref Database="HMDB" ID="HMDB0000271" />
   </DataNode>
   <DataNode TextLabel="Glycine" GraphId="bb4cc" Type="Metabolite">
     <Graphics CenterX="670.4272364621118" CenterY="1479.648204052615" Width="47.5" Height="23.5" ZOrder="33750" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00123" />
+    <Xref Database="HMDB" ID="HMDB0000123" />
   </DataNode>
   <DataNode TextLabel="Acetylcholine" GraphId="ee0d6" Type="Metabolite">
     <Graphics CenterX="828.1351344038052" CenterY="1580.4594984249702" Width="47.5" Height="23.5" ZOrder="33754" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00895" />
+    <Xref Database="HMDB" ID="HMDB0000895" />
   </DataNode>
   <DataNode TextLabel="L-Serine" GraphId="a80f5" Type="Metabolite">
     <Graphics CenterX="795.2916949727344" CenterY="1480.5707582165874" Width="47.5" Height="23.5" ZOrder="33757" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00187" />
+    <Xref Database="HMDB" ID="HMDB0000187" />
   </DataNode>
   <DataNode TextLabel="L-Serine" GraphId="c55d5" Type="Metabolite">
     <Graphics CenterX="697.6065000425712" CenterY="1704.0204131608743" Width="47.5" Height="23.5" ZOrder="33759" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00187" />
+    <Xref Database="HMDB" ID="HMDB0000187" />
   </DataNode>
   <DataNode TextLabel="Glyoxylic acid" GraphId="d6aaa" Type="Metabolite">
     <Graphics CenterX="730.5580418927927" CenterY="1541.2544237024201" Width="47.5" Height="21.29340935699827" ZOrder="33761" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00119" />
+    <Xref Database="HMDB" ID="HMDB0000119" />
   </DataNode>
   <DataNode TextLabel="Palmityl-CoA" GraphId="e32d3" Type="Metabolite">
     <Graphics CenterX="696.5932841835402" CenterY="1772.3904572137392" Width="47.5" Height="23.5" ZOrder="33763" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01338" />
+    <Xref Database="HMDB" ID="HMDB0001338" />
   </DataNode>
   <DataNode TextLabel="3-Dehydrosphinganine" GraphId="a0457" Type="Metabolite">
     <Graphics CenterX="800.1175132584301" CenterY="1750.3640254956788" Width="47.5" Height="23.5" ZOrder="33764" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01480" />
+    <Xref Database="HMDB" ID="HMDB0001480" />
   </DataNode>
   <DataNode TextLabel="Sphinganine" GraphId="b417f" Type="Metabolite">
     <Graphics CenterX="907.0338128179013" CenterY="1752.6547743943565" Width="47.5" Height="23.5" ZOrder="33765" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00269" />
+    <Xref Database="HMDB" ID="HMDB0000269" />
   </DataNode>
   <DataNode TextLabel="Sphingosine" GraphId="a52bd" Type="Metabolite">
     <Graphics CenterX="1030.597890541044" CenterY="1700.0348171676753" Width="47.5" Height="23.5" ZOrder="33766" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00252" />
+    <Xref Database="HMDB" ID="HMDB0000252" />
   </DataNode>
   <DataNode TextLabel="Galactosylsphingosine" GraphId="dbbb3" Type="Metabolite">
     <Graphics CenterX="1032.8886394397216" CenterY="1766.5860811741109" Width="47.5" Height="23.5" ZOrder="33772" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00648" />
+    <Xref Database="HMDB" ID="HMDB0000648" />
   </DataNode>
   <DataNode TextLabel="Phosphorylcholine" GraphId="abe44" Type="Metabolite">
     <Graphics CenterX="1025.2716982804568" CenterY="1625.8371824956982" Width="47.5" Height="23.5" ZOrder="33774" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01565" />
+    <Xref Database="HMDB" ID="HMDB0001565" />
   </DataNode>
   <DataNode TextLabel="Citicoline" GraphId="b795c" Type="Metabolite">
     <Graphics CenterX="1178.3658178629612" CenterY="1625.2078297620442" Width="47.5" Height="23.5" ZOrder="33775" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01413" />
+    <Xref Database="HMDB" ID="HMDB0001413" />
   </DataNode>
   <DataNode TextLabel="5,10-Methylene-THF" GraphId="bd472" Type="Metabolite">
     <Graphics CenterX="443.95011237737316" CenterY="1544.1525717511854" Width="47.5" Height="23.5" ZOrder="33778" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01533" />
+    <Xref Database="HMDB" ID="HMDB0001533" />
   </DataNode>
   <DataNode TextLabel="5,10-Methenyltetrahydrofolic acid" GraphId="b8cbf" Type="Metabolite">
     <Graphics CenterX="298.6637687650383" CenterY="1544.1525717511852" Width="47.5" Height="23.5" ZOrder="33782" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01354" />
+    <Xref Database="HMDB" ID="HMDB0001354" />
   </DataNode>
   <DataNode TextLabel="N10-Formyl-THF" GraphId="c0046" Type="Metabolite">
     <Graphics CenterX="153.3774251527036" CenterY="1544.1525717511854" Width="47.5" Height="23.5" ZOrder="33784" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00972" />
+    <Xref Database="HMDB" ID="HMDB0000972" />
   </DataNode>
   <DataNode TextLabel="N5-Formyl-THF" GraphId="d01dd" Type="Metabolite">
     <Graphics CenterX="299.94130180468574" CenterY="1455.0336290199075" Width="47.5" Height="23.5" ZOrder="33786" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01562" />
+    <Xref Database="HMDB" ID="HMDB0001562" />
   </DataNode>
   <DataNode TextLabel="5-Methyltetrahydrofolic acid" GraphId="b46cd" Type="Metabolite">
     <Graphics CenterX="342.89284365490624" CenterY="1666.4873735132994" Width="47.5" Height="23.5" ZOrder="33788" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01396" />
+    <Xref Database="HMDB" ID="HMDB0001396" />
   </DataNode>
   <DataNode TextLabel="5-Formiminotetrahydrofolic acid" GraphId="a6b52" Type="Metabolite">
     <Graphics CenterX="239.2805088531448" CenterY="1659.7913382710115" Width="47.5" Height="23.5" ZOrder="33790" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01534" />
+    <Xref Database="HMDB" ID="HMDB0001534" />
   </DataNode>
   <DataNode TextLabel="Tetrahydrofolic acid" GraphId="d202a" Type="Metabolite">
     <Graphics CenterX="54.346588148298764" CenterY="1544.1525717511856" Width="47.5" Height="23.5" ZOrder="33792" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01846" />
+    <Xref Database="HMDB" ID="HMDB0001846" />
   </DataNode>
   <DataNode TextLabel="Dihydrofolic acid" GraphId="d9ac3" Type="Metabolite">
     <Graphics CenterX="54.34658814829875" CenterY="1449.6151268172684" Width="47.5" Height="23.5" ZOrder="33795" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01056" />
+    <Xref Database="HMDB" ID="HMDB0001056" />
   </DataNode>
   <DataNode TextLabel="Ethanolamine" GraphId="dbc9b" Type="Metabolite">
     <Graphics CenterX="899.968337101467" CenterY="1528.0089269113714" Width="47.5" Height="23.5" ZOrder="33799" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00149" />
+    <Xref Database="HMDB" ID="HMDB0000149" />
   </DataNode>
   <DataNode TextLabel="O-Phosphoethanolamine" GraphId="fd00a" Type="Metabolite">
     <Graphics CenterX="1029.854160127157" CenterY="1526.5912294803531" Width="47.5" Height="23.5" ZOrder="33800" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00224" />
+    <Xref Database="HMDB" ID="HMDB0000224" />
   </DataNode>
   <DataNode TextLabel="CDP-Ethanolamine" GraphId="f202c" Type="Metabolite">
     <Graphics CenterX="1179.720953657129" CenterY="1524.2220572634167" Width="47.5" Height="23.5" ZOrder="33801" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01564" />
+    <Xref Database="HMDB" ID="HMDB0001564" />
   </DataNode>
   <DataNode TextLabel="Glycerylphosphorylethanolamine" GraphId="a520a" Type="Metabolite">
     <Graphics CenterX="1173.545882296522" CenterY="1436.2201543138412" Width="47.5" Height="23.5" ZOrder="33802" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00114" />
+    <Xref Database="HMDB" ID="HMDB0000114" />
   </DataNode>
   <DataNode TextLabel="Formiminoglutamic acid" GraphId="d2372" Type="Metabolite">
     <Graphics CenterX="92.28716917664609" CenterY="1724.0254010683489" Width="47.5" Height="23.5" ZOrder="33806" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00854" />
+    <Xref Database="HMDB" ID="HMDB0000854" />
   </DataNode>
   <DataNode TextLabel="L-Glutamic acid" GraphId="d262a" Type="Metabolite">
     <Graphics CenterX="184.11400076560898" CenterY="1723.5591784232486" Width="47.5" Height="23.5" ZOrder="33807" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00148" />
+    <Xref Database="HMDB" ID="HMDB0000148" />
   </DataNode>
   <DataNode TextLabel="Glucosamine 6-phosphate" GraphId="f6dea" Type="Metabolite">
     <Graphics CenterX="1027.273723180519" CenterY="767.441191031787" Width="47.5" Height="23.5" ZOrder="33810" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01254" />
+    <Xref Database="HMDB" ID="HMDB0001254" />
   </DataNode>
   <DataNode TextLabel="N-Acetyl-D-Glucosamine 6-Phosphate" GraphId="b9eac" Type="Metabolite">
     <Graphics CenterX="1119.191805098602" CenterY="766.4521800427755" Width="47.5" Height="23.5" ZOrder="33811" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01062" />
+    <Xref Database="HMDB" ID="HMDB0001062" />
   </DataNode>
   <DataNode TextLabel="N-Acetyl-glucosamine 1-phosphate" GraphId="a423a" Type="Metabolite">
     <Graphics CenterX="1217.1038930106897" CenterY="767.461171051766" Width="47.5" Height="23.5" ZOrder="33813" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01367" />
+    <Xref Database="HMDB" ID="HMDB0001367" />
   </DataNode>
   <DataNode TextLabel="Glucosamine" GraphId="e438a" Type="Metabolite">
     <Graphics CenterX="1022.2887081955038" CenterY="695.5231091137047" Width="47.5" Height="23.5" ZOrder="33815" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01514" />
+    <Xref Database="HMDB" ID="HMDB0001514" />
   </DataNode>
   <DataNode TextLabel="N-Acetyl-D-glucosamine" GraphId="b3188" Type="Metabolite">
     <Graphics CenterX="1114.2067901135886" CenterY="694.5340981246932" Width="47.5" Height="23.5" ZOrder="33816" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00215" />
+    <Xref Database="HMDB" ID="HMDB0000215" />
   </DataNode>
   <DataNode TextLabel="Uridine diphosphate-N-acetylglucosamine" GraphId="d90e8" Type="Metabolite">
     <Graphics CenterX="1314.016979923781" CenterY="767.4711610617572" Width="47.5" Height="23.5" ZOrder="33819" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00290" />
+    <Xref Database="HMDB" ID="HMDB0000290" />
   </DataNode>
   <DataNode TextLabel="Uridine diphosphate-N-acetylgalactosamine" GraphId="f1bd9" Type="Metabolite">
     <Graphics CenterX="1404.936060842863" CenterY="767.4811510717468" Width="47.5" Height="23.5" ZOrder="33821" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00304" />
+    <Xref Database="HMDB" ID="HMDB0000304" />
   </DataNode>
   <DataNode TextLabel="N-Acetyl-D-mannosamine" GraphId="d2c77" Type="Metabolite">
     <Graphics CenterX="1313.0379589447612" CenterY="682.5760561666508" Width="47.5" Height="23.5" ZOrder="33823" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -2041,15 +2041,15 @@
   </DataNode>
   <DataNode TextLabel="N-Acetyl-D-mannosamine 6-phosphate" GraphId="a90f8" Type="Metabolite">
     <Graphics CenterX="1313.0479489547506" CenterY="626.6419902325836" Width="47.5" Height="23.5" ZOrder="33826" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01121" />
+    <Xref Database="HMDB" ID="HMDB0001121" />
   </DataNode>
   <DataNode TextLabel="Chitobiose" GraphId="b2442" Type="Metabolite">
     <Graphics CenterX="1118.2127841195843" CenterY="587.6509812415751" Width="47.5" Height="23.5" ZOrder="33827" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03556" />
+    <Xref Database="HMDB" ID="HMDB0003556" />
   </DataNode>
   <DataNode TextLabel="Chitobiose" GraphId="b6f71" Type="Metabolite">
     <Graphics CenterX="1210.130866037668" CenterY="657.5910411816358" Width="47.5" Height="23.5" ZOrder="33829" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03556" />
+    <Xref Database="HMDB" ID="HMDB0003556" />
   </DataNode>
   <DataNode TextLabel="b-acetyl-glucosaminide" GraphId="bb60e" Type="Metabolite">
     <Graphics CenterX="1192.820593787113" CenterY="588.6252870234265" Width="46.5" Height="23.5" ZOrder="33830" FontSize="10" Valign="Middle" />
@@ -2057,27 +2057,27 @@
   </DataNode>
   <DataNode TextLabel="N-Acetylneuraminate 9-phosphate" GraphId="eef37" Type="Metabolite">
     <Graphics CenterX="1422.9480488548509" CenterY="626.6419902325836" Width="47.5" Height="23.5" ZOrder="33832" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB06268" />
+    <Xref Database="HMDB" ID="HMDB0006268" />
   </DataNode>
   <DataNode TextLabel="Neuraminic acid" GraphId="ee94f" Type="Metabolite">
     <Graphics CenterX="1516.8641327709342" CenterY="626.6419902325836" Width="47.5" Height="23.5" ZOrder="33834" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00830" />
+    <Xref Database="HMDB" ID="HMDB0000830" />
   </DataNode>
   <DataNode TextLabel="Cortexolone" GraphId="b1bcf" Type="Metabolite">
     <Graphics CenterX="2486.637475554041" CenterY="2013.5724959328181" Width="47.5" Height="23.5" ZOrder="33836" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00015" />
+    <Xref Database="HMDB" ID="HMDB0000015" />
   </DataNode>
   <DataNode TextLabel="Etiocholanedione" GraphId="f7378" Type="Metabolite">
     <Graphics CenterX="3214.5808994548215" CenterY="2172.292802446228" Width="47.5" Height="23.5" ZOrder="33837" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03769" />
+    <Xref Database="HMDB" ID="HMDB0003769" />
   </DataNode>
   <DataNode TextLabel="Etiocholanolone" GraphId="ff803" Type="Metabolite">
     <Graphics CenterX="3305.5808994548215" CenterY="2172.292802446228" Width="47.5" Height="23.5" ZOrder="33838" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00490" />
+    <Xref Database="HMDB" ID="HMDB0000490" />
   </DataNode>
   <DataNode TextLabel="(S)-2,3,4,5-Tetrahydropiperidine-2-carboxylate" GraphId="f97e6" Type="Metabolite">
     <Graphics CenterX="2828.801672614323" CenterY="597.4418435310931" Width="47.5" Height="23.5" ZOrder="33839" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB12130" />
+    <Xref Database="HMDB" ID="HMDB0012130" />
   </DataNode>
   <Interaction GraphId="id14d8d3bf">
     <Graphics ZOrder="12288" LineThickness="1.0">
@@ -5991,11 +5991,6 @@
   </Shape>
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">classic metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000002</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cdf">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9715748</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -6004,5 +5999,10 @@
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michal G</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">classic metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000002</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

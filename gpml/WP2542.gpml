@@ -16,7 +16,7 @@
   </DataNode>
   <DataNode TextLabel="FMO" GraphId="ed228" Type="GeneProduct">
     <Graphics CenterX="416.0" CenterY="193.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
-    <Xref Database="Wikidata" ID="Q3860935"/>
+    <Xref Database="InterPro" ID="IPR000960"/>
   </DataNode>
   <DataNode TextLabel="MsrB2" GraphId="c2ce3" Type="GeneProduct" GroupRef="cbaa1">
     <Graphics CenterX="547.5" CenterY="90.0" Width="53.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>

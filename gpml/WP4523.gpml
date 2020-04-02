@@ -1090,5 +1090,5 @@ For more information and details about Androgens and the diseases linked with th
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HAYANO M</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DORFMAN RI</bp:AUTHORS>
     </bp:PublicationXref>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>disease pathway</bp:TERM><bp:ID>PW:0000013</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

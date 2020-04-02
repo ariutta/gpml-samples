@@ -3,7 +3,9 @@
   <Comment Source="GenMAPP notes"/>
   <Comment Source="GenMAPP remarks"/>
   <Comment Source="WikiPathways-category">Molecular Function</Comment>
-  <Comment Source="WikiPathways-description">The contents of this pathway represents the ribosomal proteins involved in translation.</Comment>
+  <Comment Source="WikiPathways-description">The contents of this pathway represents the ribosomal proteins involved in translation.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP477 CPTAC Assay Portal]</Comment>
   <Graphics BoardWidth="721.3333333333334" BoardHeight="721.3333333333334"/>
   <DataNode TextLabel="RPL37A" GraphId="adc" Type="GeneProduct" GroupRef="a3f67">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RPL37A | ribosomal protein L37a"/>
@@ -513,9 +515,9 @@
   <Label TextLabel="Small (40S) Subunit" GraphId="db7" GroupRef="ff345">
     <Graphics CenterX="583.3333333333334" CenterY="124.66666666666667" Width="154.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle"/>
   </Label>
-  <Group GroupId="ff345" GraphId="c6783"/>
-  <Group GroupId="a01c1" GraphId="f820f"/>
-  <Group GroupId="a3f67" GraphId="f54f3"/>
+  <Group GroupId="ff345" GraphId="c6783" Style="Complex"/>
+  <Group GroupId="a01c1" GraphId="f820f" Style="Complex"/>
+  <Group GroupId="a3f67" GraphId="f54f3" Style="Complex"/>
   <InfoBox CenterX="459.3666666666667" CenterY="584.6333333333333"/>
   <Legend CenterX="229.13333333333333" CenterY="450.53333333333336"/>
 <Biopax><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>ribosome biogenesis pathway</bp:TERM><bp:ID>PW:0001066</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax></Pathway>

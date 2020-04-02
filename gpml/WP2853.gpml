@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Endoderm Differentiation" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Model depicting endoderm specification based on the literature and highly enriched gene expression profiles via comparison across dozens of independent induced and embryonic pluripotent stem cell lines, following differentiation to multiple lineages (ectoderm, mesoderm, endoderm, embryoid body). The underlying genomic data can be obtained from: 
-https://www.synapse.org/#!Synapse:syn1773109</Comment>
+https://www.synapse.org/#!Synapse:syn1773109
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2853 CPTAC Assay Portal]</Comment>
   <Graphics BoardWidth="1733.6857280914523" BoardHeight="929.5611189122586"/>
   <DataNode TextLabel="STAT1" GraphId="c897f" Type="GeneProduct">
     <Graphics CenterX="667.9470782800452" CenterY="390.1278941565542" Width="69.33333333333326" Height="20.0" ZOrder="33704" FontSize="10" Valign="Middle"/>
@@ -405,7 +407,7 @@ https://www.synapse.org/#!Synapse:syn1773109</Comment>
   </DataNode>
   <DataNode TextLabel="TCEAL2" GraphId="d960e" Type="GeneProduct" GroupRef="d6146">
     <Graphics CenterX="1466.5366548272773" CenterY="809.4308257526487" Width="60.0" Height="20.0" ZOrder="33804" FontSize="10" Valign="Middle"/>
-    <Xref Database="Uniprot-TrEMBL" ID="Q9H3H9	"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q9H3H9 "/>
   </DataNode>
   <DataNode TextLabel="HHEX" GraphId="f1572" Type="GeneProduct">
     <Graphics CenterX="750.3571428571421" CenterY="630.794560823226" Width="63.05292171995666" Height="20.0" ZOrder="33805" FontSize="10" Valign="Middle"/>

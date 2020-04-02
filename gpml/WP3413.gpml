@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="NOTCH1 regulation of human endothelial cell calcification" Version="20150828" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">Model of NOTCH1 regulation of human endothelial cell calcification.</Comment>
+  <Comment Source="WikiPathways-description">Model of NOTCH1 regulation of human endothelial cell calcification.
+
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3413 CPTAC Assay Portal]</Comment>
   <BiopaxRef>e8a</BiopaxRef>
   <Graphics BoardWidth="1017.82320441989" BoardHeight="646.5690607734807"/>
   <DataNode TextLabel="NOTCH1" GraphId="a5b38" Type="GeneProduct">

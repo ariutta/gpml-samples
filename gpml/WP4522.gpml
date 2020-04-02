@@ -1483,5 +1483,5 @@ ApoB 48 is a unique protein to chylomicrons from the small intestine. After most
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bozon D</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sassolas A</bp:AUTHORS>
     </bp:PublicationXref>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>disease pathway</bp:TERM><bp:ID>PW:0000013</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

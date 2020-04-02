@@ -2,7 +2,9 @@
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Tumor suppressor activity of SMARCB1" Version="20171203" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">SMARCB1 is a core subunit proteins of the SWI/SNF chromatin remodeling complex, which interact with transcription factors at promoters and enhancers to modulate gene expression. Renal medullary carcinomas have been found to be deficient in SMARCB1 (BAF47) due to mutations. This pathway represents a summary of target genes and pathways implicated in the tumor suppression activity of SMARCB1. 
 
-This pathway is modeled after figure 2 of "Oncogenic roles of SMARCB1/INI1 and its deficient tumors" by Kohashi and Oda, https://www.ncbi.nlm.nih.gov/pubmed/28109176. Inactivating mutation of SMARCB1 in renal medullary carcinoma is indicated.</Comment>
+This pathway is modeled after figure 2 of "Oncogenic roles of SMARCB1/INI1 and its deficient tumors" by Kohashi and Oda, https://www.ncbi.nlm.nih.gov/pubmed/28109176. Inactivating mutation of SMARCB1 in renal medullary carcinoma is indicated.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP4204 CPTAC Assay Portal]</Comment>
   <BiopaxRef>fbf</BiopaxRef>
   <Graphics BoardWidth="1017.7973733583511" BoardHeight="721.2360577280737"/>
   <DataNode TextLabel="RBBP4" GraphId="e2f0d" Type="GeneProduct" GroupRef="df86e">
@@ -338,11 +340,7 @@ This pathway is modeled after figure 2 of "Oncogenic roles of SMARCB1/INI1 and i
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001017</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sickle cell anemia</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:10923</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
+    
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c4c">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23435428</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -421,5 +419,5 @@ This pathway is modeled after figure 2 of "Oncogenic roles of SMARCB1/INI1 and i
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001406</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer pathway</bp:TERM><bp:ID>PW:0000605</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

@@ -3,7 +3,9 @@
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Comment Source="WikiPathways-description">Statins inhibit endogenous cholesterol production by competitive inhibition of HMG-CoA reductase (HMGCR), the enzyme that catalyzes conversion of HMG-CoA to mevalonate, an early rate-limiting step in cholesterol synthesis. This pathway delineates genes involved in statin pharmacogenomics, including genes involved in mediating the effects of statins on plasma lipoprotein metabolism. 
 
-Sources: [https://www.pharmgkb.org/pathway/PA2031 PharmGKB] and [http://en.wikipedia.org/wiki/Statin Wikipedia]</Comment>
+Sources: [https://www.pharmgkb.org/pathway/PA2031 PharmGKB] and [http://en.wikipedia.org/wiki/Statin Wikipedia]
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP430 CPTAC Assay Portal].</Comment>
   <BiopaxRef>c3a</BiopaxRef>
   <Graphics BoardWidth="829.6224677716383" BoardHeight="735.7912447684621"/>
   <DataNode TextLabel="Cholesterol" GraphId="a2188" Type="Metabolite">
@@ -16,7 +18,7 @@ Sources: [https://www.pharmgkb.org/pathway/PA2031 PharmGKB] and [http://en.wikip
   </DataNode>
   <DataNode TextLabel="Squalene" GraphId="a2c50" Type="Metabolite">
     <Graphics CenterX="160.5" CenterY="228.0" Width="67.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff"/>
-    <Xref Database="HMDB" ID="HMDB00256"/>
+    <Xref Database="HMDB" ID="HMDB0000256"/>
   </DataNode>
   <DataNode TextLabel="ABCA1" GraphId="a40" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ABCA1 | ATP-binding cassette sub-family A (ABC..."/>
@@ -25,7 +27,7 @@ Sources: [https://www.pharmgkb.org/pathway/PA2031 PharmGKB] and [http://en.wikip
   </DataNode>
   <DataNode TextLabel="Acyl-CoA" GraphId="a47e8" Type="Metabolite">
     <Graphics CenterX="524.625" CenterY="123.75" Width="53.75" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff"/>
-    <Xref Database="HMDB" ID="HMDB03419"/>
+    <Xref Database="HMDB" ID="HMDB0003419"/>
   </DataNode>
   <DataNode TextLabel="ABCG8" GraphId="a658e" Type="GeneProduct" GroupRef="ef7f2">
     <Graphics CenterX="146.33333333333348" CenterY="605.9999999999997" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
@@ -79,7 +81,7 @@ Sources: [https://www.pharmgkb.org/pathway/PA2031 PharmGKB] and [http://en.wikip
   </DataNode>
   <DataNode TextLabel="VLDL" GraphId="b20a2" Type="Metabolite">
     <Graphics CenterX="416.4916666666667" CenterY="390.48333333333335" Width="32.016666666666666" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:47773"/>
+    <Xref Database="ChEBI" ID="CHEBI:39027"/>
   </DataNode>
   <DataNode TextLabel="CYP7A1" GraphId="b69" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CYP7A1 | cytochrome P450 family 7 subfamily A..."/>
@@ -114,7 +116,7 @@ Sources: [https://www.pharmgkb.org/pathway/PA2031 PharmGKB] and [http://en.wikip
   </DataNode>
   <DataNode TextLabel="HMG-CoA" GraphId="cb32b" Type="Metabolite">
     <Graphics CenterX="82.74774572638509" CenterY="81.0" Width="65.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff"/>
-    <Xref Database="HMDB" ID="HMDB01375"/>
+    <Xref Database="HMDB" ID="HMDB0001375"/>
   </DataNode>
   <DataNode TextLabel="LCAT" GraphId="cb6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="LCAT | lecithin-cholesterol acyltransferase"/>
@@ -733,9 +735,9 @@ Sources: [https://www.pharmgkb.org/pathway/PA2031 PharmGKB] and [http://en.wikip
   <InfoBox CenterX="5.1" CenterY="8.333333333333334"/>
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiovascular system disease</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1287</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">statin drug pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000724</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c3a">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10770267</bp:ID>
@@ -749,9 +751,9 @@ Sources: [https://www.pharmgkb.org/pathway/PA2031 PharmGKB] and [http://en.wikip
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shimada K</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">statin drug pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000724</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiovascular system disease</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1287</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a6b">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9106493</bp:ID>

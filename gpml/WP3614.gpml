@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Photodynamic therapy-induced HIF-1 survival signaling" Version="20131008" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">Photodynamic therapy may induce a hypoxic survival response mediated by HIF-1.</Comment>
+  <Comment Source="WikiPathways-description">Photodynamic therapy may induce a hypoxic survival response mediated by HIF-1.
+
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3614 CPTAC Assay Portal]</Comment>
   <BiopaxRef>d70</BiopaxRef>
   <BiopaxRef>c11</BiopaxRef>
   <Graphics BoardWidth="802.8674203494347" BoardHeight="661.7880897726562"/>

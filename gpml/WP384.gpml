@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis Modulation by HSP70" Organism="Homo sapiens" License="CC BY 2.0"><Comment Source="WikiPathways-description">This pathway summarizes the various ways by which HSP70 proteins can inhibit apoptosis. This pathway was originally adapted from rat.</Comment>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis Modulation by HSP70" Organism="Homo sapiens" License="CC BY 2.0"><Comment Source="WikiPathways-description">This pathway summarizes the various ways by which HSP70 proteins can inhibit apoptosis. This pathway was originally adapted from rat.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP384 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <BiopaxRef>f65</BiopaxRef>
   <BiopaxRef>de1</BiopaxRef>

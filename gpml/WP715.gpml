@@ -6,7 +6,7 @@
   <Graphics BoardWidth="368.0" BoardHeight="398.0" />
   <DataNode TextLabel="Glycine" GraphId="b09fb" Type="Metabolite" GroupRef="c6b80">
     <Graphics CenterX="271.0" CenterY="279.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00123" />
+    <Xref Database="HMDB" ID="HMDB0000123" />
   </DataNode>
   <DataNode TextLabel="carboxyl amino acid conjugate" GraphId="b56c0" Type="Metabolite">
     <Graphics CenterX="164.0" CenterY="358.0" Width="172.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -14,15 +14,15 @@
   </DataNode>
   <DataNode TextLabel="Phosphate" GraphId="b836b" Type="Metabolite" GroupRef="b5014">
     <Graphics CenterX="298.0" CenterY="162.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01429" />
+    <Xref Database="HMDB" ID="HMDB0001429" />
   </DataNode>
   <DataNode TextLabel="Phosphate" GraphId="b8600" Type="Metabolite" GroupRef="b5014">
     <Graphics CenterX="298.0" CenterY="142.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01429" />
+    <Xref Database="HMDB" ID="HMDB0001429" />
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="bb44a" Type="Metabolite">
     <Graphics CenterX="296.0" CenterY="92.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00538" />
+    <Xref Database="HMDB" ID="HMDB0000538" />
   </DataNode>
   <DataNode TextLabel="carboxylic acid AMP ester" GraphId="c34c7" Type="Metabolite">
     <Graphics CenterX="164.74166666666667" CenterY="187.98333333333332" Width="139.48333333333332" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -30,7 +30,7 @@
   </DataNode>
   <DataNode TextLabel="L-Glutamine" GraphId="cb1fb" Type="Metabolite" GroupRef="c6b80">
     <Graphics CenterX="271.0" CenterY="319.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00641" />
+    <Xref Database="HMDB" ID="HMDB0000641" />
   </DataNode>
   <DataNode TextLabel="carboxylic acid" GraphId="e0361" Type="Metabolite">
     <Graphics CenterX="164.48333333333332" CenterY="69.98333333333333" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -42,7 +42,7 @@
   </DataNode>
   <DataNode TextLabel="Taurine" GraphId="f36a5" Type="Metabolite" GroupRef="c6b80">
     <Graphics CenterX="271.0" CenterY="299.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00251" />
+    <Xref Database="HMDB" ID="HMDB0000251" />
   </DataNode>
   <Interaction GraphId="a9d87">
     <Graphics ZOrder="12288" LineThickness="1.0">
@@ -92,11 +92,6 @@
   <Group GroupId="c6b80" GraphId="db47d" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amino acid metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c39">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17428148</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -107,5 +102,10 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sykes MJ</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miners JO</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amino acid metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

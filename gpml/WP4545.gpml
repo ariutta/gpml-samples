@@ -36,7 +36,7 @@ This pathway drawing was inspired by Figure 3 of the review article by Griffiths
   </DataNode>
   <DataNode TextLabel="LXR-alpha" GraphId="c4270" Type="Protein" GroupRef="abfca">
     <Graphics CenterX="724.3373493975903" CenterY="635.6626506024096" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
-    <Xref Database="Uniprot-TrEMBL" ID="13133"/>
+    <Xref Database="Uniprot-TrEMBL" ID="P13133"/>
   </DataNode>
   <DataNode TextLabel="D8D7I" GraphId="c9cd0" Type="Protein">
     <Comment>"ChEH is a dimer of 7-dehydrocholesterol reductase (DHCR7) and 3β-hydroxysteroid-Δ8-Δ7-isomerase (D8D7I)"</Comment>
@@ -128,13 +128,13 @@ This pathway drawing was inspired by Figure 3 of the review article by Griffiths
     <BiopaxRef>ebf</BiopaxRef>
     <BiopaxRef>c8b</BiopaxRef>
     <Graphics CenterX="216.0" CenterY="484.0" Width="90.0" Height="25.0" ZOrder="32788" FontSize="12" Valign="Middle"/>
-    <Xref Database="Uniprot-TrEMBL" ID="CYP27A1"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q02318"/>
   </DataNode>
   <DataNode TextLabel="Cyp27A1" GraphId="eaba3" Type="Protein">
     <BiopaxRef>ebf</BiopaxRef>
     <BiopaxRef>c8b</BiopaxRef>
     <Graphics CenterX="216.0" CenterY="254.0" Width="90.0" Height="25.0" ZOrder="32789" FontSize="12" Valign="Middle"/>
-    <Xref Database="Uniprot-TrEMBL" ID="CYP27A1"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q02318"/>
   </DataNode>
   <DataNode TextLabel="Cyp7A1" GraphId="a4d45" Type="Protein">
     <Comment>cholesterol 7 alpha-hydroxylase, the rate-limiting enzyme in bile acid biosynthesis.</Comment>
@@ -145,7 +145,7 @@ This pathway drawing was inspired by Figure 3 of the review article by Griffiths
     <BiopaxRef>ebf</BiopaxRef>
     <BiopaxRef>c8b</BiopaxRef>
     <Graphics CenterX="682.1976904596875" CenterY="485.2180267965895" Width="90.0" Height="25.0" ZOrder="32791" FontSize="12" Valign="Middle"/>
-    <Xref Database="Uniprot-TrEMBL" ID="CYP27A1"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q02318"/>
   </DataNode>
   <DataNode TextLabel="Cyp7B1" GraphId="d00d8" Type="Protein">
     <Graphics CenterX="801.0" CenterY="484.0" Width="90.0" Height="25.0" ZOrder="32792" FontSize="12" Valign="Middle"/>
@@ -176,7 +176,7 @@ This pathway drawing was inspired by Figure 3 of the review article by Griffiths
   <DataNode TextLabel="IL-17C" GraphId="c5353" Type="Protein" GroupRef="c643f">
     <Comment>"IL-17 familiy is essential in host defense and may play key pathogenic roles in autoimmune diseases." [PMID: 25092323]</Comment>
     <Graphics CenterX="264.6860883668832" CenterY="108.48386357919175" Width="90.0" Height="25.0" ZOrder="32805" FontSize="12" Valign="Middle"/>
-    <Xref Database="Uniprot-TrEMBL" ID="9P0M4"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q9P0M4"/>
   </DataNode>
   <DataNode TextLabel="IL-17D" GraphId="ed937" Type="Protein" GroupRef="c643f">
     <Comment>"IL-17 familiy is essential in host defense and may play key pathogenic roles in autoimmune diseases." [PMID: 25092323]</Comment>
@@ -191,7 +191,7 @@ This pathway drawing was inspired by Figure 3 of the review article by Griffiths
   <DataNode TextLabel="IL-17F" GraphId="e0cc0" Type="Protein" GroupRef="c643f">
     <Comment>"IL-17 familiy is essential in host defense and may play key pathogenic roles in autoimmune diseases." [PMID: 25092323]</Comment>
     <Graphics CenterX="354.68608836688315" CenterY="108.48386357919175" Width="90.0" Height="25.0" ZOrder="32808" FontSize="12" Valign="Middle"/>
-    <Xref Database="Uniprot-TrEMBL" ID="96PD4"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q96PD4"/>
   </DataNode>
   <DataNode TextLabel="Estrogen receptor beta" GraphId="f5dea" Type="Protein" GroupRef="bddc8">
     <Comment>Expressed in vascular cells.</Comment>

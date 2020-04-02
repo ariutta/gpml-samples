@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood clotting and the effect of several medicine on this process" Version="20190410" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood clotting and drug effects" Version="20190410" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Formation of a blood clot by arachidonic acid. This pathway also shows various stimulants/inhibitors that have an effect on the pathway, while also showing the two compounds which respectively cause vasoconstriction/vasodilation and inhibit/stimulate platelet aggregation.
 </Comment>
   <BiopaxRef>e5c</BiopaxRef>
@@ -36,7 +36,7 @@
     <Graphics CenterX="273.0" CenterY="410.75" Width="92.0" Height="39.5" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
     <Xref Database="ChEBI" ID="CHEBI:8583"/>
   </DataNode>
-  <DataNode TextLabel="Fibrinogen" GraphId="d8c6e" Type="Metabolite">
+  <DataNode TextLabel="Fibrinogen" GraphId="d8c6e" Type="Protein">
     <Graphics CenterX="393.0" CenterY="523.75" Width="106.0" Height="35.5" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
     <Xref Database="Wikidata" ID="Q381899"/>
   </DataNode>
@@ -56,20 +56,6 @@
     <Graphics CenterX="272.90709421641793" CenterY="153.09290578358213" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
     <Xref Database="ChEBI" ID="CHEBI:35475"/>
   </DataNode>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="734.2619587517546" Y="453.5147392290249"/>
-      <Point X="849.1523593564409" Y="454.37857682755634" ArrowHead="mim-conversion"/>
-    </Graphics>
-    <Xref Database="" ID=""/>
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="736.853471547349" Y="490.6597559658784"/>
-      <Point X="853.4715473490983" Y="490.6597559658784" ArrowHead="mim-catalysis"/>
-    </Graphics>
-    <Xref Database="" ID=""/>
-  </Interaction>
   <Interaction GraphId="id13750a96">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="426.5" Y="215.5" GraphRef="aee9b" RelX="1.0" RelY="0.0"/>
@@ -179,6 +165,18 @@
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
+  <GraphicalLine GraphId="cbdab">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="736.853471547349" Y="490.6597559658784"/>
+      <Point X="853.4715473490983" Y="490.6597559658784" ArrowHead="mim-catalysis"/>
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="fe855">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="734.2619587517546" Y="453.5147392290249"/>
+      <Point X="849.1523593564409" Y="454.37857682755634" ArrowHead="mim-conversion"/>
+    </Graphics>
+  </GraphicalLine>
   <Label TextLabel="Catalysis" GraphId="a42e7">
     <Graphics CenterX="933.8084440125255" CenterY="491.52359356441" Width="90.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle"/>
   </Label>
@@ -210,6 +208,11 @@
   <Group GroupId="ee22e" Style="Group"/>
   <InfoBox CenterX="0.0" CenterY="0.0"/>
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coagulation cascade pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000474</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e5c">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -218,10 +221,5 @@
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glen D. Lawrence</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coagulation cascade pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000474</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

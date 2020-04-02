@@ -5,7 +5,9 @@
 
 Please access this pathway at [http://www.netpath.org/netslim/tweak_pathway.html NetSlim] database.
 
-If you use this pathway, please cite Bhattacharjee2012 paper (see below).</Comment>
+If you use this pathway, please cite Bhattacharjee2012 paper (see below).
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2036 CPTAC Assay Portal].</Comment>
   <BiopaxRef>bca</BiopaxRef>
   <Attribute Key="org.pathvisio.model.WindowHeight" Value="11190.0"/>
   <Attribute Key="org.pathvisio.model.WindowWidth" Value="15480.0"/>

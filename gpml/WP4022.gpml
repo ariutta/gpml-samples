@@ -3,8 +3,12 @@
   <Comment Source="WikiPathways-description">Pyrimidines are nucleic acids and the products of pyrimidine degradation are water-soluble. The pyrimidine ring is synthesized before it is conjugated to PRPP. The first reaction is the conjugation of carbamoyl phosphate and aspartate to make N-carbamoylaspartate. The carbamoyl phosphate synthetase used in pyrimidine biosynthesis is located in the cytoplasm. The enzyme that carries out the reaction is aspartate transcarbamoylase, an enzyme that is closely regulated. The second reaction is ring closure to form dihydroorotic acid by the enzyme dihydroorotase. This circular product contains a 6-membered ring with nitrogen and carbons located in the same positions as in the mature pyrimidine ring. The third reaction is the oxidation of the ring to form a carbon- carbon bond. The reducing equivalents are transferred to a flavin cofactor of the enzyme dihydroorotate dehydrogenase. The product is orotic acid. Fourth, the orotate ring is transferred to phosphoribosyl pyrophosphate (PRPP) to form a 5-ribose-phosphate, orotidylic acid. Finally orotidylate is decarboxylated to yield UMP, which of course contains one of the bases of RNA. Cellular kinases convert UMP to UTP. Transfer of an amido nitrogen from glutamine by CTP synthetase converts UTP to CTP; this reaction uses an ATP high-energy phosphate. Pyrimidine synthesis is controlled at the first committed step. ATP stimulates the aspartate transcarbamoylase reaction, while CTP inhibits it. CTP is a feedback inhibitor of the pathway, and ATP is a feed-forward activator. This regulation ensures that a balanced supply of purines and pyrimidines exists for RNA and synthesis.
 Eukaryotic organisms contain a multifunctional enzyme with carbamoylphosphate synthetase, aspartate transcarbamoylase, and dihydroorotase activities. Two mechanisms control this enzyme. First, control at the level of enzyme synthesis exists; the transcription of the gene for the enzyme is reduced if an excess of pyrimidines is present. Secondly, control exists at the level of feedback inhibition by pyrimidine nucleotides. This enzyme is also an example of the phenomenon of metabolic channeling: aspartate, ammonia, and carbon dioxide enter the enzyme and come out as orotic acid
 
-Description text is based on: https://www.cliffsnotes.com/study-guides/biology/biochemistry-ii/purines-and-pyrimidines/pyrimidine-metabolism
-Pathway is based on: http://www.genome.jp/kegg-bin/show_pathway?map00240</Comment>
+Description text is based on [https://www.cliffsnotes.com/study-guides/biology/biochemistry-ii/purines-and-pyrimidines/pyrimidine-metabolism Cliff's Notes].
+
+Pathway is based on [https://www.genome.jp/dbget-bin/www_bget?pathway+map00240 KEGG]
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP4022 CPTAC Assay Portal]</Comment>
+  <BiopaxRef>d2f</BiopaxRef>
   <Attribute Key="ConversionDate" Value="20100629" />
   <Attribute Key="KeggId" Value="path:mtu00240" />
   <Graphics BoardWidth="2073.399131645477" BoardHeight="1311.3432835820895" />
@@ -91,7 +95,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="CMP" GraphId="fd0d8" Type="Metabolite">
     <Graphics CenterX="1132.4093357271095" CenterY="594.2333931777366" Width="80.0" Height="20.0" ZOrder="33092" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00095" />
+    <Xref Database="HMDB" ID="HMDB0000095" />
   </DataNode>
   <DataNode TextLabel="CAD" GraphId="e2169" Type="GeneProduct">
     <Comment Source="KeggConverter">Original kegg element: gene;14;mtu:Rv1380</Comment>
@@ -100,7 +104,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="N-Carbamoylaspartate" GraphId="d2832" Type="Metabolite">
     <Graphics CenterX="271.2148912826653" CenterY="187.084657718806" Width="111.0" Height="20.0" ZOrder="33094" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00828" />
+    <Xref Database="HMDB" ID="HMDB0000828" />
   </DataNode>
   <DataNode TextLabel="CTPS1" GraphId="c679b" Type="GeneProduct" GroupRef="f702b">
     <Comment Source="KeggConverter">Original kegg element: gene;25;mtu:Rv0321</Comment>
@@ -113,7 +117,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="Cytidine" GraphId="ae128" Type="Metabolite">
     <Graphics CenterX="1393.3095877409703" CenterY="594.0759857703292" Width="80.0" Height="20.0" ZOrder="33098" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00089" />
+    <Xref Database="HMDB" ID="HMDB0000089" />
   </DataNode>
   <DataNode TextLabel="PRPP" GraphId="f9509" Type="Metabolite">
     <Comment>5-Phospho-alpha-D-ribose 1-diphosphate</Comment>
@@ -126,11 +130,11 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="Dihydroorotate" GraphId="f9cac" Type="Metabolite">
     <Graphics CenterX="480.2982246159982" CenterY="187.084657718806" Width="80.0" Height="20.0" ZOrder="33101" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB03349" />
+    <Xref Database="HMDB" ID="HMDB0003349" />
   </DataNode>
   <DataNode TextLabel="beta-Alanine" GraphId="b82d9" Type="Metabolite">
     <Graphics CenterX="1858.964891282666" CenterY="546.7611709555144" Width="80.0" Height="20.0" ZOrder="33102" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00056" />
+    <Xref Database="HMDB" ID="HMDB0000056" />
   </DataNode>
   <DataNode TextLabel="ENTPD8" GraphId="b7db4" Type="GeneProduct" GroupRef="de62a">
     <Graphics CenterX="775.3811689048265" CenterY="530.4224688079889" Width="80.0" Height="22.09243697478988" ZOrder="33103" FontSize="10" Valign="Middle" />
@@ -158,7 +162,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="Uridine" GraphId="be275" Type="Metabolite">
     <Graphics CenterX="1392.4093357271095" CenterY="392.23339317773804" Width="80.0" Height="20.0" ZOrder="33109" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00296" />
+    <Xref Database="HMDB" ID="HMDB0000296" />
   </DataNode>
   <DataNode TextLabel="DHODH" GraphId="bb38c" Type="GeneProduct">
     <Comment Source="KeggConverter">Original kegg element: gene;17;mtu:Rv2139</Comment>
@@ -181,7 +185,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="Uracil" GraphId="fafdd" Type="Metabolite">
     <Graphics CenterX="1700.4093357271095" CenterY="392.23339317773804" Width="80.0" Height="20.0" ZOrder="33114" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00300" />
+    <Xref Database="HMDB" ID="HMDB0000300" />
   </DataNode>
   <DataNode TextLabel="PNPT1" GraphId="e0657" Type="GeneProduct">
     <Comment Source="KeggConverter">Original kegg element: gene;41;mtu:Rv2783c</Comment>
@@ -214,7 +218,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="Thymidine" GraphId="dc429" Type="Metabolite">
     <Graphics CenterX="1354.4093357271095" CenterY="1109.2487638829846" Width="80.0" Height="20.0" ZOrder="33121" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00273" />
+    <Xref Database="HMDB" ID="HMDB0000273" />
   </DataNode>
   <DataNode TextLabel="dUDP" GraphId="d42bf" Type="Metabolite">
     <Graphics CenterX="906.4093357271095" CenterY="929.2355028823797" Width="80.0" Height="20.0" ZOrder="33122" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -227,7 +231,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="Deoxyuridine" GraphId="c3d82" Type="Metabolite">
     <Graphics CenterX="1354.4093357271095" CenterY="929.2355028823797" Width="80.0" Height="20.0" ZOrder="33125" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00012" />
+    <Xref Database="HMDB" ID="HMDB0000012" />
   </DataNode>
   <DataNode TextLabel="UPP2" GraphId="b23bc" Type="GeneProduct" GroupRef="bbdac">
     <Comment>Check literature for directionality of enzyme</Comment>
@@ -276,7 +280,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="Carbamoylphosphate" GraphId="c6f24" Type="Metabolite">
     <Graphics CenterX="270.4093357271095" CenterY="369.23339317773804" Width="96.0" Height="18.0" ZOrder="33136" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01096" />
+    <Xref Database="HMDB" ID="HMDB0001096" />
   </DataNode>
   <DataNode TextLabel="UPB1" GraphId="cd072" Type="GeneProduct">
     <Graphics CenterX="1943.9525739562584" CenterY="510.9294915157836" Width="80.0" Height="20.0" ZOrder="33137" FontSize="10" Valign="Middle" />
@@ -293,7 +297,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="UMP" GraphId="e9e13" Type="Metabolite">
     <Graphics CenterX="1132.4093357271095" CenterY="392.23339317773804" Width="80.0" Height="20.0" ZOrder="33140" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00288" />
+    <Xref Database="HMDB" ID="HMDB0000288" />
   </DataNode>
   <DataNode TextLabel="UTP" GraphId="f8e44" Type="Metabolite">
     <Graphics CenterX="673.6495535714282" CenterY="392.23339317773804" Width="80.0" Height="20.0" ZOrder="33141" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -305,7 +309,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="L-Glutamine" GraphId="cebca" Type="Metabolite">
     <Graphics CenterX="262.4093357271095" CenterY="513.7380228073662" Width="80.0" Height="19.009259259259352" ZOrder="33143" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00641" />
+    <Xref Database="HMDB" ID="HMDB0000641" />
   </DataNode>
   <DataNode TextLabel="UPRT" GraphId="cac31" Type="GeneProduct">
     <Graphics CenterX="1477.1593357271095" CenterY="506.48339317773673" Width="56.5" Height="21.5" ZOrder="33144" FontSize="12" Valign="Middle" />
@@ -318,7 +322,7 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
   </DataNode>
   <DataNode TextLabel="Thymine" GraphId="d265f" Type="Metabolite">
     <Graphics CenterX="1572.4093357271095" CenterY="1109.2487638829846" Width="80.0" Height="20.0" ZOrder="33146" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00262" />
+    <Xref Database="HMDB" ID="HMDB0000262" />
   </DataNode>
   <DataNode TextLabel="UCK1" GraphId="d4e1b" Type="GeneProduct" GroupRef="c9d5b">
     <Graphics CenterX="1289.1385270020141" CenterY="508.07598577032934" Width="80.0" Height="20.0" ZOrder="33147" FontSize="10" Valign="Middle" />
@@ -2460,5 +2464,12 @@ P1,P4-Bis(5'-uridyl) tetraphosphate</Comment>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000032</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d2f">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.genome.jp/dbget-bin/www_bget?pathway+map00240</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
+    </bp:PublicationXref>
   </Biopax>
 </Pathway>

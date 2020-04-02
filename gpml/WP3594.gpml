@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Circadian rhythm related genes" Version="20151214" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">This is currently not a pathway but a list of circadian rhythm related genes and proteins. The source for this information is the gene ontology. The genes and proteins were filtered for "circadian rhythm" annotation (taxon = homo sapiens). According to supplementary information they were clustered in major (neurotransmitters, hormons, appetite regulation and immune system) and minor groups.</Comment>
+  <Comment Source="WikiPathways-description">This is currently not a pathway but a list of circadian rhythm related genes and proteins. The source for this information is the gene ontology. The genes and proteins were filtered for "circadian rhythm" annotation (taxon = homo sapiens). According to supplementary information they were clustered in major (neurotransmitters, hormons, appetite regulation and immune system) and minor groups.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3594 CPTAC Assay Portal]</Comment>
   <Graphics BoardWidth="834.5292099715587" BoardHeight="916.1407249466952"/>
   <DataNode TextLabel="NPY2R" GraphId="b9609" Type="GeneProduct">
     <Graphics CenterX="77.55152807391481" CenterY="636.1407249466951" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
@@ -600,7 +602,7 @@
   </DataNode>
   <DataNode TextLabel="HCRTR1" GraphId="d68e3" Type="GeneProduct">
     <Graphics CenterX="667.3752966322587" CenterY="115.71215972867572" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
-    <Xref Database="Uniprot-TrEMBL" ID="A6NMV7"/>
+    <Xref Database="Uniprot-TrEMBL" ID="O43613"/>
   </DataNode>
   <DataNode TextLabel="NFIL3" GraphId="c8b77" Type="GeneProduct">
     <Graphics CenterX="477.1457107650117" CenterY="429.34160698458123" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>

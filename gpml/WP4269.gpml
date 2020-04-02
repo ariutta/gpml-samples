@@ -89,7 +89,7 @@
   </DataNode>
   <DataNode TextLabel="Enflurane" GraphId="b61ef" Type="Metabolite">
     <Graphics CenterX="877.0000000000002" CenterY="338.6812367592356" Width="150.0" Height="35.0" ZOrder="32789" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB14373" />
+    <Xref Database="HMDB" ID="HMDB0014373" />
   </DataNode>
   <DataNode TextLabel="Halothane" GraphId="d94f5" Type="Metabolite">
     <Graphics CenterX="877.0000000000002" CenterY="408.6812367592356" Width="150.0" Height="35.0" ZOrder="32790" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -101,7 +101,7 @@
   </DataNode>
   <DataNode TextLabel="6-Hydroxychlorzoxazone" GraphId="aa9a3" Type="Metabolite">
     <Graphics CenterX="1027.7575440140847" CenterY="513.6812367592356" Width="150.0" Height="35.0" ZOrder="32792" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB60998" />
+    <Xref Database="HMDB" ID="HMDB0060998" />
   </DataNode>
   <DataNode TextLabel="Isoflurane" GraphId="cc454" Type="Metabolite">
     <Graphics CenterX="877.0000000000002" CenterY="373.6812367592356" Width="150.0" Height="35.0" ZOrder="32793" FontSize="12" Valign="Middle" Color="0000ff" />

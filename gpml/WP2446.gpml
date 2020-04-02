@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Retinoblastoma Gene in Cancer" Author="Jack Youngren" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">Describes the role of retinoblastoma (RB) gene in cancer.</Comment>
+  <Comment Source="WikiPathways-description">Describes the role of retinoblastoma (RB) gene in cancer.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2446 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="1441.0" BoardHeight="1165.0"/>
   <DataNode TextLabel="RB1" GraphId="ec5e8" Type="GeneProduct">
@@ -1392,5 +1394,5 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andreeff M</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Croce CM</bp:AUTHORS>
     </bp:PublicationXref>
-  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>disease pathway</bp:TERM><bp:ID>PW:0000013</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>disease pathway</bp:TERM><bp:ID>PW:0000013</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer pathway</bp:TERM><bp:ID>PW:0000605</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer</bp:TERM><bp:ID>DOID:162</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

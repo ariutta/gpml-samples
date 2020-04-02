@@ -15,7 +15,7 @@
     <Graphics CenterX="479.0" CenterY="182.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000130164"/>
   </DataNode>
-  <DataNode TextLabel="Evolocumab" GraphId="e93fb" Type="Protein">
+  <DataNode TextLabel="Evolocumab" GraphId="e93fb" Type="Metabolite">
     <Graphics CenterX="299.0" CenterY="61.0" Width="80.0" Height="20.0" ZOrder="32775" FontSize="10" Valign="Middle"/>
     <Xref Database="Wikidata" ID="Q15623825"/>
   </DataNode>
@@ -191,5 +191,5 @@
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015, Vol 294, No 7858, URI:20068181</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dorey, Emma</bp:AUTHORS>
     </bp:PublicationXref>
-  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>drug pathway</bp:TERM><bp:ID>PW:0000754</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>drug pathway</bp:TERM><bp:ID>PW:0000754</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>altered cholesterol transport pathway</bp:TERM><bp:ID>PW:0001347</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>altered cholesterol biosynthetic pathway</bp:TERM><bp:ID>PW:0000752</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>hepatocyte</bp:TERM><bp:ID>CL:0000182</bp:ID><bp:Ontology>Cell Type</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>
