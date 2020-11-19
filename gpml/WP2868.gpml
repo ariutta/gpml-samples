@@ -6,6 +6,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <BiopaxRef>cca</BiopaxRef>
   <Graphics BoardWidth="949.831223628692" BoardHeight="613.0"/>
   <DataNode TextLabel="STAT3" GraphId="a2a4a" Type="GeneProduct">
+    <BiopaxRef>cca</BiopaxRef>
     <Graphics CenterX="102.0" CenterY="408.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="6774"/>
   </DataNode>
@@ -46,10 +47,11 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="WikiPathways" ID="WP78"/>
   </DataNode>
   <DataNode TextLabel="Glucose" GraphId="c1502" Type="Metabolite">
-    <Graphics CenterX="101.0" CenterY="546.0" Width="80.0" Height="20.0" ZOrder="32770" FontSize="10" Valign="Middle" Color="0000ff"/>
+    <Graphics CenterX="102.0" CenterY="546.0" Width="80.0" Height="20.0" ZOrder="32770" FontSize="10" Valign="Middle" Color="0000ff"/>
     <Xref Database="HMDB" ID="HMDB0000122"/>
   </DataNode>
   <DataNode TextLabel="STAT3" GraphId="dd827" Type="GeneProduct">
+    <BiopaxRef>cca</BiopaxRef>
     <Graphics CenterX="639.0" CenterY="368.0" Width="80.0" Height="20.0" ZOrder="32774" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="6774"/>
   </DataNode>
@@ -66,20 +68,23 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="3716"/>
   </DataNode>
   <DataNode TextLabel="STAT3" GraphId="a3dd3" Type="GeneProduct">
+    <BiopaxRef>cca</BiopaxRef>
     <Graphics CenterX="459.0" CenterY="404.0" Width="80.0" Height="20.0" ZOrder="32784" FontSize="10" Valign="Middle"/>
     <Xref Database="Entrez Gene" ID="6774"/>
   </DataNode>
-  <State GraphRef="a2a4a" TextLabel="Tyr-P" GraphId="d439a">
-    <Comment>P</Comment>
-    <Graphics RelX="1.0" RelY="-1.0" Width="35.5" Height="12.5" ShapeType="Oval"/>
+  <State GraphRef="a2a4a" TextLabel="P" GraphId="d439a">
+    <Comment>parentid=P40763; parentsymbol=STAT3; site=DPGsAAPyLktKFIC; position=tyr705; sitegrpid=448192; ptm=p; direction=u</Comment>
+    <Graphics RelX="1.0" RelY="-0.4" Width="15.0" Height="15.0" ShapeType="Oval"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="dd827" TextLabel="Ser-P" GraphId="bcf9c">
-    <Graphics RelX="0.825" RelY="-0.9" Width="33.5" Height="14.5" ShapeType="Oval"/>
+  <State GraphRef="dd827" TextLabel="P" GraphId="bcf9c">
+    <Comment>parentid=P40763; parentsymbol=STAT3; site=NtIDLPMsPRTLDSL; position=ser727; sitegrpid=448191; ptm=p; direction=u</Comment>
+    <Graphics RelX="1.0" RelY="-0.3" Width="15.0" Height="15.0" ShapeType="Oval"/>
     <Xref Database="" ID=""/>
   </State>
-  <State GraphRef="a3dd3" TextLabel="Tyr-P" GraphId="c6512">
-    <Graphics RelX="0.84375" RelY="-1.0" Width="29.5" Height="14.5" ShapeType="Oval"/>
+  <State GraphRef="a3dd3" TextLabel="P" GraphId="c6512">
+    <Comment>parentid=P40763; parentsymbol=STAT3; site=DPGsAAPyLktKFIC; position=tyr705; sitegrpid=448192; ptm=p; direction=u</Comment>
+    <Graphics RelX="1.0" RelY="-0.5" Width="15.0" Height="15.0" ShapeType="Oval"/>
     <Xref Database="" ID=""/>
   </State>
   <Interaction GraphId="id20dcdc6a">
@@ -91,7 +96,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="id5e1188a0">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="141.0" Y="546.0" GraphRef="c1502" RelX="1.0" RelY="0.0"/>
+      <Point X="142.0" Y="546.0" GraphRef="c1502" RelX="1.0" RelY="0.0"/>
       <Point X="179.0" Y="546.0" GraphRef="d632b" RelX="-1.0" RelY="0.0" ArrowHead="Arrow"/>
     </Graphics>
     <Xref Database="" ID=""/>
@@ -128,7 +133,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="f830a">
     <Graphics ZOrder="32771" LineThickness="1.0" Color="ff0000">
       <Point X="102.0" Y="418.0" GraphRef="a2a4a" RelX="0.0" RelY="1.0"/>
-      <Point X="101.0" Y="536.0" GraphRef="c1502" RelX="0.0" RelY="-1.0" ArrowHead="Arrow"/>
+      <Point X="102.0" Y="536.0" GraphRef="c1502" RelX="0.0" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
@@ -222,7 +227,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="590.5" CenterY="442.0" Width="93.0" Height="32.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle"/>
   </Label>
   <Label TextLabel="Complex II&#10;Succinate-Ubiquinone" GraphId="c9ca7">
-    <Graphics CenterX="701.2742616033755" CenterY="442.0" Width="118.54852320675104" Height="32.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle"/>
+    <Graphics CenterX="696.5" CenterY="442.0" Width="109.0" Height="32.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle"/>
   </Label>
   <Label TextLabel="Low-invasive Ovarian Cancer" GraphId="d04eb">
     <Graphics CenterX="144.5" CenterY="162.0" Width="191.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle"/>
@@ -249,9 +254,9 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Shape GraphId="cb2f9">
     <Graphics CenterX="761.915611814346" CenterY="66.5" Width="315.831223628692" Height="107.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0"/>
   </Shape>
-  <Shape GraphId="f3a30">
+  <Shape TextLabel="Mitochondria" GraphId="f3a30">
     <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Cell"/>
-    <Graphics CenterX="653.548523206751" CenterY="477.0" Width="235.0970464135022" Height="128.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="3.0" Color="c0c0c0" Rotation="0.0"/>
+    <Graphics CenterX="653.548523206751" CenterY="477.0" Width="235.0970464135022" Height="128.0" ZOrder="16384" FontSize="10" Valign="Bottom" ShapeType="RoundedRectangle" LineThickness="3.0" Color="c0c0c0" Rotation="0.0"/>
   </Shape>
   <Shape GraphId="ebd9f">
     <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Cell"/>
@@ -260,11 +265,6 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Group GroupId="b5238" GraphId="ade37" Style="Group"/>
   <InfoBox CenterX="0.0" CenterY="0.0"/>
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reproductive system disease</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:15</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cca">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24799285</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -292,14 +292,24 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nagrath D</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">altered citric acid cycle pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001119</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cancer</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:162</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">altered citric acid cycle pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001119</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cancer pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000605</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cancer pathway</bp:TERM><bp:ID>PW:0000605</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reproductive system disease</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:15</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>ovarian cancer</bp:TERM><bp:ID>DOID:2394</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

@@ -432,31 +432,6 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="506.74999999999926" CenterY="755.3357680762341" Width="108.5" Height="18.5" ZOrder="32923" FillColor="Transparent" FontSize="10" Valign="Middle" Color="9900ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="validated target" GraphId="b1b99">
-    <Comment>Validated target</Comment>
-    <Graphics CenterX="985.8333333333317" CenterY="117.66666666666612" Width="279.0" Height="20.0" ZOrder="32924" FillColor="Transparent" FontSize="10" Valign="Middle" Color="66cc00" />
-    <Xref Database="" ID="" />
-  </DataNode>
-  <DataNode TextLabel="CLIP predicted target" GraphId="a8b97">
-    <Comment>CLIP predicted target</Comment>
-    <Graphics CenterX="985.8333333333317" CenterY="148.66666666666623" Width="279.0" Height="20.0" ZOrder="32925" FillColor="Transparent" FontSize="10" Valign="Middle" Color="3333ff" />
-    <Xref Database="" ID="" />
-  </DataNode>
-  <DataNode TextLabel="validated target - predicted by bioinformatics" GraphId="d53e6">
-    <Comment>Validated target - predicted by bioinformatics</Comment>
-    <Graphics CenterX="985.8333333333317" CenterY="181.6666666666666" Width="279.0" Height="20.0" ZOrder="32926" FillColor="Transparent" FontSize="10" Valign="Middle" Color="9900ff" />
-    <Xref Database="" ID="" />
-  </DataNode>
-  <DataNode TextLabel="validated target - predicted by splicing microarray" GraphId="d26de">
-    <Comment>Validated target - predicted by splicing microarray</Comment>
-    <Graphics CenterX="985.8333333333317" CenterY="217.6666666666671" Width="279.0" Height="20.0" ZOrder="32927" FillColor="Transparent" FontSize="10" Valign="Middle" Color="ff6600" />
-    <Xref Database="" ID="" />
-  </DataNode>
-  <DataNode TextLabel="validated target - predicted by CLIP" GraphId="dbdf1">
-    <Comment>Validated target - predicted by CLIP</Comment>
-    <Graphics CenterX="985.8333333333317" CenterY="253.66666666666748" Width="279.0" Height="20.0" ZOrder="32928" FillColor="Transparent" FontSize="10" Valign="Middle" Color="ff00ff" />
-    <Xref Database="" ID="" />
-  </DataNode>
   <Interaction GraphId="idc6058537">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="592.0" Y="473.0" GraphRef="e3a93" RelX="1.0" RelY="0.0" />
@@ -628,6 +603,9 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Label TextLabel="Legend" GraphId="dd48b">
     <Graphics CenterX="889.333333333333" CenterY="85.6666666666665" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="14" Valign="Middle" />
   </Label>
+  <Label TextLabel="validated target" GraphId="e11f2">
+    <Graphics CenterX="986.7836257309931" CenterY="136.2573099415206" Width="277.19298245614044" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="66ff00" />
+  </Label>
   <Label TextLabel="PIP2&#xA;" GraphId="ec3b3">
     <Graphics CenterX="401.0" CenterY="30.0" Width="0.0" Height="0.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
   </Label>
@@ -639,6 +617,18 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Label>
   <Label TextLabel="Pre-synaptic neuron&#xA;" GraphId="d321e">
     <Graphics CenterX="123.5" CenterY="1227.0" Width="179.0" Height="36.0" ZOrder="32912" FillColor="ffffff" FontWeight="Bold" FontSize="14" Valign="Middle" />
+  </Label>
+  <Label TextLabel="clip predicted target" GraphId="a9a53">
+    <Graphics CenterX="986.7836257309931" CenterY="165.55555555555563" Width="277.19298245614044" Height="25.0" ZOrder="32929" FillColor="ffffff" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000cc" />
+  </Label>
+  <Label TextLabel="validated target - predicted by bioinformatics" GraphId="d4eb6">
+    <Graphics CenterX="986.7836257309932" CenterY="196.60818713450303" Width="277.19298245614044" Height="25.0" ZOrder="32930" FillColor="ffffff" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="9933ff" />
+  </Label>
+  <Label TextLabel="validated target - predicted by splicing microarray" GraphId="a4145">
+    <Graphics CenterX="986.7836257309932" CenterY="227.07602339181287" Width="277.19298245614044" Height="25.0" ZOrder="32931" FillColor="ffffff" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="ff9900" />
+  </Label>
+  <Label TextLabel="validated target - predicted by clip" GraphId="cdb41">
+    <Graphics CenterX="986.7836257309932" CenterY="257.5438596491232" Width="277.19298245614044" Height="25.0" ZOrder="32932" FillColor="ffffff" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="ff33ff" />
   </Label>
   <Shape GraphId="a9635">
     <Graphics CenterX="611.793971121977" CenterY="619.6030972843903" Width="1097.4845828387859" Height="305.7488016047098" ZOrder="12332" FontSize="10" Valign="Middle" ShapeType="Arc" Rotation="1.5240959751164875" />

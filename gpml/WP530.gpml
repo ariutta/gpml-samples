@@ -116,7 +116,7 @@ Sources: [http://www.biocarta.com/pathfiles/h_inflamPathway.asp BioCarta].</Comm
     <Xref Database="Entrez Gene" ID="6957" />
   </DataNode>
   <DataNode TextLabel=" Inflammatory Response" GraphId="c08ef" Type="Pathway">
-    <Graphics CenterX="636.5" CenterY="754.0" Width="255.0" Height="50.0" ZOrder="32768" FontWeight="Bold" FontSize="18" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="636.5" CenterY="754.0" Width="255.0" Height="50.0" ZOrder="32768" FontWeight="Bold" FontSize="18" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP453" />
   </DataNode>
   <DataNode TextLabel="IFN1@" GraphId="c12" Type="GeneProduct" GroupRef="d5070">

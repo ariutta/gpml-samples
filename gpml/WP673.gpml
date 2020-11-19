@@ -59,7 +59,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="5336" />
   </DataNode>
   <DataNode TextLabel="Cell Cycle" GraphId="a11b2" Type="Pathway">
-    <Graphics CenterX="1210.926267281108" CenterY="897.5437788018432" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1210.926267281108" CenterY="897.5437788018432" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP179" />
   </DataNode>
   <DataNode TextLabel="GSK3B" GraphId="a17c1" Type="GeneProduct">
@@ -186,7 +186,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="10718" />
   </DataNode>
   <DataNode TextLabel="MAPK Signaling Pathway" GraphId="bf16c" Type="Pathway">
-    <Graphics CenterX="1063.8469387755094" CenterY="548.0306122448985" Width="173.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1063.8469387755094" CenterY="548.0306122448985" Width="173.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP382" />
   </DataNode>
   <DataNode TextLabel="MIR21" GraphId="c0cc5" Type="Rna">
@@ -304,7 +304,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="2475" />
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="e5642" Type="Pathway">
-    <Graphics CenterX="1162.926267281108" CenterY="754.5437788018432" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1162.926267281108" CenterY="754.5437788018432" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP254" />
   </DataNode>
   <DataNode TextLabel="HRAS" GraphId="e5da1" Type="GeneProduct" GroupRef="ced29">
@@ -535,353 +535,353 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="5605" />
   </DataNode>
   <State GraphRef="b9f9c" TextLabel="P" GraphId="ba346">
-    <Comment>parent=P31749; parentsymbol=AKT1; site=kDGAtMKtFCGtPEy; position=thr308; sitegrpid=447856; ptm=p; direction=u</Comment>
+    <Comment>parentid=P31749; parentsymbol=AKT1; site=kDGAtMKtFCGtPEy; position=thr308; sitegrpid=447856; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.9056261343012579" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="b9f9c" TextLabel="P" GraphId="c3a86">
-    <Comment>parent=P31749; parentsymbol=AKT1; site=RPHFPQFsysAsGtA; position=ser473; sitegrpid=447855; ptm=p; direction=u</Comment>
+    <Comment>parentid=P31749; parentsymbol=AKT1; site=RPHFPQFsysAsGtA; position=ser473; sitegrpid=447855; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9432849364791274" RelY="-0.8148820326678674" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="eb1fb" TextLabel="P" GraphId="aa4fe">
-    <Comment>parent=P31751; parentsymbol=AKT2; site=sDGAtMKtFCGtPEy; position=thr309; sitegrpid=448537; ptm=p; direction=u</Comment>
+    <Comment>parentid=P31751; parentsymbol=AKT2; site=sDGAtMKtFCGtPEy; position=thr309; sitegrpid=448537; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.633393829401075" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="fda06" TextLabel="P" GraphId="a2bda">
-    <Comment>parent=Q12778; parentsymbol=FOXO1; site=LPRPRSCtWPLPRPE; position=thr24; sitegrpid=448560; ptm=p; direction=d</Comment>
+    <Comment>parentid=Q12778; parentsymbol=FOXO1; site=LPRPRSCtWPLPRPE; position=thr24; sitegrpid=448560; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="-0.9" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="bba10" TextLabel="P" GraphId="a5c8f">
-    <Comment>parent=P12931; parentsymbol=SRC; site=KLDSGGFyITSRTQF; position=tyr216; sitegrpid=448233; ptm=p; direction=u</Comment>
+    <Comment>parentid=P12931; parentsymbol=SRC; site=KLDSGGFyITSRTQF; position=tyr216; sitegrpid=448233; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="f95d7" TextLabel="P" GraphId="a7992">
-    <Comment>parent=Q05397; parentsymbol=FAK; site=RyMEDstyyKAsKGK; position=tyr576; sitegrpid=447889; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q05397; parentsymbol=FAK; site=RyMEDstyyKAsKGK; position=tyr576; sitegrpid=447889; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.8558614290133091" RelY="0.9831608497864454" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a7787" TextLabel="P" GraphId="a886a">
-    <Comment>parent=P19174; parentsymbol=PLCG1; site=IGtAEPdyGALyEGR; position=tyr771; sitegrpid=448575; ptm=p; direction=u</Comment>
+    <Comment>parentid=P19174; parentsymbol=PLCG1; site=IGtAEPdyGALyEGR; position=tyr771; sitegrpid=448575; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="d3ba6" TextLabel="P" GraphId="adf37">
-    <Comment>parent=Q13541; parentsymbol=EIF4EBP1; site=FLMECrNsPVtktPP; position=ser65; sitegrpid=447527; ptm=p; direction=d</Comment>
+    <Comment>parentid=Q13541; parentsymbol=EIF4EBP1; site=FLMECrNsPVtktPP; position=ser65; sitegrpid=447527; ptm=p; direction=d</Comment>
     <Graphics RelX="-0.85" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a6fe5" TextLabel="P" GraphId="af254">
-    <Comment>parent=Q9Y243; parentsymbol=AKT3; site=tDAATMKtFCGtPEy; position=thr305; sitegrpid=448521; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q9Y243; parentsymbol=AKT3; site=tDAATMKtFCGtPEy; position=thr305; sitegrpid=448521; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.633393829401075" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a84e9" TextLabel="P" GraphId="b0358">
-    <Comment>parent=P45983; parentsymbol=MAPK8; site=tsFMMtPyVVtRYYR; position=tyr185; sitegrpid=447645; ptm=p; direction=u</Comment>
+    <Comment>parentid=P45983; parentsymbol=MAPK8; site=tsFMMtPyVVtRYYR; position=tyr185; sitegrpid=447645; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9508917907758514" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="d3ba6" TextLabel="P" GraphId="b262f">
-    <Comment>parent=Q13541; parentsymbol=EIF4EBP1; site=PPGDysttPGGtLFs; position=thr37; sitegrpid=447497; ptm=p; direction=d</Comment>
+    <Comment>parentid=Q13541; parentsymbol=EIF4EBP1; site=PPGDysttPGGtLFs; position=thr37; sitegrpid=447497; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="-0.8" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="ae53d" TextLabel="P" GraphId="b48e6">
-    <Comment>parent=P01106; parentsymbol=MYC; site=kkFELLPtPPLsPsR; position=thr58; sitegrpid=448496; ptm=p; direction=d</Comment>
+    <Comment>parentid=P01106; parentsymbol=MYC; site=kkFELLPtPPLsPsR; position=thr58; sitegrpid=448496; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="-0.8148820326678787" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="f95d7" TextLabel="P" GraphId="b535a">
-    <Comment>parent=Q05397; parentsymbol=FAK; site=IIDEEDtytMPSTRD; position=tyr407; sitegrpid=447888; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q05397; parentsymbol=FAK; site=IIDEEDtytMPSTRD; position=tyr407; sitegrpid=447888; ptm=p; direction=u</Comment>
     <Graphics RelX="0.03340550572223362" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="bba57" TextLabel="P" GraphId="b5dac">
-    <Comment>parent=O43521; parentsymbol=BIM; site=FIFMRRSsLLSRSss; position=ser87; sitegrpid=458219; ptm=p; direction=d</Comment>
+    <Comment>parentid=O43521; parentsymbol=BIM; site=FIFMRRSsLLSRSss; position=ser87; sitegrpid=458219; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="-0.7241379310344882" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="f95d7" TextLabel="P" GraphId="b869f">
-    <Comment>parent=Q05397; parentsymbol=FAK; site=sVsEtDDyAEIIDEE; position=tyr397; sitegrpid=447887; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q05397; parentsymbol=FAK; site=sVsEtDDyAEIIDEE; position=tyr397; sitegrpid=447887; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="c6524" TextLabel="P" GraphId="b939a">
-    <Comment>parent=P01106; parentsymbol=MYC; site=kkFELLPtPPLsPsR; position=thr58; sitegrpid=448496; ptm=p; direction=u</Comment>
+    <Comment>parentid=P01106; parentsymbol=MYC; site=kkFELLPtPPLsPsR; position=thr58; sitegrpid=448496; ptm=p; direction=u</Comment>
     <Graphics RelX="0.975" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a7787" TextLabel="P" GraphId="bacff">
-    <Comment>parent=P19174; parentsymbol=PLCG1; site=EGsFEsRyQQPFEDF; position=tyr1253; sitegrpid=448576; ptm=p; direction=u</Comment>
+    <Comment>parentid=P19174; parentsymbol=PLCG1; site=EGsFEsRyQQPFEDF; position=tyr1253; sitegrpid=448576; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="f95d7" TextLabel="P" GraphId="bbec0">
-    <Comment>parent=Q05397; parentsymbol=FAK; site=PIGNQHIyQPVGKPD; position=tyr861; sitegrpid=447965; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q05397; parentsymbol=FAK; site=PIGNQHIyQPVGKPD; position=tyr861; sitegrpid=447965; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.8171976492421973" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="f95d7" TextLabel="P" GraphId="bc5ab">
-    <Comment>parent=Q05397; parentsymbol=FAK; site=DRsNDKVyENVtGLV; position=tyr925; sitegrpid=447966; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q05397; parentsymbol=FAK; site=DRsNDKVyENVtGLV; position=tyr925; sitegrpid=447966; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="e5122" TextLabel="P" GraphId="c0be5">
-    <Comment>parent=P42345; parentsymbol=MTOR; site=RkRHksDsIsLsFDE; position=ser2448; sitegrpid=447578; ptm=p; direction=u</Comment>
+    <Comment>parentid=P42345; parentsymbol=MTOR; site=RkRHksDsIsLsFDE; position=ser2448; sitegrpid=447578; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.7" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="cd49a" TextLabel="P" GraphId="c3195">
-    <Comment>parent=P05412; parentsymbol=JUN; site=kNsDLLtsPDVGLLK; position=ser63; sitegrpid=447686; ptm=p; direction=u</Comment>
+    <Comment>parentid=P05412; parentsymbol=JUN; site=kNsDLLtsPDVGLLK; position=ser63; sitegrpid=447686; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9920885625658108" RelY="-0.7857142857142889" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="fda06" TextLabel="P" GraphId="c3d50">
-    <Comment>parent=Q12778; parentsymbol=FOXO1; site=sPrRrAAsMDNNSkF; position=ser256; sitegrpid=448075; ptm=p; direction=d</Comment>
+    <Comment>parentid=Q12778; parentsymbol=FOXO1; site=sPrRrAAsMDNNSkF; position=ser256; sitegrpid=448075; ptm=p; direction=d</Comment>
     <Graphics RelX="-0.9523730957487742" RelY="-0.8148820326678674" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="d3ba6" TextLabel="P" GraphId="c84e1">
-    <Comment>parent=Q13541; parentsymbol=EIF4EBP1; site=rNsPVtktPPRDLPt; position=thr70; sitegrpid=447528; ptm=p; direction=d</Comment>
+    <Comment>parentid=Q13541; parentsymbol=EIF4EBP1; site=rNsPVtktPPRDLPt; position=thr70; sitegrpid=447528; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="bba57" TextLabel="P" GraphId="c87ba">
-    <Comment>parent=O43521; parentsymbol=BIM; site=GPLAPPAsPGPFATR; position=ser69; sitegrpid=449330; ptm=p; direction=d</Comment>
+    <Comment>parentid=O43521; parentsymbol=BIM; site=GPLAPPAsPGPFATR; position=ser69; sitegrpid=449330; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="c6524" TextLabel="P" GraphId="c9812">
-    <Comment>parent=P01106; parentsymbol=MYC; site=LLPtPPLsPsRRsGL; position=ser62; sitegrpid=448586; ptm=p; direction=u</Comment>
+    <Comment>parentid=P01106; parentsymbol=MYC; site=LLPtPPLsPsRRsGL; position=ser62; sitegrpid=448586; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9285714285714286" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a7787" TextLabel="P" GraphId="cb7d8">
-    <Comment>parent=P19174; parentsymbol=PLCG1; site=EGRNPGFyVEANPMP; position=tyr783; sitegrpid=447667; ptm=p; direction=u</Comment>
+    <Comment>parentid=P19174; parentsymbol=PLCG1; site=EGRNPGFyVEANPMP; position=tyr783; sitegrpid=447667; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.975" RelY="-0.8" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="fda06" TextLabel="P" GraphId="cc058">
-    <Comment>parent=Q12778; parentsymbol=FOXO1; site=TFRPRtssNAstIsG; position=ser319; sitegrpid=449113; ptm=p; direction=d</Comment>
+    <Comment>parentid=Q12778; parentsymbol=FOXO1; site=TFRPRtssNAstIsG; position=ser319; sitegrpid=449113; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="b0c56" TextLabel="P" GraphId="cc3bc">
-    <Comment>parent=Q92934; parentsymbol=BAD; site=PFrGrsRsAPPNLWA; position=ser99; sitegrpid=47862; ptm=p; direction=d</Comment>
+    <Comment>parentid=Q92934; parentsymbol=BAD; site=PFrGrsRsAPPNLWA; position=ser99; sitegrpid=47862; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="-0.7" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a84e9" TextLabel="P" GraphId="ce3f3">
-    <Comment>parent=P45983; parentsymbol=MAPK8; site=AGtsFMMtPyVVtRY; position=thr183; sitegrpid=447643; ptm=p; direction=u</Comment>
+    <Comment>parentid=P45983; parentsymbol=MAPK8; site=AGtsFMMtPyVVtRY; position=thr183; sitegrpid=447643; ptm=p; direction=u</Comment>
     <Graphics RelX="0.95" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a17c1" TextLabel="P" GraphId="cf1af">
-    <Comment>parent=P49841; parentsymbol=GSK3B; site=SGRPRttsFAEsCkP; position=ser9; sitegrpid=449111; ptm=p; direction=d</Comment>
+    <Comment>parentid=P49841; parentsymbol=GSK3B; site=SGRPRttsFAEsCkP; position=ser9; sitegrpid=449111; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="-0.6" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="b41f4" TextLabel="P" GraphId="d1ac9">
-    <Comment>parent=P19419; parentsymbol=ELK1; site=IHFWSTLsPIAPRsP; position=ser383; sitegrpid=447872; ptm=p; direction=u</Comment>
+    <Comment>parentid=P19419; parentsymbol=ELK1; site=IHFWSTLsPIAPRsP; position=ser383; sitegrpid=447872; ptm=p; direction=u</Comment>
     <Graphics RelX="0.9285714285714286" RelY="0.5" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="d3ba6" TextLabel="P" GraphId="d2b95">
-    <Comment>Type your comment hereparent=Q13541; parentsymbol=EIF4EBP1; site=GGtLFsttPGGtRII; position=thr46; sitegrpid=447496; ptm=p; direction=d</Comment>
+    <Comment>parentid=Q13541; parentsymbol=EIF4EBP1; site=GGtLFsttPGGtRII; position=thr46; sitegrpid=447496; ptm=p; direction=d</Comment>
     <Graphics RelX="-0.8602540834845598" RelY="-0.9056261343012693" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="fda06" TextLabel="P" GraphId="def2c">
-    <Comment>parent=Q12778; parentsymbol=FOXO1; site=LPRPRSCtWPLPRPE; position=thr24; sitegrpid=448560; ptm=p; direction=d</Comment>
+    <Comment>parentid=Q12778; parentsymbol=FOXO1; site=LPRPRSCtWPLPRPE; position=thr24; sitegrpid=448560; ptm=p; direction=d</Comment>
     <Graphics RelX="-0.9725017873838177" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="ca5da" TextLabel="P" GraphId="e0038">
-    <Comment>parent=P38936; parentsymbol=CDKN1A; site=GRkRRQtsMTDFyHs; position=ser146; sitegrpid=447836; ptm=p; direction=d</Comment>
+    <Comment>parentid=P38936; parentsymbol=CDKN1A; site=GRkRRQtsMTDFyHs; position=ser146; sitegrpid=447836; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="0.6370235934664492" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="cd49a" TextLabel="P" GraphId="e1fab">
-    <Comment>parent=P05412; parentsymbol=JUN; site=VGLLKLAsPELERLI; position=ser73; sitegrpid=447943; ptm=p; direction=u</Comment>
+    <Comment>parentid=P05412; parentsymbol=JUN; site=VGLLKLAsPELERLI; position=ser73; sitegrpid=447943; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.6806722689075627" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a45fb" TextLabel="P" GraphId="e84cf">
-    <Comment>parent=Q00987; parentsymbol=MDM2; site=RQRkRHksDsIsLsF; position=ser186; sitegrpid=448131; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q00987; parentsymbol=MDM2; site=RQRkRHksDsIsLsF; position=ser186; sitegrpid=448131; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9523730957487673" RelY="-0.9963702359346712" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="f95d7" TextLabel="P" GraphId="e8c92">
-    <Comment>parent=Q05397; parentsymbol=FAK; site=yMEDstyyKAsKGKL; position=tyr577; sitegrpid=447890; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q05397; parentsymbol=FAK; site=yMEDstyyKAsKGKL; position=tyr577; sitegrpid=447890; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.0052582740488740206" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="ea2ae" TextLabel="P" GraphId="ec036">
-    <Comment>parent=P42229; parentsymbol=STAT5A; site=LAkAVDGyVkPQIkQ; position=tyr694; sitegrpid=447767; ptm=p; direction=u</Comment>
+    <Comment>parentid=P42229; parentsymbol=STAT5A; site=LAkAVDGyVkPQIkQ; position=tyr694; sitegrpid=447767; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.8275510204081626" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a45fb" TextLabel="P" GraphId="edea5">
-    <Comment>parent=Q00987; parentsymbol=MDM2; site=SsRRRAIsEtEENsD; position=ser166; sitegrpid=448130; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q00987; parentsymbol=MDM2; site=SsRRRAIsEtEENsD; position=ser166; sitegrpid=448130; ptm=p; direction=u</Comment>
     <Graphics RelX="0.9725017873838211" RelY="-0.9056261343012693" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="b41f4" TextLabel="P" GraphId="f0462">
-    <Comment>parent=P19419; parentsymbol=ELK1; site=LsPIAPRsPAKLSFQ; position=ser389; sitegrpid=449757; ptm=p; direction=u</Comment>
+    <Comment>parentid=P19419; parentsymbol=ELK1; site=LsPIAPRsPAKLSFQ; position=ser389; sitegrpid=449757; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9285714285714286" RelY="0.6" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="ed644" TextLabel="P" GraphId="f54ca">
-    <Comment>parent=P22681; parentsymbol=CBL; site=EGEEDtEyMtPssRP; position=tyr700; sitegrpid=448529; ptm=p; direction=d</Comment>
+    <Comment>parentid=P22681; parentsymbol=CBL; site=EGEEDtEyMtPssRP; position=tyr700; sitegrpid=448529; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="-0.8" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="bba10" TextLabel="P" GraphId="f5f72">
-    <Comment>parent=P12931; parentsymbol=SRC; site=RLIEDNEytARQGAk; position=tyr419; sitegrpid=448234; ptm=p; direction=u</Comment>
+    <Comment>parentid=P12931; parentsymbol=SRC; site=RLIEDNEytARQGAk; position=tyr419; sitegrpid=448234; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="ca5da" TextLabel="P" GraphId="f6fd1">
-    <Comment>parent=P38936; parentsymbol=CDKN1A; site=QGRkRRQtsMTDFyH; position=thr145; sitegrpid=447837; ptm=p; direction=d</Comment>
+    <Comment>parentid=P38936; parentsymbol=CDKN1A; site=QGRkRRQtsMTDFyH; position=thr145; sitegrpid=447837; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="-0.8" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="ee38a" TextLabel="P" GraphId="fa877">
-    <Comment>parent=P24385; parentsymbol=CCND1; site=EEVDLACtPtDVRDV; position=thr286; sitegrpid=447839; ptm=p; direction=d</Comment>
+    <Comment>parentid=P24385; parentsymbol=CCND1; site=EEVDLACtPtDVRDV; position=thr286; sitegrpid=447839; ptm=p; direction=d</Comment>
     <Graphics RelX="1.0" RelY="-0.8148820326678561" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a45fb" TextLabel="P" GraphId="ffd25">
-    <Comment>parent=Q00987; parentsymbol=MDM2; site=RkRHksDsIsLsFDE; position=ser188; sitegrpid=453413; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q00987; parentsymbol=MDM2; site=RkRHksDsIsLsFDE; position=ser188; sitegrpid=453413; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="fca1b" TextLabel="P" GraphId="fdb16">
-    <Comment>parent=P51692; parentsymbol=STAT5B; site=tAkAVDGyVkPQIkQ; position=tyr699; sitegrpid=448198; ptm=p; direction=u</Comment>
+    <Comment>parentid=P51692; parentsymbol=STAT5B; site=tAkAVDGyVkPQIkQ; position=tyr699; sitegrpid=448198; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.8275510204081626" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a2eed" TextLabel="P" GraphId="caf13">
-    <Comment>parent=P46109; parentsybol=CRKL; site=LEyVRtLyDFPGNDA; position=tyr132; sitegrpid=458835; ptm=p; direction=u
+    <Comment>parentid=P46109; parentsybol=CRKL; site=LEyVRtLyDFPGNDA; position=tyr132; sitegrpid=458835; ptm=p; direction=u
 </Comment>
     <Graphics RelX="1.0" RelY="-0.7" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="c4693" TextLabel="P" GraphId="bc0fe">
-    <Comment>parent=P45984; parentsymbol=MAPK9; site=STEQtLAsDTDSSLD; position=ser407; sitegrpid=447648; ptm=p; direction=u</Comment>
+    <Comment>parentid=P45984; parentsymbol=MAPK9; site=STEQtLAsDTDSSLD; position=ser407; sitegrpid=447648; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="0.7899159663865533" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="c4693" TextLabel="P" GraphId="e54f9">
-    <Comment>parent=P45984; parentsymbol=MAPK9; site=SSMSTEQtLAsDTDS; position=thr404; sitegrpid=447650; ptm=p; direction=u</Comment>
+    <Comment>parentid=P45984; parentsymbol=MAPK9; site=SSMSTEQtLAsDTDS; position=thr404; sitegrpid=447650; ptm=p; direction=u</Comment>
     <Graphics RelX="-1.0" RelY="0.6848739495798271" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="c4693" TextLabel="P" GraphId="f0dec">
-    <Comment>parent=P45984; parentsymbol=MAPK9; site=ACtNFMMtPyVVtRY; position=thr183; sitegrpid=447649; ptm=p; direction=u</Comment>
+    <Comment>parentid=P45984; parentsymbol=MAPK9; site=ACtNFMMtPyVVtRY; position=thr183; sitegrpid=447649; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9984841692457646" RelY="-0.6848739495796565" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="c4693" TextLabel="P" GraphId="ff762">
-    <Comment>parent=P45984; parentsymbol=MAPK9; site=tNFMMtPyVVtRYYR; position=tyr185; sitegrpid=447652; ptm=p; direction=u</Comment>
+    <Comment>parentid=P45984; parentsymbol=MAPK9; site=tNFMMtPyVVtRYYR; position=tyr185; sitegrpid=447652; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.6806722689075627" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="fb29c" TextLabel="P" GraphId="bc48f">
-    <Comment>parent=P29353; parentsymbol=SHC1; site=ELFDDPsyVNVQNLD; position=tyr427; sitegrpid=448511; ptm=p; direction=u</Comment>
+    <Comment>parentid=P29353; parentsymbol=SHC1; site=ELFDDPsyVNVQNLD; position=tyr427; sitegrpid=448511; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="fb29c" TextLabel="P" GraphId="c5995">
-    <Comment>parent=P29353; parentsymbol=SHC1; site=EPPDHQyyNDFPGKE; position=tyr350; sitegrpid=448510; ptm=p; direction=u</Comment>
+    <Comment>parentid=P29353; parentsymbol=SHC1; site=EPPDHQyyNDFPGKE; position=tyr350; sitegrpid=448510; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9032679738563841" RelY="-0.7945066124109067" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="fb29c" TextLabel="P" GraphId="cec2d">
-    <Comment>parent=P29353; parentsymbol=SHC1; site=EEPPDHQyyNDFPGK; position=tyr349; sitegrpid=448509; ptm=p; direction=u</Comment>
+    <Comment>parentid=P29353; parentsymbol=SHC1; site=EEPPDHQyyNDFPGK; position=tyr349; sitegrpid=448509; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.8" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="cac7c" TextLabel="P" GraphId="a469b">
-    <Comment>parent=P27986; parentsymbol=PIK3R1; site=kNEtEDQyALMEDED; position=tyr605; sitegrpid=451549; ptm=p; direction=u</Comment>
+    <Comment>parentid=P27986; parentsymbol=PIK3R1; site=kNEtEDQyALMEDED; position=tyr605; sitegrpid=451549; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.43329658213891664" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="cac7c" TextLabel="P" GraphId="e983b">
-    <Comment>parent=P27986; parentsymbol=PIK3R1; site=ENtEDQysLVEDDED; position=ser608; sitegrpid=448133; ptm=p; direction=u</Comment>
+    <Comment>parentid=P27986; parentsymbol=PIK3R1; site=ENtEDQysLVEDDED; position=ser608; sitegrpid=448133; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.8423231029626465" RelY="-0.43329658213891664" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="bbfe5" TextLabel="P" GraphId="cb51e">
-    <Comment>parent=O00329; parentsymbol=PIK3CD; site=RRGsGELyEHEkDLV; position=tyr524; sitegrpid=454088; ptm=p; direction=u</Comment>
+    <Comment>parentid=O00329; parentsymbol=PIK3CD; site=RRGsGELyEHEkDLV; position=tyr524; sitegrpid=454088; ptm=p; direction=u</Comment>
     <Graphics RelX="0.9622706080606717" RelY="0.7899159663865476" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="bbfe5" TextLabel="P" GraphId="edeaa">
-    <Comment>parent=O00329; parentsymbol=PIK3CD; site=NWLAHNVsKDNRQ__; position=ser1039; sitegrpid=466429; ptm=p; direction=u</Comment>
+    <Comment>parentid=O00329; parentsymbol=PIK3CD; site=NWLAHNVsKDNRQ__; position=ser1039; sitegrpid=466429; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9241989889056796" RelY="0.7899159663865476" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="b3ddb" TextLabel="P" GraphId="e038f">
-    <Comment>parent=P42338; parentsymbol=PIK3CB; site=TVRKDYRs_______; position=ser1070; sitegrpid=449881; ptm=p; direction=u</Comment>
+    <Comment>parentid=P42338; parentsymbol=PIK3CB; site=TVRKDYRs_______; position=ser1070; sitegrpid=449881; ptm=p; direction=u</Comment>
     <Graphics RelX="0.9999999999999989" RelY="-0.6806722689075627" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="def67" TextLabel="P" GraphId="c3c78">
-    <Comment>parent=P23443; parentsymbol=RPS6KB1; site=NQVFLGFtyVAPsVL; position=thr412; sitegrpid=448607; ptm=p; direction=u</Comment>
+    <Comment>parentid=P23443; parentsymbol=RPS6KB1; site=NQVFLGFtyVAPsVL; position=thr412; sitegrpid=448607; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.8990723936279948" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="def67" TextLabel="P" GraphId="f181f">
-    <Comment>parent=P23443; parentsymbol=RPS6KB1; site=TRQtPVDsPDDStLS; position=ser394; sitegrpid=448806; ptm=p; direction=u</Comment>
+    <Comment>parentid=P23443; parentsymbol=RPS6KB1; site=TRQtPVDsPDDStLS; position=ser394; sitegrpid=448806; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.9" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="d791e" TextLabel="P" GraphId="f44e2">
-    <Comment>parent=P04049; parentsymbol=RAF1; site=IGDFGLAtVksRWsG; position=thr491; sitegrpid=447748; ptm=p; direction=u</Comment>
+    <Comment>parentid=P04049; parentsymbol=RAF1; site=IGDFGLAtVksRWsG; position=thr491; sitegrpid=447748; ptm=p; direction=u</Comment>
     <Graphics RelX="0.9314128943758571" RelY="-0.7942386831275712" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="e5b03" TextLabel="P" GraphId="dc620">
-    <Comment>parent=Q02750; parentsymbol=MAP2K1; site=LIDsMANsFVGTRSY; position=ser222; sitegrpid=448513; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q02750; parentsymbol=MAP2K1; site=LIDsMANsFVGTRSY; position=ser222; sitegrpid=448513; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.7666666666666743" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="e5b03" TextLabel="P" GraphId="ea69f">
-    <Comment>parent=Q02750; parentsymbol=MAP2K1; site=VsGQLIDsMANsFVG; position=ser218; sitegrpid=448514; ptm=p; direction=u</Comment>
+    <Comment>parentid=Q02750; parentsymbol=MAP2K1; site=VsGQLIDsMANsFVG; position=ser218; sitegrpid=448514; ptm=p; direction=u</Comment>
     <Graphics RelX="-1.0" RelY="-0.9604453870625662" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a5ffe" TextLabel="P" GraphId="a001c">
-    <Comment>parent=P28482; parentsymbol=MAPK1; site=HDHtGFLtEyVAtRW; position=thr185; sitegrpid=447593; ptm=p; direction=u</Comment>
+    <Comment>parentid=P28482; parentsymbol=MAPK1; site=HDHtGFLtEyVAtRW; position=thr185; sitegrpid=447593; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="-0.7666666666666628" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="a5ffe" TextLabel="P" GraphId="f15b6">
-    <Comment>parent=P28482; parentsymbol=MAPK1; site=HtGFLtEyVAtRWyR; position=tyr187; sitegrpid=447594; ptm=p; direction=u</Comment>
+    <Comment>parentid=P28482; parentsymbol=MAPK1; site=HtGFLtEyVAtRWyR; position=tyr187; sitegrpid=447594; ptm=p; direction=u</Comment>
     <Graphics RelX="-1.0" RelY="-0.8" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="d0e9a" TextLabel="P" GraphId="da922">
-    <Comment>parent=P27361; parentsymbol=MAPK3; site=HDHtGFLtEyVAtRW; position=thr202; sitegrpid=447542; ptm=p; direction=u</Comment>
+    <Comment>parentid=P27361; parentsymbol=MAPK3; site=HDHtGFLtEyVAtRW; position=thr202; sitegrpid=447542; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.999999999999999" RelY="0.7" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="d0e9a" TextLabel="P" GraphId="fb8f0">
-    <Comment>parent=P27361; parentsymbol=MAPK3; site=HtGFLtEyVAtRWyR; position=tyr204; sitegrpid=447543; ptm=p; direction=u</Comment>
+    <Comment>parentid=P27361; parentsymbol=MAPK3; site=HtGFLtEyVAtRWyR; position=tyr204; sitegrpid=447543; ptm=p; direction=u</Comment>
     <Graphics RelX="1.0" RelY="0.5666666666666629" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="db57a" TextLabel="P" GraphId="a8b2c">
-    <Comment>parent=P36507; parentsymbol=MAP2K2; site=VsGQLIDsMANsFVG; position=ser222; sitegrpid=448073; ptm=p; direction=u</Comment>
+    <Comment>parentid=P36507; parentsymbol=MAP2K2; site=VsGQLIDsMANsFVG; position=ser222; sitegrpid=448073; ptm=p; direction=u</Comment>
     <Graphics RelX="-0.9600000000000012" RelY="0.7333333333333257" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
   <State GraphRef="db57a" TextLabel="P" GraphId="f284a">
-    <Comment>parent=P36507; parentsymbol=MAP2K2; site=LIDsMANsFVGTRSY; position=ser226; sitegrpid=448074; ptm=p; direction=u</Comment>
+    <Comment>parentid=P36507; parentsymbol=MAP2K2; site=LIDsMANsFVGTRSY; position=ser226; sitegrpid=448074; ptm=p; direction=u</Comment>
     <Graphics RelX="0.9999999999999989" RelY="0.9093319194061451" Width="15.0" Height="15.0" ShapeType="Oval" />
     <Xref Database="" ID="" />
   </State>
@@ -1007,7 +1007,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="b4f61">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="154.0" Y="481.9916666666667" GraphRef="f0a7d" RelX="1.0" RelY="0.0" />
-      <Point X="229.0" Y="750.5" ArrowHead="mim-binding" />
+      <Point X="229.0" Y="750.5" GraphRef="cb274" RelX="-1.0" RelY="0.0" ArrowHead="mim-binding" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1774,69 +1774,15 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Group GroupId="de571" GraphId="fcf72" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ccd">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9872057</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="da1">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10490623</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Nck SH2/SH3 adaptor protein: a regulator of multiple intracellular signal transduction events.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bioessays</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">McCarty JH</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alzheimer's disease</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:10652</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a8c">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14744244</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ErbB receptors: directing key signaling networks throughout life.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annu Rev Pharmacol Toxicol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2004</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Holbro T</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hynes NE</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d07">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9642287</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Phosphorylation of CrkII adaptor protein at tyrosine 221 by epidermal growth factor receptor.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hashimoto Y</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katayama H</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kiyokawa E</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ota S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kurata T</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gotoh N</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Otsuka N</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shibata M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matsuda M</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="aa7">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17000658</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The epidermal growth factor receptor pathway: a model for targeted therapy.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clin Cancer Res</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scaltriti M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Baselga J</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c74">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15863494</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ERBB4/HER4 potentiates STAT5A transcriptional activity by regulating novel STAT5A serine phosphorylation events.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clark DE</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Williams CC</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Duplessis TT</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moring KL</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Notwick AR</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long W</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lane WS</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beuvink I</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hynes NE</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jones FE</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Controlled dimerization of ErbB receptors provides evidence for differential signaling by homo- and heterodimers.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Cell Biol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Muthuswamy SK</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gilman M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brugge JS</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bca">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16377102</bp:ID>
@@ -1855,6 +1801,44 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caponigro F</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salomon DS</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e96">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16729045</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A comprehensive pathway map of epidermal growth factor receptor signaling.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Syst Biol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oda K</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matsuoka Y</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Funahashi A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kitano H</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c74">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15863494</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ERBB4/HER4 potentiates STAT5A transcriptional activity by regulating novel STAT5A serine phosphorylation events.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clark DE</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Williams CC</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Duplessis TT</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moring KL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Notwick AR</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long W</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lane WS</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beuvink I</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hynes NE</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jones FE</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiple sclerosis</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:2377</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alzheimer's disease</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:10652</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ddb">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15864276</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1864,56 +1848,44 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hynes NE</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lane HA</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bf7">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16829981</bp:ID>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cancer</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:162</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a8c">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14744244</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EGF-ERBB signalling: towards the systems level.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nat Rev Mol Cell Biol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Citri A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yarden Y</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="da1">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10490623</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Controlled dimerization of ErbB receptors provides evidence for differential signaling by homo- and heterodimers.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Cell Biol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Muthuswamy SK</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gilman M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brugge JS</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bfa">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11252954</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Untangling the ErbB signalling network.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nat Rev Mol Cell Biol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2001</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yarden Y</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sliwkowski MX</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d79">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20573930</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Case records of the Massachusetts General Hospital. Case 19-2010. A 35-year-old man with adenocarcinoma of the cecum.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N Engl J Med</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ryan DP</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Engelman JA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferrone CR</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sahani DV</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lisovsky M</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ae4">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10880430</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The ErbB signaling network: receptor heterodimerization in development and cancer.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EMBO J</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olayioye MA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neve RM</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lane HA</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ErbB receptors: directing key signaling networks throughout life.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annu Rev Pharmacol Toxicol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2004</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Holbro T</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hynes NE</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="aa7">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17000658</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The epidermal growth factor receptor pathway: a model for targeted therapy.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clin Cancer Res</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scaltriti M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Baselga J</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d07">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9642287</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Phosphorylation of CrkII adaptor protein at tyrosine 221 by epidermal growth factor receptor.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hashimoto Y</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katayama H</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kiyokawa E</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ota S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kurata T</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gotoh N</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Otsuka N</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shibata M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matsuda M</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c5e">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19419954</bp:ID>
@@ -1933,11 +1905,40 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Goga A</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">McManus MT</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bfa">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11252954</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Untangling the ErbB signalling network.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nat Rev Mol Cell Biol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2001</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yarden Y</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sliwkowski MX</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oxidative phosphorylation pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001059</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">epidermal growth factor/neuregulin signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000170</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d79">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20573930</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Case records of the Massachusetts General Hospital. Case 19-2010. A 35-year-old man with adenocarcinoma of the cecum.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N Engl J Med</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ryan DP</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Engelman JA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferrone CR</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sahani DV</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lisovsky M</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ccd">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9872057</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Nck SH2/SH3 adaptor protein: a regulator of multiple intracellular signal transduction events.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bioessays</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">McCarty JH</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c42">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14967450</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1948,41 +1949,31 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skaria KB</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yarden Y</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ae4">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10880430</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The ErbB signaling network: receptor heterodimerization in development and cancer.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EMBO J</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olayioye MA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neve RM</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lane HA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hynes NE</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bf7">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16829981</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EGF-ERBB signalling: towards the systems level.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nat Rev Mol Cell Biol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Citri A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yarden Y</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiple sclerosis</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:2377</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">epidermal growth factor/neuregulin signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000170</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oxidative phosphorylation pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001059</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cancer</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:162</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bac">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12851486</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple roles of the PI3K/PKB (Akt) pathway in cell cycle progression.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Cycle</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2003</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Liang J</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slingerland JM</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e96">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16729045</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A comprehensive pathway map of epidermal growth factor receptor signaling.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Syst Biol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2005</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oda K</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matsuoka Y</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Funahashi A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kitano H</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a2e">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16729043</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1992,6 +1983,15 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schulze WX</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deng L</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mann M</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bac">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12851486</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple roles of the PI3K/PKB (Akt) pathway in cell cycle progression.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Cycle</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2003</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Liang J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slingerland JM</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>

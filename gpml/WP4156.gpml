@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases" Version="20161102" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description"> This pathway shows disorders related to phenylalanine and tetrahydrobiopterin(BH4) metabolism. Disorders resulting from an enzyme defect are highlighted in pink. Pathological metabolites used as specific markers are highlighted in purple. BH4 is a natural cofactor for PAH, tyrosine-3-hydroxylase, tryptophan-5-hydroxylase and nitric oxide synthase (NOS), where the latter two are key enzymes in the biosynthesis of the neurotransmitters dopamine and serotonin. 
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biosynthesis and regeneration of tetrahydrobiopterin and catabolism of phenylalanine" Version="20161102" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">This pathway shows disorders related to phenylalanine and tetrahydrobiopterin (BH4) metabolism. Disorders resulting from an enzyme defect are highlighted in pink. Pathological metabolites used as specific markers are highlighted in purple. BH4 is a natural cofactor for PAH, tyrosine-3-hydroxylase, tryptophan-5-hydroxylase and nitric oxide synthase (NOS), where the latter two are key enzymes in the biosynthesis of the neurotransmitters dopamine and serotonin. 
 
 This pathway was inspired by Chapter 1 of the book of Blau (ISBN 3642403360 (978-3642403361)).</Comment>
   <Comment Source="WikiPathways-description">New PW, Chapter 1 of Blau (physicians guide to... inheritant metabolic diseases.</Comment>
@@ -117,7 +117,7 @@ This pathway was inspired by Chapter 1 of the book of Blau (ISBN 3642403360 (978
   <DataNode TextLabel="TPH" GraphId="eb2b3" Type="Protein">
     <Comment>tryptophan hydroxylase</Comment>
     <Graphics CenterX="1346.2058790718431" CenterY="658.4786925479698" Width="62.217871485943306" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
-    <Xref Database="Enzyme Nomenclature" ID="tryptophan hydroxylase"/>
+    <Xref Database="Enzyme Nomenclature" ID="1.14.16.4"/>
   </DataNode>
   <DataNode TextLabel="Neopterin" GraphId="ec61a" Type="Metabolite">
     <Graphics CenterX="754.0" CenterY="137.54886211512712" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="660066"/>

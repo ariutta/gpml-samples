@@ -11,7 +11,7 @@ Inhibition of the p38 MAP kinase pathway. Proinflammatory stimuli lead to p38MAP
   </DataNode>
   <DataNode TextLabel="Cortisol" GraphId="e647d" Type="Metabolite">
     <Graphics CenterX="560.9127064708853" CenterY="451.25844699405485" Width="60.47171818265346" Height="25.0" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:17650"/>
+    <Xref Database="Wikidata" ID="Q190875"/>
   </DataNode>
   <DataNode TextLabel="NFkB" Type="GeneProduct" GroupRef="e77fa">
     <Graphics CenterX="1871.2392240207305" CenterY="497.5396913683106" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle"/>

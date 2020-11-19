@@ -191,7 +191,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="813.0" CenterY="478.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000180432" />
   </DataNode>
-  <DataNode TextLabel="Substrate-OH" GraphId="c82">
+  <DataNode TextLabel="Substrate-OH" GraphId="c82" Type="Metabolite">
     <Graphics CenterX="617.0" CenterY="206.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="006600" />
     <Xref Database="Wikidata" ID="Q542929" />
   </DataNode>
@@ -287,7 +287,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="326.0" CenterY="435.5" Width="36.0" Height="23.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="ChEBI" ID="CHEBI:29033" />
   </DataNode>
-  <DataNode TextLabel="Substrate" GraphId="e5d" GroupRef="c007c">
+  <DataNode TextLabel="Substrate" GraphId="e5d" GroupRef="c007c" Type="Metabolite">
     <Graphics CenterX="336.0" CenterY="68.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="006600" />
     <Xref Database="Wikidata" ID="Q12119506" />
   </DataNode>
@@ -303,7 +303,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="716.0" CenterY="166.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000197838" />
   </DataNode>
-  <DataNode TextLabel="Substrate" GraphId="e90" GroupRef="b7f11">
+  <DataNode TextLabel="Substrate" GraphId="e90" GroupRef="b7f11" Type="Metabolite">
     <Graphics CenterX="438.0" CenterY="331.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="006600" />
     <Xref Database="Wikidata" ID="Q12119506" />
   </DataNode>
@@ -315,7 +315,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="263.84393063583815" CenterY="167.0" Width="36.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="ChEBI" ID="CHEBI:29033" />
   </DataNode>
-  <DataNode TextLabel="Substrate" GraphId="ef7">
+  <DataNode TextLabel="Substrate" GraphId="ef7" Type="Metabolite">
     <Graphics CenterX="616.0" CenterY="111.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="006600" />
     <Xref Database="Wikidata" ID="Q12119506" />
   </DataNode>
@@ -351,7 +351,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="813.0" CenterY="290.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000186204" />
   </DataNode>
-  <DataNode TextLabel="Substrate" GraphId="f69" GroupRef="b49ba">
+  <DataNode TextLabel="Substrate" GraphId="f69" GroupRef="b49ba" Type="Metabolite">
     <Graphics CenterX="205.84393063583815" CenterY="187.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="006600" />
     <Xref Database="Wikidata" ID="Q12119506" />
   </DataNode>

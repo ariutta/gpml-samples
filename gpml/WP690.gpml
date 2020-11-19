@@ -49,7 +49,7 @@ The sorbitol pathway plays a role in diabetic renal complications because aldose
     <Xref Database="HMDB" ID="HMDB0001076" />
   </DataNode>
   <DataNode TextLabel="Glycolysis" GraphId="e91ea" Type="Pathway">
-    <Graphics CenterX="590.5024875621892" CenterY="213.272210376688" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="590.5024875621892" CenterY="213.272210376688" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP534" />
   </DataNode>
   <DataNode TextLabel="SORD" GraphId="f61f1" Type="GeneProduct">
@@ -61,7 +61,7 @@ The sorbitol pathway plays a role in diabetic renal complications because aldose
     <Xref Database="HMDB" ID="HMDB0001112" />
   </DataNode>
   <DataNode TextLabel="Glycolysis" GraphId="fa8dc" Type="Pathway">
-    <Graphics CenterX="635.9239516702204" CenterY="509.272210376688" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="635.9239516702204" CenterY="509.272210376688" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP534" />
   </DataNode>
   <DataNode TextLabel="1,4-anhydrosorbitol" GraphId="b5536" Type="Metabolite">

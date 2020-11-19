@@ -489,29 +489,20 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction>
-    <BiopaxRef>f7a</BiopaxRef>
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="277.818046562757" Y="971.8533391875184" GraphRef="a673c" RelX="-1.0" RelY="-0.5" />
-      <Point X="185.7318573185732" Y="834.4714591498654" />
-      <Point X="263.39203133784304" Y="697.0895791122124" GraphRef="f249d" RelX="-1.0" RelY="0.0" ArrowHead="mim-stimulation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <BiopaxRef>f7a</BiopaxRef>
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="263.39203133784304" Y="689.1283809322326" GraphRef="f249d" RelX="-1.0" RelY="-0.5" />
-      <Point X="170.97170971709718" Y="836.2446948635512" />
-      <Point X="277.818046562757" Y="983.3610087948698" GraphRef="a673c" RelX="-1.0" RelY="0.0" ArrowHead="mim-inhibition" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id28a2f00">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="1150.6206859987674" Y="1177.6902947080466" GraphRef="c34c6" RelX="-1.0" RelY="0.0" />
       <Point X="844.7473177159868" Y="1141.7467122988571" />
       <Point X="799.8556209398525" Y="1105.8031298896676" GraphRef="a8fa9" RelX="1.0" RelY="0.5" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id3d5cd40a">
+    <BiopaxRef>f7a</BiopaxRef>
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="263.39203133784304" Y="689.1283809322326" GraphRef="f249d" RelX="-1.0" RelY="-0.5" />
+      <Point X="170.97170971709718" Y="836.2446948635512" />
+      <Point X="277.818046562757" Y="983.3610087948698" GraphRef="a673c" RelX="-1.0" RelY="0.0" ArrowHead="mim-inhibition" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -527,6 +518,15 @@
       <Point X="1150.6206859987674" Y="1177.6902947080466" GraphRef="c34c6" RelX="-1.0" RelY="0.0" />
       <Point X="844.7473177159868" Y="1189.3395045162126" />
       <Point X="799.8556209398527" Y="1200.9887143243786" GraphRef="a2025" RelX="1.0" RelY="-0.5" ArrowHead="mim-inhibition" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id885dd6e0">
+    <BiopaxRef>f7a</BiopaxRef>
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="277.818046562757" Y="971.8533391875184" GraphRef="a673c" RelX="-1.0" RelY="-0.5" />
+      <Point X="185.7318573185732" Y="834.4714591498654" />
+      <Point X="263.39203133784304" Y="697.0895791122124" GraphRef="f249d" RelX="-1.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -782,7 +782,7 @@
   <Interaction GraphId="idfdc2d8e2">
     <Graphics ZOrder="12354" LineThickness="1.0">
       <Point X="968.1423264505969" Y="928.3879650339715" GraphRef="f5b66" RelX="0.0" RelY="-1.0" />
-      <Point X="964.2301710730948" Y="895.6281320200449" ArrowHead="TBar" />
+      <Point X="968.1423264505969" Y="895.298377933584" GraphRef="d7e72" RelX="0.0" RelY="1.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -931,7 +931,7 @@
   <Interaction GraphId="id19037ee7">
     <Graphics ZOrder="12396" LineThickness="1.0">
       <Point X="1221.27023105676" Y="1130.3355661299695" GraphRef="b8f41" RelX="0.0" RelY="1.0" />
-      <Point X="1221.9887987246807" Y="1158.514250059317" ArrowHead="TBar" />
+      <Point X="1216.0027002150757" Y="1158.3319323341857" GraphRef="c34c6" RelX="0.5" RelY="-1.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1391,7 +1391,7 @@
   <Interaction GraphId="bea75">
     <Graphics ZOrder="33067" LineThickness="1.0">
       <Point X="762.6508507109672" Y="698.3200678152758" GraphRef="cdf09" RelX="1.0" RelY="0.0" />
-      <Point X="792.8712871287129" Y="697.8217821782179" ArrowHead="mim-inhibition" />
+      <Point X="795.2289277967396" Y="697.3971817166478" GraphRef="b2a68" RelX="-1.0" RelY="0.0" ArrowHead="mim-inhibition" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1590,11 +1590,16 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ma'ayan A</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rendl M</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">regulatory pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f7a">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24942883</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wnt-Notch signalling crosstalk in development and disease.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Mol Life Sci</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Collu GM</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hidalgo-Sastre A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brennan K</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e68">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23133399</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1606,15 +1611,10 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Levy B</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christiano AM</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f7a">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24942883</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wnt-Notch signalling crosstalk in development and disease.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Mol Life Sci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Collu GM</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hidalgo-Sastre A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brennan K</bp:AUTHORS>
-    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">regulatory pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

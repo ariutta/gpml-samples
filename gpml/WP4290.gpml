@@ -2,7 +2,7 @@
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Metabolic reprogramming in colon cancer" Version="20180502" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Metabolic reprogramming in colon cancer. This pathway was created from a figure by Vasaikar S and Zhang B, Baylor College of Medicine, June 2018.
 </Comment>
-  <Graphics BoardWidth="1577.666666666666" BoardHeight="1467.0" />
+  <Graphics BoardWidth="1577.666666666666" BoardHeight="1483.0" />
   <DataNode TextLabel="NH3" GraphId="a19e6" Type="Metabolite">
     <Graphics CenterX="1224.5000000000007" CenterY="1364.3333333333346" Width="57.00000000000021" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:16134" />
@@ -12,7 +12,7 @@
     <Xref Database="ChEBI" ID="CHEBI:45522" />
   </DataNode>
   <DataNode TextLabel="Oxidative phosphorylation" GraphId="aa2db" Type="Pathway">
-    <Graphics CenterX="771.0" CenterY="1416.0" Width="194.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="14" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="776.0" CenterY="1435.0" Width="194.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="14" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP623" />
   </DataNode>
   <DataNode TextLabel="IC" GraphId="ab213" Type="Metabolite">
@@ -28,7 +28,7 @@
     <Xref Database="Ensembl" ID="ENSG00000125166" />
   </DataNode>
   <DataNode TextLabel="lipids" GraphId="b813e" Type="Metabolite">
-    <Graphics CenterX="825.7900766811385" CenterY="769.0000000000002" Width="66.33333333333337" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="825.7900766811385" CenterY="745.0000000000002" Width="66.33333333333337" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:18059" />
   </DataNode>
   <DataNode TextLabel="IMP" GraphId="bc231" Type="Metabolite">
@@ -190,12 +190,12 @@
     <Xref Database="HMDB" ID="HMDB0000190" />
   </DataNode>
   <DataNode TextLabel="Acetyl-CoA" GraphId="d7e4b" Type="Metabolite">
-    <Graphics CenterX="601.1666666666666" CenterY="1022.847286821702" Width="72.33333333333344" Height="20.0" ZOrder="32816" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="634.1666666666666" CenterY="1009.847286821702" Width="72.33333333333344" Height="20.0" ZOrder="32816" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB0001206" />
   </DataNode>
   <DataNode TextLabel="PDHA1" GraphId="a1f3d" Type="GeneProduct" GroupRef="d34df">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Pdha1" />
-    <Graphics CenterX="521.833333333334" CenterY="917.1472868217037" Width="63.666666666666664" Height="20.0" ZOrder="32818" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="548.833333333334" CenterY="901.1472868217037" Width="63.666666666666664" Height="20.0" ZOrder="32818" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000131828" />
   </DataNode>
   <DataNode TextLabel="Malate" GraphId="cdb0c" Type="Metabolite">
@@ -204,7 +204,7 @@
   </DataNode>
   <DataNode TextLabel="PDHB" GraphId="a037a" Type="GeneProduct" GroupRef="d34df">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Pdhb" />
-    <Graphics CenterX="521.833333333334" CenterY="942.1472868217037" Width="63.666666666666664" Height="20.0" ZOrder="32826" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="548.833333333334" CenterY="926.1472868217037" Width="63.666666666666664" Height="20.0" ZOrder="32826" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000168291" />
   </DataNode>
   <DataNode TextLabel="OAA" GraphId="c100f" Type="Metabolite">
@@ -269,17 +269,17 @@
     <Xref Database="Ensembl" ID="ENSG00000166411" />
   </DataNode>
   <DataNode TextLabel="Acetyl-CoA" GraphId="ed7f9" Type="Metabolite">
-    <Graphics CenterX="825.7900766811414" CenterY="856.847286821702" Width="72.4999999999996" Height="20.0" ZOrder="32939" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="825.7900766811414" CenterY="832.847286821702" Width="72.4999999999996" Height="20.0" ZOrder="32939" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB0001206" />
   </DataNode>
   <DataNode TextLabel="ACLY" GraphId="bf752" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACO2 | aconitase 2 mitochondrial" />
-    <Graphics CenterX="778.06662051483" CenterY="907.7402885018101" Width="47.200092303661904" Height="20.0" ZOrder="32940" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="771.06662051483" CenterY="890.7402885018101" Width="47.200092303661904" Height="20.0" ZOrder="32940" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000131473" />
   </DataNode>
   <DataNode TextLabel="FASN" GraphId="acc27" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACO2 | aconitase 2 mitochondrial" />
-    <Graphics CenterX="767.0666205148297" CenterY="818.0736218351432" Width="47.200092303661904" Height="20.0" ZOrder="32941" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="767.0666205148297" CenterY="795.0736218351432" Width="47.200092303661904" Height="20.0" ZOrder="32941" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000169710" />
   </DataNode>
   <DataNode TextLabel="PSPH" GraphId="c5c47" Type="GeneProduct">
@@ -395,7 +395,7 @@
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Lipid synthesis" GraphId="d86ab" Type="Pathway">
-    <Graphics CenterX="826.8333333333331" CenterY="737.9999999999995" Width="147.66666666666657" Height="20.0" ZOrder="33000" FontWeight="Bold" FontSize="14" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="826.8333333333331" CenterY="713.9999999999995" Width="147.66666666666657" Height="20.0" ZOrder="33000" FontWeight="Bold" FontSize="14" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="" ID="" />
   </DataNode>
   <Interaction GraphId="id10285ceb">
@@ -439,8 +439,8 @@
   </Interaction>
   <Interaction GraphId="id31578d96">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="790.6666666666606" Y="818.0736218351432" GraphRef="acc27" RelX="1.0" RelY="0.0" />
-      <Point X="825.7900766811404" Y="819.7083720930214" GraphRef="bd5aa" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="790.6666666666606" Y="795.0736218351432" GraphRef="acc27" RelX="1.0" RelY="0.0" />
+      <Point X="825.7900766811404" Y="795.7083720930214" GraphRef="bd5aa" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -614,7 +614,7 @@
   <Interaction GraphId="id848eb35">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="379.875" Y="889.8139534883705" GraphRef="b8ae1" RelX="0.5" RelY="1.0" />
-      <Point X="564.9999999999999" Y="1022.847286821702" GraphRef="d7e4b" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="597.9999999999999" Y="1009.847286821702" GraphRef="d7e4b" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.6585497996467787" Shape="None" GraphId="a4801" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -657,8 +657,8 @@
   </Interaction>
   <Interaction GraphId="id98487b94">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="825.7900766811415" Y="846.847286821702" GraphRef="ed7f9" RelX="0.0" RelY="-1.0" />
-      <Point X="825.7900766811385" Y="779.0000000000002" GraphRef="b813e" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="825.7900766811415" Y="822.847286821702" GraphRef="ed7f9" RelX="0.0" RelY="-1.0" />
+      <Point X="825.7900766811385" Y="755.0000000000002" GraphRef="b813e" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="bd5aa" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -673,8 +673,8 @@
   </Interaction>
   <Interaction GraphId="ida23e2577">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="801.666666666661" Y="907.7402885018101" GraphRef="bf752" RelX="1.0" RelY="0.0" />
-      <Point X="825.7900766811415" Y="906.5789373262351" GraphRef="d594e" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="794.666666666661" Y="890.7402885018101" GraphRef="bf752" RelX="1.0" RelY="0.0" />
+      <Point X="825.7900766811415" Y="890.920126837602" GraphRef="d594e" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -772,7 +772,7 @@
   <Interaction GraphId="idedcb12b8">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="825.7900766811414" Y="981.1666666666669" GraphRef="cd5da" RelX="0.0" RelY="-1.0" />
-      <Point X="825.7900766811415" Y="866.847286821702" GraphRef="ed7f9" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="825.7900766811415" Y="842.847286821702" GraphRef="ed7f9" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
       <Anchor Position="0.6524504370263781" Shape="None" GraphId="d594e" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -809,8 +809,8 @@
   </Interaction>
   <Interaction GraphId="e1e66">
     <Graphics ZOrder="32810" LineThickness="1.0">
-      <Point X="521.833333333334" Y="960.1472868217037" GraphRef="ddbdc" RelX="0.0" RelY="1.0" />
-      <Point X="501.7890316596098" Y="977.4230285013791" GraphRef="a4801" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="548.8333333333339" Y="944.1472868217037" GraphRef="ddbdc" RelX="0.0" RelY="1.0" />
+      <Point X="523.5211750479535" Y="968.861881105971" GraphRef="a4801" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -878,7 +878,7 @@
   </Interaction>
   <Interaction GraphId="f03fb">
     <Graphics ZOrder="32857" LineThickness="1.0">
-      <Point X="637.3333333333334" Y="1022.847286821702" GraphRef="d7e4b" RelX="1.0" RelY="0.0" />
+      <Point X="670.3333333333334" Y="1009.847286821702" GraphRef="d7e4b" RelX="1.0" RelY="0.0" />
       <Point X="721.0318002700527" Y="1027.194596100567" GraphRef="d8733" RelX="0.0" RelY="0.0" ArrowHead="mim-conversion" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1044,34 +1044,33 @@
   <Shape TextLabel="Tumor cell" GraphId="e094f">
     <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Cell" />
     <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double" />
-    <Graphics CenterX="781.0" CenterY="779.5" Width="1254.0" Height="1315.0" ZOrder="16384" FontSize="12" Align="Right" ShapeType="RoundedRectangle" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
+    <Graphics CenterX="781.0" CenterY="787.5" Width="1254.0" Height="1331.0" ZOrder="16384" FontSize="12" Align="Right" ShapeType="RoundedRectangle" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
   </Shape>
   <Shape TextLabel="Mitochondria" GraphId="fd5e8">
     <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Mitochondria" />
     <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double" />
-    <Graphics CenterX="757.0" CenterY="1166.0" Width="582.0" Height="460.0" ZOrder="16384" FontSize="14" Valign="Bottom" ShapeType="Oval" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
+    <Graphics CenterX="787.0" CenterY="1169.0" Width="500.0" Height="500.0" ZOrder="16384" FontSize="14" Valign="Bottom" ShapeType="Oval" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
   </Shape>
   <Group GroupId="f3417" GraphId="a0697" Style="Group" />
   <Group GroupId="c46c9" GraphId="cd8aa" Style="Group" />
   <Group GroupId="d34df" GraphId="ddbdc" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b56">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10672230</bp:ID>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">altered carbohydrate metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000305</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ea0">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12234803</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The alpha-ketoglutarate dehydrogenase complex.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ann N Y Acad Sci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sheu KF</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blass JP</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a4d">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7730305</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modeling of liver citric acid cycle and gluconeogenesis based on 13C mass isotopomer distribution analysis of intermediates.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1995</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernandez CA</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reverse flux through cardiac NADP(+)-isocitrate dehydrogenase under normoxia and ischemia.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Am J Physiol Heart Circ Physiol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comte B</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincent G</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bouchard B</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benderdour M</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Des Rosiers C</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c9e">
@@ -1094,82 +1093,15 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zervos PR</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plaut GW</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f8c">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3052428</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a20">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9765290</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Physiological roles of nicotinamide nucleotide transhydrogenase.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochem J</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1988</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hoek JB</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rydström J</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="af4">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8187868</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Proton-translocating transhydrogenase and NAD- and NADP-linked isocitrate dehydrogenases operate in a substrate cycle which contributes to fine regulation of the tricarboxylic acid cycle activity in mitochondria.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FEBS Lett</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sazanov LA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson JB</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d25">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15234968</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Expression of two succinyl-CoA synthetases with different nucleotide specificities in mammalian tissues.</bp:TITLE>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Characterization of the ATP- and GTP-specific succinyl-CoA synthetases in pigeon. The enzymes incorporate the same alpha-subunit.</bp:TITLE>
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2004</bp:YEAR>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Johnson JD</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Muhonen WW</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lambeth DO</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tews KN</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adkins S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frohlich D</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Milavetz BI</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">colorectal cancer</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:9256</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b72">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7961626</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reversibility of the mitochondrial isocitrate dehydrogenase reaction in the perfused rat liver. Evidence from isotopomer analysis of citric acid cycle intermediates.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Des Rosiers C</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernandez CA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">David F</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brunengraber H</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">altered carbohydrate metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000305</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c21">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13018271</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The conversion of citrate into cis-aconitate and isocitrate in the presence of aconitase.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochem J</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1952</bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13018271</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The conversion of citrate into cis-aconitate and isocitrate in the presence of aconitase.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochem J</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1952</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krebs HA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Holzach O</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ea0">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12234803</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reverse flux through cardiac NADP(+)-isocitrate dehydrogenase under normoxia and ischemia.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Am J Physiol Heart Circ Physiol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comte B</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincent G</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bouchard B</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benderdour M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Des Rosiers C</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="efd">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22628558</bp:ID>
@@ -1194,15 +1126,63 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thummel CS</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rutter J</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ead">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7060582</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b56">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10672230</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Citrate synthesis in intact rat-liver mitochondria is irreversible.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eur J Biochem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1982</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Greksák M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lopes-Cardozo M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">van den Bergh SG</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The alpha-ketoglutarate dehydrogenase complex.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ann N Y Acad Sci</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sheu KF</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blass JP</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="af4">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8187868</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Proton-translocating transhydrogenase and NAD- and NADP-linked isocitrate dehydrogenases operate in a substrate cycle which contributes to fine regulation of the tricarboxylic acid cycle activity in mitochondria.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FEBS Lett</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sazanov LA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson JB</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">colorectal cancer</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:9256</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c21">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13018271</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The conversion of citrate into cis-aconitate and isocitrate in the presence of aconitase.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochem J</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1952</bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13018271</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The conversion of citrate into cis-aconitate and isocitrate in the presence of aconitase.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochem J</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1952</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krebs HA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Holzach O</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a4d">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7730305</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modeling of liver citric acid cycle and gluconeogenesis based on 13C mass isotopomer distribution analysis of intermediates.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1995</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernandez CA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Des Rosiers C</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e8a">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8506365</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Identification of two missense mutations in a dihydrolipoamide dehydrogenase-deficient patient.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Proc Natl Acad Sci U S A</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1993</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Liu TC</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim H</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arizmendi C</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kitano A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Patel MS</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ed6">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7730304</bp:ID>
@@ -1219,32 +1199,52 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernandez CA</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brunengraber H</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e8a">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8506365</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f8c">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3052428</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Identification of two missense mutations in a dihydrolipoamide dehydrogenase-deficient patient.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Proc Natl Acad Sci U S A</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1993</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Liu TC</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim H</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arizmendi C</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kitano A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Patel MS</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Physiological roles of nicotinamide nucleotide transhydrogenase.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochem J</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1988</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hoek JB</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rydström J</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cancer pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000605</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a20">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9765290</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ead">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7060582</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Characterization of the ATP- and GTP-specific succinyl-CoA synthetases in pigeon. The enzymes incorporate the same alpha-subunit.</bp:TITLE>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Citrate synthesis in intact rat-liver mitochondria is irreversible.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eur J Biochem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1982</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Greksák M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lopes-Cardozo M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">van den Bergh SG</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b72">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7961626</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reversibility of the mitochondrial isocitrate dehydrogenase reaction in the perfused rat liver. Evidence from isotopomer analysis of citric acid cycle intermediates.</bp:TITLE>
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Johnson JD</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Muhonen WW</bp:AUTHORS>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1994</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Des Rosiers C</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernandez CA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">David F</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brunengraber H</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d25">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15234968</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Expression of two succinyl-CoA synthetases with different nucleotide specificities in mammalian tissues.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2004</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lambeth DO</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tews KN</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adkins S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frohlich D</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Milavetz BI</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>

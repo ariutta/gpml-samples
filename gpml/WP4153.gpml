@@ -120,7 +120,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <DataNode TextLabel="GalCer-beta-galactosidase" GraphId="eb907" Type="Protein" GroupRef="f5915">
     <Comment>GALCERase</Comment>
     <Graphics CenterX="787.3710028124991" CenterY="480.07039062499996" Width="186.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
-    <Xref Database="Enzyme Nomenclature" ID="EC 3.2.1.46"/>
+    <Xref Database="Enzyme Nomenclature" ID="3.2.1.46"/>
   </DataNode>
   <DataNode TextLabel="sialidase 4" GraphId="f91e6" Type="Protein" GroupRef="ff6aa">
     <Graphics CenterX="425.89686637707354" CenterY="467.0139742644044" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>

@@ -21,7 +21,7 @@ View more details on where these reactions in the cell take place at [https://ww
     <Comment>Only found for Rattus norvegicus.
 L-659699 is a.k.a. (E,E)-11-[3-(hydroxymethyl)-4-oxo-2-oxytanyl]-3,5,7-trimethyl-2,4-undecadienenoic acid</Comment>
     <Graphics CenterX="930.8796296296298" CenterY="152.77777777777777" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff6600" />
-    <Xref Database="InChIKey" ID="ODCZJZWSXPVLAW‐KXCGKLMDSA‐N" />
+    <Xref Database="PubChem-compound" ID="6440895" />
   </DataNode>
   <DataNode TextLabel="FDFT1" GraphId="bf9be" Type="Protein">
     <Graphics CenterX="791.8036242614683" CenterY="816.3428778574211" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -216,7 +216,7 @@ L-659699 is a.k.a. (E,E)-11-[3-(hydroxymethyl)-4-oxo-2-oxytanyl]-3,5,7-trimethyl
   <DataNode TextLabel="P'-geranyl 3,5,9-trihydroxy-3-&#xA;methylnonanate 9-diphosphate" GraphId="e4b7f" Type="Metabolite" GroupRef="dfa72">
     <Comment>Only found for Rattus norvegicus.</Comment>
     <Graphics CenterX="217.75334143377856" CenterY="481.4787480783818" Width="208.90484176905915" Height="31.517641964783365" ZOrder="32803" FontSize="12" Valign="Middle" Color="ff6600" />
-    <Xref Database="InChIKey" ID="PMUQIJKCGIYWGT‐GZTJUZNOSA‐N" />
+    <Xref Database="PubChem-compound" ID="11650985" />
   </DataNode>
   <DataNode TextLabel="NE97220" GraphId="dbb8c" Type="Metabolite" GroupRef="b536a">
     <Graphics CenterX="943.744725738398" CenterY="405.5203938115324" Width="107.48945147679592" Height="25.0" ZOrder="32804" FontSize="12" Valign="Middle" Color="ff0000" />
@@ -288,7 +288,7 @@ L-659699 is a.k.a. (E,E)-11-[3-(hydroxymethyl)-4-oxo-2-oxytanyl]-3,5,7-trimethyl
   </DataNode>
   <DataNode TextLabel="[1-(Hydroxycarbamoyl)-4-&#xA;(3-phenoxyphenyl)butyl]phosphonate" GraphId="fb44d" Type="Metabolite" GroupRef="ef715">
     <Graphics CenterX="1102.31452380588" CenterY="870.4544580121568" Width="259.91035432681866" Height="34.79480503895744" ZOrder="32822" FontSize="12" Valign="Middle" Color="ff0000" />
-    <Xref Database="InChIKey" ID="HGDWHTASNMRJMP‐UHFFFAOYSA‐N" />
+    <Xref Database="PubChem-compound" ID="44185382" />
   </DataNode>
   <DataNode TextLabel="CHEMBL1207858" GraphId="c41d3" Type="Metabolite" GroupRef="ef715">
     <Graphics CenterX="1037.1313833982158" CenterY="806.3664908964436" Width="125.00686842982496" Height="24.46210183753626" ZOrder="32823" FontSize="12" Valign="Middle" Color="ff0000" />
@@ -298,11 +298,11 @@ L-659699 is a.k.a. (E,E)-11-[3-(hydroxymethyl)-4-oxo-2-oxytanyl]-3,5,7-trimethyl
     <Comment>PMID: 19456099</Comment>
     <BiopaxRef>b16</BiopaxRef>
     <Graphics CenterX="1162.138251828042" CenterY="806.3664908964437" Width="125.00686842982496" Height="24.999999999999957" ZOrder="32824" FontSize="12" Valign="Middle" Color="ff0000" />
-    <Xref Database="InChIKey" ID="AGJZDRXKAQZWEP‐UHFFFAOYSA‐N" />
+    <Xref Database="PubChem-compound" ID="44185378" />
   </DataNode>
   <DataNode TextLabel="(1-Methyl-1-{[3-(3-phenoxyphenyl)propyl]&#xA;carbamoyl}ethyl)phosphonate" GraphId="bca8d" Type="Metabolite" GroupRef="ef715">
     <Graphics CenterX="1102.31452380588" CenterY="835.6596529731994" Width="259.91035432681866" Height="34.79480503895744" ZOrder="32825" FontSize="12" Valign="Middle" Color="ff0000" />
-    <Xref Database="InChIKey" ID="AGJZDRXKAQZWEP‐UHFFFAOYSA‐N" />
+    <Xref Database="PubChem-compound" ID="44185378" />
   </DataNode>
   <Interaction GraphId="id12c257ee">
     <Graphics ZOrder="12288" LineThickness="1.0">
@@ -662,7 +662,7 @@ L-659699 is a.k.a. (E,E)-11-[3-(hydroxymethyl)-4-oxo-2-oxytanyl]-3,5,7-trimethyl
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b16">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19 456 099</bp:ID>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antidepressant drugs affect dopamine uptake.</bp:TITLE>
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochem Pharmacol</bp:SOURCE>

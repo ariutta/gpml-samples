@@ -21,7 +21,7 @@
     <Xref Database="HMDB" ID="HMDB0000138" />
   </DataNode>
   <DataNode TextLabel="Glycolysis" GraphId="b4868" Type="Pathway">
-    <Graphics CenterX="162.0" CenterY="274.0" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="162.0" CenterY="274.0" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP534" />
   </DataNode>
   <DataNode TextLabel="Glucose" GraphId="b4f4c" Type="Metabolite">

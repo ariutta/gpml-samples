@@ -22,7 +22,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="6300"/>
   </DataNode>
   <DataNode TextLabel="Complement and &#10;coagulation cascades" GraphId="a1007" Type="Pathway">
-    <Graphics CenterX="2015.5" CenterY="523.5" Width="151.0" Height="39.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="2015.5" CenterY="523.5" Width="151.0" Height="39.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP558"/>
   </DataNode>
   <DataNode TextLabel="IRAK1" GraphId="a1908" Type="GeneProduct">
@@ -154,7 +154,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="10333"/>
   </DataNode>
   <DataNode TextLabel="PI3K-Akt Signaling&#10;Pathway" GraphId="b58eb" Type="Pathway">
-    <Graphics CenterX="957.715946843855" CenterY="135.81810631229246" Width="123.07308970099767" Height="37.41694352159465" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="957.715946843855" CenterY="135.81810631229246" Width="123.07308970099767" Height="37.41694352159465" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP4172"/>
   </DataNode>
   <DataNode TextLabel="MAPK10" GraphId="b5bd9" Type="GeneProduct" GroupRef="c920c">
@@ -246,7 +246,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="114609"/>
   </DataNode>
   <DataNode TextLabel="MAPK signaling pathway" GraphId="c1003" Type="Pathway">
-    <Graphics CenterX="1226.807692307693" CenterY="563.8589743589738" Width="189.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="1226.807692307693" CenterY="563.8589743589738" Width="189.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP382"/>
   </DataNode>
   <DataNode TextLabel="SPP1" GraphId="c26a4" Type="GeneProduct">
@@ -323,7 +323,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="3553"/>
   </DataNode>
   <DataNode TextLabel="Cytokine-receptor &#10;interaction" GraphId="d0ea2" Type="Pathway">
-    <Graphics CenterX="2019.6328903654464" CenterY="1037.5697674418607" Width="105.71096345515063" Height="31.17275747508313" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="2019.6328903654464" CenterY="1037.5697674418607" Width="105.71096345515063" Height="31.17275747508313" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP530"/>
   </DataNode>
   <DataNode TextLabel="MYD88" GraphId="d13f9" Type="GeneProduct">
@@ -560,11 +560,11 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="6351"/>
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="fd0e7" Type="Pathway">
-    <Graphics CenterX="1006.0961538461542" CenterY="306.66666666666606" Width="78.19230769230694" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="1006.0961538461542" CenterY="306.66666666666606" Width="78.19230769230694" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP254"/>
   </DataNode>
   <DataNode TextLabel="Jak-STAT signaling pathway" GraphId="fe28e" Type="Pathway">
-    <Graphics CenterX="1110.5" CenterY="1145.0" Width="189.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="1110.5" CenterY="1145.0" Width="189.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP619"/>
   </DataNode>
   <DataNode TextLabel="Flagellar assembly" GraphId="fe2c9" Type="Pathway">

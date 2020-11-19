@@ -5,7 +5,7 @@
 
 Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3624 CPTAC Assay Portal]</Comment>
   <BiopaxRef>a1e</BiopaxRef>
-  <Graphics BoardWidth="1608.2671042004292" BoardHeight="1506.640717568172"/>
+  <Graphics BoardWidth="1642.0" BoardHeight="1514.640717568172"/>
   <DataNode TextLabel="ELMOD2" GraphId="f3a24" Type="GeneProduct" GroupRef="ce48b">
     <Graphics CenterX="1238.5301807619742" CenterY="1321.6949992243512" Width="80.0" Height="20.0" ZOrder="-23" FontSize="10" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000179387"/>
@@ -762,44 +762,44 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Label TextLabel="GTPase&#10;activator" GraphId="e8c6b" GroupRef="ce48b">
     <Graphics CenterX="1235.1541708520483" CenterY="1297.9040582258854" Width="80.0" Height="20.0" ZOrder="-25" FillColor="ffffff" FontSize="10" Valign="Middle"/>
   </Label>
-  <Label TextLabel="KE1 - Induction of inflammatory cytokines and acute phase response" GraphId="a9abb">
+  <Label TextLabel="KE1 (KE:1496) - Increased, secretion of proinflammatory and profibrotic mediators" GraphId="a9abb">
     <Graphics CenterX="1372.217948717951" CenterY="228.8717948717951" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
-  <Label TextLabel="KE5 - Excessive ECM deposition" GraphId="bef61">
-    <Graphics CenterX="1372.217948717951" CenterY="287.87179487179503" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
+  <Label TextLabel="KE5 (KE:1501) - Increased, extracellular matrix deposition" GraphId="bef61">
+    <Graphics CenterX="1372.217948717951" CenterY="305.87179487179503" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
   <Label TextLabel="AE - Associative Event " GraphId="d558e">
-    <Graphics CenterX="1372.217948717951" CenterY="310.95666120316235" Width="380.6725000000001" Height="26.999999999999996" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Align="Left"/>
+    <Graphics CenterX="1372.217948717951" CenterY="328.95666120316235" Width="380.6725000000001" Height="26.999999999999996" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Align="Left"/>
   </Label>
-  <Label TextLabel="KE3 - TH2/M2 response, secretion/activation of interleukins and growth factors" GraphId="dd82c">
-    <Graphics CenterX="1372.2179487179503" CenterY="257.98538061789725" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
+  <Label TextLabel="KE3 (KE:1499) - Increased, activation of T (T) helper (h) type 2 cells" GraphId="dd82c">
+    <Graphics CenterX="1367.9408493589751" CenterY="275.98538061789725" Width="372.11830128204974" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
-  <Label TextLabel="MIE - Cellular sensing of substance" GraphId="e56b9">
-    <Graphics CenterX="1373.217948717951" CenterY="427.12123807892254" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
+  <Label TextLabel="MIE (KE:1495) - Interaction with the lung resident cell membrane components" GraphId="e56b9">
+    <Graphics CenterX="1369.4408493589754" CenterY="446.12123807892254" Width="371.1183012820493" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
   <Label TextLabel="AE1 - Increase of reactive oxygen species levels" GraphId="e94a1">
-    <Graphics CenterX="1371.0820912569234" CenterY="326.87179487179543" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
+    <Graphics CenterX="1371.0820912569234" CenterY="344.87179487179543" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
   <Label TextLabel="AE2 - Cellular toxicity, cell death" GraphId="eb476">
-    <Graphics CenterX="1371.0820912569236" CenterY="340.3150019987443" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
+    <Graphics CenterX="1371.0820912569236" CenterY="358.3150019987443" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
-  <Label TextLabel="KE2 - a. Retention/repeated exposure, b. persistent inflammation" GraphId="efbce">
+  <Label TextLabel="KE2 (KE:1497) - Increased, recruitment of inflammatory cells" GraphId="efbce">
     <Graphics CenterX="1372.217948717951" CenterY="242.87179487179517" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
   <Label TextLabel="MIE - Molecular Initiating Event" GraphId="f0ff8">
-    <Graphics CenterX="1272.0" CenterY="413.0" Width="180.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle"/>
+    <Graphics CenterX="1272.0" CenterY="431.0" Width="180.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle"/>
   </Label>
-  <Label TextLabel="AO - Fibrosis" GraphId="fb826">
-    <Graphics CenterX="1372.217948717951" CenterY="390.1212380789225" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
+  <Label TextLabel="AO (KE:1458) - Pulmonary fibrosis" GraphId="fb826">
+    <Graphics CenterX="1372.217948717951" CenterY="408.1212380789225" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
-  <Label TextLabel="KE4 - Fibroblast &amp; myofibroblast proliferation" GraphId="fe1d5">
-    <Graphics CenterX="1372.2179487179512" CenterY="273.6484495459998" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
+  <Label TextLabel="KE4 (KE:1500) - Increased, fibroblast proliferation and myofibroblast differentiation" GraphId="fe1d5">
+    <Graphics CenterX="1372.2179487179512" CenterY="291.6484495459998" Width="380.6725000000001" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
   <Label TextLabel="KE - Key Event&#10;" GraphId="dae5b">
     <Graphics CenterX="1372.217948717951" CenterY="211.88166120316268" Width="380.6725000000001" Height="26.0" ZOrder="28674" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Align="Left"/>
   </Label>
   <Label TextLabel="AO - Adverse Outcome" GraphId="ef6c1">
-    <Graphics CenterX="1372.217948717951" CenterY="372.31992124460777" Width="380.6725000000001" Height="24.567633668632652" ZOrder="28676" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Align="Left"/>
+    <Graphics CenterX="1372.217948717951" CenterY="390.31992124460777" Width="380.6725000000001" Height="24.567633668632652" ZOrder="28676" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Align="Left"/>
   </Label>
   <Label TextLabel="GPCR&#10;signaling" GraphId="d16dc" GroupRef="e1c3b">
     <Graphics CenterX="1289.055706617789" CenterY="829.63350305526" Width="80.0" Height="22.71344729850631" ZOrder="32973" FillColor="ffffff" FontSize="10" Valign="Middle"/>
@@ -969,7 +969,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <BiopaxRef>be6</BiopaxRef>
     <Graphics CenterX="498.30754284808097" CenterY="748.2900255705749" Width="79.67714058230882" Height="9.891674238744372" ZOrder="33211" FillColor="ffffff" FontName="Arial Black" FontWeight="Bold" FontSize="14" Valign="Middle"/>
   </Label>
-  <Label TextLabel="Events related to a putative Adverse Outcome Pathway for&#10;pulmonary fibrosis" GraphId="eced8">
+  <Label TextLabel="Events related to the Adverse Outcome Pathway for&#10;pulmonary fibrosis (AOP:173)" GraphId="eced8">
     <Comment>Adverse Outcome Pathway relevance</Comment>
     <BiopaxRef>be6</BiopaxRef>
     <Graphics CenterX="1377.4379487179515" CenterY="179.02942765390478" Width="394.69499999999977" Height="56.143306863984435" ZOrder="33213" FillColor="ffffff" FontWeight="Bold" FontSize="14" Valign="Middle"/>
@@ -983,7 +983,12 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="347.46976411519074" CenterY="1207.779087193968" Width="47.729465325469334" Height="14.774554437890574" ZOrder="33225" FillColor="ffffff" FontName="Arial Black" FontWeight="Bold" FontSize="14" Valign="Middle"/>
   </Label>
   <Label TextLabel="AE3 - Collagen production" GraphId="e608e">
-    <Graphics CenterX="1371.0820912569236" CenterY="354.2125521101031" Width="380.6725000000001" Height="20.0" ZOrder="33226" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
+    <Graphics CenterX="1371.0820912569236" CenterY="372.2125521101031" Width="380.6725000000001" Height="20.0" ZOrder="33226" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
+  </Label>
+  <Label TextLabel="- (KE:1498) - Loss of alveolar capillary membrane integrity" GraphId="dde1b">
+    <Comment>This KE was not included in the first draft of the AOP and thus not included in the analyses resulting in this WikiPathway</Comment>
+    <BiopaxRef>a1e</BiopaxRef>
+    <Graphics CenterX="1328.9408493589754" CenterY="259.87179487179515" Width="294.1183012820493" Height="20.0" ZOrder="33228" FillColor="ffffff" FontSize="10" Valign="Middle" Align="Left"/>
   </Label>
   <Shape GraphId="f3cd6" GroupRef="fff69">
     <Graphics CenterX="347.598290760959" CenterY="1194.5251658840584" Width="169.24978385083438" Height="59.193121693122606" ZOrder="-29" FillColor="666666" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="666666" Rotation="0.0"/>
@@ -1052,7 +1057,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="386.61610096153885" CenterY="584.1976217948724" Width="108.159125" Height="53.75074999999987" ZOrder="16402" FillColor="999999" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="999999" Rotation="0.0"/>
   </Shape>
   <Shape GraphId="e136b">
-    <Graphics CenterX="1376.792337346587" CenterY="289.4052137823913" Width="402.9495337076844" Height="310.9448835702907" ZOrder="16404" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0047433706724440495"/>
+    <Graphics CenterX="1376.7470035769388" CenterY="298.96243222106034" Width="402.9495337076844" Height="330.0595354829054" ZOrder="16404" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0047433706724440495"/>
   </Shape>
   <Shape GraphId="fa302" GroupRef="cb3c3">
     <Graphics CenterX="347.5982907609605" CenterY="1324.9944636316054" Width="223.80749999999992" Height="55.62500000000045" ZOrder="16406" FillColor="999999" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="999999" Rotation="0.0"/>
@@ -1126,11 +1131,15 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Group GroupId="a3a34" GraphId="ff723" Style="Group"/>
   <InfoBox CenterX="0.0" CenterY="0.0"/>
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pulmonary fibrosis</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:3770</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e4a">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23412688</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cholesterol crystals and inflammation.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curr Rheumatol Rep</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grebe A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Latz E</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f19">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22824096</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1141,6 +1150,56 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luzina IG</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atamas SP</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f4a">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26926090</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mechanisms of lung fibrosis induced by carbon nanotubes: towards an Adverse Outcome Pathway (AOP).</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/26926090</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26926090</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mechanisms of lung fibrosis induced by carbon nanotubes: towards an Adverse Outcome Pathway (AOP).</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/26926090</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vietti G</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lison D</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">van den Brule S</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c77">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25254104</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeneMANIA: Fast gene network construction and function prediction for Cytoscape.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/25254104</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25254104</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeneMANIA: Fast gene network construction and function prediction for Cytoscape.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/25254104</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montojo J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zuberi K</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rodriguez H</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bader GD</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morris Q</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pulmonary fibrosis</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:3770</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a89">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25326323</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Comparative Toxicogenomics Database's 10th year anniversary: update 2015</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/25326323</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Davis AP</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grondin CJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lennon-Hopkins K</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saraceni-Richards C</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sciaky D2, King BL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wiegers TC2, Mattingly CJ</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a8b">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18755000</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1148,6 +1207,37 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Microsc. 2008 Sep;231(3):446-54. doi: 10.1111/j.1365-2818.2008.02057.x.</bp:SOURCE>
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Naumanen P, Lappalainen P, Hotulainen P</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f5d">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8634065</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The chondrocyte, architect of cartilage. Biomechanics, structure, function and molecular biology of cartilage matrix macromolecules.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bioessays. 1995 Dec;17(12):1039-48.</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1995</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Muir H.</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory system disease pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001308</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a1e">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29149350</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A data fusion pipeline for generating and enriching Adverse Outcome Pathway descriptions.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toxicol Sci</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nymark P</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rieswijk L</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ehrhart F</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jeliazkova N</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tsiliki G</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sarimveis H</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Evelo CT</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hongisto V</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kohonen P</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Willighagen E</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GrafstrÃ¶m RC</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="be6">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26979667</bp:ID>
@@ -1173,90 +1263,5 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vogel U</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halappanavar S</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">respiratory system disease pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001308</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a89">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25326323</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Comparative Toxicogenomics Database's 10th year anniversary: update 2015</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/25326323</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Davis AP</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grondin CJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lennon-Hopkins K</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saraceni-Richards C</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sciaky D2, King BL</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wiegers TC2, Mattingly CJ</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f4a">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26926090</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mechanisms of lung fibrosis induced by carbon nanotubes: towards an Adverse Outcome Pathway (AOP).</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/26926090</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26926090</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mechanisms of lung fibrosis induced by carbon nanotubes: towards an Adverse Outcome Pathway (AOP).</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/26926090</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vietti G</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lison D</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">van den Brule S</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f5d">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8634065</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The chondrocyte, architect of cartilage. Biomechanics, structure, function and molecular biology of cartilage matrix macromolecules.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bioessays. 1995 Dec;17(12):1039-48.</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1995</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Muir H.</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e4a">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23412688</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cholesterol crystals and inflammation.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curr Rheumatol Rep</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grebe A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Latz E</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c77">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25254104</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeneMANIA: Fast gene network construction and function prediction for Cytoscape.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/25254104</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25254104</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeneMANIA: Fast gene network construction and function prediction for Cytoscape.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/pubmed/25254104</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montojo J</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zuberi K</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rodriguez H</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bader GD</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morris Q</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a1e">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29149350</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A data fusion pipeline for generating and enriching Adverse Outcome Pathway descriptions.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toxicol Sci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nymark P</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rieswijk L</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ehrhart F</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jeliazkova N</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tsiliki G</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sarimveis H</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Evelo CT</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hongisto V</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kohonen P</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Willighagen E</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GrafstrÃ¶m RC</bp:AUTHORS>
-    </bp:PublicationXref>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>carbon nanotube response pathway</bp:TERM><bp:ID>PW:0001436</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

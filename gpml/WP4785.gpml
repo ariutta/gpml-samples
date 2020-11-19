@@ -7,242 +7,242 @@ Spondylocostal dysostosis-associated genes refine Notch1 signaling in the anteri
 Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutation in the respective gene.</Comment>
   <BiopaxRef>a2b</BiopaxRef>
   <BiopaxRef>a46</BiopaxRef>
-  <Graphics BoardWidth="1239.4188376753505" BoardHeight="724.994386839297" />
+  <Graphics BoardWidth="1239.4188376753505" BoardHeight="724.994386839297"/>
   <DataNode TextLabel="DLL3" GraphId="a4618" Type="GeneProduct">
-    <Graphics CenterX="788.3897428495814" CenterY="345.30562170744025" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000090932" />
+    <Graphics CenterX="788.3897428495814" CenterY="345.30562170744025" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000090932"/>
   </DataNode>
   <DataNode TextLabel="TBX6" GraphId="a46d7" Type="GeneProduct">
-    <Graphics CenterX="365.1228414654127" CenterY="502.115657549734" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000149922" />
+    <Graphics CenterX="365.1228414654127" CenterY="502.115657549734" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000149922"/>
   </DataNode>
   <DataNode TextLabel="EPHA4" GraphId="aa980" Type="GeneProduct">
-    <Graphics CenterX="591.9857643840746" CenterY="582.7608188400561" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000116106" />
+    <Graphics CenterX="591.9857643840746" CenterY="582.7608188400561" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000116106"/>
   </DataNode>
   <DataNode TextLabel="LFNG" GraphId="c4987" Type="GeneProduct">
-    <Graphics CenterX="663.4938473485819" CenterY="502.115657549734" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000106003" />
+    <Graphics CenterX="663.4938473485819" CenterY="502.115657549734" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000106003"/>
   </DataNode>
   <DataNode TextLabel="RIPPLY2" GraphId="cc4fc" Type="GeneProduct">
-    <Graphics CenterX="365.1228414654127" CenterY="582.7608188400559" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000203877" />
+    <Graphics CenterX="365.1228414654127" CenterY="582.7608188400559" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000203877"/>
   </DataNode>
   <DataNode TextLabel="HES7" GraphId="e85fd" Type="GeneProduct">
-    <Graphics CenterX="867.3768187185801" CenterY="502.11565754973407" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000179111" />
+    <Graphics CenterX="867.3768187185801" CenterY="502.11565754973407" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000179111"/>
   </DataNode>
   <DataNode TextLabel="DLL1" GraphId="e932d" Type="GeneProduct">
-    <Graphics CenterX="543.7660869356039" CenterY="345.30562170744025" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000198719" />
+    <Graphics CenterX="543.7660869356039" CenterY="345.30562170744025" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000198719"/>
   </DataNode>
   <DataNode TextLabel="NOTCH1" GraphId="f4152" Type="GeneProduct">
-    <Graphics CenterX="663.4938473485819" CenterY="412.40583815298237" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000148400" />
+    <Graphics CenterX="663.4938473485819" CenterY="412.40583815298237" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000148400"/>
   </DataNode>
   <DataNode TextLabel="MESP2" GraphId="f6285" Type="GeneProduct">
-    <Graphics CenterX="510.6119650718049" CenterY="502.115657549734" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000188095" />
+    <Graphics CenterX="510.6119650718049" CenterY="502.115657549734" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Ensembl" ID="ENSG00000188095"/>
   </DataNode>
   <Interaction GraphId="id11108b8">
     <BiopaxRef>fa0</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="533.1119650718049" Y="514.615657549734" GraphRef="f6285" RelX="0.5" RelY="1.0" />
-      <Point X="640.9938473485819" Y="514.615657549734" GraphRef="c4987" RelX="-0.5" RelY="1.0" ArrowHead="mim-stimulation" />
+      <Point X="533.1119650718049" Y="514.615657549734" GraphRef="f6285" RelX="0.5" RelY="1.0"/>
+      <Point X="640.9938473485819" Y="514.615657549734" GraphRef="c4987" RelX="-0.5" RelY="1.0" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="id40e608c5">
     <BiopaxRef>d6f</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="488.1119650718049" Y="514.615657549734" GraphRef="f6285" RelX="-0.5" RelY="1.0" />
-      <Point X="410.1228414654127" Y="582.7608188400559" GraphRef="cc4fc" RelX="1.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="488.1119650718049" Y="514.615657549734" GraphRef="f6285" RelX="-0.5" RelY="1.0"/>
+      <Point X="410.1228414654127" Y="582.7608188400559" GraphRef="cc4fc" RelX="1.0" RelY="0.0" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="id43c2ff14">
     <BiopaxRef>fa0</BiopaxRef>
     <BiopaxRef>bdd</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="618.4938473485819" Y="502.115657549734" GraphRef="c4987" RelX="-1.0" RelY="0.0" />
-      <Point X="587.6728969714459" Y="457.2607478513582" />
-      <Point X="618.4938473485819" Y="412.40583815298237" GraphRef="f4152" RelX="-1.0" RelY="0.0" ArrowHead="mim-inhibition" />
+      <Point X="618.4938473485819" Y="502.115657549734" GraphRef="c4987" RelX="-1.0" RelY="0.0"/>
+      <Point X="587.6728969714459" Y="457.2607478513582"/>
+      <Point X="618.4938473485819" Y="412.40583815298237" GraphRef="f4152" RelX="-1.0" RelY="0.0" ArrowHead="mim-inhibition"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="id53f0fda1">
     <BiopaxRef>b09</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="844.8768187185801" Y="514.6156575497341" GraphRef="e85fd" RelX="-0.5" RelY="1.0" />
-      <Point X="685.9938473485819" Y="514.615657549734" GraphRef="c4987" RelX="0.5" RelY="1.0" ArrowHead="mim-inhibition" />
+      <Point X="844.8768187185801" Y="514.6156575497341" GraphRef="e85fd" RelX="-0.5" RelY="1.0"/>
+      <Point X="685.9938473485819" Y="514.615657549734" GraphRef="c4987" RelX="0.5" RelY="1.0" ArrowHead="mim-inhibition"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="id83b23b09">
     <BiopaxRef>fa3</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="510.6119650718049" Y="514.615657549734" GraphRef="f6285" RelX="0.0" RelY="1.0" />
-      <Point X="546.9857643840746" Y="582.7608188400561" GraphRef="aa980" RelX="-1.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="510.6119650718049" Y="514.615657549734" GraphRef="f6285" RelX="0.0" RelY="1.0"/>
+      <Point X="546.9857643840746" Y="582.7608188400561" GraphRef="aa980" RelX="-1.0" RelY="0.0" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="id8fb209b9">
     <BiopaxRef>b84</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="743.3897428495814" Y="345.30562170744025" GraphRef="a4618" RelX="-1.0" RelY="0.0" />
-      <Point X="685.9938473485819" Y="399.90583815298237" GraphRef="f4152" RelX="0.5" RelY="-1.0" ArrowHead="mim-inhibition" />
+      <Point X="743.3897428495814" Y="345.30562170744025" GraphRef="a4618" RelX="-1.0" RelY="0.0"/>
+      <Point X="685.9938473485819" Y="399.90583815298237" GraphRef="f4152" RelX="0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="id95506671">
     <BiopaxRef>fd5</BiopaxRef>
     <BiopaxRef>ae6</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="410.1228414654127" Y="495.865657549734" GraphRef="a46d7" RelX="1.0" RelY="-0.5" />
-      <Point X="465.6119650718049" Y="495.865657549734" GraphRef="f6285" RelX="-1.0" RelY="-0.5" ArrowHead="mim-stimulation" />
+      <Point X="410.1228414654127" Y="495.865657549734" GraphRef="a46d7" RelX="1.0" RelY="-0.5"/>
+      <Point X="465.6119650718049" Y="495.865657549734" GraphRef="f6285" RelX="-1.0" RelY="-0.5" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ida48a038">
     <BiopaxRef>cb7</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="889.8768187185801" Y="514.6156575497341" GraphRef="e85fd" RelX="0.5" RelY="1.0" />
-      <Point X="915.7057662411414" Y="535.15625" />
-      <Point X="941.5347137637028" Y="518.6359537748671" />
-      <Point X="912.3768187185801" Y="502.1156575497341" GraphRef="e85fd" RelX="1.0" RelY="0.0" ArrowHead="mim-inhibition" />
+      <Point X="889.8768187185801" Y="514.6156575497341" GraphRef="e85fd" RelX="0.5" RelY="1.0"/>
+      <Point X="915.7057662411414" Y="535.15625"/>
+      <Point X="941.5347137637028" Y="518.6359537748671"/>
+      <Point X="912.3768187185801" Y="502.1156575497341" GraphRef="e85fd" RelX="1.0" RelY="0.0" ArrowHead="mim-inhibition"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="idc0400cb5">
     <BiopaxRef>cb7</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="685.9938473485819" Y="424.90583815298237" GraphRef="f4152" RelX="0.5" RelY="1.0" />
-      <Point X="867.3768187185801" Y="489.6156575497341" GraphRef="e85fd" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation" />
+      <Point X="685.9938473485819" Y="424.90583815298237" GraphRef="f4152" RelX="0.5" RelY="1.0"/>
+      <Point X="867.3768187185801" Y="489.6156575497341" GraphRef="e85fd" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="idd9f1ab2e">
     <BiopaxRef>d8f</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="365.1228414654127" Y="570.2608188400559" GraphRef="cc4fc" RelX="0.0" RelY="-1.0" />
-      <Point X="365.1228414654127" Y="514.615657549734" GraphRef="a46d7" RelX="0.0" RelY="1.0" ArrowHead="mim-inhibition" />
+      <Point X="365.1228414654127" Y="570.2608188400559" GraphRef="cc4fc" RelX="0.0" RelY="-1.0"/>
+      <Point X="365.1228414654127" Y="514.615657549734" GraphRef="a46d7" RelX="0.0" RelY="1.0" ArrowHead="mim-inhibition"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="iddaf98135">
     <BiopaxRef>f9a</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="465.6119650718049" Y="508.365657549734" GraphRef="f6285" RelX="-1.0" RelY="0.5" />
-      <Point X="410.1228414654127" Y="508.365657549734" GraphRef="a46d7" RelX="1.0" RelY="0.5" ArrowHead="mim-inhibition" />
+      <Point X="465.6119650718049" Y="508.365657549734" GraphRef="f6285" RelX="-1.0" RelY="0.5"/>
+      <Point X="410.1228414654127" Y="508.365657549734" GraphRef="a46d7" RelX="1.0" RelY="0.5" ArrowHead="mim-inhibition"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="idde7d2ce">
     <BiopaxRef>bc3</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="708.4938473485819" Y="502.115657549734" GraphRef="c4987" RelX="1.0" RelY="0.0" />
-      <Point X="739.106588727718" Y="457.2607478513582" />
-      <Point X="708.4938473485819" Y="412.40583815298237" GraphRef="f4152" RelX="1.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="708.4938473485819" Y="502.115657549734" GraphRef="c4987" RelX="1.0" RelY="0.0"/>
+      <Point X="739.106588727718" Y="457.2607478513582"/>
+      <Point X="708.4938473485819" Y="412.40583815298237" GraphRef="f4152" RelX="1.0" RelY="0.0" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="ide9eba57b">
     <BiopaxRef>ae5</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="640.9938473485819" Y="424.90583815298237" GraphRef="f4152" RelX="-0.5" RelY="1.0" />
-      <Point X="510.6119650718049" Y="489.615657549734" GraphRef="f6285" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation" />
+      <Point X="640.9938473485819" Y="424.90583815298237" GraphRef="f4152" RelX="-0.5" RelY="1.0"/>
+      <Point X="510.6119650718049" Y="489.615657549734" GraphRef="f6285" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="idf1160d9f">
     <BiopaxRef>b84</BiopaxRef>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="588.7660869356039" Y="345.30562170744025" GraphRef="e932d" RelX="1.0" RelY="0.0" />
-      <Point X="640.9938473485819" Y="399.90583815298237" GraphRef="f4152" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation" />
+      <Point X="588.7660869356039" Y="345.30562170744025" GraphRef="e932d" RelX="1.0" RelY="0.0"/>
+      <Point X="640.9938473485819" Y="399.90583815298237" GraphRef="f4152" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <Interaction GraphId="idfc227fc2">
     <BiopaxRef>ed7</BiopaxRef>
     <BiopaxRef>e22</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="663.4938473485819" Y="424.90583815298237" GraphRef="f4152" RelX="0.0" RelY="1.0" />
-      <Point X="663.4938473485819" Y="489.615657549734" GraphRef="c4987" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation" />
+      <Point X="663.4938473485819" Y="424.90583815298237" GraphRef="f4152" RelX="0.0" RelY="1.0"/>
+      <Point X="663.4938473485819" Y="489.615657549734" GraphRef="c4987" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation"/>
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="" ID=""/>
   </Interaction>
   <GraphicalLine GraphId="idd6ffdad5">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="365.1228414654127" Y="595.2608188400559" GraphRef="cc4fc" RelX="0.0" RelY="1.0" />
-      <Point X="365.1228414654124" Y="655.3295903072361" GraphRef="bd09a" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="365.1228414654127" Y="595.2608188400559" GraphRef="cc4fc" RelX="0.0" RelY="1.0"/>
+      <Point X="365.1228414654124" Y="655.3295903072361" GraphRef="bd09a" RelX="0.0" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="b2ed8">
     <Graphics ZOrder="32832" LineStyle="Broken" LineThickness="1.0">
-      <Point X="320.1228414654127" Y="502.115657549734" GraphRef="a46d7" RelX="-1.0" RelY="0.0" />
-      <Point X="262.33465875170714" Y="502.08621146700693" GraphRef="c3f87" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="320.1228414654127" Y="502.115657549734" GraphRef="a46d7" RelX="-1.0" RelY="0.0"/>
+      <Point X="262.33465875170714" Y="502.08621146700693" GraphRef="c3f87" RelX="1.0" RelY="0.0" ArrowHead="Arrow"/>
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="f55c3">
     <Graphics ConnectorType="Elbow" ZOrder="32833" LineStyle="Broken" LineThickness="1.0">
-      <Point X="488.1119650718049" Y="489.615657549734" GraphRef="f6285" RelX="-0.5" RelY="-1.0" />
-      <Point X="435.9270341390976" Y="445.01278772378515" />
-      <Point X="383.74210320639037" Y="407.23828456910474" GraphRef="b39ba" RelX="0.5" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="488.1119650718049" Y="489.615657549734" GraphRef="f6285" RelX="-0.5" RelY="-1.0"/>
+      <Point X="435.9270341390976" Y="445.01278772378515"/>
+      <Point X="383.74210320639037" Y="407.23828456910474" GraphRef="b39ba" RelX="0.5" RelY="1.0" ArrowHead="Arrow"/>
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="d02ea">
     <Graphics ZOrder="32834" LineStyle="Broken" LineThickness="1.0">
-      <Point X="663.4938473485819" Y="399.90583815298237" GraphRef="f4152" RelX="0.0" RelY="-1.0" />
-      <Point X="663.4938473485818" Y="290.9185373916399" GraphRef="f96f6" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="663.4938473485819" Y="399.90583815298237" GraphRef="f4152" RelX="0.0" RelY="-1.0"/>
+      <Point X="663.4938473485818" Y="290.9185373916399" GraphRef="f96f6" RelX="0.0" RelY="1.0" ArrowHead="Arrow"/>
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="e4c5d">
     <Graphics ZOrder="32835" LineStyle="Broken" LineThickness="1.0">
-      <Point X="833.3897428495814" Y="345.30562170744025" GraphRef="a4618" RelX="1.0" RelY="0.0" />
-      <Point X="910.3853284756939" Y="345.30562170744014" GraphRef="b1417" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="833.3897428495814" Y="345.30562170744025" GraphRef="a4618" RelX="1.0" RelY="0.0"/>
+      <Point X="910.3853284756939" Y="345.30562170744014" GraphRef="b1417" RelX="-1.0" RelY="0.0" ArrowHead="Arrow"/>
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="f83c9">
     <Graphics ZOrder="32836" LineStyle="Broken" LineThickness="1.0">
-      <Point X="663.4938473485819" Y="514.615657549734" GraphRef="c4987" RelX="0.0" RelY="1.0" />
-      <Point X="663.4938473485818" Y="655.994386839297" GraphRef="fcb3b" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="663.4938473485819" Y="514.615657549734" GraphRef="c4987" RelX="0.0" RelY="1.0"/>
+      <Point X="663.4938473485818" Y="655.994386839297" GraphRef="fcb3b" RelX="0.0" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="e2982">
     <Graphics ZOrder="32837" LineStyle="Broken" LineThickness="1.0">
-      <Point X="867.3768187185801" Y="514.6156575497341" GraphRef="e85fd" RelX="0.0" RelY="1.0" />
-      <Point X="867.3768187185804" Y="580.722716738534" GraphRef="a08c8" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="867.3768187185801" Y="514.6156575497341" GraphRef="e85fd" RelX="0.0" RelY="1.0"/>
+      <Point X="867.3768187185804" Y="580.722716738534" GraphRef="a08c8" RelX="0.0" RelY="-1.0" ArrowHead="Arrow"/>
     </Graphics>
   </GraphicalLine>
-  <Label TextLabel="OMIM:609813&#xA;Spondylocostal Dysostosis 3, Autosomal Recessive" GraphId="fcb3b" Href="https://omim.org/entry/609813">
+  <Label TextLabel="OMIM:609813&#10;Spondylocostal Dysostosis 3, Autosomal Recessive" GraphId="fcb3b" Href="https://omim.org/entry/609813">
     <Comment>DISEASE</Comment>
-    <Graphics CenterX="663.4938473485818" CenterY="675.494386839297" Width="290.84266300096095" Height="39.0" ZOrder="32824" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="663.4938473485818" CenterY="675.494386839297" Width="290.84266300096095" Height="39.0" ZOrder="32824" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
   </Label>
-  <Label TextLabel="OMIM:613686&#xA;Spondylocostal Dysostosis 4, Autosomal Recessive" GraphId="a08c8" Href="https://omim.org/entry/613686">
+  <Label TextLabel="OMIM:613686&#10;Spondylocostal Dysostosis 4, Autosomal Recessive" GraphId="a08c8" Href="https://omim.org/entry/613686">
     <Comment>DISEASE</Comment>
-    <Graphics CenterX="867.3768187185804" CenterY="600.222716738534" Width="292.73085897622616" Height="39.0" ZOrder="32825" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="867.3768187185804" CenterY="600.222716738534" Width="292.73085897622616" Height="39.0" ZOrder="32825" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
   </Label>
-  <Label TextLabel="OMIM:122600&#xA;Spondylocostal Dysostosis 5" GraphId="c3f87" Href="https://omim.org/entry/122600">
+  <Label TextLabel="OMIM:122600&#10;Spondylocostal Dysostosis 5" GraphId="c3f87" Href="https://omim.org/entry/122600">
     <Comment>DISEASE</Comment>
-    <Graphics CenterX="171.4496343432607" CenterY="502.086211467007" Width="181.77004881689288" Height="39.0" ZOrder="32826" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="171.4496343432607" CenterY="502.086211467007" Width="181.77004881689288" Height="39.0" ZOrder="32826" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
   </Label>
-  <Label TextLabel="OMIM:277300&#xA;Spondylocostal Dysostosis 1, Autosomal Recessive" GraphId="b1417" Href="https://omim.org/entry/277300">
+  <Label TextLabel="OMIM:277300&#10;Spondylocostal Dysostosis 1, Autosomal Recessive" GraphId="b1417" Href="https://omim.org/entry/277300">
     <Comment>DISEASE</Comment>
-    <Graphics CenterX="1059.9020830755223" CenterY="345.30562170744014" Width="299.0335091996566" Height="39.0" ZOrder="32828" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1059.9020830755223" CenterY="345.30562170744014" Width="299.0335091996566" Height="39.0" ZOrder="32828" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
   </Label>
-  <Label TextLabel="OMIM:616566&#xA;Spondylocostal Dysostosis 6, Autosomal Recessive" GraphId="bd09a" Href="https://omim.org/entry/616566">
+  <Label TextLabel="OMIM:616566&#10;Spondylocostal Dysostosis 6, Autosomal Recessive" GraphId="bd09a" Href="https://omim.org/entry/616566">
     <Comment>DISEASE</Comment>
-    <Graphics CenterX="365.1228414654124" CenterY="674.8295903072361" Width="287.6473850830781" Height="39.0" ZOrder="32829" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="365.1228414654124" CenterY="674.8295903072361" Width="287.6473850830781" Height="39.0" ZOrder="32829" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
   </Label>
-  <Label TextLabel="OMIM:616028&#xA;Adams-Oliver Syndrome 5" GraphId="f96f6" Href="https://omim.org/entry/616028">
+  <Label TextLabel="OMIM:616028&#10;Adams-Oliver Syndrome 5" GraphId="f96f6" Href="https://omim.org/entry/616028">
     <Comment>DISEASE</Comment>
-    <Graphics CenterX="663.4938473485817" CenterY="271.4185373916399" Width="169.32867479793694" Height="39.0" ZOrder="32830" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="663.4938473485817" CenterY="271.4185373916399" Width="169.32867479793694" Height="39.0" ZOrder="32830" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
   </Label>
-  <Label TextLabel="OMIM:608681&#xA;Spondylocostal Dysostosis 2, Autosomal Recessive" GraphId="b39ba" Href="https://omim.org/entry/608681">
+  <Label TextLabel="OMIM:608681&#10;Spondylocostal Dysostosis 2, Autosomal Recessive" GraphId="b39ba" Href="https://omim.org/entry/608681">
     <Comment>DISEASE</Comment>
-    <Graphics CenterX="310.0131634522564" CenterY="387.73828456910474" Width="294.91575901653596" Height="39.0" ZOrder="32831" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="310.0131634522564" CenterY="387.73828456910474" Width="294.91575901653596" Height="39.0" ZOrder="32831" FillColor="ffcece" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
   </Label>
-  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <InfoBox CenterX="0.0" CenterY="0.0"/>
   <Biopax>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e22">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12110168</bp:ID>
@@ -467,5 +467,5 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bochter MS</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cole SE</bp:AUTHORS>
     </bp:PublicationXref>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>spondylocostal dysostosis</bp:TERM><bp:ID>DOID:0050568</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>altered Notch signaling pathway</bp:TERM><bp:ID>PW:0000324</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

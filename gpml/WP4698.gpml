@@ -100,7 +100,7 @@
     <Xref Database="HGNC" ID="GRIN2C" />
   </DataNode>
   <DataNode TextLabel="Vitamin D pathway" GraphId="cc50c" Type="Pathway">
-    <Graphics CenterX="1703.200000000001" CenterY="1002.9499999999991" Width="118.5" Height="25.0" ZOrder="32814" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1703.2806092560047" CenterY="1002.9499999999991" Width="155.24311657879332" Height="25.0" ZOrder="32814" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP2877" />
   </DataNode>
   <DataNode TextLabel="TPH1" GraphId="a56e8" Type="GeneProduct" GroupRef="d5e3b">
@@ -143,10 +143,6 @@
   <DataNode TextLabel="glutamate" GraphId="c2359" Type="Metabolite">
     <Graphics CenterX="1273.3349837232179" CenterY="248.19538501949856" Width="104.23445020849977" Height="23.67471759977125" ZOrder="32836" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:14321" />
-  </DataNode>
-  <DataNode TextLabel="VDRE" GraphId="d1700">
-    <Graphics CenterX="1707.1595219741362" CenterY="1050.2124955057575" Width="73.0" Height="21.848921488484688" ZOrder="32840" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PLC" GraphId="df863" Type="GeneProduct">
     <Graphics CenterX="1170.963781461019" CenterY="410.09523809523813" Width="80.41743400859406" Height="25.0" ZOrder="32842" FontSize="12" Valign="Middle" />
@@ -244,10 +240,6 @@
     <Graphics CenterX="2086.449999999995" CenterY="1074.3730682246505" Width="89.99999999999996" Height="25.499999999999996" ZOrder="32896" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="ARE" GraphId="a23ef" GroupRef="adf1b">
-    <Graphics CenterX="1850.4096182834805" CenterY="1158.625499999998" Width="87.09818009971059" Height="23.40000000000022" ZOrder="32900" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
-  </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="f8d52" Type="Metabolite">
     <Graphics CenterX="931.4150240224452" CenterY="1074.5173664931183" Width="44.46882331102415" Height="29.575769087977392" ZOrder="32902" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:29108" />
@@ -280,7 +272,7 @@
     <Graphics CenterX="1560.5340106235037" CenterY="650.1592136052654" Width="38.091797125000085" Height="18.75764231250014" ZOrder="32930" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000111424" />
   </DataNode>
-  <DataNode TextLabel="NFE2L2" GraphId="e2f87" Type="GeneProduct" GroupRef="adf1b">
+  <DataNode TextLabel="NFE2L2" GraphId="e2f87" Type="GeneProduct" GroupRef="eb0e1">
     <Graphics CenterX="1851.0559091151201" CenterY="1101.361931065959" Width="89.23893176976435" Height="25.5" ZOrder="32932" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000116044" />
   </DataNode>
@@ -326,7 +318,7 @@
   <Interaction GraphId="id2cdca4ce">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1708.121987788135" Y="965.0356545243649" GraphRef="a2df3" RelX="0.0" RelY="1.0" />
-      <Point X="1707.1595219741362" Y="1039.288034761515" GraphRef="d1700" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding" />
+      <Point X="1709.7788517867614" Y="1038.664323374341" GraphRef="b7f52" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -339,7 +331,7 @@
   </Interaction>
   <Interaction GraphId="id9b0493a9">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1851.0559091151201" Y="1178.3254999999983" GraphRef="c994e" RelX="0.0" RelY="1.0" />
+      <Point X="1851.0559091151201" Y="1178.1063666060945" GraphRef="a4bca" RelX="0.0" RelY="1.0" />
       <Point X="1851.8276336439806" Y="1203.2138189717266" GraphRef="aac0f" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -398,7 +390,7 @@
   <Interaction GraphId="id492f7093">
     <Graphics ZOrder="12296" LineThickness="1.0">
       <Point X="1851.0559091151201" Y="1114.111931065959" GraphRef="e2f87" RelX="0.0" RelY="1.0" />
-      <Point X="1850.4096182834805" Y="1146.925499999998" GraphRef="a23ef" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding" />
+      <Point X="1851.05590911512" Y="1147.6473742217959" GraphRef="f6742" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -482,7 +474,7 @@
   </Interaction>
   <Interaction GraphId="id5251001f">
     <Graphics ConnectorType="Curved" ZOrder="12328" LineThickness="1.0">
-      <Point X="1725.4095219741362" Y="1039.288034761515" GraphRef="d1700" RelX="0.5" RelY="-1.0" />
+      <Point X="1722.2004979496198" Y="1038.664323374341" GraphRef="b7f52" RelX="0.5" RelY="-1.0" />
       <Point X="1884.1000000000022" Y="965.0999999999999" GraphRef="a0b80" RelX="-1.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -519,8 +511,8 @@
   </Interaction>
   <Interaction GraphId="id2f9afe8c">
     <Graphics ConnectorType="Curved" ZOrder="12338" LineThickness="1.0">
-      <Point X="1725.4095219741362" Y="1039.288034761515" GraphRef="d1700" RelX="0.5" RelY="-1.0" />
-      <Point X="1802.2547609870692" Y="944.3115469340252" />
+      <Point X="1722.2004979496198" Y="1038.664323374341" GraphRef="b7f52" RelX="0.5" RelY="-1.0" />
+      <Point X="1800.650248974811" Y="957.8207381370827" />
       <Point X="1879.1000000000022" Y="901.6000000000004" GraphRef="b0730" RelX="-0.5" RelY="1.0" ArrowHead="mim-inhibition" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -562,7 +554,7 @@
   </Interaction>
   <Interaction GraphId="idbe035f62">
     <Graphics ConnectorType="Curved" ZOrder="12354" LineThickness="1.0">
-      <Point X="1725.4095219741362" Y="1039.288034761515" GraphRef="d1700" RelX="0.5" RelY="-1.0" />
+      <Point X="1722.2004979496198" Y="1038.664323374341" GraphRef="b7f52" RelX="0.5" RelY="-1.0" />
       <Point X="1943.4499999999998" Y="1025.355767056162" GraphRef="f825d" RelX="-1.0" RelY="-0.5" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -642,14 +634,14 @@
   </Interaction>
   <Interaction GraphId="id352e9318">
     <Graphics ZOrder="12378" LineThickness="1.0">
-      <Point X="1725.4095219741362" Y="1061.13695625" GraphRef="d1700" RelX="0.5" RelY="1.0" />
+      <Point X="1725.4095219741362" Y="1061.13695625" />
       <Point X="1783.75" Y="1061.5" GraphRef="e182c" RelX="-0.5" RelY="1.0" ArrowHead="mim-transcription-translation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="idef44e850">
     <Graphics ZOrder="12382" LineThickness="1.0">
-      <Point X="1828.635073258553" Y="1146.925499999998" GraphRef="a23ef" RelX="-0.5" RelY="-1.0" />
+      <Point X="1828.635073258553" Y="1146.925499999998" />
       <Point X="1746.170583333337" Y="1146.4921666666642" GraphRef="a7e89" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -739,6 +731,9 @@
   <Label TextLabel="Antioxidant genes&#xA;" GraphId="a7e89">
     <Graphics CenterX="1746.170583333337" CenterY="1158.9921666666642" Width="99.99999999999596" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
   </Label>
+  <Label TextLabel="VDRE" GraphId="b7f52">
+    <Graphics CenterX="1709.7788517867614" CenterY="1049.8938195664903" Width="49.686584651433805" Height="22.458992384298682" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" ShapeType="Rectangle" />
+  </Label>
   <Label TextLabel="VDR target genes&#xA;" GraphId="e182c">
     <Graphics CenterX="1813.5" CenterY="1049.0" Width="119.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
   </Label>
@@ -781,6 +776,9 @@
   <Label TextLabel="M-current&#xA;" GraphId="c00bc">
     <Graphics CenterX="1067.5544279929632" CenterY="324.7154330105642" Width="90.0" Height="25.0" ZOrder="32926" FillColor="ffffff" FontSize="12" Valign="Middle" />
   </Label>
+  <Label TextLabel="ARE" GraphId="f6742" GroupRef="eb0e1">
+    <Graphics CenterX="1851.05590911512" CenterY="1158.8768704139452" Width="76.82553394298338" Height="22.458992384298682" ZOrder="32944" FillColor="ffffff" FontSize="12" Valign="Middle" ShapeType="Rectangle" />
+  </Label>
   <Shape GraphId="f851b">
     <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Nucleus" />
     <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double" />
@@ -815,13 +813,13 @@
   <Group GroupId="ed1cc" Style="Group" />
   <Group GroupId="a7514" GraphId="a0b80" Style="Group" />
   <Group GroupId="e99dd" GraphId="a2df3" Style="Complex" />
+  <Group GroupId="eb0e1" GraphId="a4bca" Style="Group" />
   <Group GroupId="ebaa4" GraphId="a70f8" Style="Group" />
   <Group GroupId="cbbd0" GraphId="aac0f" Style="Group" />
   <Group GroupId="d5e3b" GraphId="b0730" Style="Group" />
   <Group GroupId="aaaa1" GraphId="bdb20" Style="Group" />
   <Group GroupId="de856" GraphId="bf19d" Style="Group" />
   <Group GroupId="c82b9" GraphId="c1959" Style="Group" />
-  <Group GroupId="adf1b" GraphId="c994e" Style="Group" />
   <Group GroupId="ba86c" GraphId="ccb39" Style="Complex" />
   <Group GroupId="e3c77" GraphId="d1791" Style="Complex" />
   <Group GroupId="b243b" GraphId="e8649" Style="Complex" />
@@ -830,6 +828,19 @@
   <Group GroupId="f059a" GraphId="f825d" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mental depression</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1596</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ef6">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28202503</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vitamin D and Depression: Cellular and Regulatory Mechanisms.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pharmacol Rev</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Berridge MJ</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c03">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -839,23 +850,10 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xuan Qin</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xin Wang</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ef6">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28202503</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vitamin D and Depression: Cellular and Regulatory Mechanisms.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pharmacol Rev</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Berridge MJ</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">altered calcium/calcium-mediated signaling pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001169</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mental depression</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1596</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
     </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>

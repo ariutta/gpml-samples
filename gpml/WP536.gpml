@@ -9,7 +9,7 @@ Source: [[wikipedia:Calcium_signaling|Wikipedia]]
 
 Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP536 CPTAC Assay Portal]</Comment>
   <BiopaxRef>fbf</BiopaxRef>
-  <Graphics BoardWidth="1504.3333333333333" BoardHeight="1056.6666666666667" />
+  <Graphics BoardWidth="1522.3333333333333" BoardHeight="1056.6666666666667" />
   <DataNode TextLabel="CACNB1" GraphId="bac" Type="GeneProduct" GroupRef="c7479">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CACNB1 | calcium channel voltage-dependent be..." />
     <Graphics CenterX="188.33333333333334" CenterY="685.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -99,7 +99,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="ATP2B1" GraphId="a0b" Type="GeneProduct" GroupRef="bdeb4">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP2B1 | ATPase Ca++ transporting plasma memb..." />
-    <Graphics CenterX="728.7244897959182" CenterY="665.8979591836734" Width="60.0" Height="20.0" ZOrder="32802" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="728.7244897959182" CenterY="663.8979591836734" Width="60.0" Height="20.0" ZOrder="32802" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="490" />
   </DataNode>
   <DataNode TextLabel="PRKACA" GraphId="cdb" Type="GeneProduct" GroupRef="dbe86">
@@ -118,12 +118,12 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="ATP2A3" GraphId="e87" Type="GeneProduct" GroupRef="f6aeb">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP2A3 | ATPase Ca++ transporting ubiquitous" />
-    <Graphics CenterX="612.4605678233437" CenterY="559.8212407991589" Width="60.0" Height="20.0" ZOrder="32810" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="611.4605678233437" CenterY="551.8212407991589" Width="60.0" Height="20.0" ZOrder="32810" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="489" />
   </DataNode>
   <DataNode TextLabel="ATP2B3" GraphId="cad" Type="GeneProduct" GroupRef="bdeb4">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP2B3 | ATPase Ca++ transporting plasma memb..." />
-    <Graphics CenterX="728.7244897959182" CenterY="704.8979591836734" Width="60.0" Height="20.0" ZOrder="32812" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="728.7244897959182" CenterY="702.8979591836734" Width="60.0" Height="20.0" ZOrder="32812" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="492" />
   </DataNode>
   <DataNode TextLabel="Acetylcholine" GraphId="ae8" Type="Metabolite">
@@ -197,7 +197,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="PKIB" GraphId="f1f" Type="GeneProduct" GroupRef="b3d70">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PKIB | protein kinase (cAMP-dependent catalyti..." />
-    <Graphics CenterX="1423.3333333333333" CenterY="400.0" Width="60.0" Height="20.0" ZOrder="32842" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1441.3333333333333" CenterY="407.0" Width="60.0" Height="20.0" ZOrder="32842" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5570" />
   </DataNode>
   <DataNode TextLabel="ARRB2" GraphId="c10" Type="GeneProduct" GroupRef="f86b6">
@@ -236,12 +236,12 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="CACNA1S" GraphId="a68" Type="GeneProduct" GroupRef="e6d4f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CACNA1S | calcium channel voltage-dependent L..." />
-    <Graphics CenterX="389.30599369085166" CenterY="188.07570977917968" Width="66.66666666666667" Height="20.0" ZOrder="32858" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="385.30599369085166" CenterY="187.07570977917968" Width="66.66666666666667" Height="20.0" ZOrder="32858" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="779" />
   </DataNode>
   <DataNode TextLabel="CHRM4" GraphId="c77" Type="GeneProduct" GroupRef="b0644">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHRM4 | cholinergic receptor muscarinic 4" />
-    <Graphics CenterX="290.8727655099894" CenterY="152.38485804416405" Width="60.0" Height="20.0" ZOrder="32860" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="295.8727655099894" CenterY="159.38485804416405" Width="60.0" Height="20.0" ZOrder="32860" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1132" />
   </DataNode>
   <DataNode TextLabel="CHRM2" GraphId="f7c" Type="GeneProduct" GroupRef="e8236">
@@ -251,7 +251,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="CACNA1C" GraphId="ad8" Type="GeneProduct" GroupRef="e6d4f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CACNA1C | calcium channel voltage-dependent L..." />
-    <Graphics CenterX="389.30599369085166" CenterY="148.07570977917973" Width="66.66666666666667" Height="20.0" ZOrder="32864" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="385.30599369085166" CenterY="147.07570977917973" Width="66.66666666666667" Height="20.0" ZOrder="32864" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="775" />
   </DataNode>
   <DataNode TextLabel="IP3" GraphId="a033e" Type="Metabolite">
@@ -265,7 +265,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="KCNB1" GraphId="ad0" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="KCNB1 | potassium voltage-gated channel Shab-r..." />
-    <Graphics CenterX="91.58780231335436" CenterY="341.879063928411" Width="60.0" Height="20.0" ZOrder="32870" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="87.58780231335436" CenterY="344.879063928411" Width="60.0" Height="20.0" ZOrder="32870" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3745" />
   </DataNode>
   <DataNode TextLabel="ADCY2" GraphId="b8a" Type="GeneProduct" GroupRef="c4b3c">
@@ -281,7 +281,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="ITPR2" GraphId="efb" Type="GeneProduct" GroupRef="d9bb1">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ITPR2 | inositol 145-triphosphate receptor t..." />
-    <Graphics CenterX="814.384858044164" CenterY="448.8212407991589" Width="53.333333333333336" Height="20.0" ZOrder="32876" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="817.384858044164" CenterY="450.8212407991589" Width="53.333333333333336" Height="20.0" ZOrder="32876" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3709" />
   </DataNode>
   <DataNode TextLabel="PRKAR1B" GraphId="cff" Type="GeneProduct" GroupRef="dbe86">
@@ -291,7 +291,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="CACNA1D" GraphId="ef7" Type="GeneProduct" GroupRef="e6d4f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CACNA1D | calcium channel voltage-dependent L..." />
-    <Graphics CenterX="389.30599369085166" CenterY="168.07570977917973" Width="66.66666666666667" Height="20.0" ZOrder="32880" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="385.30599369085166" CenterY="167.07570977917973" Width="66.66666666666667" Height="20.0" ZOrder="32880" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="776" />
   </DataNode>
   <DataNode TextLabel="CAMK2D" GraphId="eeb" Type="GeneProduct" GroupRef="ce465">
@@ -311,7 +311,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="KCNJ3" GraphId="d23" Type="GeneProduct" GroupRef="d2fb6">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="KCNJ3 | potassium inwardly-rectifying channel ..." />
-    <Graphics CenterX="93.69085173501577" CenterY="274.79390115667707" Width="60.0" Height="20.0" ZOrder="32888" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="86.69085173501577" CenterY="226.79390115667707" Width="60.0" Height="20.0" ZOrder="32888" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3760" />
   </DataNode>
   <DataNode TextLabel="RGS5" GraphId="a35" Type="GeneProduct" GroupRef="aed98">
@@ -331,7 +331,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="KCNJ5" GraphId="df0" Type="GeneProduct" GroupRef="d2fb6">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="KCNJ5 | potassium inwardly-rectifying channel ..." />
-    <Graphics CenterX="93.69085173501577" CenterY="294.79390115667707" Width="60.0" Height="20.0" ZOrder="32896" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="86.69085173501577" CenterY="246.79390115667707" Width="60.0" Height="20.0" ZOrder="32896" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3762" />
   </DataNode>
   <DataNode TextLabel="ADP" GraphId="f91" Type="Metabolite">
@@ -356,12 +356,12 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="ITPR1" GraphId="e77" Type="GeneProduct" GroupRef="d9bb1">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ITPR1 | inositol 145-triphosphate receptor t..." />
-    <Graphics CenterX="814.384858044164" CenterY="427.8212407991588" Width="53.333333333333336" Height="20.0" ZOrder="32906" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="817.384858044164" CenterY="429.8212407991588" Width="53.333333333333336" Height="20.0" ZOrder="32906" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3708" />
   </DataNode>
   <DataNode TextLabel="ATP2B2" GraphId="d87" Type="GeneProduct" GroupRef="bdeb4">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP2B2 | ATPase Ca++ transporting plasma memb..." />
-    <Graphics CenterX="728.7244897959182" CenterY="685.8979591836734" Width="60.0" Height="20.0" ZOrder="32908" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="728.7244897959182" CenterY="683.8979591836734" Width="60.0" Height="20.0" ZOrder="32908" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="491" />
   </DataNode>
   <DataNode TextLabel="GJB3" GraphId="d08" Type="GeneProduct">
@@ -452,7 +452,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="PKIA" GraphId="f71" Type="GeneProduct" GroupRef="b3d70">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PKIA | protein kinase (cAMP-dependent catalyti..." />
-    <Graphics CenterX="1423.3333333333333" CenterY="380.0" Width="60.0" Height="20.0" ZOrder="32944" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1441.3333333333333" CenterY="387.0" Width="60.0" Height="20.0" ZOrder="32944" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5569" />
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="ee706" Type="Metabolite">
@@ -466,7 +466,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="ITPR3" GraphId="d00" Type="GeneProduct" GroupRef="d9bb1">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ITPR3 | inositol 145-triphosphate receptor t..." />
-    <Graphics CenterX="814.384858044164" CenterY="469.8212407991589" Width="53.333333333333336" Height="20.0" ZOrder="32950" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="817.384858044164" CenterY="471.8212407991589" Width="53.333333333333336" Height="20.0" ZOrder="32950" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3710" />
   </DataNode>
   <DataNode TextLabel="ADCY8" GraphId="fcb" Type="GeneProduct" GroupRef="c4b3c">
@@ -559,7 +559,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="SLC8A1" GraphId="cf0" Type="GeneProduct" GroupRef="f2058">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="SLC8A1 | solute carrier family 8 (sodium/calciu..." />
-    <Graphics CenterX="537.9421768707482" CenterY="705.8843537414965" Width="60.0" Height="20.0" ZOrder="32988" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="536.9421768707482" CenterY="711.8843537414965" Width="60.0" Height="20.0" ZOrder="32988" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="6546" />
   </DataNode>
   <DataNode TextLabel="YWHAQ" GraphId="b95" Type="GeneProduct" GroupRef="f9c5e">
@@ -633,7 +633,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="PKIG" GraphId="ddf" Type="GeneProduct" GroupRef="b3d70">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PKIG | protein kinase (cAMP-dependent catalyti..." />
-    <Graphics CenterX="1423.3333333333333" CenterY="420.0" Width="60.0" Height="20.0" ZOrder="33018" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1441.3333333333333" CenterY="427.0" Width="60.0" Height="20.0" ZOrder="33018" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="11142" />
   </DataNode>
   <DataNode TextLabel="RGS4" GraphId="a89" Type="GeneProduct" GroupRef="aed98">
@@ -688,7 +688,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="SLC8A3" GraphId="bc6" Type="GeneProduct" GroupRef="f2058">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="SLC8A3 | solute carrier family 8 (sodium-calciu..." />
-    <Graphics CenterX="537.9421768707482" CenterY="685.8843537414965" Width="60.0" Height="20.0" ZOrder="33040" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="536.9421768707482" CenterY="691.8843537414965" Width="60.0" Height="20.0" ZOrder="33040" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="6547" />
   </DataNode>
   <DataNode TextLabel="Phospholamban" GraphId="a0c17" Type="GeneProduct">
@@ -697,7 +697,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="ATP2A2" GraphId="bbb" Type="GeneProduct" GroupRef="f6aeb">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP2A2 | ATPase Ca++ transporting cardiac mus..." />
-    <Graphics CenterX="612.4605678233437" CenterY="539.8212407991589" Width="60.0" Height="20.0" ZOrder="33044" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="611.4605678233437" CenterY="531.8212407991589" Width="60.0" Height="20.0" ZOrder="33044" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="488" />
   </DataNode>
   <DataNode TextLabel="K+" GraphId="f535c" Type="Metabolite">
@@ -795,7 +795,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="CHRM5" GraphId="b46" Type="GeneProduct" GroupRef="b0644">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHRM5 | cholinergic receptor muscarinic 5" />
-    <Graphics CenterX="290.8727655099894" CenterY="173.38485804416405" Width="60.0" Height="20.0" ZOrder="33066" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="295.8727655099894" CenterY="180.38485804416405" Width="60.0" Height="20.0" ZOrder="33066" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1133" />
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="f3265" Type="Metabolite">
@@ -946,36 +946,36 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="2870" />
   </DataNode>
   <DataNode TextLabel="Epinephrine" GraphId="b6bb6" Type="Metabolite">
-    <Graphics CenterX="969.6908517350157" CenterY="71.89695057833859" Width="80.0" Height="20.0" ZOrder="33102" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="970.6908517350157" CenterY="70.89695057833859" Width="80.0" Height="20.0" ZOrder="33102" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB0000068" />
   </DataNode>
   <DataNode TextLabel="ATP1A4" GraphId="b17" Type="GeneProduct" GroupRef="a9f13">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP1A4 | ATPase Na+/K+ transporting alpha 4 p..." />
-    <Graphics CenterX="325.10204081632685" CenterY="675.9285714285722" Width="60.0" Height="20.0" ZOrder="33103" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="316.10204081632685" CenterY="670.9285714285722" Width="60.0" Height="20.0" ZOrder="33103" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="480" />
   </DataNode>
   <DataNode TextLabel="ATP1B1" GraphId="eff" Type="GeneProduct" GroupRef="a9f13">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP1B1 | ATPase Na+/K+ transporting beta 1 po..." />
-    <Graphics CenterX="325.10204081632685" CenterY="692.9285714285722" Width="60.0" Height="20.0" ZOrder="33105" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="316.10204081632685" CenterY="687.9285714285722" Width="60.0" Height="20.0" ZOrder="33105" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="481" />
   </DataNode>
   <DataNode TextLabel="FXYD2" GraphId="a20" Type="GeneProduct" GroupRef="a9f13">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FXYD2 | FXYD domain containing ion transport re..." />
-    <Graphics CenterX="414.1020408163263" CenterY="694.9285714285722" Width="60.0" Height="20.0" ZOrder="33107" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="405.1020408163263" CenterY="689.9285714285722" Width="60.0" Height="20.0" ZOrder="33107" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="486" />
   </DataNode>
   <DataNode TextLabel="ATP1B2" GraphId="e44" Type="GeneProduct" GroupRef="a9f13">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP1B2 | ATPase Na+/K+ transporting beta 2 po..." />
-    <Graphics CenterX="325.10204081632685" CenterY="712.9285714285722" Width="60.0" Height="20.0" ZOrder="33109" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="316.10204081632685" CenterY="707.9285714285722" Width="60.0" Height="20.0" ZOrder="33109" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="482" />
   </DataNode>
   <DataNode TextLabel="ATP1B3" GraphId="c7b" Type="GeneProduct" GroupRef="a9f13">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ATP1B3 | ATPase Na+/K+ transporting beta 3 po..." />
-    <Graphics CenterX="414.1020408163263" CenterY="677.9285714285722" Width="60.0" Height="20.0" ZOrder="33111" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="405.1020408163263" CenterY="672.9285714285722" Width="60.0" Height="20.0" ZOrder="33111" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="483" />
   </DataNode>
   <DataNode TextLabel="ORAI1" GraphId="ec4b6" Type="GeneProduct">
-    <Graphics CenterX="78.25" CenterY="392.75" Width="59.5" Height="17.5" ZOrder="33112" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="78.25" CenterY="391.75" Width="59.5" Height="17.5" ZOrder="33112" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000276045" />
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="be459" Type="Metabolite">
@@ -992,15 +992,8 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </State>
   <Interaction>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="353.5" Y="392.75" GraphRef="c0d7b" RelX="-1.0" RelY="0.0" />
-      <Point X="108.0" Y="392.75" GraphRef="ec4b6" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
-      <Point X="30.371848739495796" Y="409.68067226890753" GraphRef="be459" RelX="0.5" RelY="-1.0" />
-      <Point X="132.87845138055235" Y="409.68067226890753" GraphRef="f2933" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="78.25" Y="400.5" GraphRef="ec4b6" RelX="0.0" RelY="1.0" />
+      <Point X="69.86010497586881" Y="390.1066666879893" GraphRef="a548e" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1012,17 +1005,32 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id20d33b2c">
+    <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
+      <Point X="30.371848739495796" Y="409.68067226890753" GraphRef="be459" RelX="0.5" RelY="-1.0" />
+      <Point X="132.87845138055235" Y="409.68067226890753" GraphRef="f2933" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Anchor Position="0.4" Shape="None" GraphId="a548e" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id9fa95a44">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="353.5" Y="392.75" GraphRef="c0d7b" RelX="-1.0" RelY="0.0" />
+      <Point X="108.0" Y="391.75" GraphRef="ec4b6" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idf5e6593e">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="690.7244897959182" Y="685.3979591836734" GraphRef="d9148" RelX="-1.0" RelY="0.0" />
-      <Point X="730.3049421661415" Y="692.6020408163265" GraphRef="ba5d2" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="690.7244897959182" Y="683.3979591836734" GraphRef="d9148" RelX="-1.0" RelY="0.0" />
+      <Point X="730.3049421661415" Y="692.6020408163265" GraphRef="ba5d2" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="id1f1a1951">
     <Graphics ZOrder="12290" LineThickness="1.0">
-      <Point X="252.8727655099894" Y="162.88485804416405" GraphRef="b741e" RelX="-1.0" RelY="0.0" />
-      <Point X="246.2705359202536" Y="157.18296157305278" GraphRef="efc9a" RelX="0.0" RelY="0.0" />
+      <Point X="257.8727655099894" Y="169.88485804416405" GraphRef="b741e" RelX="-1.0" RelY="0.0" />
+      <Point X="246.2705359202536" Y="157.18296157305278" GraphRef="efc9a" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1036,7 +1044,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="id88a9e277">
     <Graphics ZOrder="12294" LineThickness="1.0">
       <Point X="232.20609884332282" Y="172.38485804416405" GraphRef="c2cf3" RelX="1.0" RelY="0.0" />
-      <Point X="246.2705359202536" Y="157.18296157305278" GraphRef="efc9a" RelX="0.0" RelY="0.0" />
+      <Point X="246.2705359202536" Y="157.18296157305278" GraphRef="efc9a" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1087,7 +1095,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="ida2bd5d5">
     <Graphics ZOrder="12308" LineThickness="1.0">
       <Point X="83.90180072028816" Y="340.77022809123656" GraphRef="e989d" RelX="0.0" RelY="0.0" />
-      <Point X="91.58780231335436" Y="331.879063928411" GraphRef="ad0" RelX="0.0" RelY="-1.0" />
+      <Point X="87.58780231335436" Y="334.879063928411" GraphRef="ad0" RelX="0.0" RelY="-1.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1124,15 +1132,15 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="b684b">
     <Graphics ZOrder="12318" LineThickness="1.0" Color="8f8f8f">
-      <Point X="969.6908517350157" Y="81.89695057833859" GraphRef="b6bb6" RelX="0.0" RelY="1.0" />
-      <Point X="970.6635120925381" Y="109.43322818086226" GraphRef="e4897" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="970.6908517350157" Y="80.89695057833859" GraphRef="b6bb6" RelX="0.0" RelY="1.0" />
+      <Point X="970.6635120925381" Y="109.43322818086226" GraphRef="e4897" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="ae526">
     <Graphics ConnectorType="Elbow" ZOrder="12320" LineThickness="1.0" Color="afafaf">
       <Point X="202.83333333333331" Y="231.66666666666666" GraphRef="a33" RelX="-1.0" RelY="0.0" />
-      <Point X="112.69085173501577" Y="256.79390115667707" GraphRef="df27a" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="105.69085173501577" Y="208.79390115667707" GraphRef="df27a" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1181,8 +1189,8 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="idc5868b5d">
     <Graphics ZOrder="12334" LineThickness="1.0">
-      <Point X="556.9421768707482" Y="723.8843537414965" GraphRef="d6620" RelX="0.5" RelY="1.0" />
-      <Point X="559.3688115624802" Y="691.8803836992214" GraphRef="f9d48" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="555.9421768707482" Y="729.8843537414965" GraphRef="d6620" RelX="0.5" RelY="1.0" />
+      <Point X="559.3688115624802" Y="691.8803836992214" GraphRef="f9d48" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1209,8 +1217,8 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="id7b568769">
     <Graphics ZOrder="12342" LineThickness="1.0">
-      <Point X="328.35204081632673" Y="730.9285714285722" GraphRef="f33ae" RelX="-0.5" RelY="1.0" />
-      <Point X="350.4295637637892" Y="693.8770804634935" GraphRef="f6453" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="319.35204081632673" Y="725.9285714285722" GraphRef="f33ae" RelX="-0.5" RelY="1.0" />
+      <Point X="350.4295637637892" Y="693.8770804634935" GraphRef="f6453" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1223,7 +1231,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="f1ebd">
     <Graphics ZOrder="12346" LineThickness="1.0">
-      <Point X="290.8727655099894" Y="191.38485804416405" GraphRef="b741e" RelX="0.0" RelY="1.0" />
+      <Point X="295.8727655099894" Y="198.38485804416405" GraphRef="b741e" RelX="0.0" RelY="1.0" />
       <Point X="336.3066589411789" Y="250.9081632653061" GraphRef="e05" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1231,13 +1239,13 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="ideb489076">
     <Graphics ZOrder="12348" LineThickness="1.0">
       <Point X="441.30599369085155" Y="168.07570977917982" GraphRef="c07f0" RelX="-1.0" RelY="0.0" />
-      <Point X="435.70280910226523" Y="135.02153830716838" GraphRef="c462c" RelX="0.0" RelY="0.0" />
+      <Point X="435.70280910226523" Y="135.02153830716838" GraphRef="c462c" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="ca1a9">
     <Graphics ZOrder="12350" LineThickness="1.0" Color="ff0033">
-      <Point X="779.7181913774973" Y="448.82124079915883" GraphRef="c6fa9" RelX="-1.0" RelY="0.0" />
+      <Point X="782.7181913774973" Y="450.82124079915883" GraphRef="c6fa9" RelX="-1.0" RelY="0.0" />
       <Point X="808.9041898178074" Y="463.6792282930204" GraphRef="d7452" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1279,8 +1287,8 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="id3bf93e4e">
     <Graphics ZOrder="12362" LineThickness="1.0">
-      <Point X="430.63932702418504" Y="168.0757097791797" GraphRef="bac2b" RelX="1.0" RelY="0.0" />
-      <Point X="435.70280910226523" Y="135.02153830716838" GraphRef="c462c" RelX="0.0" RelY="0.0" />
+      <Point X="426.63932702418504" Y="167.0757097791797" GraphRef="bac2b" RelX="1.0" RelY="0.0" />
+      <Point X="435.70280910226523" Y="135.02153830716838" GraphRef="c462c" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1301,7 +1309,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="e373a">
     <Graphics ZOrder="12368" LineThickness="1.0" Color="8f8f8f">
       <Point X="184.33333333333334" Y="92.33333333333333" GraphRef="ae8" RelX="0.656934306569343" RelY="1.25" />
-      <Point X="194.20609884332282" Y="134.38485804416405" GraphRef="c2cf3" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="194.20609884332282" Y="134.38485804416405" GraphRef="c2cf3" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1329,8 +1337,8 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="idffeb31a">
     <Graphics ZOrder="12376" LineThickness="1.0">
-      <Point X="452.1020408163263" Y="707.845238095239" GraphRef="f33ae" RelX="1.0" RelY="0.5" />
-      <Point X="389.4597839135651" Y="689.8915566226485" GraphRef="b11fe" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="443.1020408163263" Y="702.845238095239" GraphRef="f33ae" RelX="1.0" RelY="0.5" />
+      <Point X="389.4597839135651" Y="689.8915566226485" GraphRef="b11fe" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1367,7 +1375,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="bb564">
     <Graphics ZOrder="12386" LineThickness="1.0">
-      <Point X="779.7181913774973" Y="448.82124079915883" GraphRef="c6fa9" RelX="-1.0" RelY="0.0" />
+      <Point X="782.7181913774973" Y="450.82124079915883" GraphRef="c6fa9" RelX="-1.0" RelY="0.0" />
       <Point X="801.3790198094474" Y="426.1944969078166" GraphRef="b9c4f" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1465,15 +1473,15 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="idbc8672f7">
     <Graphics ZOrder="12412" LineThickness="1.0">
-      <Point X="93.69085173501577" Y="312.79390115667707" GraphRef="df27a" RelX="0.0" RelY="1.0" />
-      <Point X="86.41656662665062" Y="289.0399759903963" GraphRef="c7b7d" RelX="0.0" RelY="0.0" />
+      <Point X="86.69085173501577" Y="264.79390115667707" GraphRef="df27a" RelX="0.0" RelY="1.0" />
+      <Point X="86.41656662665062" Y="289.0399759903963" GraphRef="c7b7d" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="id72b89da5">
     <Graphics ZOrder="12414" LineThickness="1.0">
-      <Point X="608.8222923238695" Y="555.2050473186121" GraphRef="e2ae3" RelX="0.0" RelY="0.0" />
-      <Point X="574.4605678233437" Y="549.8212407991589" GraphRef="e6a60" RelX="-1.0" RelY="0.0" />
+      <Point X="608.8222923238695" Y="555.2050473186121" GraphRef="e2ae3" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="573.4605678233437" Y="541.8212407991589" GraphRef="e6a60" RelX="-1.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1488,7 +1496,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="b312b">
     <Graphics ZOrder="12418" LineThickness="1.0" Color="8f8f8f">
       <Point X="636.050420168067" Y="80.69085173501577" GraphRef="c26da" RelX="0.0" RelY="1.0" />
-      <Point X="636.0241850683492" Y="114.00000000000001" GraphRef="baaf1" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="636.0241850683492" Y="114.00000000000001" GraphRef="baaf1" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1502,8 +1510,8 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="idb38a7f27">
     <Graphics ZOrder="12422" LineThickness="1.0">
-      <Point X="518.9421768707482" Y="723.8843537414965" GraphRef="d6620" RelX="-0.5" RelY="1.0" />
-      <Point X="520.6182204173607" Y="695.1533691133166" GraphRef="be75a" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="517.9421768707482" Y="729.8843537414965" GraphRef="d6620" RelX="-0.5" RelY="1.0" />
+      <Point X="520.6182204173607" Y="695.1533691133166" GraphRef="be75a" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1646,7 +1654,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1156.6666666666667" CenterY="30.0" Width="119.33333333333333" Height="16.0" ZOrder="28720" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="M1 Muscarinic Receptor" GraphId="e17">
-    <Graphics CenterX="244.20609884332254" CenterY="129.0" Width="156.33333333333334" Height="16.0" ZOrder="28722" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="245.20609884332254" CenterY="125.0" Width="156.33333333333334" Height="16.0" ZOrder="28722" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
   </Label>
   <Label TextLabel="beta gamma" GraphId="ed0">
     <Graphics CenterX="1048.0" CenterY="250.00000000000009" Width="67.80952380952371" Height="17.0" ZOrder="28724" FillColor="ffffff" FontWeight="Bold" FontSize="11" Valign="Middle" Color="000080" />
@@ -1655,7 +1663,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="813.5120925341746" CenterY="397.20294426919037" Width="92.33333333333333" Height="16.0" ZOrder="28726" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
   </Label>
   <Label TextLabel="PKA Inhibitors" GraphId="f02" GroupRef="b3d70">
-    <Graphics CenterX="1426.6666666666667" CenterY="356.6666666666667" Width="95.33333333333333" Height="16.0" ZOrder="28728" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1444.6666666666667" CenterY="363.6666666666667" Width="95.33333333333333" Height="16.0" ZOrder="28728" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="gamma" GraphId="e72" GroupRef="ced50">
     <Graphics CenterX="1170.387126173143" CenterY="544.3184079601991" Width="40.38121752041589" Height="17.0" ZOrder="28730" FillColor="ffffff" FontWeight="Bold" FontSize="11" Valign="Middle" />
@@ -1703,7 +1711,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1373.3333333333333" CenterY="29.253731343283583" Width="152.33333333333334" Height="16.0" ZOrder="28758" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="Na+/K+ ATPase" GraphId="d6f" GroupRef="a9f13">
-    <Graphics CenterX="369.43537414966005" CenterY="654.595238095239" Width="103.33333333333333" Height="16.0" ZOrder="33101" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="360.43537414966005" CenterY="649.595238095239" Width="103.33333333333333" Height="16.0" ZOrder="33101" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
   </Label>
   <Shape GraphId="dc87b">
     <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double" />
@@ -1759,16 +1767,6 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Group GroupId="c7479" GraphId="fe367" />
   <InfoBox CenterX="1.6666666666666667" CenterY="0.0" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calcium/calcium-mediated signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001140</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiac muscle cell</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000746</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fbf">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12618512</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1777,6 +1775,16 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2003</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marks AR</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiac muscle cell</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000746</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calcium/calcium-mediated signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001140</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cardiovascular system disease</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1287</bp:ID>

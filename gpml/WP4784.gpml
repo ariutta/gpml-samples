@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Proteoglycan biosynthesis" Version="20191220" Organism="Homo sapiens"><Comment Source="WikiPathways-description">Taken from Bone and connective tissue disorders caused by defects in glycosaminoglycan biosynthesis: a panoramic view by Chiara Paganini, Rossella Costantini, Andrea Superti-Furga and Antonio Rossi [https://www.ncbi.nlm.nih.gov/pubmed/31286677].
-
-PG synthesis is a complex mechanism that can be divided in four main steps. Core protein synthesis occurs in the rough endoplasmic reticulum (RER). Once PG core protein has been synthesized, it moves from the RER to the Golgi apparatus where the first sugar of glycosaminoalycan (GAG) chain is added on Ser residues. GAG synthesis continues by glycosyltransferases that transfer sugar moieties from UDP-sugars to GAG chains. UDP-sugars are synthesized in the cytoplasm and are translocated in the Golgi apparatus by an antiporter with UMP. Then UDP, the by-product of glycosyltransferase reactions, is hydrolyzed to UMP and phosphate by calcium activated nucleotidase 1 (CANT1). Chondroitin, dermatan and heparan sulfate synthesis starts on a Ser residue of the PG core protein with the formation of a tetrasaccharide linkage region composed of a xylose (Xyl), two galactoses (Gal) and a glucuronic acid (GlcUA). After tetrasaccharide synthesis, GAG chain elongation continues through the binding of specific saccharides defining chondroitin sulfate, dermatan sulfate and heparan sulfate. Specific enzymes are involved in this process and mutations in their gene cause different types of skeletal dysplasia (indicated in red boxes). The third step is GAG sulfation.  Sulfate enters in cells through the SLC26A2 transporter and it is activated to 30-phosphoadenosine 50-phosphosulfate (PAPS) by PAPS synthase (PAPSS) in the cytosol. Through a PAPS transporter (PAPST), PAPS moves to Golgi apparatus where it is used as sulfate donor by sulfotransferases to sulfate GAGs. This reaction also produces phosphoadenosine phosphate (PAP), that is hydrolyzed into AMP and phosphate by a Golgi resident phosphoadenosine phosphate phosphatase (gPAPP). Once synthesized, PGs are secreted in extracellular space.
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Proteoglycan biosynthesis" Version="20191220" Organism="Homo sapiens"><Comment Source="WikiPathways-description">PG synthesis is a complex mechanism that can be divided in four main steps. Core protein synthesis occurs in the rough endoplasmic reticulum (RER). Once PG core protein has been synthesized, it moves from the RER to the Golgi apparatus where the first sugar of glycosaminoalycan (GAG) chain is added on Ser residues. GAG synthesis continues by glycosyltransferases that transfer sugar moieties from UDP-sugars to GAG chains. UDP-sugars are synthesized in the cytoplasm and are translocated in the Golgi apparatus by an antiporter with UMP. Then UDP, the by-product of glycosyltransferase reactions, is hydrolyzed to UMP and phosphate by calcium activated nucleotidase 1 (CANT1). Chondroitin, dermatan and heparan sulfate synthesis starts on a Ser residue of the PG core protein with the formation of a tetrasaccharide linkage region composed of a xylose (Xyl), two galactoses (Gal) and a glucuronic acid (GlcUA). After tetrasaccharide synthesis, GAG chain elongation continues through the binding of specific saccharides defining chondroitin sulfate, dermatan sulfate and heparan sulfate. Specific enzymes are involved in this process and mutations in their gene cause different types of skeletal dysplasia (indicated in red boxes). The third step is GAG sulfation.  Sulfate enters in cells through the SLC26A2 transporter and it is activated to 30-phosphoadenosine 50-phosphosulfate (PAPS) by PAPS synthase (PAPSS) in the cytosol. Through a PAPS transporter (PAPST), PAPS moves to Golgi apparatus where it is used as sulfate donor by sulfotransferases to sulfate GAGs. This reaction also produces phosphoadenosine phosphate (PAP), that is hydrolyzed into AMP and phosphate by a Golgi resident phosphoadenosine phosphate phosphatase (gPAPP). Once synthesized, PGs are secreted in extracellular space.
 
 Sulfation of GAGs is an important step in PG synthesis determining PG properties. Inorganic sulfate enters in cells through a sulfate/chloride antiporter named SLC26A2, but a small amount of sulfate could be derived from sulfur-containing amino acid metabolism. To be used by Golgi sulfotransferases, sulfate is activated to 30-phosphoadenosine 50-phosphosulfate (PAPS), the universal sulfate donor, by PAPS synthase (PAPSS2). The by-product of sulfotransferase reactions, phosphoadenosine phosphate (PAP), is hydrolyzed by a Golgi resident phosphoadenosine phosphate phosphatase (gPAPP) in order to prevent feedback inhibition of these reactions.
 
-Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutation in the respective gene.
-</Comment>
+Linked with a dotted arrow to the GeneProduct nodes are skeletal dysplasias caused by mutation in the respective gene.
+
+For further details, see [https://www.ncbi.nlm.nih.gov/pubmed/31286677].</Comment>
   <BiopaxRef>e79</BiopaxRef>
   <Graphics BoardWidth="2996.153846153846" BoardHeight="1493.8932496075352"/>
   <DataNode TextLabel="Udp xylose" GraphId="a0133" Type="Metabolite">
@@ -23,7 +22,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   </DataNode>
   <DataNode TextLabel="PAPS" GraphId="a3e54" Type="Metabolite">
     <Graphics CenterX="884.8386220159713" CenterY="1089.1461857751096" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:1353"/>
+    <Xref Database="ChEBI" ID="CHEBI:17980"/>
   </DataNode>
   <DataNode TextLabel="Sulfate ion (SO42-)" GraphId="a796a" Type="Metabolite">
     <Graphics CenterX="444.3834399431405" CenterY="1089.1461857751096" Width="111.19047619047632" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
@@ -59,7 +58,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   </DataNode>
   <DataNode TextLabel="Xylose" GraphId="ba150" Type="Metabolite">
     <Graphics CenterX="1282.5189980814364" CenterY="698.9201164148026" Width="76.39717425431479" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="Hexagon" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:10085"/>
+    <Xref Database="ChEBI" ID="CHEBI:18222"/>
   </DataNode>
   <DataNode TextLabel="PO4(.2-)" GraphId="bc166" Type="Metabolite">
     <Graphics CenterX="1661.4363371996958" CenterY="513.9501078607384" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
@@ -71,15 +70,15 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   </DataNode>
   <DataNode TextLabel="UDP" GraphId="c9fad" Type="Metabolite">
     <Graphics CenterX="1398.8814453988298" CenterY="548.9813621493015" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:9802"/>
+    <Xref Database="ChEBI" ID="CHEBI:17659"/>
   </DataNode>
   <DataNode TextLabel="chloride" GraphId="ccbd0" Type="Metabolite">
     <Graphics CenterX="701.0501066098067" CenterY="1120.4157782515992" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:13970"/>
+    <Xref Database="ChEBI" ID="CHEBI:17996"/>
   </DataNode>
   <DataNode TextLabel="UMP" GraphId="cd316" Type="Metabolite">
     <Graphics CenterX="1661.4363371996958" CenterY="548.9813621493015" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:9849"/>
+    <Xref Database="ChEBI" ID="CHEBI:16695"/>
   </DataNode>
   <DataNode TextLabel="XYLT1" GraphId="d0073" Type="GeneProduct" GroupRef="c336b">
     <Graphics CenterX="1137.9128823127098" CenterY="833.9313058332857" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
@@ -87,7 +86,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   </DataNode>
   <DataNode TextLabel="Phosphoadenosine phosphate" GraphId="d4007" Type="Metabolite">
     <Graphics CenterX="1478.1830254584238" CenterY="1089.1461857751096" Width="176.1059793098667" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:2475"/>
+    <Xref Database="ChEBI" ID="CHEBI:17985"/>
   </DataNode>
   <DataNode TextLabel="ADENOSINE MONOPHOSPHATE" GraphId="d73ce" Type="Metabolite">
     <Graphics CenterX="1733.9041750375854" CenterY="1089.1461857751096" Width="200.0538797885656" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
@@ -115,7 +114,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   </DataNode>
   <DataNode TextLabel="N-Acetylgalactosamine" GraphId="e72e8" Type="Metabolite">
     <Graphics CenterX="2150.7780287492697" CenterY="551.2182534906117" Width="174.99999999999545" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="Hexagon" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:7201"/>
+    <Xref Database="ChEBI" ID="CHEBI:28800"/>
   </DataNode>
   <DataNode TextLabel="B3GAT3" GraphId="ea45f" Type="GeneProduct">
     <Graphics CenterX="1566.8866206442644" CenterY="775.8431933378778" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
@@ -147,11 +146,11 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   </DataNode>
   <DataNode TextLabel="chloride" GraphId="e7adc" Type="Metabolite">
     <Graphics CenterX="444.3834399431411" CenterY="1120.4157782515992" Width="90.0" Height="25.0" ZOrder="32770" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:13970"/>
+    <Xref Database="ChEBI" ID="CHEBI:17996"/>
   </DataNode>
   <DataNode TextLabel="PAPS" GraphId="da842" Type="Metabolite">
     <Graphics CenterX="1184.0404280164905" CenterY="1089.1461857751096" Width="90.0" Height="25.0" ZOrder="32771" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:1353"/>
+    <Xref Database="ChEBI" ID="CHEBI:17980"/>
   </DataNode>
   <DataNode TextLabel="galactose" GraphId="e4415" Type="Metabolite">
     <Graphics CenterX="1512.6916825398396" CenterY="698.9201164148026" Width="78.7519623233907" Height="25.0" ZOrder="32786" FontSize="12" Valign="Middle" ShapeType="Hexagon" Color="0000ff"/>
@@ -163,7 +162,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   </DataNode>
   <DataNode TextLabel="N-Acetylgalactosamine" GraphId="a0401" Type="Metabolite">
     <Graphics CenterX="2150.7780287492697" CenterY="654.2443055948206" Width="174.99999999999545" Height="25.0" ZOrder="32789" FontSize="12" Valign="Middle" ShapeType="Hexagon" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:7201"/>
+    <Xref Database="ChEBI" ID="CHEBI:28800"/>
   </DataNode>
   <DataNode TextLabel="N-acetylglucosamines" GraphId="b8119" Type="Metabolite">
     <Graphics CenterX="2150.7780287492697" CenterY="825.1570727706496" Width="174.99999999999545" Height="25.0" ZOrder="32791" FontSize="12" Valign="Middle" ShapeType="Hexagon" Color="0000ff"/>
@@ -183,11 +182,11 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   </DataNode>
   <DataNode TextLabel="N-Acetylgalactosamine" GraphId="a2b54" Type="Metabolite">
     <Graphics CenterX="2581.433885918155" CenterY="551.2182534906117" Width="174.99999999999545" Height="25.0" ZOrder="32795" FontSize="12" Valign="Middle" ShapeType="Hexagon" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:7201"/>
+    <Xref Database="ChEBI" ID="CHEBI:28800"/>
   </DataNode>
   <DataNode TextLabel="N-Acetylgalactosamine" GraphId="fdc72" Type="Metabolite">
     <Graphics CenterX="2581.433885918155" CenterY="654.2443055948206" Width="174.99999999999545" Height="25.0" ZOrder="32796" FontSize="12" Valign="Middle" ShapeType="Hexagon" Color="0000ff"/>
-    <Xref Database="ChEBI" ID="CHEBI:7201"/>
+    <Xref Database="ChEBI" ID="CHEBI:28800"/>
   </DataNode>
   <DataNode TextLabel="N-acetylglucosamines" GraphId="d4645" Type="Metabolite">
     <Graphics CenterX="2581.433885918155" CenterY="825.1570727706496" Width="174.99999999999545" Height="25.0" ZOrder="32797" FontSize="12" Valign="Middle" ShapeType="Hexagon" Color="0000ff"/>
@@ -340,7 +339,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
     <BiopaxRef>ad3</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="929.8386220159713" Y="1089.1461857751096" GraphRef="a3e54" RelX="1.0" RelY="0.0"/>
-      <Point X="1139.0404280164905" Y="1089.1461857751096" GraphRef="da842" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion"/>
+      <Point X="1139.0404280164905" Y="1089.1461857751096" GraphRef="da842" RelX="-1.0" RelY="0.0" ArrowHead="Arrow"/>
       <Anchor Position="0.4" Shape="None" GraphId="d2a66"/>
     </Graphics>
     <Xref Database="" ID=""/>
@@ -437,7 +436,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
     <BiopaxRef>ac7</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="656.0501066098067" Y="1120.4157782515992" GraphRef="ccbd0" RelX="-1.0" RelY="0.0"/>
-      <Point X="489.3834399431411" Y="1120.4157782515992" GraphRef="e7adc" RelX="1.0" RelY="0.0" ArrowHead="mim-conversion"/>
+      <Point X="489.3834399431411" Y="1120.4157782515992" GraphRef="e7adc" RelX="1.0" RelY="0.0" ArrowHead="Arrow"/>
       <Anchor Position="0.4" Shape="None" GraphId="db1b9"/>
     </Graphics>
     <Xref Database="" ID=""/>
@@ -535,7 +534,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
     <BiopaxRef>ac7</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="499.9786780383787" Y="1089.1461857751096" GraphRef="a796a" RelX="1.0" RelY="0.0"/>
-      <Point X="645.4548685145685" Y="1089.1461857751096" GraphRef="ef69c" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion"/>
+      <Point X="645.4548685145685" Y="1089.1461857751096" GraphRef="ef69c" RelX="-1.0" RelY="0.0" ArrowHead="Arrow"/>
       <Anchor Position="0.4" Shape="None" GraphId="e2c5e"/>
     </Graphics>
     <Xref Database="" ID=""/>
@@ -1259,5 +1258,5 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uyama T</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sugahara K</bp:AUTHORS>
     </bp:PublicationXref>
-  </Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>classic metabolic pathway</bp:TERM><bp:ID>PW:0000002</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

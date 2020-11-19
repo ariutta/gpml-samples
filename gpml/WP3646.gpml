@@ -19,7 +19,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000112062"/>
   </DataNode>
   <DataNode TextLabel="Angiogenesis" GraphId="a2f82" Type="Pathway">
-    <Graphics CenterX="469.579831932773" CenterY="212.97991348438111" Width="100.92436974789916" Height="21.554621848739494" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="469.579831932773" CenterY="212.97991348438111" Width="100.92436974789916" Height="21.554621848739494" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP1539"/>
   </DataNode>
   <DataNode TextLabel="RRM2" GraphId="a399e" Type="GeneProduct">
@@ -35,7 +35,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000117560"/>
   </DataNode>
   <DataNode TextLabel="WNT Signaling" GraphId="ac16a" Type="Pathway">
-    <Graphics CenterX="382.3109243697479" CenterY="146.00840336134453" Width="115.6302521008403" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="382.3109243697479" CenterY="146.00840336134453" Width="115.6302521008403" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP428"/>
   </DataNode>
   <DataNode TextLabel="COL4A2" GraphId="b0634" Type="GeneProduct">
@@ -103,7 +103,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000162998"/>
   </DataNode>
   <DataNode TextLabel="Cell Cycle Progression" GraphId="cdd55" Type="Pathway">
-    <Graphics CenterX="863.4873949579834" CenterY="427.5210084033613" Width="145.04201680672276" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="863.4873949579834" CenterY="427.5210084033613" Width="145.04201680672276" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP45"/>
   </DataNode>
   <DataNode TextLabel="NFKB1 Signaling" GraphId="cf0c5" Type="Pathway">
@@ -131,7 +131,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000196611"/>
   </DataNode>
   <DataNode TextLabel="MAPK Signaling" GraphId="d36e5" Type="Pathway">
-    <Graphics CenterX="1052.0422472786581" CenterY="284.8893734709073" Width="116.68067226890756" Height="16.302521008403346" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="1052.0422472786581" CenterY="284.8893734709073" Width="116.68067226890756" Height="16.302521008403346" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP382"/>
   </DataNode>
   <DataNode TextLabel="MIR744" GraphId="d51e7" Type="GeneProduct">
@@ -147,7 +147,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000142208"/>
   </DataNode>
   <DataNode TextLabel="DNA Repair" GraphId="dc90f" Type="Pathway">
-    <Graphics CenterX="706.9327731092436" CenterY="537.8151260504197" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="706.9327731092436" CenterY="537.8151260504197" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP707"/>
   </DataNode>
   <DataNode TextLabel="MYOF" GraphId="dec43" Type="GeneProduct">
@@ -203,7 +203,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="" ID=""/>
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="efcb3" Type="Pathway">
-    <Graphics CenterX="913.8655462184871" CenterY="67.22689075630251" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="913.8655462184871" CenterY="67.22689075630251" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP254"/>
   </DataNode>
   <DataNode TextLabel="SMAD3" GraphId="f0014" Type="GeneProduct" GroupRef="b52ca">
@@ -259,7 +259,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000136997"/>
   </DataNode>
   <DataNode TextLabel="MAPK Signaling" GraphId="cc359" Type="Pathway">
-    <Graphics CenterX="345.6512605042018" CenterY="252.8991596638655" Width="116.68067226890756" Height="16.302521008403346" ZOrder="32778" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="345.6512605042018" CenterY="252.8991596638655" Width="116.68067226890756" Height="16.302521008403346" ZOrder="32778" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP382"/>
   </DataNode>
   <DataNode TextLabel="MYC" GraphId="b18ba" Type="GeneProduct">
@@ -275,11 +275,11 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="" ID=""/>
   </DataNode>
   <DataNode TextLabel="Angiogenesis" GraphId="ba678" Type="Pathway">
-    <Graphics CenterX="839.8739495798316" CenterY="347.9621848739492" Width="100.92436974789916" Height="21.554621848739494" ZOrder="32784" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="839.8739495798316" CenterY="347.9621848739492" Width="100.92436974789916" Height="21.554621848739494" ZOrder="32784" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP1539"/>
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="bea7c" Type="Pathway">
-    <Graphics CenterX="699.0756302521003" CenterY="487.9411764705885" Width="80.0" Height="20.0" ZOrder="32790" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="699.0756302521003" CenterY="487.9411764705885" Width="80.0" Height="20.0" ZOrder="32790" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP254"/>
   </DataNode>
   <DataNode TextLabel="CASP9" GraphId="eff9e" Type="GeneProduct" GroupRef="f875a">
@@ -339,7 +339,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000171552"/>
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="dc3dd" Type="Pathway">
-    <Graphics CenterX="669.0756302521003" CenterY="633.0320855614975" Width="80.0" Height="20.0" ZOrder="32811" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="669.0756302521003" CenterY="633.0320855614975" Width="80.0" Height="20.0" ZOrder="32811" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP254"/>
   </DataNode>
   <DataNode TextLabel="NOS2" GraphId="c4c2a" Type="GeneProduct" GroupRef="a52fb">
@@ -347,7 +347,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000007171"/>
   </DataNode>
   <DataNode TextLabel="Angiogenesis" GraphId="ec91a" Type="Pathway">
-    <Graphics CenterX="880.8739495798316" CenterY="673.9621848739492" Width="100.92436974789916" Height="21.554621848739494" ZOrder="32813" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="880.8739495798316" CenterY="673.9621848739492" Width="100.92436974789916" Height="21.554621848739494" ZOrder="32813" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP1539"/>
   </DataNode>
   <DataNode TextLabel="MIR34A" GraphId="d7b7d" Type="GeneProduct">
@@ -355,7 +355,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000284357"/>
   </DataNode>
   <DataNode TextLabel="MAPK Signaling" GraphId="cab67" Type="Pathway">
-    <Graphics CenterX="479.5056731553382" CenterY="733.8991596638655" Width="106.3894975711803" Height="16.302521008403346" ZOrder="32815" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="479.5056731553382" CenterY="733.8991596638655" Width="106.3894975711803" Height="16.302521008403346" ZOrder="32815" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP382"/>
   </DataNode>
   <DataNode TextLabel="MAPK8" GraphId="de21a" Type="GeneProduct">
@@ -403,11 +403,11 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000266297"/>
   </DataNode>
   <DataNode TextLabel="MAPK Signaling" GraphId="fa6d4" Type="Pathway">
-    <Graphics CenterX="374.65126050420196" CenterY="890.2627960275016" Width="116.68067226890756" Height="16.302521008403346" ZOrder="32828" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="374.65126050420196" CenterY="890.2627960275016" Width="116.68067226890756" Height="16.302521008403346" ZOrder="32828" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP382"/>
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="c3a86" Type="Pathway">
-    <Graphics CenterX="874.5301757066455" CenterY="891.2139037433158" Width="80.0" Height="20.0" ZOrder="32829" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="874.5301757066455" CenterY="891.2139037433158" Width="80.0" Height="20.0" ZOrder="32829" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP254"/>
   </DataNode>
   <DataNode TextLabel="MIR155" GraphId="a261b" Type="GeneProduct">
@@ -415,7 +415,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000283904"/>
   </DataNode>
   <DataNode TextLabel="Angiogenesis" GraphId="c64b0" Type="Pathway" GroupRef="b77bb">
-    <Graphics CenterX="789.05576776165" CenterY="800.1800598260015" Width="100.92436974789916" Height="21.554621848739494" ZOrder="32834" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="789.05576776165" CenterY="800.1800598260015" Width="100.92436974789916" Height="21.554621848739494" ZOrder="32834" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP1539"/>
   </DataNode>
   <DataNode TextLabel="TNFSS10" GraphId="be369" Type="GeneProduct" GroupRef="da9fd">

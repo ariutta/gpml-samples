@@ -5,7 +5,7 @@
 On the right, the biosynthesis of IMP is depicted in more detail (adapted from: https://en.wikipedia.org/wiki/Purine_metabolism).
 The color scheme for this part of the pathway is as follows: enzymes(black), coenzymes(light orange), regular substrates/metabolites(blue), additional substrates(dark green), metal ions(turquoise), inorganic molecules(light purple).
 
-This pathway was inspired by Chapter 41 of the book of Blau (ISBN 3642403360 (978-3642403361)).
+This pathway was inspired by Chapter 41 of the book of Blau (ISBN 3642403360 (978-3642403361)). A similar version without the disorders and with biomarkers visualised with arrows can be found [https://www.wikipathways.org/instance/WP4792 here].
 
 Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP4224 CPTAC Assay Portal]</Comment>
   <BiopaxRef>c52</BiopaxRef>

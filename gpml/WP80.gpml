@@ -68,15 +68,15 @@
     <Xref Database="CAS" ID="73-24-5"/>
   </DataNode>
   <DataNode TextLabel="Gi/Go Pathway" GraphId="b62e8" Type="Pathway">
-    <Graphics CenterX="138.5" CenterY="418.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="138.5" CenterY="418.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP35"/>
   </DataNode>
   <DataNode TextLabel="Gs Pathway" GraphId="d72b3" Type="Pathway">
-    <Graphics CenterX="287.5" CenterY="418.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="287.5" CenterY="418.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP35"/>
   </DataNode>
   <DataNode TextLabel="Gq/G11 Pathway" GraphId="de1d6" Type="Pathway">
-    <Graphics CenterX="449.5" CenterY="418.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="449.5" CenterY="418.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP35"/>
   </DataNode>
   <Interaction GraphId="id8876d41e">

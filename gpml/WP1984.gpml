@@ -74,7 +74,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1175.3375616344765" CenterY="196.88601686094654" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
     <Xref Database="Entrez Gene" ID="1869" />
   </DataNode>
-  <DataNode TextLabel="Apoptosis" GraphId="a7ad5">
+  <DataNode TextLabel="Apoptosis" GraphId="a7ad5" Type="Pathway">
     <Graphics CenterX="1522.1541328000135" CenterY="920.6174200661521" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -234,7 +234,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="625.8015094351325" CenterY="1029.0411970034595" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
     <Xref Database="Ensembl" ID="ENSG00000064012" />
   </DataNode>
-  <DataNode TextLabel="Gene Expression" GraphId="b6a4f">
+  <DataNode TextLabel="Gene Expression" GraphId="b6a4f" Type="Pathway">
     <Graphics CenterX="702.3865740740737" CenterY="1121.0324074074072" Width="123.00462962963024" Height="21.82407407407436" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -250,7 +250,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1445.8509142053424" CenterY="535.8649789029539" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000133731" />
   </DataNode>
-  <DataNode TextLabel="Exemstane" GraphId="b8022">
+  <DataNode TextLabel="Exemstane" GraphId="b8022" Type="Metabolite">
     <Graphics CenterX="1735.2325581395348" CenterY="775.5581395348837" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="RoundedRectangle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -270,7 +270,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1219.999999999999" CenterY="242.85714285714292" Width="55.23809523809499" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="990099" />
     <Xref Database="Ensembl" ID="ENSG00000284190" />
   </DataNode>
-  <DataNode TextLabel="Transcription" GraphId="ba999">
+  <DataNode TextLabel="Transcription" GraphId="ba999" Type="Pathway">
     <Graphics CenterX="899.9123185140933" CenterY="441.86033630301887" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -338,7 +338,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1031.8259122088589" CenterY="913.4080582129224" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
     <Xref Database="Uniprot-TrEMBL" ID="Q15796" />
   </DataNode>
-  <DataNode TextLabel="Conjugated Estrogens&#xA;" GraphId="c3172">
+  <DataNode TextLabel="Conjugated Estrogens" GraphId="c3172" Type="Metabolite">
     <Graphics CenterX="655.829596412556" CenterY="66.0" Width="103.88639760837069" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -354,7 +354,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1526.3411960230044" CenterY="245.80803691472633" Width="80.0" Height="27.127340621461098" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
     <Xref Database="Ensembl" ID="ENSG00000169047" />
   </DataNode>
-  <DataNode TextLabel="DNA" GraphId="c42d4">
+  <DataNode TextLabel="DNA" GraphId="c42d4" Type="GeneProduct">
     <Graphics CenterX="143.25954652215327" CenterY="639.4245586399859" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -600,7 +600,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1747.0" CenterY="426.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="PubChem-compound" ID="104741" />
   </DataNode>
-  <DataNode TextLabel="Cancer Development" GraphId="dcf93">
+  <DataNode TextLabel="Cancer Development" GraphId="dcf93" Type="Pathway">
     <Graphics CenterX="1441.985989362608" CenterY="668.862073354835" Width="141.74029451137903" Height="32.75769745649245" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -616,7 +616,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1287.0653389795323" CenterY="537.2322733538659" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Hexagon" />
     <Xref Database="Ensembl" ID="ENSG00000106546" />
   </DataNode>
-  <DataNode TextLabel="Cell proliferation" GraphId="ddeb8">
+  <DataNode TextLabel="Cell proliferation" GraphId="ddeb8" Type="Pathway">
     <Graphics CenterX="642.2904798464547" CenterY="989.2901315455975" Width="108.52713178294584" Height="28.60465116279057" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -725,7 +725,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="910.3379525573114" CenterY="659.8945921601729" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="Uniprot-TrEMBL" ID="A6NL99" />
   </DataNode>
-  <DataNode TextLabel="CTNB1 degradation" GraphId="e6e80">
+  <DataNode TextLabel="CTNB1 degradation" GraphId="e6e80" Type="Pathway">
     <Graphics CenterX="1562.0384047267355" CenterY="1024.940915805022" Width="149.18759231905466" Height="26.248153618907054" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -771,7 +771,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="312.5273889095494" CenterY="954.5570543072982" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
     <Xref Database="Uniprot-TrEMBL" ID="P00533" />
   </DataNode>
-  <DataNode TextLabel="Cell Survival" GraphId="ec1ea">
+  <DataNode TextLabel="Cell Survival" GraphId="ec1ea" Type="Pathway">
     <Graphics CenterX="820.9104045453728" CenterY="320.4202708053473" Width="95.06546482505469" Height="26.66222382026945" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -855,7 +855,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1426.273458445041" CenterY="1215.8176943699732" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="Uniprot-TrEMBL" ID="Q15628" />
   </DataNode>
-  <DataNode TextLabel="Proliferative genes" GraphId="f1df0">
+  <DataNode TextLabel="Proliferative genes" GraphId="f1df0" Type="Pathway">
     <Graphics CenterX="59.391969786455185" CenterY="627.0764420702438" Width="89.17450404801524" Height="57.60709010339728" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -863,7 +863,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="731.6595448425262" CenterY="1005.2852730427794" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
     <Xref Database="Ensembl" ID="ENSG00000085999" />
   </DataNode>
-  <DataNode TextLabel="Cell Cycle arrest" GraphId="f204d">
+  <DataNode TextLabel="Cell Cycle arrest" GraphId="f204d" Type="Pathway">
     <Graphics CenterX="1223.7477804435423" CenterY="621.5348548510533" Width="89.81773997569798" Height="25.79586877278257" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -903,7 +903,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="1126.126278973871" CenterY="885.5830060173986" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
     <Xref Database="Uniprot-TrEMBL" ID="P01106" />
   </DataNode>
-  <DataNode TextLabel="Cell survival and Proliferation" GraphId="f570b">
+  <DataNode TextLabel="Cell survival and Proliferation" GraphId="f570b" Type="Pathway">
     <Graphics CenterX="1466.8770397437322" CenterY="423.86591890253106" Width="208.7763713080178" Height="39.53586497890129" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -931,7 +931,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="504.18005881261695" CenterY="688.0889755539471" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="Oval" />
     <Xref Database="Uniprot-TrEMBL" ID="P11802" />
   </DataNode>
-  <DataNode TextLabel="Anti-Apoptosis" GraphId="f9d4e">
+  <DataNode TextLabel="Anti-Apoptosis" GraphId="f9d4e" Type="Pathway">
     <Graphics CenterX="494.0306122448979" CenterY="1280.612244897959" Width="111.42857142857144" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>

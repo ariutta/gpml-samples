@@ -6,11 +6,7 @@
 Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2507 CPTAC Assay Portal]</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <BiopaxRef>ac6</BiopaxRef>
-  <Graphics BoardWidth="1008.0" BoardHeight="628.4814814814813" />
-  <DataNode TextLabel="Capthepsins" GraphId="a0b91">
-    <Graphics CenterX="280.0925925925925" CenterY="86.80555555555556" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="" />
-  </DataNode>
+  <Graphics BoardWidth="1035.5568445475637" BoardHeight="628.4814814814813" />
   <DataNode TextLabel="BCL2" GraphId="a1533" Type="GeneProduct">
     <Graphics CenterX="280.0925925925925" CenterY="156.57407407407393" Width="51.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000171791" />
@@ -19,28 +15,24 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Graphics CenterX="835.6025" CenterY="156.0" Width="53.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000168040" />
   </DataNode>
-  <DataNode TextLabel="TiO2 NP" GraphId="b1c5d" GroupRef="f2acb">
+  <DataNode TextLabel="TiO2 NP" GraphId="b1c5d" Type="Metabolite" GroupRef="f2acb">
     <BiopaxRef>a00</BiopaxRef>
-    <Graphics CenterX="162.25" CenterY="65.25" Width="47.5" Height="21.5" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="162.25" CenterY="65.25" Width="47.5" Height="21.5" ZOrder="32768" FontSize="10" Valign="Middle" Color="3333ff" />
     <Xref Database="NanoParticle Ontology" ID="NPO_1485" />
   </DataNode>
-  <DataNode TextLabel="Lutic&#xA;granule&#xA;" GraphId="b202e">
-    <Graphics CenterX="951.5" CenterY="24.0" Width="53.0" Height="26.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="" />
-  </DataNode>
-  <DataNode TextLabel="Au NP" GraphId="b6bac">
+  <DataNode TextLabel="Au NP" GraphId="b6bac" Type="Metabolite">
     <BiopaxRef>c98</BiopaxRef>
-    <Graphics CenterX="54.25" CenterY="362.25" Width="51.5" Height="29.5" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="54.25" CenterY="362.25" Width="51.5" Height="29.5" ZOrder="32768" FontSize="10" Valign="Middle" Color="3333ff" />
     <Xref Database="NanoParticle Ontology" ID="NPO_401" />
   </DataNode>
-  <DataNode TextLabel="Polystyrene NP" GraphId="bb1b2" GroupRef="f2acb">
+  <DataNode TextLabel="Polystyrene NP" GraphId="bb1b2" Type="Metabolite" GroupRef="f2acb">
     <BiopaxRef>f72</BiopaxRef>
-    <Graphics CenterX="132.75" CenterY="125.75" Width="82.5" Height="20.5" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Graphics CenterX="132.75" CenterY="125.75" Width="82.5" Height="20.5" ZOrder="32768" FontSize="10" Valign="Middle" Color="3333ff" />
+    <Xref Database="ChEBI" ID="CHEBI:134403" />
   </DataNode>
-  <DataNode TextLabel="Nanohorn" GraphId="bbb44" GroupRef="f2acb">
+  <DataNode TextLabel="Nanohorn" GraphId="bbb44" Type="Metabolite" GroupRef="f2acb">
     <BiopaxRef>b27</BiopaxRef>
-    <Graphics CenterX="103.25" CenterY="66.25" Width="51.5" Height="21.5" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="103.25" CenterY="66.25" Width="51.5" Height="21.5" ZOrder="32768" FontSize="10" Valign="Middle" Color="3333ff" />
     <Xref Database="NanoParticle Ontology" ID="NPO_457" />
   </DataNode>
   <DataNode TextLabel="UPR" GraphId="c06df" Type="Pathway">
@@ -100,25 +92,25 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000015475" />
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="ec2db" Type="Metabolite">
-    <Graphics CenterX="223.0555555555556" CenterY="210.64814814814798" Width="44.62962962962959" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="223.0555555555556" CenterY="210.64814814814798" Width="44.62962962962959" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="3333ff" />
     <Xref Database="PubChem-compound" ID="271" />
   </DataNode>
   <DataNode TextLabel="Cyt C" GraphId="fc1be" Type="GeneProduct">
     <Graphics CenterX="499.84259259259255" CenterY="222.0" Width="49.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000172115" />
   </DataNode>
-  <DataNode TextLabel="PAMAM" GraphId="fd312">
+  <DataNode TextLabel="PAMAM" GraphId="fd312" Type="Metabolite">
     <BiopaxRef>e99</BiopaxRef>
-    <Graphics CenterX="467.85802469135854" CenterY="46.41666666666674" Width="62.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="467.85802469135854" CenterY="46.41666666666674" Width="62.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="3333ff" />
     <Xref Database="NanoParticle Ontology" ID="NPO_965" />
   </DataNode>
   <DataNode TextLabel="APAF-1" GraphId="fe90c" Type="GeneProduct">
     <Graphics CenterX="499.84259259259255" CenterY="266.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000120868" />
   </DataNode>
-  <DataNode TextLabel="Ag NP" GraphId="ff281">
+  <DataNode TextLabel="Ag NP" GraphId="ff281" Type="Metabolite">
     <BiopaxRef>a76</BiopaxRef>
-    <Graphics CenterX="54.25" CenterY="318.25" Width="53.5" Height="25.5" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="54.25" CenterY="318.25" Width="53.5" Height="25.5" ZOrder="32768" FontSize="10" Valign="Middle" Color="3333ff" />
     <Xref Database="NanoParticle Ontology" ID="NPO_1892" />
   </DataNode>
   <DataNode TextLabel="CASP6" GraphId="bb544" Type="GeneProduct" GroupRef="cd44e">
@@ -274,7 +266,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="id808cf26">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="280.0925925925925" Y="96.80555555555556" GraphRef="a0b91" RelX="0.0" RelY="1.0" />
+      <Point X="285.1097922087914" Y="93.65137608798759" GraphRef="c4647" RelX="0.0" RelY="1.0" />
       <Point X="280.0925925925925" Y="146.57407407407393" GraphRef="a1533" RelX="0.0" RelY="-1.0" ArrowHead="mim-inhibition" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -310,7 +302,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="idaa9eb8dd">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="198.0" Y="98.25" GraphRef="b8cbb" RelX="1.0" RelY="0.0" />
-      <Point X="240.0925925925925" Y="86.80555555555556" GraphRef="a0b91" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="240.10979220879142" Y="81.15137608798759" GraphRef="c4647" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -344,7 +336,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="idf025abaf">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="951.5" Y="37.0" GraphRef="b202e" RelX="0.0" RelY="1.0" />
+      <Point X="951.2761020881672" Y="36.861948955916475" GraphRef="e57cf" RelX="0.0" RelY="1.0" />
       <Point X="951.4999999999999" Y="60.99999999999994" GraphRef="df10a" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -377,6 +369,12 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Label TextLabel="Cathepsins" GraphId="c4647">
+    <Graphics CenterX="285.1097922087914" CenterY="81.15137608798759" Width="90.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="Lytic granule" GraphId="e57cf">
+    <Graphics CenterX="951.2761020881672" CenterY="24.361948955916475" Width="90.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
   <Shape GraphId="a5746">
     <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Nucleus" />
     <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double" />
@@ -402,65 +400,6 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Group GroupId="b711c" GraphId="f353c" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ac6">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22720979</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programmed Cell Death: Molecular Mechanisms and Implications for Safety Assessment of Nanomaterials.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acc Chem Res</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andón FT</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fadeel B</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a00">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20398356</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carbon black and titanium dioxide nanoparticles elicit distinct apoptotic pathways in bronchial epithelial cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Part Fibre Toxicol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hussain S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thomassen LC</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferecatu I</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Borot MC</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andreau K</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Martens JA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fleury J</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Baeza-Squiban A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marano F</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boland S</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a76">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22064246</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Endoplasmic reticulum stress signaling is involved in silver nanoparticles-induced apoptosis.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Int J Biochem Cell Biol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang R</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piao MJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim KC</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim AD</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choi JY</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choi J</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hyun JW</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nanomaterial response pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001435</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e99">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19643170</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nanosized polyamidoamine (PAMAM) dendrimer-induced apoptosis mediated by mitochondrial dysfunction.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toxicol Lett</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lee JH</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cha KE</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim MS</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hong HW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chung DJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ryu G</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Myung H</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">apoptotic cell death pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000009</bp:ID>
@@ -479,6 +418,20 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iijima S</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yudasaka M</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e99">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19643170</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nanosized polyamidoamine (PAMAM) dendrimer-induced apoptosis mediated by mitochondrial dysfunction.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toxicol Lett</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lee JH</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cha KE</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim MS</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hong HW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chung DJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ryu G</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Myung H</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f72">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19206551</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -490,6 +443,20 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Liong M</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zink JI</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nel AE</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a76">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22064246</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Endoplasmic reticulum stress signaling is involved in silver nanoparticles-induced apoptosis.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Int J Biochem Cell Biol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piao MJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim KC</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim AD</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choi JY</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choi J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hyun JW</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c98">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22107733</bp:ID>
@@ -511,6 +478,37 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu HY</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tan SW</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chen HM</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a00">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20398356</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carbon black and titanium dioxide nanoparticles elicit distinct apoptotic pathways in bronchial epithelial cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Part Fibre Toxicol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hussain S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thomassen LC</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferecatu I</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Borot MC</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andreau K</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Martens JA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fleury J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Baeza-Squiban A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marano F</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boland S</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nanomaterial response pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001435</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ac6">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22720979</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programmed Cell Death: Molecular Mechanisms and Implications for Safety Assessment of Nanomaterials.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acc Chem Res</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andón FT</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fadeel B</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>

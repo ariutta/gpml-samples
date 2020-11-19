@@ -516,7 +516,7 @@
   </DataNode>
   <DataNode TextLabel="AKT1" GraphId="e5341" Type="GeneProduct">
     <Graphics CenterX="852.1599239338628" CenterY="447.4516904730805" Width="80.0" Height="20.0" ZOrder="35068" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_005154.2" />
+    <Xref Database="NCBI Protein" ID="NP_005154.2" />
   </DataNode>
   <DataNode TextLabel="MAPK3" GraphId="d42cc" Type="GeneProduct">
     <Graphics CenterX="485.45052938352296" CenterY="528.7708472451686" Width="80.0" Height="20.0" ZOrder="35071" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -524,11 +524,11 @@
   </DataNode>
   <DataNode TextLabel="CREB1" GraphId="c0870" Type="GeneProduct">
     <Graphics CenterX="574.1967680669009" CenterY="1100.9195881426579" Width="80.0" Height="20.0" ZOrder="35075" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_604391.1" />
+    <Xref Database="NCBI Protein" ID="NP_604391.1" />
   </DataNode>
   <DataNode TextLabel="MAPK14" GraphId="e9816" Type="GeneProduct">
     <Graphics CenterX="98.37785054747258" CenterY="287.1928482927749" Width="80.0" Height="20.0" ZOrder="35081" FillColor="ccffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_001306.1" />
+    <Xref Database="NCBI Protein" ID="NP_001306.1" />
   </DataNode>
   <DataNode TextLabel="PIK3R1" GraphId="e1f34" Type="GeneProduct">
     <Graphics CenterX="825.087630917078" CenterY="310.69239395926706" Width="80.0" Height="20.0" ZOrder="35084" FillColor="ccffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -536,11 +536,11 @@
   </DataNode>
   <DataNode TextLabel="ELK1" GraphId="ee2ad" Type="GeneProduct">
     <Graphics CenterX="284.7345556401121" CenterY="1097.5872439332695" Width="63.76638171089984" Height="20.0" ZOrder="35087" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_001107595.1" />
+    <Xref Database="NCBI Protein" ID="NP_001107595.1" />
   </DataNode>
   <DataNode TextLabel="MAPK8" GraphId="f1a5d" Type="GeneProduct">
     <Graphics CenterX="170.4941337086318" CenterY="486.64364170333056" Width="80.0" Height="20.0" ZOrder="35092" FillColor="ccffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_620637.1" />
+    <Xref Database="NCBI Protein" ID="NP_620637.1" />
   </DataNode>
   <DataNode TextLabel="ATF2&#xA;" GraphId="b8c8b" Type="Rna">
     <Graphics CenterX="215.48574204532898" CenterY="1098.5039669413372" Width="47.448020631921324" Height="20.0" ZOrder="35095" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -556,11 +556,11 @@
   </DataNode>
   <DataNode TextLabel="RPS6" GraphId="c617c" Type="GeneProduct">
     <Graphics CenterX="758.1619529934928" CenterY="703.9592750127148" Width="80.0" Height="20.0" ZOrder="35107" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_001001.2" />
+    <Xref Database="NCBI Protein" ID="NP_001001.2" />
   </DataNode>
   <DataNode TextLabel="SRC" GraphId="f1ae9" Type="GeneProduct">
     <Graphics CenterX="307.3234780166431" CenterY="358.5417155105512" Width="80.0" Height="20.0" ZOrder="35110" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_005408.1" />
+    <Xref Database="NCBI Protein" ID="NP_005408.1" />
   </DataNode>
   <DataNode TextLabel="NFKBIA" GraphId="b642c" Type="GeneProduct">
     <Graphics CenterX="1000.7072203709613" CenterY="544.4048400946529" Width="80.0" Height="20.0" ZOrder="35113" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -580,7 +580,7 @@
   </DataNode>
   <DataNode TextLabel="GSK3A" GraphId="f3d92" Type="GeneProduct">
     <Graphics CenterX="1241.576050422972" CenterY="955.7990331600984" Width="57.95581583231471" Height="20.0" ZOrder="35125" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_002084.2" />
+    <Xref Database="NCBI Protein" ID="NP_002084.2" />
   </DataNode>
   <DataNode TextLabel="PTEN" GraphId="bf77f" Type="GeneProduct">
     <Graphics CenterX="703.399548092331" CenterY="368.15568549980674" Width="80.0" Height="20.0" ZOrder="35128" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -592,7 +592,7 @@
   </DataNode>
   <DataNode TextLabel="JUN" GraphId="cdad7" Type="GeneProduct">
     <Graphics CenterX="673.7957259243935" CenterY="1099.1909796724765" Width="80.0" Height="20.0" ZOrder="35137" FillColor="ccffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_002219.1" />
+    <Xref Database="NCBI Protein" ID="NP_002219.1" />
   </DataNode>
   <DataNode TextLabel="GRIN2B" GraphId="e53fc" Type="GeneProduct">
     <Graphics CenterX="807.1241263987393" CenterY="161.7863645880593" Width="80.0" Height="20.0" ZOrder="35140" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -608,7 +608,7 @@
   </DataNode>
   <DataNode TextLabel="RAF1" GraphId="c8972" Type="GeneProduct">
     <Graphics CenterX="645.0782123414897" CenterY="273.29879016780194" Width="80.0" Height="20.0" ZOrder="35149" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_001341618.1" />
+    <Xref Database="NCBI Protein" ID="NP_001341618.1" />
   </DataNode>
   <DataNode TextLabel="TNFRSF1A" GraphId="d48ea" Type="GeneProduct">
     <Graphics CenterX="698.0219197016584" CenterY="162.52010048751157" Width="80.0" Height="20.0" ZOrder="35168" FillColor="ffcccc" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -1216,7 +1216,7 @@
   </DataNode>
   <DataNode TextLabel="STAT3" GraphId="a088b" Type="GeneProduct">
     <Graphics CenterX="769.1388238630035" CenterY="998.3594599512876" Width="80.0" Height="20.0" ZOrder="35800" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_644805.1" />
+    <Xref Database="NCBI Protein" ID="NP_644805.1" />
   </DataNode>
   <DataNode TextLabel="BAX" GraphId="bfc32" Type="GeneProduct">
     <Graphics CenterX="437.73788169438296" CenterY="765.5470320519688" Width="46.6639473829884" Height="20.0" ZOrder="35865" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -1256,7 +1256,7 @@
   </DataNode>
   <DataNode TextLabel="STAT3" GraphId="a551c" Type="GeneProduct">
     <Graphics CenterX="771.391890357516" CenterY="1098.7403508486416" Width="80.0" Height="20.0" ZOrder="35885" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="NP_644805.1" />
+    <Xref Database="NCBI Protein" ID="NP_644805.1" />
   </DataNode>
   <DataNode TextLabel="PRKCD" GraphId="fe9c6" Type="GeneProduct">
     <Graphics CenterX="254.44873694880755" CenterY="273.02849029085587" Width="80.0" Height="20.0" ZOrder="35893" FontWeight="Bold" FontSize="12" Valign="Middle" />

@@ -52,7 +52,7 @@ Exogenously administered benzoic acid is metabolised to hippuric acid with a con
   </DataNode>
   <DataNode TextLabel="Benzoic acid" GraphId="f08c7" Type="Metabolite">
     <Graphics CenterX="193.0" CenterY="59.666666666666664" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="3333ff" />
-    <Xref Database="HMDB" ID="HMDB0001870" />
+    <Xref Database="ChEBI" ID="30746" />
   </DataNode>
   <DataNode TextLabel="Benzoyl-CoA" GraphId="f4d6d" Type="Metabolite">
     <Graphics CenterX="194.04469664741154" CenterY="333.4136189602226" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -62,9 +62,10 @@ Exogenously administered benzoic acid is metabolised to hippuric acid with a con
     <Graphics CenterX="281.0985009627567" CenterY="233.6871234681193" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB0000045" />
   </DataNode>
-  <DataNode TextLabel="Benzoic acid AMP ester" GraphId="f8b3c" Type="Metabolite">
+  <DataNode TextLabel="benzoyl-AMP" GraphId="f8b3c" Type="Metabolite">
+    <Comment>Benzoic acid AMP ester</Comment>
     <Graphics CenterX="193.0" CenterY="189.66666666666666" Width="126.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="3333ff" />
-    <Xref Database="HMDB" ID="HMDB0001870" />
+    <Xref Database="ChEBI" ID="156046" />
   </DataNode>
   <Interaction GraphId="a3b44">
     <Graphics ZOrder="12288" LineThickness="1.0">
@@ -150,6 +151,16 @@ Exogenously administered benzoic acid is metabolised to hippuric acid with a con
   <Group GroupId="fcfe4" GraphId="d1438" Style="Complex" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xenobiotic metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001229</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glycine metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000440</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d2f">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17428148</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -160,15 +171,5 @@ Exogenously administered benzoic acid is metabolised to hippuric acid with a con
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sykes MJ</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miners JO</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glycine metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000440</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xenobiotic metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001229</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>
