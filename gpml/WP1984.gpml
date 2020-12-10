@@ -466,7 +466,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <DataNode TextLabel="Hydrocortisone" GraphId="cd6a6" Type="Metabolite">
     <BiopaxRef>f8e</BiopaxRef>
     <Graphics CenterX="1151.3962475372289" CenterY="45.561857966659375" Width="111.20743034055735" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" ShapeType="RoundedRectangle" />
-    <Xref Database="PubChem-compound" ID="5754" />
+    <Xref Database="Wikidata" ID="Q26981430" />
   </DataNode>
   <DataNode TextLabel="UBP15" GraphId="cd80f" Type="Protein">
     <Graphics CenterX="778.1494906420273" CenterY="784.248469035396" Width="80.0" Height="20.0" ZOrder="32768" FontSize="15" Valign="Middle" />

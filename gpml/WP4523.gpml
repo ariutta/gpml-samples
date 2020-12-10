@@ -332,7 +332,7 @@ Mineralocorticoid (M) and glucocorticoid (G) receptors regulate transcription; e
   </DataNode>
   <DataNode TextLabel="Cortisol" GraphId="e5c3a" Type="Metabolite">
     <Graphics CenterX="1142.4296675191813" CenterY="1059.1111111111136" Width="53.333333333333336" Height="16.0" ZOrder="32854" FontSize="10" Valign="Middle" LineStyle="Broken" Color="0000ff" />
-    <Xref Database="CAS" ID="50-23-7" />
+    <Xref Database="Wikidata" ID="Q190875" />
   </DataNode>
   <DataNode TextLabel="Steroid Hormone Signaling" GraphId="a35e2" Type="Pathway">
     <Graphics CenterX="161.3363171355499" CenterY="489.6956521739131" Width="223.38874680306907" Height="28.0" ZOrder="32863" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />

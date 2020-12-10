@@ -52,7 +52,7 @@ The section of the pathway outlined in pink corresponds to mechanisms of TKI res
   </DataNode>
   <DataNode TextLabel="Erlotinib" GraphId="ce1b8" Type="Metabolite">
     <Graphics CenterX="2484.757796678821" CenterY="328.23815309841996" Width="90.0" Height="25.0" ZOrder="32784" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB14671" />
+    <Xref Database="HMDB" ID="HMDB0014671" />
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="a80bb" Type="Pathway">
     <Graphics CenterX="678.5614035087718" CenterY="971.9429824561396" Width="98.94736842105249" Height="30.921052631578732" ZOrder="32786" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />

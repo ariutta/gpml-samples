@@ -10,7 +10,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   <Graphics BoardWidth="1783.3745114461203" BoardHeight="1063.1484993478036"/>
   <DataNode TextLabel="4,4-Dimethylcholesta-8(9),14-dien-3beta-ol" GraphId="a41ff" Type="Metabolite">
     <Graphics CenterX="1065.3162711864402" CenterY="410.06503352764776" Width="255.1081220319278" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="HMDB" ID="HMDB60147"/>
+    <Xref Database="HMDB" ID="HMDB0060147"/>
   </DataNode>
   <DataNode TextLabel="Cholesterol" GraphId="abe7b" Type="Metabolite">
     <Graphics CenterX="1065.3162711864406" CenterY="1009.4268403813462" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
@@ -34,7 +34,7 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
   </DataNode>
   <DataNode TextLabel="8-Dehydrocholesterol" GraphId="bf866" Type="Metabolite">
     <Graphics CenterX="1317.2993264040629" CenterY="781.7518580724127" Width="139.5159607141207" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
-    <Xref Database="HMDB" ID="HMDB02027"/>
+    <Xref Database="HMDB" ID="HMDB0002027"/>
   </DataNode>
   <DataNode TextLabel="Lanosterol" GraphId="c3686" Type="Metabolite">
     <Graphics CenterX="641.4391571732788" CenterY="293.28470285346475" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
@@ -556,5 +556,5 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edery P</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Offiah AC</bp:AUTHORS>
     </bp:PublicationXref>
-  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cholesterol biosynthetic pathway</bp:TERM><bp:ID>PW:0000454</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>disease pathway</bp:TERM><bp:ID>PW:0000013</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary></Biopax>
+  <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>cholesterol biosynthetic pathway</bp:TERM><bp:ID>PW:0000454</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>disease pathway</bp:TERM><bp:ID>PW:0000013</bp:ID><bp:Ontology>Pathway Ontology</bp:Ontology></bp:openControlledVocabulary><bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#"><bp:TERM>genetic disease</bp:TERM><bp:ID>DOID:630</bp:ID><bp:Ontology>Disease</bp:Ontology></bp:openControlledVocabulary></Biopax>
 </Pathway>

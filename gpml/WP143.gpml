@@ -404,7 +404,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="1374" />
   </DataNode>
   <DataNode TextLabel="TCA cycle" GraphId="dd235" Type="Pathway">
-    <Graphics CenterX="295.14305548326644" CenterY="1300.0096679185947" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="295.14305548326644" CenterY="1300.0096679185947" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP78" />
   </DataNode>
   <DataNode TextLabel="CPT1B" GraphId="def" Type="GeneProduct" GroupRef="f6db6">
@@ -583,31 +583,31 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="34" />
   </DataNode>
   <DataNode TextLabel="TCA cycle" GraphId="a14f9" Type="Pathway">
-    <Graphics CenterX="114.19128093651975" CenterY="1142.8831217251488" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32769" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="114.19128093651975" CenterY="1142.8831217251488" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32769" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP78" />
   </DataNode>
   <DataNode TextLabel="TCA cycle" GraphId="f7598" Type="Pathway">
-    <Graphics CenterX="849.788987385102" CenterY="1293.3458047660772" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32770" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="849.788987385102" CenterY="1293.3458047660772" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32770" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP78" />
   </DataNode>
   <DataNode TextLabel="TCA cycle" GraphId="d0eb2" Type="Pathway">
-    <Graphics CenterX="1206.8565475993341" CenterY="1276.0362420888719" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32771" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1206.8565475993341" CenterY="1276.0362420888719" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32771" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP78" />
   </DataNode>
   <DataNode TextLabel="TCA cycle" GraphId="c361a" Type="Pathway">
-    <Graphics CenterX="1537.7109165313768" CenterY="1273.5508051956674" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32772" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1537.7109165313768" CenterY="1273.5508051956674" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32772" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP78" />
   </DataNode>
   <DataNode TextLabel="TCA cycle" GraphId="e339d" Type="Pathway">
-    <Graphics CenterX="1412.4114062641743" CenterY="2023.8059817572237" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32773" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1412.4114062641743" CenterY="2023.8059817572237" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32773" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP78" />
   </DataNode>
   <DataNode TextLabel="TCA cycle" GraphId="dbff2" Type="Pathway">
-    <Graphics CenterX="897.0955562030023" CenterY="2034.4424304226018" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32774" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="897.0955562030023" CenterY="2034.4424304226018" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32774" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP78" />
   </DataNode>
   <DataNode TextLabel="TCA cycle" GraphId="aaee7" Type="Pathway">
-    <Graphics CenterX="490.38921440730365" CenterY="2010.1518360208865" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32775" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="490.38921440730365" CenterY="2010.1518360208865" Width="67.05290102389085" Height="44.86860068259419" ZOrder="32775" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP78" />
   </DataNode>
   <Interaction GraphId="a0019">

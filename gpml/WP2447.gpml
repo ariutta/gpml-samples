@@ -4,7 +4,7 @@
 
 Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP2447 CPTAC Assay Portal]</Comment>
   <BiopaxRef>f9c</BiopaxRef>
-  <Graphics BoardWidth="2180.0" BoardHeight="1308.0" />
+  <Graphics BoardWidth="2126.0" BoardHeight="1308.0" />
   <DataNode TextLabel="H2O2" GraphId="a0090" Type="Metabolite">
     <Graphics CenterX="801.0" CenterY="1077.0" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB0003125" />
@@ -22,11 +22,11 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="HMDB" ID="HMDB0000657" />
   </DataNode>
   <DataNode TextLabel="p53 Signaling Pathway" GraphId="a67f7" Type="Pathway">
-    <Graphics CenterX="859.5" CenterY="94.5" Width="145.0" Height="17.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="859.5" CenterY="94.5" Width="145.0" Height="17.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP707" />
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="abf1b" Type="Pathway">
-    <Graphics CenterX="1127.0" CenterY="96.0" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1127.0" CenterY="96.0" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP254" />
   </DataNode>
   <DataNode TextLabel="NOS1" GraphId="aeb39" Type="GeneProduct">
@@ -46,11 +46,11 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="5868" />
   </DataNode>
   <DataNode TextLabel="synaptic transmission,  glutamatergic" GraphId="b5cbd" Type="Pathway">
-    <Graphics CenterX="236.1162790697675" CenterY="787.8062015503874" Width="237.84496124030994" Height="34.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="236.1162790697675" CenterY="787.8062015503874" Width="237.84496124030994" Height="34.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP2267" />
   </DataNode>
   <DataNode TextLabel="Proteasome" GraphId="b69ab" Type="Pathway">
-    <Graphics CenterX="878.6666666666666" CenterY="547.7692024990812" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="878.6666666666666" CenterY="547.7692024990812" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP183" />
   </DataNode>
   <DataNode TextLabel="NO" GraphId="bafb8" Type="Metabolite">
@@ -114,7 +114,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="9973" />
   </DataNode>
   <DataNode TextLabel="MAPK Signaling Pathway" GraphId="f2714" Type="Pathway">
-    <Graphics CenterX="1120.6666666666633" CenterY="822.4365831167743" Width="174.66666666666674" Height="15.126833766451458" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1120.6666666666633" CenterY="822.4365831167743" Width="174.66666666666674" Height="15.126833766451458" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP382" />
   </DataNode>
   <DataNode TextLabel="GPX1" GraphId="f4cf0" Type="GeneProduct">
@@ -267,7 +267,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="4217" />
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="e3646" Type="Pathway">
-    <Graphics CenterX="1260.778501628664" CenterY="628.0846905537455" Width="80.0" Height="20.0" ZOrder="32832" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1260.778501628664" CenterY="628.0846905537455" Width="80.0" Height="20.0" ZOrder="32832" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP254" />
   </DataNode>
   <DataNode TextLabel="Reactive Oxygen  Species (ROS)" GraphId="b24b0" Type="Metabolite">

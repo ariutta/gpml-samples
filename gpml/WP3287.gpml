@@ -4,7 +4,7 @@
   <Graphics BoardWidth="1045.3716508210887" BoardHeight="532.7108749999998" />
   <DataNode TextLabel="Oxidative stress" GraphId="a02c6" Type="Pathway">
     <BiopaxRef>adc</BiopaxRef>
-    <Graphics CenterX="485.6813749999999" CenterY="145.74687500000005" Width="100.63725000000022" Height="23.048750000000027" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" LineStyle="Broken" Color="006600" />
+    <Graphics CenterX="485.6813749999999" CenterY="145.74687500000005" Width="100.63725000000022" Height="23.048750000000027" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" LineStyle="Broken" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP408" />
   </DataNode>
   <DataNode TextLabel="AKT" GraphId="a0c7c" Type="GeneProduct">
@@ -12,11 +12,11 @@
     <Xref Database="Ensembl" ID="ENSG00000117020" />
   </DataNode>
   <DataNode TextLabel="Prostaglandin pathway" GraphId="a6efa" Type="Pathway">
-    <Graphics CenterX="355.30674999999985" CenterY="161.35350000000008" Width="138.6134999999997" Height="27.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="355.30674999999985" CenterY="161.35350000000008" Width="138.6134999999997" Height="27.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP98" />
   </DataNode>
   <DataNode TextLabel="Angiogenesis" GraphId="a7a1e" Type="Pathway" GroupRef="f300c">
-    <Graphics CenterX="962.3716508210886" CenterY="180.45721694036305" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="962.3716508210886" CenterY="180.45721694036305" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP1539" />
   </DataNode>
   <DataNode TextLabel="ferritin" GraphId="ad084" Type="GeneProduct" GroupRef="c4c9a">
@@ -39,17 +39,17 @@
     <Xref Database="ChEBI" ID="CHEBI:16856" />
   </DataNode>
   <DataNode TextLabel="DNA damage response" GraphId="b6c75" Type="Pathway">
-    <Graphics CenterX="191.6855000000004" CenterY="247.2828750000001" Width="148.81675000000007" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="191.6855000000004" CenterY="247.2828750000001" Width="148.81675000000007" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP707" />
   </DataNode>
   <DataNode TextLabel="TNF-a Signaling" GraphId="ba4f1" Type="Pathway">
-    <Graphics CenterX="79.1603749999997" CenterY="225.4852499999999" Width="116.40324999999999" Height="21.57624999999996" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="79.1603749999997" CenterY="225.4852499999999" Width="116.40324999999999" Height="21.57624999999996" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"  Color="14961e" />
     <Xref Database="WikiPathways" ID="WP231" />
   </DataNode>
   <DataNode TextLabel="Cytoskeleton" GraphId="bbf84" Type="Pathway">
     <BiopaxRef>dfd</BiopaxRef>
     <BiopaxRef>b41</BiopaxRef>
-    <Graphics CenterX="650.0397500000003" CenterY="331.08000000000015" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="650.0397500000003" CenterY="331.08000000000015" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP51" />
   </DataNode>
   <DataNode TextLabel="PI3K" GraphId="bd94f" Type="GeneProduct">
@@ -57,7 +57,7 @@
     <Xref Database="Ensembl" ID="ENSG00000171608" />
   </DataNode>
   <DataNode TextLabel="Il-6 signaling" GraphId="c6713" Type="Pathway">
-    <Graphics CenterX="49.90537499999995" CenterY="141.48962499999996" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="49.90537499999995" CenterY="141.48962499999996" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP364" />
   </DataNode>
   <DataNode TextLabel="Integrin" GraphId="cf31b" Type="GeneProduct">
@@ -72,11 +72,11 @@
   </DataNode>
   <DataNode TextLabel="Autophagic cell death" GraphId="d7e3d" Type="Pathway">
     <BiopaxRef>fdd</BiopaxRef>
-    <Graphics CenterX="560.4908750000002" CenterY="492.3583749999998" Width="131.01824999999963" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="560.4908750000002" CenterY="492.3583749999998" Width="131.01824999999963" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP2509" />
   </DataNode>
   <DataNode TextLabel="Cell cycle" GraphId="d9af9" Type="Pathway">
-    <Graphics CenterX="869.0" CenterY="287.0" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="869.0" CenterY="287.0" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP179" />
   </DataNode>
   <DataNode TextLabel="FAK (PTK2)" GraphId="da822" Type="GeneProduct" GroupRef="a25d5">
@@ -90,27 +90,27 @@
   <DataNode TextLabel="Immune system&#xA;up or down regulation" GraphId="df6eb" Type="Pathway">
     <BiopaxRef>dd0</BiopaxRef>
     <BiopaxRef>edf</BiopaxRef>
-    <Graphics CenterX="191.5" CenterY="446.77750000000026" Width="129.0" Height="34.44499999999948" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="191.5" CenterY="446.77750000000026" Width="129.0" Height="34.44499999999948" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP2783" />
   </DataNode>
   <DataNode TextLabel="Necrosis" GraphId="e0ecd" Type="Pathway">
     <BiopaxRef>fdd</BiopaxRef>
-    <Graphics CenterX="438.77437499999985" CenterY="492.6658749999997" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="438.77437499999985" CenterY="492.6658749999997" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP2513" />
   </DataNode>
   <DataNode TextLabel="Cell adhesion" GraphId="e3c8d" Type="Pathway">
     <BiopaxRef>dfd</BiopaxRef>
-    <Graphics CenterX="648.8847499999999" CenterY="242.31249999999977" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="648.8847499999999" CenterY="242.31249999999977" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP306" />
   </DataNode>
   <DataNode TextLabel="Blood coagulation" GraphId="e45d4" Type="Pathway">
-    <Graphics CenterX="561.426125" CenterY="379.04249999999985" Width="102.85224999999991" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="561.426125" CenterY="379.04249999999985" Width="102.85224999999991" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP558" />
   </DataNode>
   <DataNode TextLabel="Inflammation" GraphId="e4e41" Type="Pathway">
     <BiopaxRef>fee</BiopaxRef>
     <BiopaxRef>a83</BiopaxRef>
-    <Graphics CenterX="198.65737499999997" CenterY="302.0425000000001" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="198.65737499999997" CenterY="302.0425000000001" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP453" />
   </DataNode>
   <DataNode TextLabel="Metallothionein" GraphId="e5ecf" Type="GeneProduct" GroupRef="c4c9a">
@@ -124,11 +124,11 @@
   </DataNode>
   <DataNode TextLabel="Necroptosis" GraphId="fc382" Type="Pathway">
     <BiopaxRef>fdd</BiopaxRef>
-    <Graphics CenterX="684.4692500000003" CenterY="492.3583749999998" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="684.4692500000003" CenterY="492.3583749999998" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP2513" />
   </DataNode>
   <DataNode TextLabel="Differentiation" GraphId="fdb65" Type="Pathway" GroupRef="f300c">
-    <Graphics CenterX="962.3716508210886" CenterY="213.45721694036305" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="962.3716508210886" CenterY="213.45721694036305" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP2848" />
   </DataNode>
   <DataNode TextLabel="COX1 (PTGS1)" GraphId="feb7b" Type="GeneProduct" GroupRef="c705c">
@@ -145,7 +145,7 @@
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="ffedd" Type="Pathway">
     <BiopaxRef>fdd</BiopaxRef>
-    <Graphics CenterX="340.07187499999986" CenterY="492.71087499999976" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="006600" />
+    <Graphics CenterX="340.07187499999986" CenterY="492.71087499999976" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="006600" />
     <Xref Database="WikiPathways" ID="WP2507" />
   </DataNode>
   <DataNode TextLabel="fibronectin" GraphId="fda70" Type="GeneProduct" GroupRef="a25d5">

@@ -82,7 +82,7 @@ GHB has been used in a medical setting as a general anesthetic and as a treatmen
     <Graphics CenterX="938.0000000000001" CenterY="275.0" Width="141.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
     <Xref Database="Wikidata" ID="Q4602542"/>
   </DataNode>
-  <DataNode TextLabel="SSADH" GraphId="e5b60">
+  <DataNode TextLabel="SSADH" GraphId="e5b60" Type="Disease">
     <Comment>DISEASE: succinic semialdehyde dehydrogenase deficiency</Comment>
     <Graphics CenterX="1067.0" CenterY="362.0" Width="90.0" Height="25.0" ZOrder="32768" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="3300ff"/>
     <Xref Database="Wikidata" ID="Q2823333"/>

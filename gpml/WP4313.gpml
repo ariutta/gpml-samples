@@ -184,7 +184,7 @@ Description adapted from [https://www.genome.jp/dbget-bin/www_bget?pathway+hsa04
     <Comment>aka Poly Unsaturated Fatty Acid</Comment>
     <BiopaxRef>c35</BiopaxRef>
     <Graphics CenterX="1318.632855567805" CenterY="670.2499223145488" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
-    <Xref Database="LIPID MAPS" ID="FA0103"/>
+    <Xref Database="LIPID MAPS" ID="LMFA0103"/>
   </DataNode>
   <DataNode TextLabel="IPP" GraphId="f2a3a" Type="Metabolite">
     <Graphics CenterX="971.8487698986976" CenterY="756.9522431259045" Width="50.7887120115779" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
@@ -412,13 +412,13 @@ Description adapted from [https://www.genome.jp/dbget-bin/www_bget?pathway+hsa04
   <DataNode TextLabel="PUFA-OOH" GraphId="a4229" Type="Metabolite">
     <Comment>aka Poly Unsaturated Fatty Acid</Comment>
     <Graphics CenterX="1318.632855567805" CenterY="813.7486218302092" Width="90.0" Height="25.0" ZOrder="32820" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
-    <Xref Database="LIPID MAPS" ID="FA0306"/>
+    <Xref Database="LIPID MAPS" ID="LMFA0306"/>
   </DataNode>
   <DataNode TextLabel="PUFA-OH" GraphId="b9b34" Type="Metabolite">
     <Comment>aka Poly Unsaturated Fatty Acid</Comment>
     <BiopaxRef>c35</BiopaxRef>
     <Graphics CenterX="1318.6328555678049" CenterY="863.4399117971332" Width="90.0" Height="25.0" ZOrder="32821" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff"/>
-    <Xref Database="LIPID MAPS" ID="FA0105"/>
+    <Xref Database="LIPID MAPS" ID="LMFA0105"/>
   </DataNode>
   <Interaction>
     <BiopaxRef>e98</BiopaxRef>
