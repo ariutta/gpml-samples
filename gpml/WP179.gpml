@@ -171,7 +171,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000127564" />
   </DataNode>
   <DataNode TextLabel="MAPK Signaling &#xA;Pathway" GraphId="cf9cb" Type="Pathway">
-    <Graphics CenterX="58.02433371958284" CenterY="225.59096176129793" Width="108.95133256083432" Height="23.0" ZOrder="32822" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="58.02433371958284" CenterY="225.59096176129793" Width="108.95133256083432" Height="23.0" ZOrder="32822" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP382" />
   </DataNode>
   <DataNode TextLabel="CDC20" GraphId="a7a" Type="GeneProduct" GroupRef="af50a">
@@ -199,7 +199,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000158402" />
   </DataNode>
   <DataNode TextLabel="Apoptosis" GraphId="fe96e" Type="Pathway">
-    <Graphics CenterX="894.887543252595" CenterY="191.94204152249148" Width="65.95155709342465" Height="23.0" ZOrder="32832" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="894.887543252595" CenterY="191.94204152249148" Width="65.95155709342465" Height="23.0" ZOrder="32832" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP254" />
   </DataNode>
   <DataNode TextLabel="ABL1" GraphId="dea" Type="GeneProduct">
@@ -448,7 +448,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000091651" />
   </DataNode>
   <DataNode TextLabel="Ubiquitin-Mediated &#xA;Proteolysis" GraphId="b95a2" Type="Pathway">
-    <Graphics CenterX="1356.875" CenterY="480.76182217335975" Width="138.75" Height="23.0" ZOrder="32898" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1356.875" CenterY="480.76182217335975" Width="138.75" Height="23.0" ZOrder="32898" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP183" />
   </DataNode>
   <DataNode TextLabel="SMAD2" GraphId="ea6ed" Type="GeneProduct" GroupRef="c54ed">

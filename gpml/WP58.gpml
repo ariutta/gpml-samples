@@ -145,7 +145,7 @@ Monoamine GPCRs are Rhodopsin-like GPCRs that bind to monoamine neurotransmitter
     <Xref Database="Entrez Gene" ID="3355" />
   </DataNode>
   <DataNode TextLabel="Gi/Go Pathway" GraphId="e3977" Type="Pathway">
-    <Graphics CenterX="224.5" CenterY="526.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="224.5" CenterY="526.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP35" />
   </DataNode>
   <DataNode TextLabel="DRD1" GraphId="e6a" Type="GeneProduct" GroupRef="dc884">
@@ -196,11 +196,11 @@ Monoamine GPCRs are Rhodopsin-like GPCRs that bind to monoamine neurotransmitter
     <Xref Database="Entrez Gene" ID="3350" />
   </DataNode>
   <DataNode TextLabel="Gs Pathway" GraphId="f3014" Type="Pathway">
-    <Graphics CenterX="109.5" CenterY="528.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="109.5" CenterY="528.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP35" />
   </DataNode>
   <DataNode TextLabel="Gq/G11 Pathway" GraphId="f49c5" Type="Pathway">
-    <Graphics CenterX="378.5" CenterY="528.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="378.5" CenterY="528.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP35" />
   </DataNode>
   <DataNode TextLabel="ADRA1D" GraphId="f4b" Type="GeneProduct" GroupRef="e4f9b">
@@ -209,7 +209,7 @@ Monoamine GPCRs are Rhodopsin-like GPCRs that bind to monoamine neurotransmitter
     <Xref Database="Entrez Gene" ID="146" />
   </DataNode>
   <DataNode TextLabel="Gs Pathway" GraphId="f8021" Type="Pathway">
-    <Graphics CenterX="543.5" CenterY="528.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="543.5" CenterY="528.0" Width="97.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP35" />
   </DataNode>
   <DataNode TextLabel="HTR1B" GraphId="fc4" Type="GeneProduct" GroupRef="aa5a9">

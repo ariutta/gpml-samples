@@ -33,7 +33,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="HMDB" ID="HMDB0001112" />
   </DataNode>
   <DataNode TextLabel="Nucleotide &#xA;Biosynthesis" GraphId="c5b8d" Type="Pathway">
-    <Graphics CenterX="161.20370370370367" CenterY="425.03703703703707" Width="88.0" Height="28.0" ZOrder="32807" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="161.20370370370367" CenterY="425.03703703703707" Width="88.0" Height="28.0" ZOrder="32807" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP404" />
   </DataNode>
   <DataNode TextLabel="Hexose Monophosphosphate Shunt" GraphId="fb79e" Type="Pathway">
@@ -108,7 +108,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="HMDB" ID="HMDB0000124" />
   </DataNode>
   <DataNode TextLabel="Glycolysis/Gluconeogenesis" GraphId="a7562" Type="Pathway">
-    <Graphics CenterX="993.2037037037038" CenterY="650.0370370370372" Width="188.0" Height="20.0" ZOrder="32824" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="993.2037037037038" CenterY="650.0370370370372" Width="188.0" Height="20.0" ZOrder="32824" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP534" />
   </DataNode>
   <Interaction GraphId="d0690">

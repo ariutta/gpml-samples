@@ -2,30 +2,28 @@
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Fatty Acid Biosynthesis" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Fatty acid synthesis is the creation of fatty acids from acetyl-CoA and NADPH through the action of enzymes called fatty acid synthases. This process takes place in the cytoplasm of the cell. Most of the acetyl-CoA which is converted into fatty acids is derived from carbohydrates via the glycolytic pathway. Source: [https://en.wikipedia.org/wiki/Fatty_acid_synthesis Wikipedia]
 
-Pathway based on Kam Dahlquist's original. Edited by Magali Jaillard, Marijke Vermeer, Michiel Adrieans, Ron Schormans and Chris Evelo. 
-
 Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP357 CPTAC Assay Portal]</Comment>
-  <Comment Source="WikiPathways-category">Metabolic Process</Comment>
   <Graphics BoardWidth="1180.0" BoardHeight="1135.6000000000001" />
   <DataNode TextLabel="3-L-Hydroxyacyl-CoA" GraphId="a16f2" Type="Metabolite">
     <Graphics CenterX="778.6666666666666" CenterY="209.33333333333331" Width="165.33333333333334" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="ChEBI" ID="CHEBI:57318" />
   </DataNode>
-  <DataNode TextLabel="Acetyl-synthase" GraphId="ae215" Type="GeneProduct">
+  <DataNode TextLabel="Acetyl-synthase" GraphId="ae215" Type="Protein">
     <Graphics CenterX="198.66666666666666" CenterY="956.0" Width="126.13333333333334" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000131069" />
   </DataNode>
   <DataNode TextLabel="Acetyl-ACP" GraphId="b2343" Type="Metabolite">
     <Graphics CenterX="198.66666666666666" CenterY="832.6666666666666" Width="89.33333333333333" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="Wikidata" ID="Q59811305" />
   </DataNode>
   <DataNode TextLabel="beta-hydroxybutyryl" GraphId="b5e3d" Type="Metabolite">
     <Graphics CenterX="685.3333333333333" CenterY="1096.0" Width="158.13333333333333" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Crotonoyl-ACP" GraphId="b9c37" Type="Metabolite">
+    <Comment>aka (3R)-3-Hydroxybutanoyl-[acyl-carrier protein]</Comment>
     <Graphics CenterX="685.3333333333334" CenterY="956.0" Width="117.33333333333333" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="KEGG Compound" ID="C04618" />
   </DataNode>
   <DataNode TextLabel="Oxaloacetate" GraphId="bb3" Type="Metabolite">
     <Graphics CenterX="125.33333333333333" CenterY="266.0" Width="104.53333333333333" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" />
@@ -41,7 +39,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="Malonyl-ACP" GraphId="cd4c8" Type="Metabolite">
     <Graphics CenterX="398.6666666666667" CenterY="956.0" Width="101.33333333333333" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="KEGG Compound" ID="C01209" />
   </DataNode>
   <DataNode TextLabel="trans-delta2-enoyl-CoA" GraphId="d002d" Type="Metabolite">
     <Graphics CenterX="905.3333333333334" CenterY="329.33333333333337" Width="178.93333333333334" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -57,10 +55,10 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="Palmitoyl-ACP" GraphId="dfc5e" Type="Metabolite">
     <Graphics CenterX="685.3333333333334" CenterY="706.0" Width="111.73333333333333" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="KEGG Compound" ID="C16520" />
   </DataNode>
   <DataNode TextLabel="TCA Cycle" GraphId="e33f2" Type="Pathway">
-    <Graphics CenterX="298.6666666666667" CenterY="334.2" Width="65.0" Height="65.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="Oval" Color="14961e" />
+    <Graphics CenterX="298.66666666666674" CenterY="327.82244897959185" Width="99.9047619047619" Height="65.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="Oval" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP78" />
   </DataNode>
   <DataNode TextLabel="Citrate" GraphId="e37" Type="Metabolite">
@@ -76,15 +74,19 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="ChEBI" ID="CHEBI:15904" />
   </DataNode>
   <DataNode TextLabel="3-ketoacyl-CoA" GraphId="f51a8" Type="Metabolite">
+    <Comment>aka 3-oxo-fatty acyl-CoA(4−)</Comment>
     <Graphics CenterX="685.3333333333334" CenterY="329.33333333333337" Width="119.73333333333333" Height="19.2" ZOrder="28672" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:57347" />
   </DataNode>
   <DataNode TextLabel="FASN" GraphId="ab2" Type="GeneProduct">
+    <BiopaxRef>cac</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FASN | fatty acid synthase" />
     <Graphics CenterX="741.4697609001408" CenterY="1038.0900140646982" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2194" />
   </DataNode>
   <DataNode TextLabel="Malonyl-CoA" GraphId="ae0" Type="Metabolite">
+    <Comment>Used in small tissue samples as [14C] isotope tracer to improve sensiticity of FASN activity. [https://doi.org/10.1515/bchm3.1986.367.2.905]</Comment>
+    <BiopaxRef>cac</BiopaxRef>
     <Graphics CenterX="398.6666666666667" CenterY="832.6666666666666" Width="100.53333333333333" Height="19.2" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="524-14-1" />
   </DataNode>
@@ -99,6 +101,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="51703" />
   </DataNode>
   <DataNode TextLabel="FASN" GraphId="b16" Type="GeneProduct">
+    <BiopaxRef>cac</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FASN | fatty acid synthase" />
     <Graphics CenterX="738.3333333333334" CenterY="905.3333333333335" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2194" />
@@ -133,6 +136,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="ChEBI" ID="CHEBI:15351" />
   </DataNode>
   <DataNode TextLabel="FASN" GraphId="c2a" Type="GeneProduct">
+    <BiopaxRef>cac</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FASN | fatty acid synthase" />
     <Graphics CenterX="460.6666666666667" CenterY="1057.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2194" />
@@ -148,6 +152,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="55902" />
   </DataNode>
   <DataNode TextLabel="FASN" GraphId="ce0" Type="GeneProduct">
+    <BiopaxRef>cac</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FASN | fatty acid synthase" />
     <Graphics CenterX="452.66666666666663" CenterY="888.3333333333335" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2194" />
@@ -158,6 +163,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="79746" />
   </DataNode>
   <DataNode TextLabel="FASN" GraphId="d1e" Type="GeneProduct">
+    <BiopaxRef>cac</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FASN | fatty acid synthase" />
     <Graphics CenterX="740.3333333333334" CenterY="652.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2194" />
@@ -168,6 +174,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="47" />
   </DataNode>
   <DataNode TextLabel="FASN" GraphId="da7" Type="GeneProduct">
+    <BiopaxRef>cac</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FASN | fatty acid synthase" />
     <Graphics CenterX="214.0" CenterY="716.3333333333334" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2194" />
@@ -183,6 +190,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="3033" />
   </DataNode>
   <DataNode TextLabel="FASN" GraphId="e08" Type="GeneProduct">
+    <BiopaxRef>cac</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FASN | fatty acid synthase" />
     <Graphics CenterX="251.66666666666669" CenterY="887.3333333333335" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2194" />
@@ -208,6 +216,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="10449" />
   </DataNode>
   <DataNode TextLabel="FASN" GraphId="f06" Type="GeneProduct">
+    <BiopaxRef>cac</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FASN | fatty acid synthase" />
     <Graphics CenterX="354.6666666666667" CenterY="1048.6666666666665" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2194" />
@@ -459,7 +468,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="e3c75">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="143.46666666666667" Y="396.4" GraphRef="e68" RelX="0.5" RelY="-1.0" />
-      <Point X="266.1666666666667" Y="350.45" GraphRef="e33f2" RelX="-1.0" RelY="0.5" ArrowHead="Arrow" />
+      <Point X="248.71428571428578" Y="344.07244897959185" GraphRef="e33f2" RelX="-1.0" RelY="0.5" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -489,7 +498,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="efe5c">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="151.46666666666667" Y="275.6" GraphRef="bb3" RelX="0.5" RelY="1.0" />
-      <Point X="266.1666666666667" Y="317.95" GraphRef="e33f2" RelX="-1.0" RelY="-0.5" ArrowHead="Arrow" />
+      <Point X="248.71428571428578" Y="311.57244897959185" GraphRef="e33f2" RelX="-1.0" RelY="-0.5" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -503,10 +512,10 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <Interaction GraphId="f3b8c">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="685.3333333333334" Y="319.73333333333335" GraphRef="f51a8" RelX="0.0" RelY="-1.0" />
-      <Point X="737.3333333333334" Y="218.9333333333333" GraphRef="a16f2" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="737.3333333333334" Y="218.9333333333333" GraphRef="a16f2" RelX="-0.5" RelY="1.0" ArrowHead="mim-conversion" />
       <Anchor Position="0.6682104878101168" Shape="None" GraphId="cb83e" />
     </Graphics>
-    <Xref Database="" ID="" />
+    <Xref Database="Rhea" ID="22434" />
   </Interaction>
   <Interaction GraphId="f566f">
     <Graphics ZOrder="12288" LineThickness="1.0">
@@ -547,7 +556,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </Interaction>
   <Interaction GraphId="ff7d4">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="298.6666666666667" Y="366.7" GraphRef="e33f2" RelX="0.0" RelY="1.0" />
+      <Point X="298.66666666666674" Y="360.32244897959185" GraphRef="e33f2" RelX="0.0" RelY="1.0" />
       <Point X="298.6666666666667" Y="553.0666666666666" GraphRef="e37" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -578,5 +587,19 @@ Proteins on this pathway have targeted assays available via the [https://assays.
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000029</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cac">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3790257</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fatty-acid biosynthesis in man, a pathway of minor importance. Purification, optimal assay conditions, and organ distribution of fatty-acid synthase.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biol Chem Hoppe Seyler</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1986</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weiss L</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hoffmann GE</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schreiber R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andres H</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuchs E</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Körber E</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kolb HJ</bp:AUTHORS>
+    </bp:PublicationXref>
   </Biopax>
 </Pathway>

@@ -56,7 +56,7 @@ Source: [[wikipedia:Ketone_bodies|Wikipedia]]</Comment>
     <Xref Database="PubChem-compound" ID="6971017"/>
   </DataNode>
   <DataNode TextLabel="Fatty Acid beta-oxidation" GraphId="b80e4" Type="Pathway">
-    <Graphics CenterX="530.0" CenterY="141.0" Width="154.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="530.0" CenterY="141.0" Width="154.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP143"/>
   </DataNode>
   <DataNode TextLabel="Pyruvate metabolism" GraphId="a5c51" Type="Pathway">
@@ -68,7 +68,7 @@ Source: [[wikipedia:Ketone_bodies|Wikipedia]]</Comment>
     <Xref Database="" ID=""/>
   </DataNode>
   <DataNode TextLabel="Glycolysis" GraphId="c52d6" Type="Pathway">
-    <Graphics CenterX="215.0" CenterY="423.0" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="215.0" CenterY="423.0" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP534"/>
   </DataNode>
   <DataNode TextLabel="Sterol biosynthesis" GraphId="d9d89" Type="Pathway">

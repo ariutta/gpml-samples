@@ -10,7 +10,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   <BiopaxRef>f1b</BiopaxRef>
   <Graphics BoardWidth="1336.6666666666667" BoardHeight="1243.0"/>
   <DataNode TextLabel="Fatty acid metabolism" GraphId="d5a97" Type="Pathway">
-    <Graphics CenterX="460.0" CenterY="553.3333333333334" Width="129.33333333333334" Height="15.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="460.0" CenterY="553.3333333333334" Width="129.33333333333334" Height="15.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP143"/>
   </DataNode>
   <DataNode TextLabel="Pyruvate" GraphId="a3720" Type="Metabolite">
@@ -222,7 +222,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Enzyme Nomenclature" ID="6.1.1.22"/>
   </DataNode>
   <DataNode TextLabel="Urea cycel and metabolism of amino groups" GraphId="d73ae" Type="Pathway">
-    <Graphics CenterX="1167.0" CenterY="618.0" Width="270.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="1167.0" CenterY="618.0" Width="270.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP497"/>
   </DataNode>
   <DataNode TextLabel="L-Asparagine acid" GraphId="d7a4f" Type="Metabolite" GroupRef="f4a1b">
@@ -323,7 +323,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Enzyme Nomenclature" ID="6.3.4.4"/>
   </DataNode>
   <DataNode TextLabel="Glycolysis &amp; gluconeogenesis" GraphId="f52d0" Type="Pathway">
-    <Graphics CenterX="536.0" CenterY="152.0" Width="192.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e"/>
+    <Graphics CenterX="536.0" CenterY="152.0" Width="192.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e"/>
     <Xref Database="WikiPathways" ID="WP534"/>
   </DataNode>
   <DataNode TextLabel="Fumarate" GraphId="f5c18" Type="Metabolite">

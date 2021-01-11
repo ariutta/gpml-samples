@@ -21,7 +21,7 @@ Omega-3 and omega-6 FAs (Fatty acids) are important fats obtained from diet, and
     <Graphics CenterX="701.4166666666648" CenterY="369.41666666666737" Width="50.5" Height="18.49999999999992" ZOrder="32937" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000134824" />
   </DataNode>
-  <DataNode TextLabel="Glycerophospholipids" GraphId="bd9c8">
+  <DataNode TextLabel="Glycerophospholipids" GraphId="bd9c8" Type="Metabolite">
     <Graphics CenterX="866.1666666666665" CenterY="80.62" Width="147.0" Height="25.0" ZOrder="32938" FontSize="12" Valign="Middle" Color="3333ff" />
     <Xref Database="ChEBI" ID="CHEBI:37739" />
   </DataNode>

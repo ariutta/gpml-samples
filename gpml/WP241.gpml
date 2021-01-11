@@ -104,7 +104,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="4522" />
   </DataNode>
   <DataNode TextLabel="Thymidylate Synthesis" GraphId="bb282" Type="Pathway">
-    <Graphics CenterX="97.0" CenterY="136.0" Width="146.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="97.0" CenterY="136.0" Width="146.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP4225" />
   </DataNode>
   <DataNode TextLabel="CHDH" GraphId="bc738" Type="GeneProduct">
@@ -172,7 +172,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="1789" />
   </DataNode>
   <DataNode TextLabel="Non-homologous end joining" GraphId="c9047" Type="Pathway" GroupRef="ebfa0">
-    <Graphics CenterX="246.5" CenterY="96.0" Width="173.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="246.5" CenterY="96.0" Width="173.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP438" />
   </DataNode>
   <DataNode TextLabel="KIAA0828" GraphId="ca3" Type="GeneProduct" GroupRef="c1374">
@@ -236,7 +236,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="275" />
   </DataNode>
   <DataNode TextLabel="MIsmatch repair" GraphId="d833e" Type="Pathway" GroupRef="ebfa0">
-    <Graphics CenterX="244.0" CenterY="79.0" Width="126.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="244.0" CenterY="79.0" Width="126.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP531" />
   </DataNode>
   <DataNode TextLabel="S-adenosylhomocysteine" GraphId="d97" Type="Metabolite">

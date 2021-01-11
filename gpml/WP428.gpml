@@ -319,7 +319,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Entrez Gene" ID="8061" />
   </DataNode>
   <DataNode TextLabel="Focal Adhesion" GraphId="e8729" Type="Pathway">
-    <Graphics CenterX="1180.169286577992" CenterY="822.2490931076177" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="10" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1180.169286577992" CenterY="822.2490931076177" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP306" />
   </DataNode>
   <DataNode TextLabel="MAPK10" GraphId="e95" Type="GeneProduct" GroupRef="b6625">
@@ -328,7 +328,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000050748" />
   </DataNode>
   <DataNode TextLabel="26S Proteasome &#xA;Degradation" GraphId="ee328" Type="Pathway">
-    <Graphics CenterX="1061.8883880565445" CenterY="715.3911197006394" Width="115.09604519773961" Height="36.316384180791744" ZOrder="32768" FontWeight="Bold" FontSize="10" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1061.8883880565445" CenterY="715.3911197006394" Width="115.09604519773961" Height="36.316384180791744" ZOrder="32768" FontWeight="Bold" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP183" />
   </DataNode>
   <DataNode TextLabel="MYC" GraphId="f11" Type="GeneProduct" GroupRef="ee291">
@@ -692,7 +692,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000107643" />
   </DataNode>
   <DataNode TextLabel="MAPK Signaling&#xA;Pathway" GraphId="a51ba" Type="Pathway">
-    <Graphics CenterX="1438.3645707376054" CenterY="758.4885126964932" Width="100.29625151148815" Height="25.0" ZOrder="32854" FontWeight="Bold" FontSize="10" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="1438.3645707376054" CenterY="758.4885126964932" Width="100.29625151148815" Height="25.0" ZOrder="32854" FontWeight="Bold" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP382" />
   </DataNode>
   <DataNode TextLabel="CXXC4" GraphId="c408f" Type="GeneProduct">

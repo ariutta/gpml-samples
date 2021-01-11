@@ -19,7 +19,7 @@ Green and orange boxes represent receptors, where the orange colour depicts pero
     <Graphics CenterX="728.0068851853572" CenterY="84.723132811264" Width="102.0250000000001" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000127472" />
   </DataNode>
-  <DataNode TextLabel="Glycerophospholipids" GraphId="f947a">
+  <DataNode TextLabel="Glycerophospholipids" GraphId="f947a" Type="Metabolite">
     <Graphics CenterX="582.4826451226813" CenterY="72.62" Width="147.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="3333ff" />
     <Xref Database="ChEBI" ID="CHEBI:37739" />
   </DataNode>
